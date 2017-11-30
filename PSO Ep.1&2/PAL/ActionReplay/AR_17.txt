@@ -1,0 +1,314 @@
+Item Removal Maxed Stats Bug Fix [Ralf]
+YVEM-ME5H-9P4R5
+979U-ZJT5-6M674
+ZF63-MG04-VZW4V
+0NPH-UGE2-K01DW
+AB75-K1MT-5RHXT
+EFPG-9PNF-YHN7Z
+93QC-XHAE-CX8Z2
+R68U-Z2MD-ER7TY
+H61B-UBTJ-Y46RX
+A2MB-MJ8B-K8NUY
+38GD-CER3-A5Z3E
+5UGK-7M0A-7RW8B
+NUYY-ET93-ERP2G
+469Q-GC9V-4VK5Q
+ZDTM-DUHW-6GHBJ
+QTUY-PTJY-Y29BV
+GDHD-PUWZ-EZZU1
+XRCW-FJDK-9N47J
+MB27-0R66-6YQ70
+8UGN-M48T-4K3UX
+UNA0-0DMK-HZHW5
+Q533-43QV-16WG0
+H0U8-81Q3-AHVFM
+YCVD-6JD7-PZJXZ
+XP37-UNMN-B3N2J
+NPPY-DDJY-ZEGHY
+0HK7-4B33-GEK2C
+XTGC-V6GK-GJ1C3
+00X6-9MAM-33WFT
+81V4-WUAD-V62DR
+E216-XZU8-RMBG3
+4UKF-EP14-YKAWP
+E9FZ-A3QA-YCERP
+
+Devil's & Demon's Special Damage Display Bug Fix [Ralf]
+K4V5-EHRY-K9V7W
+53FW-2MXV-QYNZ6
+A6VK-GTZF-NPCA3
+
+Restore Pioneer 2 Event Music [Aleron Ives & Ralf]
+R0RD-G5HE-YCV15
+0M1E-0XDE-77EXD
+UT33-1DN3-BVA9F
+TRQG-97FN-E3Q6W
+
+Restore Pioneer 2 Event Music v2 [Aleron Ives & Ralf]
+2NBN-M0PF-EWGW4
+K987-N63C-ABQBA
+R5A0-8QBT-1X4G3
+FZ2M-A1C8-AE67C
+V3X6-FV9Y-P3V45
+RF5Q-JBFJ-06TXA
+5D90-58QQ-1GQZW
+H9MA-QEH4-WWDB6
+FK01-0BF6-93JX2
+BVMU-UNKN-KXARD
+TRQG-97FN-E3Q6W
+E9FZ-A3QA-YCERP
+
+Attack Effectiveness Color Indicator [Ralf]
+D5CZ-9RZC-00613
+901G-AZK9-YB8CV
+5VXD-UWBT-9N587
+67MU-9XHC-50H3H
+DXBN-EVKX-JP311
+VKFU-7WVH-XKHR2
+PD34-F0VU-DQW36
+HGR3-BB96-KQXRQ
+V9VR-4H31-3K7TZ
+FR28-PGQC-KY4XJ
+XM21-0W0X-YCWUB
+5V0Q-60A5-B7CUU
+VJFD-RECZ-G8UTD
+9X6G-J7A6-ZXTVA
+ACGE-7A7M-HU00N
+QPGN-P9EQ-2PMTR
+EA3D-FJYA-1A3CK
+H3W3-BZGF-UF7EZ
+E9FZ-A3QA-YCERP
+
+Damage Value Colors
+
+Yellow - Less effective attack
+Orange - Medium effective attack
+Red    - High effective attack
+
+Enable Weapon Auto Targetting [Ralf]
+9CD9-EDVM-9T2AN
+96K9-QXP1-RVZG2
+QC2A-RPKX-J90GQ
+
+Tools Shop: No Tech Level Cap [Ralf]
+2BTN-K588-9JC86
+BVZ5-MMF3-MHY5M
+DW60-5GTH-ZT225
+T26V-MFRM-CZMAB
+XWM8-PUT0-T02CG
+NTKM-8KX4-01UBE
+2QY5-8NGQ-45BXM
+F4A0-DX58-6EV8K
+RKY2-W35M-D1E93
+MMQY-MBPP-8YQ7Z
+E9FZ-A3QA-YCERP
+
+Tools Shop: Able To Buy Grants & Megid [Ralf]
+824X-9T9V-98XWA
+B6J9-522C-YBUYU
+1ZQ5-HQF4-PK3PH
+YUAA-AHEM-HDB0X
+1XUG-5WX4-EQBEX
+TEER-NYJ6-80EHR
+6XNZ-BVTC-ZENBC
+8HR9-C40W-HBP8X
+Z4A1-5D4J-0YYRK
+UERF-1D3V-DE4X1
+6PA6-2BP7-V3F45
+R09K-5RF2-4TEUR
+WF8U-QMXQ-J1M4E
+Q7WU-W4GM-1F50B
+5VAX-FQTC-G0X7T
+9VHQ-ZTXP-PQ1FD
+E9FZ-A3QA-YCERP
+
+Tools Shop: Monomate Item Modifier [Ralf]
+0444C198 000000xx
+0444C19C 000000yy
+
+xxyy = Item ID (Default: 0000 - Monomate)
+
+Tools Shop: Dimate Item Modifier [Ralf]
+0444C1A0 000000xx
+0444C1A4 000000yy
+
+xxyy = Item ID (Default: 0001 - Dimate)
+
+Tools Shop: Trimate Item Modifier [Ralf]
+0444C1A8 000000xx
+0444C1AC 000000yy
+
+xxyy = Item ID (Default: 0002 - Trimate)
+
+Tools Shop: Monofluid Item Modifier [Ralf]
+0444C1B0 000000xx
+0444C1B4 000000yy
+
+xxyy = Item ID (Default: 0100 - Monofluid)
+
+Tools Shop: Difluid Item Modifier [Ralf]
+0444C1B8 000000xx
+0444C1BC 000000yy
+
+xxyy = Item ID (Default: 0101 - Difluid)
+
+Tools Shop: Trifluid Item Modifier [Ralf]
+0444C1C0 000000xx
+0444C1C4 000000yy
+
+xxyy = Item ID (Default: 0102 - Trifluid)
+
+Tools Shop: Antidote Item Modifier [Ralf]
+0444C1C8 000000xx
+0444C1CC 000000yy
+
+xxyy = Item ID (Default: 0600 - Antidote)
+
+Tools Shop: Antiparalysis Item Modifier [Ralf]
+0444C1D0 000000xx
+0444C1D4 000000yy
+
+xxyy = Item ID (Default: 0601 - Antiparalysis)
+
+Tools Shop: Sol Atomizer Item Modifier [Ralf]
+0444C1D8 000000xx
+0444C1DC 000000yy
+
+xxyy = Item ID (Default: 0300 - Sol Atomizer)
+
+Tools Shop: Moon Atomizer Item Modifier [Ralf]
+0444C1E0 000000xx
+0444C1E4 000000yy
+
+xxyy = Item ID (Default: 0400 - Moon Atomizer)
+
+Tools Shop: Star Atomizer Item Modifier [Ralf]
+0444C1E8 000000xx
+0444C1EC 000000yy
+
+xxyy = Item ID (Default: 0500 - Star Atomizer)
+
+Tools Shop: Telepipe Item Modifier [Ralf]
+0444C1F0 000000xx
+0444C1F4 000000yy
+
+xxyy = Item ID (Default: 0700 - Telepipe)
+
+Tools Shop: Trap Vision Item Modifier [Ralf]
+0444C1F8 000000xx
+0444C1FC 000000yy
+
+xxyy = Item ID (Default: 0800 - Trap Vision)
+
+Tools Shop: Scape Doll Item Modifier [Ralf]
+0444C200 000000xx
+0444C204 000000yy
+
+xxyy = Item ID (Default: 0900 - Scape Doll)
+
+Tools Shop: Monogrinder Item Modifier [Ralf]
+0444C208 000000xx
+0444C20C 000000yy
+
+xxyy = Item ID (Default: 0A00 - Monogrinder)
+
+Reduced Aura Field TP Drainage [Ralf]
+FA40-BV7W-QZR6D
+N036-G96E-V5BWD
+8MKG-D66B-KYPTH
+
+Reduced Evil Curst TP Drainage [Ralf]
+UB6U-B3YH-6A69A
+QMKM-PNJZ-VCHFQ
+HTRT-7ZN0-UB52R
+
+Reduced Luminous Field HP Drainage [Ralf]
+9WT6-4R3U-QTNTD
+N036-G96E-V5BWD
+UQQ6-UJC1-8QJ3C
+
+Reduced Parasite Wear: De Rol HP Drainage [Ralf]
+JWK4-G29P-1W279
+N036-G96E-V5BWD
+APDF-66CF-CJEJP
+
+Reduced Parasite Wear: Nelgal HP Drainage [Ralf]
+TBBZ-6RM3-5Z8B4
+N036-G96E-V5BWD
+9P1Z-AV43-A1D3H
+
+Reduced Parasite Wear: Vajulla HP Drainage [Ralf]
+7WEB-F9W8-AK9Y8
+N036-G96E-V5BWD
+0GTC-E6TN-754GH
+
+Reduced Soul Banish HP Drainage [Ralf]
+M5MM-GNQA-JF3VF
+1F1N-K6BJ-C10Z1
+KUFT-P6NN-ZQ973
+
+Reduced Soul Eater HP Drainage [Ralf]
+ZWZY-AVT3-BACZJ
+1F1N-K6BJ-C10Z1
+42TA-2W8V-9F9AC
+
+Reduced Twin Blaze HP Drainage [Ralf]
+823J-K6TK-9BX69
+BDTU-D8UF-XFVPR
+EWXT-654Z-YU7M1
+
+Reduced Yamigarasu HP Drainage [Ralf]
+VEER-R57A-9KQ4N
+2HMD-05BG-F1D0F
+0B8F-JB7N-5WVAF
+
+Improved Madam's Parasol HP Restoration [Ralf]
+79F1-F144-NBAVE
+M30F-RX4T-BM8BD
+WH5M-MU7N-XRNAD
+
+Improved Madam's Umbrella TP Restoration [Ralf]
+XG5E-TK3W-UCAT7
+2HVD-MB2N-14961
+YBQW-Z3E2-YT4KF
+
+Improved Marina's Bag HP Restoration [Ralf]
+7MVZ-YFFK-NKZ44
+5JJ4-YP8U-H4NN8
+WZ3D-70HZ-DXA03
+
+Improved Red Ring HP/TP Restoration [Ralf]
+ZQU5-KPZ0-DPK28
+YHEN-MPC0-UBAC2
+23TC-C67Y-28A2J
+QURA-P418-E3XXA
+
+Improved Revival Garment HP Restoration [Ralf]
+6NJF-BCP1-MKEGK
+RVRM-ZF18-872BN
+EP0K-RHPA-PGBAT
+
+Improved Spirit Garment TP Restoration [Ralf]
+WKKA-X8Q0-TFGWB
+FXAT-BEY0-QU5RX
+BZ6E-D8QE-VTWHJ
+
+Improved Rico's Glasses Abilities [Ralf]
+YJYG-HPHA-4JQ7Y
+AHH8-2VDT-28K4J
+7GC4-4RNX-BK4CH
+
+Improved Sacred Cloth Abilities [Ralf]
+J1U0-4W1W-N3W8W
+AHH8-2VDT-28K4J
+UW5E-KQFY-VAR53
+
+Improved Sacred Guard Abilities [Ralf]
+3BVB-M3FN-5G6NW
+AHH8-2VDT-28K4J
+ZU8M-2TT8-BU4QV
+
+Improved Sense Plate Abilities [Ralf]
+FUVG-0191-0Q6PK
+AHH8-2VDT-28K4J
+XQ9T-N5E8-4QDUG
