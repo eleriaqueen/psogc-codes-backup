@@ -1,0 +1,134 @@
+Have Four Action Button Palettes (C-Stick Version) [Ralf]
+201D812C 7C9C2378
+0600CD00 000000F0
+3C808000 6084CF3E
+3BE00000 A0C4003A
+2C060000 41820074
+B3E4003A 3C608051
+A003F294 A0A3F290
+7CA53038 70003C00
+41820058 5403056B
+41820008 3BC0002A
+540304A5 41820008
+3BC0001C 54030529
+41820008 3BC0000E
+7C84F214 38000007
+7C0903A6 387C0504
+2C050003 4082000C
+A0030004 B0040002
+A4040002 B4030004
+4200FFE8 3BC00000
+481CB3B0 38600003
+3C808001 B064CF78
+7FC3F378 482697F4
+3D808044 618CE3D0
+80030000 7C006000
+A0030004 40820018
+2C000000 40820010
+38600001 3D808001
+B06CCF78 4823F018
+3C608000 6063CF3E
+3800001C 7C0903A6
+38000000 B4030002
+4200FFFC 48328DB8
+041D8134 4BE34BCC
+04246C3C A01F004A
+04246C40 54030637
+0424BDE0 4BDC0FC0
+0427658C 4BD96800
+042765EC A01F004A
+042765F0 54030637
+04335BA0 4BCD7230
+E2000001 80008000
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+C-Stick Left  = Select Palette 1
+C-Stick Down  = Select Palette 2
+C-Stick Right = Select Palette 3
+C-Stick Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+C-Stick Left  = Load Palette 1 As Active Button Selection
+C-Stick Down  = Load Palette 2 As Active Button Selection
+C-Stick Right = Load Palette 3 As Active Button Selection
+C-Stick Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+C-Stick Left  = Save Active Button Selection As Palette 1
+C-Stick Down  = Save Active Button Selection As Palette 2
+C-Stick Right = Save Active Button Selection As Palette 3
+C-Stick Up    = Save Active Button Selection As Palette 4
+
+
+Have Four Action Button Palettes (D-Pad Version) [Ralf]
+201D812C 7C9C2378
+0600CD00 000000F0
+3C808000 6084CF3E
+3BE00000 A0C4003A
+2C060000 41820074
+B3E4003A 3C608051
+A003F296 A0A3F290
+7CA53038 700000F0
+41820058 540306F7
+41820008 3BC0002A
+54030631 41820008
+3BC0001C 540306B5
+41820008 3BC0000E
+7C84F214 38000007
+7C0903A6 387C0504
+2C050003 4082000C
+A0030004 B0040002
+A4040002 B4030004
+4200FFE8 3BC00000
+481CB3B0 38600003
+3C808001 B064CF78
+7FC3F378 482697F4
+3D808044 618CE3D0
+80030000 7C006000
+A0030004 40820018
+2C000000 40820010
+38600001 3D808001
+B06CCF78 4823F018
+3C608000 6063CF3E
+3800001C 7C0903A6
+38000000 B4030002
+4200FFFC 48328DB8
+041D8134 4BE34BCC
+04246C3C A01F0048
+04246C40 540304AB
+0424BDE0 4BDC0FC0
+0427658C 4BD96800
+042765EC A01F0048
+042765F0 540304AB
+04335BA0 4BCD7230
+E2000001 80008000
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+D-Pad Left  = Select Palette 1
+D-Pad Down  = Select Palette 2
+D-Pad Right = Select Palette 3
+D-Pad Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+D-Pad Left  = Load Palette 1 As Active Button Selection
+D-Pad Down  = Load Palette 2 As Active Button Selection
+D-Pad Right = Load Palette 3 As Active Button Selection
+D-Pad Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+D-Pad Left  = Save Active Button Selection As Palette 1
+D-Pad Down  = Save Active Button Selection As Palette 2
+D-Pad Right = Save Active Button Selection As Palette 3
+D-Pad Up    = Save Active Button Selection As Palette 4
