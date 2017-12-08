@@ -276,3 +276,4 @@ E9FZ-A3QA-YCERP
 L (Hold)              = Debug Mode On  (Temporary)
 L (Hold) + DPad Right = Debug Mode Off (Temporary)
 DPad Left/Right       = Debug Mode On/Off
+

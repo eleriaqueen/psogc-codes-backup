@@ -1,4 +1,3 @@
-
 (m) [CodeJunkies & Ralf]
 20010BE0 4E800020
 C6010BE0 800018A8
@@ -45,6 +44,7 @@ How to use these codes:
 
 4. Please note that you cannot mix different game saves, because all Character and Guildcard files
    are encrypted with a unique timestamp (stored in the System file).
+
 16:9 Aspect Ratio (Widescreen) [Ralf]
 203D533C FC200818
 C23D5340 00000002
@@ -71,6 +71,7 @@ Ultra Near Camera [Ralf]
 Far Out Camera [Ralf]
 044890F4 42400000
 044890F8 43000000
+
 Unlock All Doors [Ralf]
 20228A6C 7C632030
 04228A74 38600001
@@ -383,6 +384,7 @@ C20F6C24 00000002
 E2000001 80008000
 
 xx = Multiplier
+
 One Hit Kills Most Enemies [Ralf]
 200114C4 7C800735
 C20114E0 00000004
@@ -410,7 +412,9 @@ Online Game: Disable In-Game Saves [Ralf]
 041D3ED8 4800004C
 041FF59C 4800003C
 042D2280 48000020
-E2000001 80008000Extended Word Select Menu (PSO PCv2 Style) [Ralf]
+E2000001 80008000
+
+Extended Word Select Menu (PSO PCv2 Style) [Ralf]
 20346278 3BC00001
 0434627C 38600000
 E2000001 80008000
@@ -1977,6 +1981,7 @@ Mag IDs
 3F - Sato
 40 - Bhima
 41 - Nidra
+
 No Fog [Ralf]
 20083C40 FCA00890
 04083C44 C0C296DC
@@ -2129,6 +2134,7 @@ Online Game: Quick Save (Hold L+R And Open Item List) [Ralf]
 E2000001 80008000
 
 Includes "Never Lose Unequipped Items" patch.
+
 Level 300 Cap Mod [Ralf]
 201D9744 7C1E002E
 041AF744 3860012B
@@ -2240,6 +2246,7 @@ B4030002 4200FFF4
 E2000001 80008000
 
 This code will let you level up your character to a maximum level of 999.
+
 Shields DFP/EVP Bug Fix [Ralf]
 20118948 809E018C
 0411894C 88040016
@@ -2398,6 +2405,7 @@ Improved Particle Effect Draw Distance [Aleron Ives]
 
 Improved Area Map Draw Distance (Doors & Enemies) [Aleron Ives]
 045D87A4 48742400
+
 Improved Baranz Launcher [Ralf]
 20126740 900301FC
 04126770 38C00300
@@ -2651,6 +2659,7 @@ Invisible Mag [Ralf]
 20115294 2C030000
 04115298 480000D4
 E2000001 80008000
+
 Gol Dragon Camera Bug Fix [Ralf]
 202FD0F8 40800068
 042FD100 2C030001
@@ -2856,6 +2865,7 @@ No Shock Status Stacking [Ralf]
 480083F4 48008544
 040154B0 4BFF7C00
 E2000001 80008000
+
 No Freeze/Paralyse/Confuse Specials Success Rate Bonus (Androids) [Ralf]
 20011A74 2C00000A
 04011A7C 60000000
@@ -3057,6 +3067,7 @@ Benny Hill Mode (Super Fast Player) [Ralf]
 045D8560 40400000
 045D85F0 40800000
 E2000001 80008000
+
 Have Four Action Button Palettes (C-Stick Version) [Ralf]
 201D812C 7C9C2378
 0600CD00 000000F0
@@ -3191,6 +3202,7 @@ D-Pad Left  = Save Active Button Selection As Palette 1
 D-Pad Down  = Save Active Button Selection As Palette 2
 D-Pad Right = Save Active Button Selection As Palette 3
 D-Pad Up    = Save Active Button Selection As Palette 4
+
 
 TP Bar Color Bug Fix [Aleron Ives & Ralf]
 2026EF3C 3C80FF01
@@ -3414,6 +3426,7 @@ Disable Photon Blast Palette Switching [Ralf]
 E2000001 80008000
 
 Use this code with the Action Button Palette codes and the Full Action List code.
+
 Foie: Improved Range [Ralf]
 044CC5C4 43160000
 024CC5E2 0000000C
@@ -3646,7 +3659,9 @@ E2000001 80008000
 Improved TP Restorate/Generate/Revival [Ralf]
 20118E80 7FC3F378
 04118E84 C042FD3C
-E2000001 80008000BGM Test: Improved Window Height [Ralf]
+E2000001 80008000
+
+BGM Test: Improved Window Height [Ralf]
 045D94AC 43700000
 
 BGM Test: Display File Names [Ralf]
@@ -3940,6 +3955,7 @@ E2000001 80008000
 Default: 804758F0 (duel2.adx)
 
 xxxxyyyy = Song ID
+
 Background Music Modifier Codes
 
 
@@ -4249,6 +4265,7 @@ Song IDs
 80443708 - Zarathustra.adx
 
 (*) Unused Song
+
 Item Removal Maxed Stats Bug Fix [Ralf]
 201BA1D8 7FC3F378
 0600C400 00000074
@@ -4532,7 +4549,9 @@ E2000001 80008000
 Improved Sense Plate Abilities [Ralf]
 201181E8 2800001C
 04117A2C 3880000A
-E2000001 80008000Christmas Theme (Offline Mode) [Aleron Ives & Ralf]
+E2000001 80008000
+
+Christmas Theme (Offline Mode) [Aleron Ives & Ralf]
 200C17B4 2C03000F
 040C17B8 60000000
 0417E6E8 800DAFE0
@@ -4785,6 +4804,7 @@ E2000001 80008000
 L (Hold)              = Debug Mode On  (Temporary)
 L (Hold) + DPad Right = Debug Mode Off (Temporary)
 DPad Left/Right       = Debug Mode On/Off
+
 Unit Present Bug Fix [Ralf]
 2011904C 7C7E1B78
 0600C640 00000014
@@ -5023,4 +5043,4 @@ Default Colors (rrggbb)
 EBE700 - Yellow     (Zonde, Gizonde, Razonde & Yellow Merge)
 FF2138 - Red        (Shifta Merge)
 FF713F - Orange     (Foie, Gifoie, Rafoie & Red Merge)
-
+

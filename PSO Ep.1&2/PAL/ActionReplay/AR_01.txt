@@ -45,3 +45,4 @@ How to use these codes:
 
 4. Please note that you cannot mix different game saves, because all Character and Guildcard files
    are encrypted with a unique timestamp (stored in the System file).
+   

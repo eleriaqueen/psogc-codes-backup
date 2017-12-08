@@ -292,3 +292,4 @@ E2000001 80008000
 Default: 80471D48 (duel2.adx)
 
 xxxxyyyy = Song ID
+

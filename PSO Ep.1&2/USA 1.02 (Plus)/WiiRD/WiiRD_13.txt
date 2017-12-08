@@ -220,3 +220,4 @@ Disable Photon Blast Palette Switching [Ralf]
 E2000001 80008000
 
 Use this code with the Action Button Palette codes and the Full Action List code.
+

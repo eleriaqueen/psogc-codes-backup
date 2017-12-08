@@ -251,3 +251,4 @@ E2000001 80008000
 L (Hold)              = Debug Mode On  (Temporary)
 L (Hold) + DPad Right = Debug Mode Off (Temporary)
 DPad Left/Right       = Debug Mode On/Off
+

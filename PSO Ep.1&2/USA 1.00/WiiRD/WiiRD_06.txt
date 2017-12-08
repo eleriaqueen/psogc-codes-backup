@@ -150,3 +150,4 @@ Online Game: Quick Save (Hold L+R And Open Item List) [Ralf]
 E2000001 80008000
 
 Includes "Never Lose Unequipped Items" patch.
+

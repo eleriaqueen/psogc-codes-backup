@@ -156,3 +156,4 @@ Improved Particle Effect Draw Distance [Aleron Ives]
 
 Improved Area Map Draw Distance (Doors & Enemies) [Aleron Ives]
 045DC564 48742400
+

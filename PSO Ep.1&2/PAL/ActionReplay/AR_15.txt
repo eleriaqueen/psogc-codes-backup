@@ -301,3 +301,4 @@ Palace (Battle Mode) [Ralf]
 Default: 804758F0 (duel2.adx)
 
 xxxxyyyy = Song ID
+

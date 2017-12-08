@@ -44,7 +44,9 @@ How to use these codes:
    Game Save Valid' code turned on. Your game save is valid now and works fine without AR codes.
 
 4. Please note that you cannot mix different game saves, because all Character and Guildcard files
-   are encrypted with a unique timestamp (stored in the System file).16:9 Aspect Ratio (Widescreen) [Ralf]
+   are encrypted with a unique timestamp (stored in the System file).
+   
+16:9 Aspect Ratio (Widescreen) [Ralf]
 11H2-PMXY-35RCF
 4Y4A-HP4C-GU9JV
 0F9Q-86E3-8FTB1
@@ -76,6 +78,7 @@ Far Out Camera [Ralf]
 PZ6C-DZCD-127XV
 1HB9-UXF1-ARAVY
 DUGK-ZX0A-K5BFG
+
 Unlock All Doors [Ralf]
 WNPK-J2FY-06G2W
 JU92-H35V-K9TUB
@@ -480,6 +483,7 @@ EXP Gain Multiplier [Ralf]
 00000000 40000000
 
 xx = Multiplier
+
 One Hit Kills Most Enemies [Ralf]
 Y65R-ZBHG-4DDFX
 7KPJ-K751-T69JB
@@ -514,7 +518,9 @@ JX85-U2K8-YH7E2
 UQUF-EKPK-G4JW8
 KXQB-P873-PAAPD
 A18V-WCF6-PATK3
-E9FZ-A3QA-YCERPExtended Word Select Menu (PSO PCv2 Style) [Ralf]
+E9FZ-A3QA-YCERP
+
+Extended Word Select Menu (PSO PCv2 Style) [Ralf]
 PDBK-7NWC-NC6Q9
 PBCD-A1AH-H0ZQG
 DU2G-QP4Q-TR523
@@ -2141,7 +2147,9 @@ Mag IDs
 3E - Diwari
 3F - Sato
 40 - Bhima
-41 - NidraNo Fog [Ralf]
+41 - Nidra
+
+No Fog [Ralf]
 QVTD-KVQZ-P7XPG
 Z274-U05C-MTWU3
 T49P-5XJM-BY3XY
@@ -2318,7 +2326,9 @@ M5TE-Q9D1-V8TXY
 A18V-WCF6-PATK3
 E9FZ-A3QA-YCERP
 
-Includes "Never Lose Unequipped Items" patch.Level 300 Cap Mod [Ralf]
+Includes "Never Lose Unequipped Items" patch.
+
+Level 300 Cap Mod [Ralf]
 UDH4-M4VM-HNWPW
 C5WH-N4RP-NUVQH
 PJCB-5G0K-R4P0R
@@ -2498,7 +2508,9 @@ K7WJ-TPH7-90F82
 7DU1-2AJF-7EPRJ
 E9FZ-A3QA-YCERP
 
-This code will let you level up your character to a maximum level of 999.Shields DFP/EVP Bug Fix [Ralf]
+This code will let you level up your character to a maximum level of 999.
+
+Shields DFP/EVP Bug Fix [Ralf]
 Y1M5-MKWK-61VMW
 HXPZ-VAD2-YP18T
 YDZ7-6W9D-BNTK4
@@ -2688,6 +2700,7 @@ J00W-0H3B-DG7AD
 Improved Area Map Draw Distance (Doors & Enemies) [Aleron Ives]
 50WB-YTMA-63GFR
 01PD-CY0B-WN7AE
+
 Improved Baranz Launcher [Ralf]
 TJQA-F7JE-WP7HY
 ZW9Y-C0EA-U4PVF
@@ -2965,6 +2978,7 @@ Invisible Mag [Ralf]
 WTBJ-YXHX-807DR
 VA23-JF1N-1V8VU
 4BY1-9YF7-PVFZ9
+
 Gol Dragon Camera Bug Fix [Ralf]
 ZJ1T-C2EX-PAGGM
 A3BC-P57P-5UHGA
@@ -3211,6 +3225,7 @@ XRWM-HUNJ-EBAYD
 41BR-6MTE-Q3CW5
 CTFX-YHT8-XQ5WV
 E9FZ-A3QA-YCERP
+
 No Freeze/Paralyse/Confuse Specials Success Rate Bonus (Androids) [Ralf]
 EWHT-NXGK-QUCZM
 M1GP-940F-5HWAP
@@ -3449,6 +3464,7 @@ CN3K-E89M-7AX86
 CAZY-JYGT-FBE9B
 JRR2-7G6T-T16KE
 E9FZ-A3QA-YCERP
+
 Have Four Action Button Palettes (C-Stick Version) - Part 1 [Ralf]
 CVBT-1ZDY-7R922
 RVAC-4FFT-AUKEN
@@ -3653,6 +3669,7 @@ D-Pad Left  = Save Active Button Selection As Palette 1
 D-Pad Down  = Save Active Button Selection As Palette 2
 D-Pad Right = Save Active Button Selection As Palette 3
 D-Pad Up    = Save Active Button Selection As Palette 4
+
 TP Bar Color Bug Fix [Aleron Ives & Ralf]
 P35Y-HMB9-4VE9C
 J7Q1-00RW-11Q3P
@@ -3909,7 +3926,9 @@ F4B2-Y1BH-1499N
 YZYF-HYCV-XVE1N
 0QYV-QTZJ-0HAVA
 
-Use this code with the Action Button Palette codes and the Full Action List code.Foie: Improved Range [Ralf]
+Use this code with the Action Button Palette codes and the Full Action List code.
+
+Foie: Improved Range [Ralf]
 N5HD-4M85-VRRY0
 HZGW-X43D-CZ4E5
 7UUV-VKDW-YRJZG
@@ -4195,7 +4214,9 @@ X9VY-XQ9M-MM02G
 Improved TP Restorate/Generate/Revival [Ralf]
 FPG9-N84J-YDV81
 5EPB-PBAQ-UVWT0
-ZUMA-BE1H-AP2YDBGM Test: Improved Window Height [Ralf]
+ZUMA-BE1H-AP2YD
+
+BGM Test: Improved Window Height [Ralf]
 BZKQ-Z5XK-367DB
 RUMG-X4GB-8A2VU
 
@@ -4498,6 +4519,7 @@ Palace (Battle Mode) [Ralf]
 Default: 804758F0 (duel2.adx)
 
 xxxxyyyy = Song ID
+
 Background Music Modifier Codes
 
 
@@ -4785,7 +4807,9 @@ Song IDs
 8047A8DC - W_N.adx
 80443708 - Zarathustra.adx
 
-(*) Unused SongItem Removal Maxed Stats Bug Fix [Ralf]
+(*) Unused Song
+
+Item Removal Maxed Stats Bug Fix [Ralf]
 YVEM-ME5H-9P4R5
 979U-ZJT5-6M674
 ZF63-MG04-VZW4V
@@ -5099,6 +5123,7 @@ Improved Sense Plate Abilities [Ralf]
 FUVG-0191-0Q6PK
 AHH8-2VDT-28K4J
 XQ9T-N5E8-4QDUG
+
 Christmas Theme (Offline Mode) [Aleron Ives & Ralf]
 FGEZ-M9FZ-EMV9P
 EEGH-ZGZJ-CN190
@@ -5377,6 +5402,7 @@ E9FZ-A3QA-YCERP
 L (Hold)              = Debug Mode On  (Temporary)
 L (Hold) + DPad Right = Debug Mode Off (Temporary)
 DPad Left/Right       = Debug Mode On/Off
+
 Unit Present Bug Fix [Ralf]
 H4ZG-4FH2-0HRFT
 2EKP-5W2J-XCBXU
@@ -5647,4 +5673,5 @@ Default Colors (rrggbb)
 3FCCE1 - Light Blue (Barta, Gibarta, Rabarta & Blue Merge)
 EBE700 - Yellow     (Zonde, Gizonde, Razonde & Yellow Merge)
 FF2138 - Red        (Shifta Merge)
-FF713F - Orange     (Foie, Gifoie, Rafoie & Red Merge)
+FF713F - Orange     (Foie, Gifoie, Rafoie & Red Merge)
+

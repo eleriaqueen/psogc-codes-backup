@@ -202,3 +202,4 @@ D-Pad Left  = Save Active Button Selection As Palette 1
 D-Pad Down  = Save Active Button Selection As Palette 2
 D-Pad Right = Save Active Button Selection As Palette 3
 D-Pad Up    = Save Active Button Selection As Palette 4
+

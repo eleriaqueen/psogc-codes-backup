@@ -109,3 +109,4 @@ B4030002 4200FFF4
 E2000001 80008000
 
 This code will let you level up your character to a maximum level of 999.
+

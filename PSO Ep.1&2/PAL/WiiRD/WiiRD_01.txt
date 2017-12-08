@@ -1,4 +1,3 @@
-
 (m) [CodeJunkies & Ralf]
 20010BE0 4E800020
 C6010BE0 800018A8
@@ -45,3 +44,4 @@ How to use these codes:
 
 4. Please note that you cannot mix different game saves, because all Character and Guildcard files
    are encrypted with a unique timestamp (stored in the System file).
+
