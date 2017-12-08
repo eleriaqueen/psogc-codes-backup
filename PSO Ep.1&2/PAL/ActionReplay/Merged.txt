@@ -1,0 +1,5650 @@
+(m) [Codejunkies]
+4D2W-3J0G-TNEB7
+H61N-1BVE-P9NC4
+ERXQ-3P80-980YY
+G3TW-P1XZ-ZWKTR
+2BE9-HX3U-GNRNZ
+WMFF-Z9GQ-6RRV7
+KE4X-VV9Q-NF9CQ
+
+
+With the following AR codes, you are able to copy GameCube PSO 1&2 game saves from one memory card
+to another.
+
+Make Game Save Copyable [Ralf]
+KZBC-3VD2-GFRB2
+N4NM-J1FN-XX00D
+58VJ-8T69-N1QCT
+NH26-2519-VTJPM
+6M8C-N29E-1Z7JW
+XU5Y-MH41-JCGCQ
+77UB-W67E-GB64X
+
+Make Game Save Valid [Ralf]
+WA8M-QNM1-BE7N0
+CTJH-F74F-WZ2JH
+1873-4TBF-F6RUU
+FGJD-PQ8V-85A73
+6DJQ-6APE-Q314K
+MECQ-C2ZG-UXMN0
+UTVV-P2RJ-24V0R
+
+How to use these codes:
+
+1. Save your game with the 'Make Game Save Copyable' code turned on and your source memory card
+   in port A:
+
+   To save your System file, go into the options menu from start screen and go back.
+   To save your Character and Guildcard file, go ingame and quit.
+
+2. Copy your System, Character and Guildcard file from your source memory card to your destination
+   memory card (via GameCube system menu).
+
+3. Start PSO with your destination memory card in port A and save your System file with the 'Make
+   Game Save Valid' code turned on. Your game save is valid now and works fine without AR codes.
+
+4. Please note that you cannot mix different game saves, because all Character and Guildcard files
+   are encrypted with a unique timestamp (stored in the System file).16:9 Aspect Ratio (Widescreen) [Ralf]
+11H2-PMXY-35RCF
+4Y4A-HP4C-GU9JV
+0F9Q-86E3-8FTB1
+C7Z3-P39N-VBGKN
+JQTM-3ZME-HAQWC
+YT2A-T2AW-JA8EE
+EUD1-KP80-JU9HY
+
+Auto Camera Mode [Ralf]
+1910-EYB0-ZD1HB
+HNA6-A164-9MVER
+D0EY-06DF-09K4D
+
+Flat Camera [Ralf]
+6MH4-P5A1-YNYMR
+EA42-Y4T3-MG57W
+
+Top-Down Camera [Ralf]
+AC8V-NXA2-5EF2N
+MRB2-F6C7-61CCX
+
+Ultra Near Camera [Ralf]
+RTNB-U7BW-Q63CG
+ZTAC-6M2V-BMDAZ
+YE8J-FBXB-DHHDR
+T7DP-WJ2U-90CMD
+
+Far Out Camera [Ralf]
+PZ6C-DZCD-127XV
+1HB9-UXF1-ARAVY
+DUGK-ZX0A-K5BFG
+Unlock All Doors [Ralf]
+WNPK-J2FY-06G2W
+JU92-H35V-K9TUB
+8M14-C8DN-JC2GX
+HCNZ-QX77-Y9YGE
+
+Access All Areas & Quests [Ralf]
+0UCT-PADP-KGGYA
+5GHF-F994-G0N0J
+PZB3-0YP7-R4FW8
+TTM8-N92T-31VP0
+BX5H-B013-4KZBG
+TX0G-DPT0-4JR4N
+E9FZ-A3QA-YCERP
+
+Auto Revive [Ralf]
+RBM2-32PM-9EKWW
+MG10-4GQN-UAKXZ
+4Y20-JAZV-3BUG9
+QHQR-EQQY-Y1NG5
+H851-7BRN-UP2QC
+NK1Y-QHEZ-8ZW6C
+9ZVN-UJCK-2G17M
+E9FZ-A3QA-YCERP
+
+Invincibility [Ralf]
+3MA8-CEM7-JVVTQ
+ZGH8-PQ8A-2EY1C
+D9J4-3FNT-VBB6Q
+
+Enable HP Restore (Rest) [Ralf]
+RPBM-V8RF-0DRP4
+BEUZ-VANJ-5N1TA
+TQKN-TEEZ-6GZMB
+
+Enable TP Restore (Rest) [Ralf]
+1ZKC-2MC0-DUAE4
+F441-QEQ6-785VV
+8B5D-081Y-E5WCZ
+
+Enable HP & TP Restore (Rest) [Ralf]
+74CD-CXUD-T1UTW
+7R16-AP8Y-P5B03
+8B5D-081Y-E5WCZ
+YE52-R1GN-TEJ1J
+1K81-9JBH-5VWJ3
+TQKN-TEEZ-6GZMB
+E9FZ-A3QA-YCERP
+
+Cure Poison [Ralf]
+9GBM-8DVJ-R2ETK
+0DG4-45A6-FTW95
+QM7G-7V4F-MH04G
+
+Cure Freeze [Ralf]
+BWCH-6E5H-501PW
+0DG4-45A6-FTW95
+0320-BUA2-WD8VP
+
+Cure Slow Motion [Ralf]
+793V-2WPK-A6RN9
+0DG4-45A6-FTW95
+3PY6-T5Y9-ATJ45
+
+Cure Confusion [Ralf]
+JP5E-GX91-V1R9T
+0DG4-45A6-FTW95
+0KZQ-24DA-GWH80
+
+Cure Paralysis [Ralf]
+UJZV-6DTN-HGW6W
+0DG4-45A6-FTW95
+NBN5-07T8-RHEPA
+
+Cure Shock [Ralf]
+AAWM-5P72-H0VRA
+CMNG-EN1M-9G6UT
+6ECN-7DPH-5CEJY
+87MG-X1UD-WGZFE
+
+Cure Negative Status Effects [Ralf]
+UPBV-VD7X-R66VE
+YTV5-TUAU-E9GAV
+55QN-1P3W-DWH0V
+
+Buy All Gears In Guards Shop [Ralf]
+WAHV-TNKA-7TNUY
+91A3-8MD4-EQY7F
+R61A-U7D9-68Y25
+3EG6-7AV1-0H2N6
+YK8R-UR3E-NF3Y2
+U3Y9-1FDP-8RD4T
+XF5Z-3NX3-GUV1D
+UG4N-ZE1N-FY6GZ
+392T-P56Z-M3ZWH
+YT23-VKEV-BQTV5
+HCUH-NUC6-XVDXQ
+MNX1-Q4AZ-8VJH4
+GZEG-EU07-FWEXW
+171T-KZEE-5CFWW
+ZNW8-WB02-777N4
+KBMJ-FT5Y-V7NEJ
+MG8X-THU8-UVHM5
+B06T-MERU-6M5H5
+RNCA-0M2D-2FWDY
+BJ39-4ZVH-0V6ZQ
+29CR-UVR4-6605N
+N54D-GMAK-9GEY1
+0T2E-EZN1-PTZYQ
+7RG4-Z0RW-JX3GX
+3VYD-73WG-RDV2H
+E9FZ-A3QA-YCERP
+
+Buy Rare Gears In Guards Shop [Ralf]
+G8KJ-9152-6HNZZ
+91A3-8MD4-EQY7F
+R61A-U7D9-68Y25
+3EG6-7AV1-0H2N6
+YK8R-UR3E-NF3Y2
+U3Y9-1FDP-8RD4T
+XF5Z-3NX3-GUV1D
+UG4N-ZE1N-FY6GZ
+392T-P56Z-M3ZWH
+YT23-VKEV-BQTV5
+HCUH-NUC6-XVDXQ
+MNX1-Q4AZ-8VJH4
+GZEG-EU07-FWEXW
+XBH7-PY76-TBV5Y
+ZNW8-WB02-777N4
+KBMJ-FT5Y-V7NEJ
+MG8X-THU8-UVHM5
+PMX3-QWHE-NEZVH
+5TZ1-26AJ-C3J7W
+RNCA-0M2D-2FWDY
+BJ39-4ZVH-0V6ZQ
+QZKW-TGWM-HF254
+N54D-GMAK-9GEY1
+0T2E-EZN1-PTZYQ
+7RG4-Z0RW-JX3GX
+HH2Q-R74U-JACQH
+K9YW-9JPV-DATWM
+E9FZ-A3QA-YCERP
+
+Buy Rare Weapons In Arms Shop (Part 1) [Ralf]
+Z4JT-B6TV-54BFE
+MT0J-9EBF-N9QDZ
+GHDJ-FJ4F-P5T79
+PCZC-4P41-1ZR8Z
+FGXQ-A0M5-7MAZG
+2TDG-2FC1-5W5F1
+9T89-UH37-9FDWY
+HETP-6V9C-359P5
+YEXD-64AW-9XX6J
+4C70-1FZ6-0KQA1
+FRET-RE87-W4GHH
+8XYG-E4Q3-560XR
+TDGK-HE7E-D5789
+YPAG-22WU-PZKZ9
+UC19-QR30-4ZNT5
+EV98-V1RM-0D9U7
+8KU5-9F9D-Q813X
+4U0G-RXW3-C0TAZ
+DTZN-J3V1-KWZ71
+QB6T-2ZD2-QPFD5
+B0B1-T5T0-1T9AN
+BA2A-1ZR1-NXUQN
+K1AR-20ZY-F3T4F
+KYXR-VYZ8-Q24XG
+D4V7-BV06-QT3MD
+X9Y6-MBH4-B9DU4
+Z3GK-X3W7-WU2GK
+D7YT-316X-XXUQ1
+QXA4-GDCA-V28XZ
+MVAF-G2GP-1E2DX
+52QD-7WT2-FWWQH
+D75D-1K6X-DCMA9
+UN7A-Q4A0-GZQ71
+D2AR-M4VE-B6WYC
+01ZE-V49P-FHR2R
+GC0Y-ZQ5E-7CFJX
+E9FZ-A3QA-YCERP
+
+Buy Rare Weapons In Arms Shop (Part 2) [Ralf]
+E0HR-0FR3-UUG2B
+D9G4-V8WF-4J53F
+RU5D-8YKJ-F0BRP
+80AM-JMVE-BTEPJ
+EPA9-HJEB-ZF4FA
+RD8Y-7962-1792B
+MP7E-QU3A-DMBB4
+B8YT-Z6KM-YMD39
+WCRC-MVGN-WX8R4
+P5UM-601V-GKV2F
+TCUB-3W86-03VX4
+YHE9-64YA-5TKVR
+QB2W-NNHX-734HE
+DBQA-9J08-R93CN
+TGWH-P5NB-N3X1J
+DDQY-DQR9-0YGJY
+V1TT-Y6CE-A5RE1
+G24A-MHTR-1J3TY
+P3XW-U1P2-94PRC
+M0YU-G4A4-JZNHF
+HPYM-B7XD-H1NWP
+MH3P-41UA-CW871
+GP75-AHXX-0K10B
+BWCZ-2M4C-7YJXV
+D5ZE-AVT2-F1Q35
+425N-4CQJ-JYRUE
+JHBJ-UQND-VTHGR
+8GYN-HVXX-45NKR
+JJVU-1Z61-WXUBB
+1CRB-RARC-XNEGW
+92V1-92HC-DEYHB
+JR4E-VWQD-J3MHR
+2M1X-1CE2-3RQFU
+TFK5-NHD1-5RQJD
+23WY-PY33-Y1XG8
+E9FZ-A3QA-YCERP
+
+Buy Rare Items In Tools Shop [Ralf]
+P1WG-P5TF-V3C8D
+10D0-ZD26-R1WF7
+0PXR-D5CD-15BH7
+2AJ7-XQC1-J2TJN
+YNWZ-FQQ8-C7X4Q
+B45D-15VA-EMJTH
+GQPR-XABF-V8UM1
+WNGM-M36G-V97WC
+CABE-EW93-Y685P
+6B9M-ARJX-9207N
+22F2-XHC7-FE1FF
+Y656-6QBK-R3P34
+ZXHV-PFC9-J28NG
+ZVRF-PGGW-RQHPF
+T2TU-GMQ0-4CQGE
+M180-TJ6Y-NGK1E
+MDYA-ANXE-TYX3J
+JVJD-BJPW-1R5Q2
+09R7-HU16-MXKWB
+EHEQ-BVMM-3W93M
+R0W2-4CVE-PXE50
+1BVT-KD0V-Z3GXK
+JDMZ-QYNT-9TJQB
+9BN9-4UBG-89AYE
+3WTP-14CG-QX4UQ
+6A91-3TXX-UQF46
+Q8EK-47P2-4B66U
+ZBHR-A92M-T9PHK
+0N3B-HYVE-XP9MM
+EVYF-5JM7-7ZGX7
+4FCN-MUN6-H6K1J
+KA7W-AZMB-53U71
+PK6Q-K59M-B5QNE
+HDP3-UHHJ-KFVCF
+1XFV-BJZ0-JWKHD
+X91C-R0TB-HT19P
+E9FZ-A3QA-YCERP
+
+Always Max Gears In Guards Shop [Ralf]
+E1HC-CKYF-DYPW0
+91A3-8MD4-EQY7F
+NQQ0-WZ1B-6CHX7
+NU34-GD6U-6J1PC
+V1PX-KDZU-21JM3
+P7C1-9K99-4AE88
+E9FZ-A3QA-YCERP
+
+Always Max Weapons In Arms Shop [Ralf]
+VV6V-FQ9Z-P1Y5N
+CEGV-BHWV-91NCC
+ZKG9-79M8-PF74C
+TFJH-XMR7-JT9A4
+DZJU-4B75-M8XN5
+K6BK-VBEX-9CJNQ
+Q4Z7-ADXA-GAYN6
+BWKC-7KXA-G9G7C
+BCRH-08JK-RJ774
+E9FZ-A3QA-YCERP
+
+Always Max Items In Tools Shop [Ralf]
+HX6C-DRC5-HDVKN
+3NVA-M2UE-XVQ1N
+ACRT-XP43-EF52E
+X2W8-40RQ-9U39T
+N25K-8A9P-2GRWM
+72YD-MEYH-M782P
+E9FZ-A3QA-YCERP
+
+Always New Gears In Guards Shop [Ralf]
+3VQR-544W-E57QB
+JY9J-PE3D-GZHZ9
+9XZ7-UDMM-03R6V
+
+Always New Weapons In Arms Shop [Ralf]
+DZ8E-X9N9-0DWAE
+JY9J-PE3D-GZHZ9
+XFKB-N0JN-W0K1W
+
+Always New Items In Tools Shop [Ralf]
+AHVZ-PA51-GG3XP
+JY9J-PE3D-GZHZ9
+QQQ2-FVYN-H9N67
+
+Able To Equip Any Gear [Ralf]
+ME0J-A3RF-GY9J5
+2P1C-W6AU-VUGD6
+D91H-W267-XM1A6
+B761-MH94-U8EFZ
+
+Able To Equip Any Weapon [Ralf]
+6TH5-UD8E-D8AVN
+1QG9-PMZE-616N1
+H940-J76A-JV6H9
+
+Able To Learn Any Technique [Ralf]
+9KVT-WKJZ-MWJ6F
+2P1C-W6AU-VUGD6
+F2UA-Y0YK-VXNNB
+AC8E-VTRH-EM7GY
+
+Enemies Drop Always Rare Items [Ralf]
+H8VU-VA8J-6JKW1
+0NWX-Q3CJ-4DR3J
+2KED-CVVW-ZUWKG
+NZM1-XT2V-VF7X5
+RZ26-3FX5-HJ96F
+E9FZ-A3QA-YCERP
+
+Fast Techniques [Ralf]
+2CH6-8EUJ-VJ9T2
+CWEK-MJRE-C0W10
+1M0C-ZJM6-05Q87
+TKTG-5GU3-NBY27
+N054-B46J-3PEQ6
+E9FZ-A3QA-YCERP
+
+Fast Weapons [Ralf]
+DGYT-U6AP-H6K27
+92VU-7QTE-QGMBW
+5V4C-8XRW-CBDHN
+TQ5P-JPU0-Y72PG
+CG9F-XMUJ-4RARW
+E9FZ-A3QA-YCERP
+
+Long Range Weapons [Ralf]
+E6TH-ZW6B-MJAQW
+A432-8Z6V-UX5EY
+WYF6-QN8F-8QHA5
+
+High Weapon Accuracy [Ralf]
+XBC6-4598-P16CB
+YATZ-7C9B-04M5Z
+FGNF-Q1F4-MCYTD
+6HUF-DD9Y-6XK7U
+37F2-MTG4-HV7MR
+EYVN-4CDR-BD2HG
+E9FZ-A3QA-YCERP
+
+Quick PB Gauge Gain [Ralf]
+0C5Y-M8WT-ZD424
+RVDN-04AB-1PXC3
+AKKE-RAZR-31DJ5
+GH39-BERF-F7WXZ
+KNDE-UV7W-NT979
+KTUG-AN37-TNTPF
+E9FZ-A3QA-YCERP
+
+Ultra Quick PB Gauge Gain [Ralf]
+YZH7-Z5FU-E9BPK
+RVDN-04AB-1PXC3
+MQWJ-KGXT-7VG6X
+GH39-BERF-F7WXZ
+KNDE-UV7W-NT979
+KTUG-AN37-TNTPF
+E9FZ-A3QA-YCERP
+
+Quick EXP Gain [Ralf]
+756U-UVP9-19KV3
+BECU-5Z6B-7EAWC
+ZGHM-7E4D-FU8GK
+EUV7-NPF8-RGTU1
+XE6A-9WN3-4KNHX
+CUQ9-VBEK-2RD18
+E9FZ-A3QA-YCERP
+
+Ultra Quick EXP Gain [Ralf]
+3HK4-QTH7-B8PTY
+BECU-5Z6B-7EAWC
+ZGHM-7E4D-FU8GK
+9T9N-WCFP-FYQ1T
+XE6A-9WN3-4KNHX
+CUQ9-VBEK-2RD18
+E9FZ-A3QA-YCERP
+
+EXP Gain Multiplier [Ralf]
+8C0F6C14 A01F02D4
+04004000 83C4001C
+04004004 1FDE00xx
+04004008 480F2C20
+040F6C24 4BF0D3DC
+00000000 40000000
+
+xx = Multiplier
+One Hit Kills Most Enemies [Ralf]
+Y65R-ZBHG-4DDFX
+7KPJ-K751-T69JB
+ZXTK-P5T4-JK7F0
+TDY0-PPAF-NUYN8
+03EP-M7MM-KG12B
+JHWP-Z73B-MGFJ6
+7YC0-2NME-58EZD
+6BEB-44NU-Q0YMZ
+V14X-7CTP-WJ5D4
+7PFE-4MAP-UXANP
+MC0W-5UR1-V0BNK
+E9FZ-A3QA-YCERP
+
+Alice In Wonderland (Enable Shrink Mode) [Ralf]
+3GW5-46H3-78AY2
+JW2Q-4N54-MP3N7
+RD4Z-48MR-Q26YC
+
+Play Offline Game With Online Mode Enemies [Ralf]
+4UK6-BXC7-EZZ5Q
+WB1B-VWD7-VGGDM
+BEFA-3EC9-3HTNP
+1RP3-K7EY-B90Q0
+4MB3-X67N-VY21C
+WPU1-GPX5-9DJE0
+E9FZ-A3QA-YCERP
+
+Online Game: Disable In-Game Saves [Ralf]
+M5KT-663M-CB4MC
+JX85-U2K8-YH7E2
+UQUF-EKPK-G4JW8
+KXQB-P873-PAAPD
+A18V-WCF6-PATK3
+E9FZ-A3QA-YCERPExtended Word Select Menu (PSO PCv2 Style) [Ralf]
+PDBK-7NWC-NC6Q9
+PBCD-A1AH-H0ZQG
+DU2G-QP4Q-TR523
+
+Access All Areas (Main Teleporter) [Ralf]
+037J-39BM-GM56G
+ZM9H-P590-UGDAP
+A0B9-02VT-FN6J9
+G4YP-UT5T-EJQM7
+C5CW-V3A2-A59V6
+9TB1-4U3T-EQBAX
+E9FZ-A3QA-YCERP
+
+No Unknown Weapons [Ralf]
+PZ5G-B5JM-HDXNF
+XEXP-JM1A-Q1ZX4
+X24F-CWB5-TG9C0
+9AAQ-X8KE-AW870
+9CG2-JHVF-222D6
+E9FZ-A3QA-YCERP
+
+Replace Normal Mode Maps With Ultimate Mode Maps (GFX Only) [Ralf]
+MUAD-BK6H-8461T
+DPCR-GNGC-HZ19K
+CYN2-BAHZ-AQR66
+
+Replace Ultimate Mode Maps With Normal Mode Maps (GFX Only) [Ralf]
+QV7F-PDXV-D16ZV
+DPCR-GNGC-HZ19K
+HXHH-GGT8-7T1FN
+
+
+Character Type Modifier [Ralf]
+04DDD974 00ii00jj
+04DDD978 00kk00ll
+02DDD97C 000000mm
+
+ii = Costume/Body Type (00 .. 11, 00 .. 18)
+
+jj = Skin Type (00 .. 03)
+kk = Face Type (00 .. 04)
+ll = Head Type (00 .. 04)
+mm = Hair Type (00 .. 09)
+
+
+Character Model Modifier [Ralf]
+4C28DC1C 7C7F1B78
+0428DC20 386000xx
+0428DC24 4800006C
+
+xx = Model ID
+
+
+Model IDs
+
+00 - HUmar
+01 - HUnewearl
+02 - HUcast
+03 - RAmar
+04 - RAcast
+05 - RAcaseal
+06 - FOmarl
+07 - FOnewm
+08 - FOnewearl
+09 - HUcaseal
+0A - FOmar
+0B - RAmarl
+0C - Elly   (Base model must be a Hunter with hair/head type 1)
+0D - Flowen (Base model must be a Hunter or Ranger with hair/head type 1)
+0E - Tails
+0F - Knuckles
+10 - Sonic
+11 - Rico   (Base model must be a Hunter or Ranger with hair/head type 1)
+12 - Ninja  (Base model must be a Hunter with hair/head type 1)
+
+
+Play As Sonic [Ralf]
+FWHA-BA96-Q7FV8
+TM54-AWJC-ER633
+JJG3-2T7U-HR094
+7TA1-YZAK-AZRAF
+
+Play As Knuckles [Ralf]
+2TYW-0RZB-251MT
+TM54-AWJC-ER633
+B6PD-AYVP-QAD1M
+7TA1-YZAK-AZRAF
+
+Play As Tails [Ralf]
+Q420-Y4UW-KKDYX
+TM54-AWJC-ER633
+UX7E-GB4N-RZTKX
+7TA1-YZAK-AZRAF
+
+Play As Elly (Incl. Base Model Fix) [Ralf]
+VCBT-9ENA-QF933
+MZ97-NN5E-GZQC7
+A4NY-ZJJX-YU97T
+YTAM-7ABA-HF4D4
+XYME-UA2M-HF8PT
+Z07F-3QVT-HAR9B
+4K2E-BT9R-VXJE7
+GBX6-5J7Y-JNFZK
+H0DM-J5NW-H34R3
+8YB7-TAHF-J1AJE
+HGKH-N9ZC-M62VE
+7TA1-YZAK-AZRAF
+E9FZ-A3QA-YCERP
+
+Play As Flowen (Incl. Base Model Fix) [Ralf]
+TGTB-K32J-VPERJ
+MZ97-NN5E-GZQC7
+A4NY-ZJJX-YU97T
+YTAM-7ABA-HF4D4
+XYME-UA2M-HF8PT
+Z07F-3QVT-HAR9B
+4K2E-BT9R-VXJE7
+GBX6-5J7Y-JNFZK
+H0DM-J5NW-H34R3
+8YB7-TAHF-J1AJE
+2T6D-M920-QFYRC
+7TA1-YZAK-AZRAF
+E9FZ-A3QA-YCERP
+
+Play As Ninja (Incl. Base Model Fix) [Ralf]
+KJ37-5QJA-17DJ1
+MZ97-NN5E-GZQC7
+A4NY-ZJJX-YU97T
+YTAM-7ABA-HF4D4
+XYME-UA2M-HF8PT
+Z07F-3QVT-HAR9B
+4K2E-BT9R-VXJE7
+GBX6-5J7Y-JNFZK
+H0DM-J5NW-H34R3
+8YB7-TAHF-J1AJE
+AM12-131X-QY8J4
+7TA1-YZAK-AZRAF
+E9FZ-A3QA-YCERP
+
+Play As Rico (Incl. Base Model Fix) [Ralf]
+911H-3ZHF-XQJKH
+MZ97-NN5E-GZQC7
+A4NY-ZJJX-YU97T
+YTAM-7ABA-HF4D4
+XYME-UA2M-HF8PT
+Z07F-3QVT-HAR9B
+4K2E-BT9R-VXJE7
+GBX6-5J7Y-JNFZK
+H0DM-J5NW-H34R3
+8YB7-TAHF-J1AJE
+QQJP-3D4A-GR074
+7TA1-YZAK-AZRAF
+E9FZ-A3QA-YCERP
+
+
+Bank Item Modifier Codes
+
+Number Of Items In Bank [Ralf]
+04F27EA8 000000xx
+
+xx = Number Of Items (00 .. C8)
+
+
+Weapon Modifier Codes
+
+Bank Slot 1 Weapon Modifier [Ralf]
+04F27EB0 00wwwwgg
+04F27EB4 ss00iijj
+04F27EB8 kkllmmnn
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00010001
+
+Bank Slot 2 Weapon Modifier [Ralf]
+04F27EC8 00wwwwgg
+04F27ECC ss00iijj
+04F27ED0 kkllmmnn
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Weapon Modifier [Ralf]
+04F29140 00wwwwgg
+04F29144 ss00iijj
+04F29148 kkllmmnn
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00010001
+
+Bank Slot 200 Weapon Modifier [Ralf]
+04F29158 00wwwwgg
+04F2915C ss00iijj
+04F29160 kkllmmnn
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00010001
+
+wwww = Weapon ID
+
+gg = Weapon Grindage
+ss = Weapon Special & Flags
+
+
+Normal Weapons
+
+ii = Photon Elemental Type 1
+jj = Percentage Against Photon Elemental Type 1 (00 .. 7F)
+
+kk = Photon Elemental Type 2
+ll = Percentage Against Photon Elemental Type 2 (00 .. 7F)
+
+mm = Photon Elemental Type 3
+nn = Percentage Against Photon Elemental Type 3 (00 .. 7F)
+
+
+S Rank Weapons
+
+iijjkkllmmnn = Extended Weapon Name Bit Field (48 Bits)
+
+
+Extended Weapon Name Bit Field
+
+000rr0ss sssttttt 0uuuuuvv vvvwwwww 0xxxxxyy yyyzzzzz
+
+rr = Flags
+
+01 - Extended Weapon Name Only (No Base Weapon Name)
+10 - Extended Weapon Name And Base Weapon Name
+
+sssss = Character 1
+ttttt = Character 2
+uuuuu = Character 3
+vvvvv = Character 4
+wwwww = Character 5
+xxxxx = Character 6
+yyyyy = Character 7
+zzzzz = Character 8
+
+
+Characters
+
+00000 - None
+00001 - A
+00010 - B
+00011 - C
+00100 - D
+00101 - E
+00110 - F
+00111 - G
+
+01000 - H
+01001 - I
+01010 - J
+01011 - K
+01100 - L
+01101 - M
+01110 - N
+01111 - O
+
+10000 - P
+10001 - Q
+10010 - R
+10011 - S
+10100 - T
+10101 - U
+10110 - V
+10111 - W
+
+11000 - X
+11001 - Y
+11010 - Z
+11011 - [
+11100 - \
+11101 - ]
+11110 - ^
+11111 - _
+
+
+Weapon IDs
+
+0100 - Saber
+0101 - Brand
+0102 - Buster
+0103 - Pallasch
+0104 - Gladius
+0105 - DB'S SABER (Replica)
+0106 - KALADBOLG
+0107 - DURANDAL
+0200 - Sword
+0201 - Gigush
+0202 - Breaker
+0203 - Claymore
+0204 - Calibur
+0205 - FLOWEN'S SWORD (Replica)
+0206 - LAST SURVIVOR
+0207 - DRAGON SLAYER
+0300 - Dagger
+0301 - Knife
+0302 - Blade
+0303 - Edge
+
+0304 - Ripper
+0305 - BLADE DANCE
+0306 - BLOODY ART
+0307 - CROSS SCAR
+0400 - Partisan
+0401 - Halbert
+0402 - Glaive
+0403 - Berdys
+0404 - Gungnir
+0405 - BRIONAC
+0406 - VJAYA
+0407 - GAE BOLG
+0500 - Slicer
+0501 - Spinner
+0502 - Cutter
+0503 - Sawcer
+0504 - Diska
+0505 - SLICER OF ASSASSIN
+0506 - DISKA OF LIBERATOR
+0507 - DISKA OF BRAVEMEN
+
+0600 - Handgun
+0601 - Autogun
+0602 - Lockgun
+0603 - Railgun
+0604 - Raygun
+0605 - VARISTA
+0606 - CUSTOM RAY ver.OO
+0607 - BRAVACE
+0700 - Rifle
+0701 - Sniper
+0702 - Blaster
+0703 - Beam
+0704 - Laser
+0705 - VISK-235W
+0706 - WALS-MK2
+0707 - JUSTY-23ST
+0800 - Mechgun
+0801 - Assault
+0802 - Repeater
+0803 - Gatling
+
+0804 - Vulcan
+0805 - M&A60 VISE
+0806 - H&S25 JUSTICE
+0807 - L&K14 COMBAT
+0900 - Shot
+0901 - Spread
+0902 - Cannon
+0903 - Launcher
+0904 - Arms
+0905 - CRUSH BULLET
+0906 - METEOR SMASH
+0907 - FINAL IMPACT
+0A00 - Cane
+0A01 - Stick
+0A02 - Mace
+0A03 - Club
+0A04 - CLUB OF LACONIUM
+0A05 - MACE OF ADAMAN
+0A06 - CLUB OF ZUMIURAN
+0B00 - Rod
+
+0B01 - Pole
+0B02 - Pillar
+0B03 - Striker
+0B04 - BATTLE VERGE
+0B05 - BRAVE HAMMER
+0B06 - ALIVE AQHU
+0C00 - Wand
+0C01 - Staff
+0C02 - Baton
+0C03 - Scepter
+0C04 - FIRE SCEPTER:AGNI
+0C05 - ICE STAFF:DAGON
+0C06 - STORM VAND:INDRA
+0D00 - PHOTON CLAW
+0D01 - SILENCE CLAW
+0D02 - NEI'S CLAW (Replica)
+0E00 - DOUBLE SABER
+0E01 - STAG CUTLERY
+0E02 - TWIN BRAND
+0F00 - BRAVE KNUCKLE
+
+0F01 - ANGRY FIST
+0F02 - GOD HAND
+0F03 - SONIC KNUCKLE
+1000 - OROTIAGITO
+1001 - AGITO (AUW 1975)
+1002 - AGITO (AUW 1983 - Replica)
+1003 - AGITO (AUW 2001 - Replica)
+1004 - AGITO (AUW 1991 - Replica)
+1005 - AGITO (AUW 1977 - Replica)
+1006 - AGITO (AUW 1980 - Replica)
+1100 - SOUL EATER
+1101 - SOUL BANISH
+1200 - SPREAD NEEDLE
+1300 - HOLY RAY
+1400 - INFERNO BAZOOKA
+1500 - FLAME VISIT
+1501 - BURNING VISIT
+1600 - AKIKO'S FRYING PAN
+1700 - SORCERER'S CANE
+1800 - S-BEAT'S BLADE
+
+1900 - P-ARMS'S BLADE
+1A00 - DELSABER'S BUSTER
+1B00 - BRINGER'S RIFLE
+1C00 - EGG BLASTER
+1D00 - PSYCHO WAND
+1E00 - HEAVEN PUNISHER
+1F00 - LAVIS CANNON
+2000 - VICTOR AXE
+2100 - CHAIN SAWD
+2200 - CADUCEUS
+2300 - STING TIP
+2400 - MAGICAL PIECE
+2500 - TECHNICAL CROZIER
+2600 - SUPPRESSED GUN
+2700 - ANCIENT SABER
+2800 - HARISEN BATTLE FAN
+2900 - YAMIGARASU
+2A00 - AKIKO'S WOK
+2B00 - TOY HAMMER
+2C00 - ELYSION
+
+2D00 - RED SABER
+2E00 - METEOR CUDGEL
+2F00 - MONKEY KING BAR
+2F01 - BLACK KING BAR
+3000 - DOUBLE CANNON
+3100 - HUGE BATTLE FAN
+3200 - TSUMIKIRI J-SWORD
+3300 - SEALED J-SWORD
+3400 - RED SWORD
+3500 - CRAZY TUNE
+3600 - TWIN CHAKRAM
+3700 - WOK OF AKIKO'S SHOP
+3800 - LAVIS BLADE
+3900 - RED DAGGER
+3A00 - MADAM'S PARASOL
+3B00 - MADAM'S UMBRELLA
+3C00 - IMPERIAL PICK
+3D00 - BERDYSH
+3E00 - RED PARTISAN
+3F00 - FLIGHT CUTTER
+
+4000 - FLIGHT FAN
+4100 - RED SLICER
+4200 - HANDGUN:GULD
+4300 - HANDGUN:MILLA
+4400 - RED HANDGUN
+4500 - FROZEN SHOOTER
+4501 - SNOW QUEEN
+4600 - ANTI ANDROID RIFLE
+4700 - ROCKET PUNCH
+4800 - SAMBA MARACAS
+4900 - TWIN PSYCHOGUN
+4A00 - DRILL LAUNCHER
+4B00 - GULD MILLA
+4C00 - RED MECHGUN
+4D00 - BELRA CANNON
+4E00 - PANZER FAUST
+4E01 - IRON FAUST
+4F00 - SUMMIT MOON
+5000 - WINDMILL
+5100 - EVIL CURST
+
+5200 - FLOWER CANE
+5300 - HILDEBEAR'S CANE
+5400 - HILDEBLUE'S CANE
+5500 - RABBIT WAND
+5600 - PLANTAIN LEAF
+5601 - FATSIA
+5700 - DEMONIC FORK
+5800 - STRIKER OF CHAO
+5900 - BROOM
+5A00 - PROPHETS OF MOTAV
+5B00 - THE SIGH OF A GOD
+5C00 - TWINKLE STAR
+5D00 - PLANTAIN FAN
+5E00 - TWIN BLAZE
+5F00 - MARINA'S BAG
+6000 - DRAGON'S CLAW
+6100 - PANTHER'S CLAW
+6200 - S-RED'S BLADE
+6300 - PLANTAIN HUGE FAN
+6400 - CHAMELEON SCYTHE
+
+6500 - YASMINKOV 3000R
+6600 - ANO RIFLE
+6700 - BARANZ LAUNCHER
+6800 - BRANCH OF PAKUPAKU
+6900 - HEART OF POUMN
+6A00 - YASMINKOV 2000H
+6B00 - YASMINKOV 7000V
+6C00 - YASMINKOV 9000M
+6D00 - MASER BEAM
+6D01 - POWER MASER
+6E00 - GAME MAGAZINE
+6F00 - FLOWER BOUQUET
+7000 - SABER     (S Rank Weapon)
+7100 - SWORD     (S Rank Weapon)
+7200 - BLADE     (S Rank Weapon)
+7300 - PARTISAN  (S Rank Weapon)
+7400 - SLICER    (S Rank Weapon)
+7500 - GUN       (S Rank Weapon)
+7600 - RIFLE     (S Rank Weapon)
+7700 - MECHGUN   (S Rank Weapon)
+
+7800 - SHOT      (S Rank Weapon)
+7900 - CANE      (S Rank Weapon)
+7A00 - ROD       (S Rank Weapon)
+7B00 - WAND      (S Rank Weapon)
+7C00 - TWIN      (S Rank Weapon)
+7D00 - CLAW      (S Rank Weapon)
+7E00 - BAZOOKA   (S Rank Weapon)
+7F00 - NEEDLE    (S Rank Weapon)
+8000 - SCYTHE    (S Rank Weapon)
+8100 - HAMMER    (S Rank Weapon)
+8200 - MOON      (S Rank Weapon)
+8300 - PSYCHOGUN (S Rank Weapon)
+8400 - PUNCH     (S Rank Weapon)
+8500 - WINDMILL  (S Rank Weapon)
+8600 - HARISEN   (S Rank Weapon)
+8700 - KATANA    (S Rank Weapon)
+8800 - J-CUTTER  (S Rank Weapon)
+8900 - MUSASHI
+8901 - YAMATO
+8902 - ASUKA
+
+8903 - SANGE & YASHA
+8A00 - SANGE
+8A01 - YASHA
+8A02 - KAMUI
+8B00 - PHOTON LAUNCHER
+8B01 - GUILTY LIGHT
+8B02 - RED SCORPIO
+8C00 - TALIS
+8C01 - MAHU
+8C02 - HITOGATA
+8C03 - DANCING HITOGATA
+8D00 - NUG2000-BAZOOKA
+8E00 - S-BERILL'S HANDS #0
+8E01 - S-BERILL'S HANDS #1
+8F00 - FLOWEN'S SWORD (AUW 3060 - GREENILL)
+8F01 - FLOWEN'S SWORD (AUW 3064 - SKYLY)
+8F02 - FLOWEN'S SWORD (AUW 3067 - BLUEFULL)
+8F03 - FLOWEN'S SWORD (AUW 3073 - PURPLENUM)
+8F04 - FLOWEN'S SWORD (AUW 3077 - PINKAL)
+8F05 - FLOWEN'S SWORD (AUW 3082 - REDRIA)
+
+8F06 - FLOWEN'S SWORD (AUW 3083 - ORAN)
+8F07 - FLOWEN'S SWORD (AUW 3084 - YELLOWBOZE)
+8F08 - FLOWEN'S SWORD (AUW 3079 - WHITILL)
+9000 - DB's SWORD (AUW 3062 - GREENILL)
+9001 - DB's SWORD (AUW 3067 - SKYLY)
+9002 - DB's SWORD (AUW 3069 - BLUEFULL)
+9003 - DB's SWORD (AUW 3064 - PURPLENUM)
+9004 - DB's SWORD (AUW 3069 - PINKAL)
+9005 - DB's SWORD (AUW 3073 - REDRIA)
+9006 - DB's SWORD (AUW 3070 - ORAN)
+9007 - DB's SWORD (AUW 3075 - YELLOWBOZE)
+9008 - DB's SWORD (AUW 3077 - WHITILL)
+9100 - GI GUE BAZOOKA
+9200 - GUARDIANNA
+9300 - VIRIDIA CARD
+9301 - GREENILL CARD
+9302 - SKYLY CARD
+9303 - BLUEFULL CARD
+9304 - PURPLENUM CARD
+9305 - PINKAL CARD
+
+9306 - REDRIA CARD
+9307 - ORAN CARD
+9308 - YELLOWBOZE CARD
+9309 - WHITILL CARD
+9400 - MORNING GLORY
+9500 - PARTISAN of LIGHTNING
+9600 - GAL WIND
+9700 - ZANBA
+9800 - RIKA'S CLAW
+9900 - ANGEL HARP
+9A00 - DEMOLITION COMET
+9B00 - NEI'S CLAW
+9C00 - RAINBOW BATON
+9D00 - DARK FLOW
+9E00 - DARK METEOR
+9F00 - DARK BRIDGE
+A000 - G-ASSASSIN'S SABERS
+A100 - RAPPY'S FAN
+A200 - BOOMA'S CLAW
+A201 - GOBOOMA'S CLAW
+
+A202 - GIGOBOOMA'S CLAW
+A300 - RUBY BULLET
+A400 - AMORE ROSE
+A500 - SWORDS   (S Rank Weapon)
+A600 - LAUNCHER (S Rank Weapon)
+A700 - CARDS    (S Rank Weapon)
+A800 - KNUCKLE  (S Rank Weapon)
+A900 - AXE      (S Rank Weapon)
+
+
+Weapon Specials & Flags
+
+00 - None
+01 - Draw
+02 - Drain
+03 - Fill
+04 - Gush
+05 - Heart
+06 - Mind
+07 - Soul
+08 - Geist
+09 - Master's
+0A - Lord's
+0B - King's
+0C - Charge
+0D - Spirit
+0E - Berserk
+0F - Ice
+
+10 - Frost
+11 - Freeze
+12 - Blizzard
+13 - Bind
+14 - Hold
+15 - Seize
+16 - Arrest
+17 - Heat
+18 - Fire
+19 - Flame
+1A - Burning
+1B - Shock
+1C - Thunder
+1D - Storm
+1E - Tempest
+1F - Dim
+
+20 - Shadow
+21 - Dark
+22 - Hell
+23 - Panic
+24 - Riot
+25 - Havoc
+26 - Chaos
+27 - Devil's
+28 - Demon's
+
+40 - Present        (Combinable)
+80 - Unknown Weapon (Combinable)
+
+
+Photon Elemental Types
+
+00 - None
+01 - Native
+02 - Altered Beast
+03 - Machine
+04 - Dark
+05 - Hit
+
+
+Armor Modifier Codes
+
+Bank Slot 1 Armor Modifier [Ralf]
+04F27EB0 0101xx00
+04F27EB4 ppssyyyy
+04F27EB8 zzzz0000
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00010001
+
+Bank Slot 2 Armor Modifier [Ralf]
+04F27EC8 0101xx00
+04F27ECC ppssyyyy
+04F27ED0 zzzz0000
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Armor Modifier [Ralf]
+04F29140 0101xx00
+04F29144 ppssyyyy
+04F29148 zzzz0000
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00010001
+
+Bank Slot 200 Armor Modifier [Ralf]
+04F29158 0101xx00
+04F2915C ppssyyyy
+04F29160 zzzz0000
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00010001
+
+xx = Armor ID
+pp = Armor Flags (40 - Present)
+ss = Number Of Slots (00 .. 04)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Armor IDs
+
+00 - Frame
+01 - Armor
+02 - Psy Armor
+03 - Giga Frame
+04 - Soul Frame
+05 - Cross Armor
+06 - Solid Frame
+07 - Brave Armor
+08 - Hyper Frame
+09 - Grand Armor
+0A - Shock Frame
+0B - King's Frame
+0C - Dragon Frame
+0D - Absorb Armor
+0E - Protect Frame
+0F - General Armor
+10 - Perfect Frame
+11 - Valiant Frame
+12 - Imperial Armor
+13 - Holiness Armor
+
+14 - Guardian Armor
+15 - Divinity Armor
+16 - Ultimate Frame
+17 - Celestial Armor
+18 - HUNTER FIELD
+19 - RANGER FIELD
+1A - FORCE FIELD
+1B - REVIVAL GARMENT
+1C - SPIRIT GARMENT
+1D - STINK FRAME
+1E - D-PARTS ver1.01
+1F - D-PARTS ver2.10
+20 - PARASITE WEAR:De Rol
+21 - PARASITE WEAR:Nelgal
+22 - PARASITE WEAR:Vajulla
+23 - SENSE PLATE
+24 - GRAVITON PLATE
+25 - ATTRIBUTE PLATE
+26 - FLOWEN'S FRAME
+27 - CUSTOM FRAME ver.OO
+
+28 - DB'S ARMOR
+29 - GUARD WAVE
+2A - DF FIELD
+2B - LUMINOUS FIELD
+2C - CHU CHU FEVER
+2D - LOVE HEART
+2E - FLAME GARMENT
+2F - VIRUS ARMOR:Lafuteria
+30 - BRIGHTNESS CIRCLE
+31 - AURA FIELD
+32 - ELECTRO FRAME
+33 - SACRED CLOTH
+34 - SMOKING PLATE
+
+
+Shield Modifier Codes
+
+Bank Slot 1 Shield Modifier [Ralf]
+04F27EB0 0102xx00
+04F27EB4 pp00yyyy
+04F27EB8 zzzz0000
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00010001
+
+Bank Slot 2 Shield Modifier [Ralf]
+04F27EC8 0102xx00
+04F27ECC pp00yyyy
+04F27ED0 zzzz0000
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Shield Modifier [Ralf]
+04F29140 0102xx00
+04F29144 pp00yyyy
+04F29148 zzzz0000
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00010001
+
+Bank Slot 200 Shield Modifier [Ralf]
+04F29158 0102xx00
+04F2915C pp00yyyy
+04F29160 zzzz0000
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00010001
+
+xx = Shield ID
+pp = Shield Flags (40 - Present)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Shield IDs
+
+00 - Barrier
+01 - Shield
+02 - Core Shield
+03 - Giga Shield
+04 - Soul Barrier
+05 - Hard Shield
+06 - Brave Barrier
+07 - Solid Shield
+08 - Flame Barrier
+09 - Plasma Barrier
+0A - Freeze Barrier
+0B - Psychic Barrier
+0C - General Shield
+0D - Protect Barrier
+0E - Glorious Shield
+0F - Imperial Barrier
+10 - Guardian Shield
+11 - Divinity Barrier
+12 - Ultimate Shield
+13 - Spiritual Shield
+
+14 - Celestial Shield
+15 - INVISIBLE GUARD
+16 - SACRED GUARD
+17 - S-PARTS ver1.16
+18 - S-PARTS ver2.01
+19 - LIGHT RELIEF
+1A - SHIELD OF DELSABER
+1B - FORCE WALL
+1C - RANGER WALL
+1D - HUNTER WALL
+1E - ATTRIBUTE WALL
+1F - SECRET GEAR
+20 - COMBAT GEAR
+21 - PROTO REGENE GEAR
+22 - REGENERATE GEAR
+23 - REGENE GEAR ADV.
+24 - FLOWEN'S SHIELD
+25 - CUSTOM BARRIER ver.OO
+26 - DB'S SHIELD
+27 - RED RING
+
+28 - TRIPOLIC SHIELD
+29 - STANDSTILL SHIELD
+2A - SAFETY HEART
+2B - KASAMI BRACER
+2C - GODS SHIELD SUZAKU
+2D - GODS SHIELD GENBU
+2E - GODS SHIELD BYAKKO
+2F - GODS SHIELD SEIRYU
+30 - HUNTER'S SHELL
+31 - RICO'S GLASSES
+32 - RICO'S EARRING
+33 - BLUE RING
+34 - BARRIER
+35 - SECURE FEET
+36 - BARRIER
+37 - BARRIER
+38 - BARRIER
+39 - BARRIER
+3A - RESTA MERGE
+3B - ANTI MERGE
+
+3C - SHIFTA MERGE
+3D - DEBAND MERGE
+3E - FOIE MERGE
+3F - GIFOIE MERGE
+40 - RAFOIE MERGE
+41 - RED MERGE
+42 - BARTA MERGE
+43 - GIBARTA MERGE
+44 - RABARTA MERGE
+45 - BLUE MERGE
+46 - ZONDE MERGE
+47 - GIZONDE MERGE
+48 - RAZONDE MERGE
+49 - YELLOW MERGE
+4A - RECOVERY BARRIER
+4B - ASSIST BARRIER
+4C - RED BARRIER
+4D - BLUE BARRIER
+4E - YELLOW BARRIER
+4F - WEAPONS GOLD SHIELD
+
+50 - BLACK GEAR
+51 - WORKS GUARD
+52 - RAGOL RING
+53 - BLUE RING
+54 - BLUE RING
+55 - BLUE RING
+56 - BLUE RING
+57 - BLUE RING
+58 - BLUE RING
+59 - BLUE RING
+5A - BLUE RING
+5B - GREEN RING
+5c - GREEN RING
+5D - GREEN RING
+5E - GREEN RING
+5F - GREEN RING
+60 - GREEN RING
+61 - GREEN RING
+62 - GREEN RING
+63 - YELLOW RING
+
+64 - YELLOW RING
+65 - YELLOW RING
+66 - YELLOW RING
+67 - YELLOW RING
+68 - YELLOW RING
+69 - YELLOW RING
+6A - YELLOW RING
+6B - PURPLE RING
+6C - PURPLE RING
+6D - PURPLE RING
+6E - PURPLE RING
+6F - PURPLE RING
+70 - PURPLE RING
+71 - PURPLE RING
+72 - PURPLE RING
+73 - WHITE RING
+74 - WHITE RING
+75 - WHITE RING
+76 - WHITE RING
+77 - WHITE RING
+
+78 - WHITE RING
+79 - WHITE RING
+7A - WHITE RING
+7B - BLACK RING
+7C - BLACK RING
+7D - BLACK RING
+7E - BLACK RING
+7F - BLACK RING
+80 - BLACK RING
+81 - BLACK RING
+82 - BLACK RING
+83 - WEAPONS SILVER SHIELD
+84 - WEAPONS COPPER SHIELD
+
+
+Unit Modifier Codes
+
+Bank Slot 1 Unit Modifier [Ralf]
+04F27EB0 0103xx00
+04F27EB4 0000yyyy
+04F27EB8 00000000
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00010001
+
+Bank Slot 2 Unit Modifier [Ralf]
+04F27EC8 0103xx00
+04F27ECC 0000yyyy
+04F27ED0 00000000
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Unit Modifier [Ralf]
+04F29140 0103xx00
+04F29144 0000yyyy
+04F29148 00000000
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00010001
+
+Bank Slot 200 Unit Modifier [Ralf]
+04F29158 0103xx00
+04F2915C 0000yyyy
+04F29160 00000000
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00010001
+
+xx = Unit ID
+
+yyyy = Enhancement Boost (Little Endian, 0000 .. FFFF)
+
+0000 - None
+0200 - Good (+)
+0400 - Very Good (++)
+FEFF - Bad (-)
+FCFF - Very Bad (--)
+
+
+Unit IDs
+
+00 - Knight/Power
+01 - General/Power
+02 - Ogre/Power
+03 - God/Power
+04 - Priest/Mind
+05 - General/Mind
+06 - Angel/Mind
+07 - God/Mind
+08 - Marksman/Arm
+09 - General/Arm
+0A - Elf/Arm
+0B - God/Arm
+0C - Thief/Legs
+0D - General/Legs
+0E - Elf/Legs
+0F - God/Legs
+10 - Digger/HP
+11 - General/HP
+12 - Dragon/HP
+13 - God/HP
+
+14 - Magician/TP
+15 - General/TP
+16 - Angle/TP
+17 - God/TP
+18 - Warrior/Body
+19 - General/Body
+1A - Metal/Body
+1B - God/Body
+1C - Angel/Luck
+1D - God/Luck
+1E - Master/Ability
+1F - Hero/Ability
+20 - God/Ability
+21 - Resist/Fire
+22 - Resist/Flame
+23 - Resist/Burning
+24 - Resist/Cold
+25 - Resist/Freeze
+26 - Resist/Blizzard
+27 - Resist/Shock
+
+28 - Resist/Thunder
+29 - Resist/Storm
+2A - Resist/Light
+2B - Resist/Saint
+2C - Resist/Holy
+2D - Resist/Dark
+2E - Resist/Evil
+2F - Resist/Devil
+30 - All/Resist
+31 - Super/Resist
+32 - Perfect/Resist
+33 - HP/Restorate
+34 - HP/Generate
+35 - HP/Revival
+36 - TP/Restorate
+37 - TP/Generate
+38 - TP/Revival
+39 - PB/Amplifier
+3A - PB/Generate
+3B - PB/Create
+
+3C - Wizard/Technique
+3D - Devil/Technique
+3E - God/Technique
+3F - General/Battle
+40 - Devil/Battle
+41 - God/Battle
+42 - Cure/Poison
+43 - Cure/Paralysis
+44 - Cure/Slow
+45 - Cure/Confuse
+46 - Cure/Freeze
+47 - Cure/Shock
+
+
+Tech Modifier Codes
+
+Bank Slot 1 Tech Modifier [Ralf]
+04F27EB0 0302ll00
+04F27EB4 xx000000
+04F27EB8 00000000
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00010001
+
+Bank Slot 2 Tech Modifier [Ralf]
+04F27EC8 0302ll00
+04F27ECC xx000000
+04F27ED0 00000000
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Tech Modifier [Ralf]
+04F29140 0302ll00
+04F29144 xx000000
+04F29148 00000000
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00010001
+
+Bank Slot 200 Tech Modifier [Ralf]
+04F29158 0302ll00
+04F2915C xx000000
+04F29160 00000000
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00010001
+
+ll = Tech Level
+
+00 - Level 1
+01 - Level 2
+..
+1C - Level 29
+1D - Level 30
+
+
+xx = Tech ID
+
+00 - Foie
+01 - Gifoie
+02 - Rafoie
+03 - Barta
+04 - Gibarta
+05 - Rabarta
+06 - Zonde
+07 - Gizonde
+08 - Razonde
+09 - Grants
+0A - Deband
+0B - Jellen
+0C - Zalure
+0D - Shifta
+0E - Ryuker
+0F - Resta
+10 - Anti
+11 - Reverser
+12 - Megid
+
+
+Item Modifier Codes
+
+Bank Slot 1 Item Modifier [Ralf]
+04F27EB0 03xxxx00
+04F27EB4 00000000
+04F27EB8 00000000
+04F27EBC FFFFFFFF
+04F27EC0 00000000
+04F27EC4 00yy0001
+
+Bank Slot 2 Item Modifier [Ralf]
+04F27EC8 03xxxx00
+04F27ECC 00000000
+04F27ED0 00000000
+04F27ED4 FFFFFFFF
+04F27ED8 00000000
+04F27EDC 00yy0001
+
+...
+
+Bank Slot 199 Item Modifier [Ralf]
+04F29140 03xxxx00
+04F29144 00000000
+04F29148 00000000
+04F2914C FFFFFFFF
+04F29150 00000000
+04F29154 00yy0001
+
+Bank Slot 200 Item Modifier [Ralf]
+04F29158 03xxxx00
+04F2915C 00000000
+04F29160 00000000
+04F29164 FFFFFFFF
+04F29168 00000000
+04F2916C 00yy0001
+
+xxxx = Item ID
+
+yy = Quantity (01 .. 0A, Stackable Items Only)
+
+
+Item IDs
+
+0000 - Monomate
+0001 - Dimate
+0002 - Trimate
+0100 - Monofluid
+0101 - Difluid
+0102 - Trifluid
+0300 - Sol Atomizer
+0400 - Moon Atomizer
+0500 - Star Atomizer
+0600 - Antidote
+0601 - Antiparalysis
+0700 - Telepipe
+0800 - Trap Vision
+0900 - Scape Doll
+0A00 - Monogrinder
+0A01 - Digrinder
+0A02 - Trigrinder
+0B00 - Power Material
+0B01 - Mind Material
+0B02 - Evade Material
+
+0B03 - HP Material
+0B04 - TP Material
+0B05 - Def Material
+0B06 - Luck Material
+0C00 - Cell of MAG 502
+0C01 - Cell of MAG 213
+0C02 - Parts of RoboChao
+0C03 - Heart of Opa Opa
+0C04 - Heart of Pian
+0C05 - Heart of Chao
+0D00 - Sorcerer's Right Arm
+0D01 - S-beat's Arms
+0D02 - P-arm's Arms
+0D03 - Delsaber's Right Arm
+0D04 - Bringer's Right Arm
+0D05 - Delsaber's Left Arm
+0D06 - S-red's Arms
+0D07 - Dragon's Claw
+0D08 - Hildebear's Head
+0D09 - Hildeblue's Head
+
+0D0A - Parts of Baranz
+0D0B - Belra's Right Arm
+0D0C - Gi Gue's body
+0D0D - Sinow Berill's Arms
+0D0E - Grass Assassin's Arms
+0D0F - Booma's Right Arm
+0D10 - Gobooma's Right Arm
+0D11 - Gigobooma's Right Arm
+0D12 - Gal Gryphon's Wing
+0D13 - Rappy's Wing
+0E00 - Berill Photon
+0E01 - Parasitic gene "Flow"
+0E02 - Magic Stone "Iritista"
+0E03 - Blue-black stone
+0E04 - Syncesta
+0E05 - Magic Water
+0E06 - Parasitic cell Type D
+0E07 - magic rock "Heart Key"
+0E08 - magic rock "Moola"
+0E09 - Star Amplifier
+
+0E0A - Book of HITOGATA
+0E0B - Heart of Chu Chu
+0E0C - Parts of EGG BLASTER
+0E0D - Heart of Angel
+0E0E - Heart of Devil
+0E0F - Kit of Hamburger
+0E10 - Panther's Spirit
+0E11 - Kit of MARK3
+0E12 - Kit of MASTER SYSTEM
+0E13 - Kit of GENESIS
+0E14 - Kit of SEGA SATURN
+0E15 - Kit of DREAMCAST
+0E16 - Amplifier of Resta
+0E17 - Amplifier of Anti
+0E18 - Amplifier of Shifta
+0E19 - Amplifier of Deband
+0E1A - Amplifier of Foie
+0E1B - Amplifier of Gifoie
+0E1C - Amplifier of Rafoie
+0E1D - Amplifier of Barta
+
+0E1E - Amplifier of Gibarta
+0E1F - Amplifier of Rabarta
+0E20 - Amplifier of Zonde
+0E21 - Amplifier of Gizonde
+0E22 - Amplifier of Razonde
+0E23 - Amplifier of Red
+0E24 - Amplifier of Blue
+0E25 - Amplifier of Yellow
+0E26 - Heart of KAPU KAPU
+0E27 - Photon Booster
+0F00 - AddSlot
+1000 - Photon Drop
+1001 - Photon Sphere
+1002 - Photon Crystal
+1100 - Book of KATANA1
+1101 - Book of KATANA2
+1102 - Book of KATANA3
+1200 - Weapons Bronze Badge
+1201 - Weapons Silver Badge
+1202 - Weapons Gold Badge
+
+1203 - Weapons Crystal Badge
+1204 - Weapons Steel Badge
+1205 - Weapons Aluminum Badge
+1206 - Weapons Leather Badge
+1207 - Weapons Bone Badge
+1208 - Letter of appreciation
+1209 - Autograph Album
+120A - Valentine's Chocolate
+120B - New Year's Card
+120C - Christmas Card
+120D - Birthday Card
+120E - Proof of Sonic Team
+120F - Special Event Ticket
+1210 - Flower Bouquet
+1211 - Cake
+1212 - Accessories
+1213 - Mr.Naka's Business Card
+1300 - Present
+1400 - Chocolate
+1401 - Candy
+
+1402 - Cake
+1403 - Siver Badge
+1404 - Gold Badge
+1405 - Crystal Badge
+1406 - Iron Badge
+1407 - Aluminum Badge
+1408 - Leather Badge
+1409 - Bone Badge
+140A - Bouquet
+140B - Decoction
+1500 - Christmas Present
+1501 - Easter Egg
+1502 - Jack-O'-Lantern
+1600 - DISK Vol.1
+1601 - DISK Vol.2
+1602 - DISK Vol.3
+1603 - DISK Vol.4
+1604 - DISK Vol.5
+1605 - DISK Vol.6
+1606 - DISK Vol.7
+1700 - Hunters Report
+1701 - Hunters Report ("A")
+1702 - Hunters Report ("B")
+1703 - Hunters Report ("C")
+1704 - Hunters Report ("F")
+
+
+Mag Modifier Codes
+
+Bank Slot 1 Mag Modifier [Ralf]
+04F27EB0 02mmllpp
+04F27EB4 vvvvwwww
+04F27EB8 xxxxyyyy
+04F27EBC FFFFFFFF
+04F27EC0 ssiijjzz
+04F27EC4 00010001
+
+Bank Slot 2 Mag Modifier [Ralf]
+04F27EC8 02mmllpp
+04F27ECC vvvvwwww
+04F27ED0 xxxxyyyy
+04F27ED4 FFFFFFFF
+04F27ED8 ssiijjzz
+04F27EDC 00010001
+
+...
+
+Bank Slot 199 Mag Modifier [Ralf]
+04F29140 02mmllpp
+04F29144 vvvvwwww
+04F29148 xxxxyyyy
+04F2914C FFFFFFFF
+04F29150 ssiijjzz
+04F29154 00010001
+
+Bank Slot 200 Mag Modifier [Ralf]
+04F29158 02mmllpp
+04F2915C vvvvwwww
+04F29160 xxxxyyyy
+04F29164 FFFFFFFF
+04F29168 ssiijjzz
+04F2916C 00010001
+
+mm = Mag ID
+ll = Level (01 .. C8)
+
+pp = Photon Blasts Bit Field (8 Bits)
+
+Photon Blasts Bit Field
+
+llrrrmmm
+
+ll  = Left   Photon Blast
+rrr = Right  Photon Blast
+mmm = Middle Photon Blast
+
+
+Middle & Right Photon Blast IDs
+
+000 - Farlla
+001 - Estlla
+010 - Golla
+011 - Pilla
+100 - Leilla
+101 - Mylla & Youlla
+110 - Megid
+111 - Grants
+
+
+Left Photon Blast IDs
+
+Middle & Right PB: Combo Of Farlla/Estlla
+
+00 - Golla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Golla
+
+00 - Estlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Pilla
+
+00 - Estlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Leilla
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Mylla&Youlla Or Farlla/Megid Or Farlla/Grants
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Estlla/Golla
+
+00 - Farlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Pilla
+
+00 - Farlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Leilla
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Mylla&Youlla Or Estlla/Megid Or Estlla/Grants
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Golla/Pilla
+
+00 - Farlla
+01 - Estlla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Mylla&Youlla Or Golla/Megid Or Golla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Pilla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Pilla/Mylla&Youlla Or Pilla/Megid Or Pilla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Leilla
+
+Middle & Right PB: Combo Of Leilla/Mylla&Youlla Or Leilla/Megid Or Leilla/Grants
+                   Or Mylla&Youlla/Megid Or Mylla&Youlla/Grants Or Megid/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Pilla
+
+
+vvvv = DEF  * 100. (Little Endian, 0000 .. 834E)
+wwww = POW  * 100. (Little Endian, 0000 .. 834E)
+xxxx = DEX  * 100. (Little Endian, 0000 .. 834E)
+yyyy = MIND * 100. (Little Endian, 0000 .. 834E)
+
+ss = Sync (00 .. 78)
+ii = IQ   (00 .. C8)
+
+
+jj = Mag Flags (Combinable)
+
+01 - Enable Middle Photon Blast
+02 - Enable Right  Photon Blast
+04 - Enable Left   Photon Blast
+40 - Present
+
+
+zz = Mag Color
+
+00 - Red
+01 - Blue
+02 - Yellow
+03 - Green
+04 - Purple
+05 - Black
+06 - White
+07 - Cyan
+08 - Brown
+09 - Orange
+0A - Light Blue
+0B - Olive
+0C - Light Cyan
+0D - Dark Purple
+0E - Grey
+0F - Light Grey
+10 - Pink
+11 - Dark Cyan
+
+
+Mag IDs
+
+00 - Mag
+01 - Varuna
+02 - Mitra
+03 - Surya
+04 - Vayu
+05 - Varaha
+06 - Kama
+07 - Ushasu
+08 - Apsaras
+09 - Kumara
+0A - Kaitabha
+0B - Tapas
+0C - Bhirava
+0D - Kalki
+0E - Rudra
+0F - Marutah
+10 - Yaksa
+11 - Sita
+12 - Garuda
+13 - Nandin
+
+14 - Ashvinau
+15 - Ribhava
+16 - Soma
+17 - Ila
+18 - Durga
+19 - Vritra
+1A - Namuci
+1B - Sumba
+1C - Naga
+1D - Pitri
+1E - Kabanda
+1F - Ravana
+20 - Marica
+21 - Soniti
+22 - Preta
+23 - Andhaka
+24 - Bana
+25 - Naraka
+26 - Madhu
+27 - Churel
+
+28 - ROBOCHAO
+29 - OPA-OPA
+2A - PIAN
+2B - CHAO
+2C - CHU CHU
+2D - KAPU KAPU
+2E - ANGEL'S WING
+2F - DEVIL'S WING
+30 - ELENOR
+31 - MARK3
+32 - MASTER SYSTEM
+33 - GENESIS
+34 - SEGA SATURN
+35 - DREAMCAST
+36 - HAMBURGER
+37 - PANZER'S TAIL
+38 - DAVIL'S TAIL
+39 - Deva
+3A - Rati
+3B - Savitri
+
+3C - Rukmin
+3D - Pushan
+3E - Diwari
+3F - Sato
+40 - Bhima
+41 - NidraNo Fog [Ralf]
+QVTD-KVQZ-P7XPG
+Z274-U05C-MTWU3
+T49P-5XJM-BY3XY
+
+Super Mates [Ralf]
+EUD7-N97P-PCUE0
+QHPY-MW5U-YDYPE
+N2HV-6KJV-Z8B27
+
+Super Fluids [Ralf]
+D2ZC-CZXP-WD0Q1
+VDVB-XAYM-JGV13
+18CU-TXWC-MTN54
+H5V6-YP5Y-960VP
+
+God Of Grind [Ralf]
+ZH2H-EV91-5WBKN
+M327-QU70-JJWK0
+KUXY-AJYY-5R9XY
+DCDH-4FBF-EAHA4
+
+Super Grinders [Ralf]
+QCZP-QA6Z-RBD8Y
+J4ME-CZDJ-KYQXG
+X05U-CHW2-3NWV4
+
+Super Materials [Ralf]
+WUXK-Q205-4Z9XH
+TJ24-XFMA-A26PG
+HVZ5-F6NM-QBDYC
+A33J-7E99-H9QMA
+GA5B-RBUD-XECKP
+E9FZ-A3QA-YCERP
+
+Unlimited Material Usage [Ralf]
+MVP0-MUMG-DP6MU
+67WZ-2H5E-7PR4V
+XY50-25DA-X9V9C
+
+God Of Slots [Ralf]
+H4F0-R417-55APP
+9MMT-CZCX-WPE58
+DJMN-F1P1-TMYJX
+XFGC-MVA1-BY4Y9
+9N07-KW7R-9ZAT7
+52H9-K5DA-U27KB
+E9FZ-A3QA-YCERP
+
+God Of Tech (Temporary) [Ralf]
+4DYW-V4WF-YWVC3
+NVB6-PD95-8R4FF
+PDTW-0E9N-3QB6T
+
+God Of Tech (Permanently) [Ralf]
+XVHA-T9R8-UU9BE
+H7ZA-PHC9-4UB4T
+C3TA-912U-Y9KCW
+PPH2-VM6E-VGPDG
+7GR0-2KBW-8X239
+BZD4-Q51X-4G3VN
+E9FZ-A3QA-YCERP
+
+Shops: All Free [Ralf]
+7PF2-UX38-0FK2K
+4G08-7MJE-CGD46
+V2HF-6WKR-GM622
+9XPH-HPGB-5BJVW
+ZHW9-2NEF-CNA7W
+E9FZ-A3QA-YCERP
+
+Reveal All Traps [Ralf]
+NGUQ-X0NJ-CC5QV
+KQ6R-3MVJ-HPNQ4
+AR00-008F-AZ1UQ
+
+Telepipe Anywhere [Ralf]
+YQQE-VWH3-UC1WE
+F421-MQE0-KJ6XG
+M2NX-WFGU-3NF90
+8F4Y-JMKD-8PGCD
+E4EM-7ZG6-4JHRT
+E9FZ-A3QA-YCERP
+
+Olga Flow Drop Items [Ralf]
+EF76-C7AH-BR7FK
+ZZ7W-R8MN-VG7DT
+6K5M-8UM9-XYUUW
+NFYA-YETK-DHEKG
+KFF5-FEP2-XUMJ1
+Z6KX-ZYED-DWJBR
+QHHK-MGN9-84DDU
+TNV6-WDBQ-XZWA2
+T88J-87BP-NRC2K
+36PU-JJ4U-RJWBA
+23X5-7QXT-VRVZQ
+ET05-UF3F-NY4QN
+6R8Q-C1EP-ZNH93
+E9FZ-A3QA-YCERP
+
+Dark Falz Drop Items [Ralf]
+E8VE-Z0B9-9XX67
+95TF-A3H4-JRGEX
+E4EY-5FV5-ERM00
+2E7U-A7HQ-XCJBR
+GE6X-34E5-QWU3R
+UCDX-4UVC-896AE
+5QF6-3716-8Y94Q
+ZZQU-Z7BM-W3GXH
+02FE-R0D5-D9VQR
+XDCH-GFA4-W4HDR
+TDXP-H101-3WC74
+9DF3-MTW8-KHT1K
+8677-3ED4-BG89B
+DC92-4CWZ-P9ZUY
+KU4T-Q8A0-A0KTP
+NEN6-PFFK-6H0TY
+Y2BJ-EW4F-1URBM
+DT97-JBM0-MFAQQ
+E9FZ-A3QA-YCERP
+
+One Kill Unseals Sealed J-Sword [Ralf]
+V9FN-YDJQ-X9DHB
+TDVH-809B-ZW2JW
+ZBTX-B4XY-85GPJ
+68K5-YG6F-DEBE2
+EYA7-RFNM-1DM0Z
+E9FZ-A3QA-YCERP
+
+Tsumikiri J-Sword's Special Always Works [Ralf]
+J90C-PGXJ-VRNT3
+KTXV-Q66H-EP3X9
+CVT8-T6CX-4YNKQ
+FKZ3-1FJ6-D23NY
+PQ94-CXVV-XNJW3
+PV9F-RZQZ-ZCXMM
+7EE9-NGG1-X7J74
+A51D-Z0AY-4QH0M
+B60P-04F9-E59EK
+NPH1-1ZQ1-RRCUN
+BMCB-J8YH-RKCD8
+E9FZ-A3QA-YCERP
+
+Online Game: Never Lose Unequipped Items (Didn't Quit Properly) [Ralf]
+QQAM-G5WP-GE9HG
+M0EY-J6GY-Q0DM1
+UQUF-EKPK-G4JW8
+ZGQG-CEXF-CAYEG
+XKB0-1UWK-UECKB
+V9CW-VYG8-AACPM
+M5TE-Q9D1-V8TXY
+A18V-WCF6-PATK3
+E9FZ-A3QA-YCERP
+
+Online Game: Quick Save (Hold L+R And Open Item List) [Ralf]
+UEXE-JZZC-ZR8V8
+M0EY-J6GY-Q0DM1
+3HUC-67X5-C7CPF
+TFVE-MJXB-J6ZHF
+P6KW-PHT9-XERJH
+V084-VD3P-AW124
+200D-X82Z-GK86V
+T119-1R7C-Z5RWP
+REKD-A254-00PYC
+BPMZ-5UVP-0GYMR
+928F-763G-75D4B
+5Y16-TBDY-GFD9J
+856K-0X7G-RVZN6
+UQUF-EKPK-G4JW8
+ZGQG-CEXF-CAYEG
+XKB0-1UWK-UECKB
+V9CW-VYG8-AACPM
+CAHD-8UXU-AXX6A
+M5TE-Q9D1-V8TXY
+A18V-WCF6-PATK3
+E9FZ-A3QA-YCERP
+
+Includes "Never Lose Unequipped Items" patch.Level 300 Cap Mod [Ralf]
+UDH4-M4VM-HNWPW
+C5WH-N4RP-NUVQH
+PJCB-5G0K-R4P0R
+XAXC-MVYX-YGHVT
+BVTW-MGM5-JJBCW
+JHF5-KA2T-P945E
+KN56-456Z-V4JCK
+03UW-FH1Q-FT4T5
+B58R-B5XP-PTRZ2
+0DQ3-Y3DX-KJ1RR
+DWBR-7AF1-19BU5
+2DPD-WRKQ-4DK5Z
+TGQD-P33N-Q061R
+BUHQ-TBD5-P16XZ
+N753-3TYQ-ZKFEV
+AFF5-UN1K-AA4QK
+43EM-3VYJ-TG6PE
+2YE1-D3WP-33THZ
+8QVD-03W0-EY5UK
+C1J1-UP8G-A4ZXY
+CT9K-B372-ABMYF
+8FR8-JDV6-151HB
+7RH5-1138-9QGDH
+6NJ0-AQ2U-FEY22
+TT17-HJE6-PY3YC
+2M3M-1C0E-A4MDK
+AEDR-V7V1-U9BPT
+3KU2-F067-9Z153
+PNZX-D3WP-EBXZB
+0KT8-DAKK-3TMA2
+67J2-XUND-3B6RX
+PBX3-B9VK-RWETP
+V0BP-4QK5-50UG6
+4WM7-DWH9-AQ9TC
+BT3R-8VAW-874ZV
+WBXU-XCRG-GMVP9
+4KV4-CCB5-02M57
+6ET1-3UWF-00BMJ
+7U68-6WGF-P99QA
+PVRT-QZVP-H3E19
+BQFY-QRR5-EV33H
+9WUV-F38X-2PJQG
+V8ZH-PA5V-73VR5
+8UQ3-BNDR-CBYMR
+YDZ8-C8AQ-4QJCG
+53EC-JDC7-0BP08
+X1NR-5M96-HEVRB
+A3U6-6CJX-VDRAC
+8UMV-7J45-MMV3J
+78H6-D9QC-KMTKA
+UXFU-DZ50-10PKD
+52Q6-XA8H-6DMQD
+XPDX-G7EC-DY4A1
+E9FZ-A3QA-YCERP
+
+This code will let you level up your character to a maximum level of 300.
+
+Level 600 Cap Mod [Ralf]
+XHX6-JT7J-X7FV8
+C5WH-N4RP-NUVQH
+GK7H-EV12-NP95Y
+XAXC-MVYX-YGHVT
+BVTW-MGM5-JJBCW
+JHF5-KA2T-P945E
+KN56-456Z-V4JCK
+03UW-FH1Q-FT4T5
+B58R-B5XP-PTRZ2
+1MMZ-15H8-152NW
+C32R-BBDV-N9ACB
+2DPD-WRKQ-4DK5Z
+TGQD-P33N-Q061R
+JM2U-242J-6MRWM
+N753-3TYQ-ZKFEV
+AFF5-UN1K-AA4QK
+43EM-3VYJ-TG6PE
+2YE1-D3WP-33THZ
+8QVD-03W0-EY5UK
+9036-P19U-57KEF
+CT9K-B372-ABMYF
+8FR8-JDV6-151HB
+7RH5-1138-9QGDH
+VEE3-B2R8-VFZ1E
+5NPU-2QPD-BV66T
+4U2D-8XAF-QW2V1
+074Q-4Y36-W2EKT
+DQKN-UYTQ-5EBWX
+FYR5-JM8M-6WH03
+EKYJ-0NPT-1PVZM
+A9BY-T2ET-44AQ8
+9465-ZCFX-N9XPH
+33XG-TJ18-HGQFP
+MAV6-1WGB-KA62M
+EPDF-M0YQ-FN34D
+4TZQ-7ACY-QDRJT
+Q22P-TPRA-ERXTE
+0CEA-QMR3-NK1GB
+887B-FGYB-1ZQAQ
+NJ1T-0RBD-0CK5X
+9JKB-7BXQ-H5FFQ
+KF1T-8ZNP-BHWK0
+VVPF-XD1R-TZWXF
+2KXM-AYZV-Y6M1Q
+47C0-10D3-471VT
+F87G-UK1K-PAA2N
+0RZK-2NVY-DBTXW
+MF3U-5BTY-26UYK
+J1TX-NY9A-NM7XD
+YFNM-EM7U-Z4PAP
+QZ05-WMR7-D28HY
+4CWV-506C-E1HCJ
+QZ7A-BBF6-TCMNJ
+K20P-FV8G-F82A7
+7A87-7XKJ-DKYPX
+K7WJ-TPH7-90F82
+7DU1-2AJF-7EPRJ
+E9FZ-A3QA-YCERP
+
+This code will let you level up your character to a maximum level of 600.
+
+Level 999 Cap Mod [Ralf]
+NMDD-AD9J-XAAQH
+C5WH-N4RP-NUVQH
+AY1P-V5BW-3RYHF
+XAXC-MVYX-YGHVT
+BVTW-MGM5-JJBCW
+JHF5-KA2T-P945E
+KN56-456Z-V4JCK
+03UW-FH1Q-FT4T5
+B58R-B5XP-PTRZ2
+9Y34-ZWP1-49HM5
+GTVP-VNC6-ENQAV
+2DPD-WRKQ-4DK5Z
+TGQD-P33N-Q061R
+JM2U-242J-6MRWM
+N753-3TYQ-ZKFEV
+AFF5-UN1K-AA4QK
+43EM-3VYJ-TG6PE
+2YE1-D3WP-33THZ
+8QVD-03W0-EY5UK
+9036-P19U-57KEF
+CT9K-B372-ABMYF
+8FR8-JDV6-151HB
+7RH5-1138-9QGDH
+VEE3-B2R8-VFZ1E
+5NPU-2QPD-BV66T
+4U2D-8XAF-QW2V1
+074Q-4Y36-W2EKT
+DQKN-UYTQ-5EBWX
+FYR5-JM8M-6WH03
+T1MH-380E-CXJY9
+A9BY-T2ET-44AQ8
+1BNB-5DAQ-MRUAX
+33XG-TJ18-HGQFP
+MAV6-1WGB-KA62M
+EPDF-M0YQ-FN34D
+6G15-D0EK-VRHUV
+Q22P-TPRA-ERXTE
+0CEA-QMR3-NK1GB
+887B-FGYB-1ZQAQ
+NJ1T-0RBD-0CK5X
+9JKB-7BXQ-H5FFQ
+KF1T-8ZNP-BHWK0
+VVPF-XD1R-TZWXF
+2KXM-AYZV-Y6M1Q
+47C0-10D3-471VT
+F87G-UK1K-PAA2N
+0RZK-2NVY-DBTXW
+MF3U-5BTY-26UYK
+J1TX-NY9A-NM7XD
+Z5XZ-M6F2-RY4ZN
+QZ05-WMR7-D28HY
+4CWV-506C-E1HCJ
+ZEPM-PJZC-X3N39
+K20P-FV8G-F82A7
+7A87-7XKJ-DKYPX
+K7WJ-TPH7-90F82
+7DU1-2AJF-7EPRJ
+E9FZ-A3QA-YCERP
+
+This code will let you level up your character to a maximum level of 999.Shields DFP/EVP Bug Fix [Ralf]
+Y1M5-MKWK-61VMW
+HXPZ-VAD2-YP18T
+YDZ7-6W9D-BNTK4
+8ENA-80VF-03JMH
+
+Olga Flow Barta Bug Fix [Ralf]
+2FBP-45J8-UJDRB
+3NJH-7GP1-QCGF9
+AQ6J-B9DN-0A9F2
+XJC7-WP83-WUXU7
+EKXN-YDCF-WEGB0
+0RH1-9MH2-556XR
+GU21-XT1C-THAA7
+G9TC-G98C-2T7WX
+E9FZ-A3QA-YCERP
+
+Morfos Frozen Player Bug Fix [Ralf]
+394G-ZP7Y-VM1YR
+PPZ5-XXQC-H0PFQ
+NP18-8XF6-2TG47
+3AFJ-BKRU-QMW11
+N7ZZ-U3N1-J4GCP
+PE6K-1Z44-KW37V
+VZVU-4MRA-WRW9D
+WZ09-VDYA-1KMFD
+UQKV-DWC9-YRE04
+E9FZ-A3QA-YCERP
+
+Ruins Laser Fence SFX Bug Fix [Ralf]
+3V6W-GDZH-DBWDX
+CNKW-ZNR5-1VVJA
+4DG6-7MKV-6RWBK
+U7DU-1552-3J2ZC
+2KKG-E5CT-TJ478
+E9FZ-A3QA-YCERP
+
+VR Spaceship Item Drops Bug Fix [Ralf]
+AGEZ-8FMB-N94TY
+093K-4E7C-F5RK8
+
+Hell/Dark Weapon Specials GFX Bug Fix (PSO BB Style) [Ralf]
+ZVH3-EUY8-C5PG6
+X7CB-VBNU-92P7F
+7YTC-0GNQ-QF4TY
+QDH3-YK6D-NQTFN
+4GCT-NP7P-1YR63
+NEG8-697R-3H4YY
+ZAAR-FEFA-VCH56
+56JW-375H-4UTTA
+REXY-Y3W9-TWMCH
+TTRK-P795-U1YHZ
+GZE8-76D6-XW91H
+N3XJ-RZ7E-JV17V
+ZN6W-349U-E2ZP1
+E9FZ-A3QA-YCERP
+
+Super Powerful Weapons [Ralf]
+N09Z-6UHX-DY24Q
+H784-GW4M-J36QV
+4F35-7UEH-C6QMV
+
+Unlock All Combo Locked Weapons [Ralf]
+ZD8V-GA6F-E7HBG
+449E-FFXR-XHPXF
+TCM4-GWVP-NQ9UT
+
+Ragol Ring: Disable Scape Doll Effect [Ralf]
+UKUB-0JG9-5ABEU
+WNUH-UFU9-V5242
+FEZE-2VYY-KTYKD
+
+Android Classes: No Immunity To Paralysis & Poison [Ralf]
+ZE0M-3NWF-X8HYD
+91C4-EUYU-0EPE9
+0NVZ-FRWG-MQ5G1
+JQ84-1MBQ-7AYMN
+
+Human & Newman Classes: Immunity To Shock [Ralf]
+00N6-0JWN-N3GU6
+Z1N8-3E44-03NMH
+XCEX-FUAK-TUDGT
+WGM8-HM2K-4QTVP
+68X6-T5XR-3QTE0
+QJC7-P8MX-UYYRH
+C8W9-1A35-N35X3
+1DED-24JN-7FPD0
+EYRQ-XNU9-UF54G
+E9FZ-A3QA-YCERP
+
+Improved Draw Distance (Almost All Objects) [Aleron Ives & Ralf]
+2HTG-F2DP-0UTK1
+R4N3-V925-G91RE
+PENC-R8Z0-XX8M3
+QY16-B2PX-16F7V
+NRX0-KECQ-2J1VW
+N4ZJ-Z1AH-0AYCW
+W2DQ-CXU4-E75R4
+PX20-436H-QC085
+G2G3-XXKP-ZKEPG
+92U3-90CT-Q0T21
+PXDE-2B7Q-KT2BJ
+P8HD-VACD-V8WTT
+DHWM-Y8A1-E0BMR
+FJNF-A00A-JZBUQ
+8YT7-WBUT-YTVXR
+T6Q7-DBJG-X9K2Z
+ZQA1-C10B-DD92B
+H6TD-2744-MMPUC
+UV0K-8JXP-TVKNU
+0WHA-28UU-E5EM8
+U5MU-XUNU-UVUF1
+9XZ2-NW8D-529TH
+WMNA-J2Q2-RP8MF
+H547-1BTT-BWJHF
+J00W-0H3B-DG7AD
+XDD2-P68X-9BAGG
+RP64-UGG5-GBZ6F
+R9FC-VJ04-DZ7F9
+FWJ6-UXPZ-Y3039
+E9FZ-A3QA-YCERP
+
+Improved Trap Reveal Range [Aleron Ives & Ralf]
+Z7MG-TDDX-ZQ675
+R9FC-VJ04-DZ7F9
+
+Improved Player & NPC Draw Distance [Aleron Ives & Ralf]
+PBYB-QWWD-D08DT
+RP64-UGG5-GBZ6F
+8HCV-M705-EK43P
+6EZM-HFX8-WP7MM
+QJEX-4JTD-23UWE
+YK16-CGUG-Q76B4
+
+Improved Teleporter/Warp Draw Distance [Aleron Ives & Ralf]
+VJD4-6WH8-BJ3VG
+4XEQ-XQBZ-6EXYK
+PDJN-K5J5-6QFBZ
+38J0-36BG-EHYYR
+C5JR-QTCD-C3NC2
+RGMM-P0UH-HK807
+1EZ8-JU6V-9M77U
+
+Improved Laser Fence/Switch Draw Distance [Aleron Ives & Ralf]
+D98E-G3MW-PTZT4
+JYGW-GG1N-2BNQT
+F67W-F6C9-P4939
+F9AZ-CDCF-2BGNA
+WNEC-WHYE-0DRD1
+0G3P-7PRP-TV767
+KCW0-ZC4R-PRTHC
+NQM2-XFVY-A1E7N
+
+Improved Door/Switch/Wall Draw Distance [Aleron Ives & Ralf]
+HMTW-B9JM-XW9RY
+08Y5-3169-CCAJ0
+EVZT-FRK6-HHP2F
+1DN4-XXPY-68FMV
+WYW3-GQYJ-UWM8Y
+U4G4-ZU62-C9G8W
+86JG-JH00-6X91E
+R15U-WT9E-WGKKT
+T3XY-3R9C-YNJQ6
+V2JN-62J9-FPA4W
+HCD3-95UB-QNKZ0
+X1UW-NJ8T-KB8W6
+H5XC-R4UE-EWBMY
+G0D4-K8EM-F18KE
+
+Improved Crate Draw Distance [Ralf]
+K66J-2BMW-48B6P
+1Q74-0X62-Q1TT7
+AAXD-JN88-QAMRV
+PG50-JCTM-J1894
+
+Improved Item Box Draw Distance [Ralf]
+WQP6-CTYG-PJYA1
+RJ5A-V8Q7-0Q0HA
+
+Improved Monster Blood Draw Distance [Aleron Ives]
+N468-HZAX-JHHET
+XDD2-P68X-9BAGG
+
+Improved Particle Effect Draw Distance [Aleron Ives]
+R22M-JPM4-3DV8J
+J00W-0H3B-DG7AD
+
+Improved Area Map Draw Distance (Doors & Enemies) [Aleron Ives]
+50WB-YTMA-63GFR
+01PD-CY0B-WN7AE
+Improved Baranz Launcher [Ralf]
+TJQA-F7JE-WP7HY
+ZW9Y-C0EA-U4PVF
+E2HQ-K40B-0FJH4
+051W-VR2B-G3DAF
+HFWK-EE10-645W1
+692G-1D63-XAXRA
+T3KZ-212Q-EXWX3
+E9FZ-A3QA-YCERP
+
+Improved Dancing Hitogata [Ralf]
+V53U-RK29-DQY14
+YCAA-XCHE-V8Z0B
+TQRU-7NUX-A0RCG
+NMT6-GV2B-BBCZJ
+09AW-YGYU-TV34Z
+WYDG-TN0X-DHYB2
+G5BN-VJM9-D5G9K
+50VT-XB22-UTKK0
+6BTN-PKQT-TQ2WT
+E9FZ-A3QA-YCERP
+
+Improved Dark Meteor [Ralf]
+BXCG-74NV-CR3KA
+9EXW-YYQC-KVRPA
+5B18-DEM9-B2598
+AZV4-7ZKU-CEVT0
+T2QB-GTQP-Y73GA
+PCE2-P3WY-NY9Y9
+E9FZ-A3QA-YCERP
+
+Improved Maser Beam & Power Maser [Ralf]
+C78P-M1PV-JBT7C
+247M-26NB-41KEH
+8KD7-8M2M-7Y4HA
+MJE3-2H7X-BC92P
+FC6W-2HV6-GE28Q
+E9FZ-A3QA-YCERP
+
+Improved Sorcerer's Cane [Ralf]
+ZVE1-T67D-83GZ4
+AP27-5Z3A-Q9RT7
+
+Improved Belra Cannon Special [Ralf]
+V8UZ-T81N-V2Y1U
+TJ47-AK44-7DPU0
+
+Improved Berdysh Special [Ralf]
+36D8-P5AW-RYHMA
+FVDV-7G1B-PUEQ0
+X5Z9-NYZ1-4RBU2
+
+Improved Caduceus Special [Ralf]
+E5T0-2Y5J-52G5K
+TK84-XAX1-F7WC2
+A9BU-744X-QKUCK
+RTHX-4KM7-2TE46
+AZNK-0AZY-2QNVV
+E9FZ-A3QA-YCERP
+
+Improved Dark Flow Special [Ralf]
+0ABZ-HBGV-VNBK7
+CP4E-C9H7-K282Y
+3MT5-54Y5-T9MJE
+FQAE-3R8M-YBKN2
+2GNR-62XG-FMV79
+RT1K-QV91-WXHCN
+3QPA-9JBM-FZAXW
+E9FZ-A3QA-YCERP
+
+Improved Double Cannon Special [Ralf]
+PNW0-GQ2M-ZNBC6
+XU3X-WV9C-T2AUU
+NT4P-5X8A-HBTFW
+GXMT-22KP-TE1CK
+JWRB-WPZM-J97B4
+YM4W-9JE4-DPHFQ
+NACF-HRJ8-V9FM5
+01N8-QJUZ-7Y5R9
+M60N-P8CP-FG9R4
+E9FZ-A3QA-YCERP
+
+Improved Dragon's Claw Special [Ralf]
+FEJ1-XM35-9TU8G
+Y126-RK93-EYQMA
+BJ8P-13GJ-X68WU
+BP4T-CU23-0RDYB
+Q98N-Z9P8-JHFMK
+E9FZ-A3QA-YCERP
+
+Improved Drill Launcher Special [Ralf]
+Y3WV-0P5H-UNVXF
+NP72-QAVA-Q1PH9
+R6CJ-X4Q5-Y26TK
+
+Improved Elysion Special [Ralf]
+8H08-CJX2-EFFXA
+FUF7-WCXA-WYRFH
+RG7G-7687-3A5GZ
+WRBK-00W1-Y6691
+8UP5-7AJF-F6273
+RYBU-42VM-13F4Q
+6T6B-4FBD-XJ9NA
+8E7Z-MX7A-B7CPJ
+P85F-Q4J9-Q0RF8
+HEGP-KUGU-2DDR0
+KPKK-UYV2-1JERM
+E9FZ-A3QA-YCERP
+
+Improved Evil Curst Special [Ralf]
+CCU4-3P2J-PAEPK
+T0Y9-XNNV-96VKA
+RX4P-HDVW-D9YN0
+
+Improved Gal Wind Special [Ralf]
+UUM9-P8M5-F2XZ6
+XDHC-Y8ZY-M20U4
+
+Improved Hildebear's Cane Special [Ralf]
+DPNX-FKPD-VAGVK
+GU84-FJJ7-4FY0R
+8CP0-VA39-01UA0
+
+Improved Hildeblue's Cane Special [Ralf]
+AGHM-Q5K0-C167F
+UMPQ-PZBC-EDPYH
+A0FB-HG91-45C7N
+
+Improved Lavis Blade Special [Ralf]
+4CAP-ZT02-WENCC
+9V9X-EEBZ-HXM3R
+3ZB5-03CH-7EH74
+
+Improved Lavis Cannon Special [Ralf]
+FCC2-Q3AH-K41ZD
+BA4U-6RNB-WXMD8
+U348-J9Z7-2GZF5
+
+Improved Magical Piece Special [Ralf]
+3M7M-R70J-HQ8E5
+3G42-AH9Z-5YFMJ
+WYW1-F0EU-W9N31
+JZ33-QQHE-D30YW
+XA2R-YPN3-8D1MF
+YUQC-PGB5-MFJ06
+ENVD-JDBG-404X3
+5BPJ-YDEY-E27YE
+UDRP-XCFC-MTWP3
+E1E2-3G5D-EC2M5
+0U3X-V5UM-JGT00
+WABE-P2M0-JG550
+0WKK-PCJE-QAKG7
+E9FZ-A3QA-YCERP
+
+Improved Orochi-Agito Special [Ralf]
+J5P6-TZ87-8BZBZ
+MHTJ-URVQ-9HEEA
+J30N-MACQ-X0HXP
+
+Improved Plantain Huge Fan Special [Ralf]
+54XR-PJHU-Y4KTM
+0939-CNCQ-3CHFP
+
+Improved Prophets of Motav Special [Ralf]
+1U57-70UN-CT5GH
+TUQ8-BVA0-PTB8Q
+NZT4-RT8R-VH4P3
+QKUF-6DDF-E6AJ7
+
+Improved Psycho Wand Special [Ralf]
+K4NE-4W2J-G9P3T
+PX6D-EYK8-URH3X
+ZFUJ-DDAH-H8FQT
+B6XP-G0AA-098Q3
+MRCN-FV67-XHUT5
+2EKW-ACP7-UHJK0
+TNBB-QTQ4-PAAW5
+P1MQ-219V-GBGW3
+ZGMN-F0J8-AUPGN
+1B3W-78Y5-2VT6B
+48D2-JGQF-5QNC9
+E9FZ-A3QA-YCERP
+
+Improved S-Red's Blade Special [Ralf]
+BZMD-EMGY-W2Z96
+2NWW-T2T6-65B9M
+1MHR-1NV3-T5X1E
+576F-3V3Q-WPMDM
+
+Improved Soul Banish Special [Ralf]
+BVNK-51KX-P3M8Z
+K3Y6-VCWE-HA0VT
+H4MQ-FC90-RKZK3
+Z7EJ-W30Q-980Q7
+
+Improved Technical Crozier Special [Ralf]
+3F9W-M11T-XFM88
+N8Y9-PJNY-6FTNH
+YMGQ-PU7M-YK1QC
+
+Improved The Sigh of a God Special [Ralf]
+UFCG-EG7D-8KMCR
+TK0R-FPYM-CT9B4
+7UNP-BNZ0-YXGB1
+
+Improved Twin Blaze Special [Ralf]
+G07X-KP0N-6AJM2
+MUW8-WWM7-9J1RT
+E3NC-A65X-HAN7H
+
+Improved Twin Psychogun Special [Ralf]
+84Q8-CF4D-KP5F7
+5J5U-QBH9-CPX10
+WJVT-NZGM-7Q644
+UG4V-C70V-5FHH9
+
+Improved Vjaya Special [Ralf]
+F20Q-DXBG-QWBT2
+XMQW-7VWG-ABR46
+U2DD-X7X1-WAV1R
+RAHY-FNHH-3DDEA
+G9CQ-MA3B-N0VQG
+6XHV-7XQQ-FGUHZ
+E9FZ-A3QA-YCERP
+
+Improved Windmill Special [Ralf]
+54N1-2ZPV-W6V07
+53XN-WTDH-RW9EC
+8MWA-RN00-BY9N8
+
+Improved Mag Specials [Ralf]
+0P59-8D6A-3K27H
+X6JK-GDZ8-U6F82
+4QY2-TBYD-XYGUB
+VE7B-M2JC-MQD85
+CH1G-U7WN-TWBFP
+E9FZ-A3QA-YCERP
+
+Improved Farlla Power [Ralf]
+95Z6-REBN-ZG8QU
+H763-XM1A-X6QW1
+61P7-7ZAG-PDZMP
+N83P-HG3B-43MX9
+
+Improved Estlla Power [Ralf]
+38R3-7F30-N14AD
+4WD4-GM5Y-X5DE1
+4YE6-ZBGB-EXYGR
+VTMM-8Y0J-HD3VE
+
+Improved Golla Power [Ralf]
+5XN9-CRTB-H66P0
+U34D-ZZ6N-KNQ59
+UF65-DFZP-JJGY1
+ZK10-UTXC-3X67F
+
+Improved Pilla Power [Ralf]
+62X8-NZRP-25MP4
+UGQV-N2XW-JKJZ4
+AERF-4YRU-YAECQ
+TQZC-8KVR-YDR8X
+
+Improved Leilla Power [Ralf]
+GN3X-2R59-783PQ
+FCW9-P86C-VKVEG
+FAQN-61F2-GR5QH
+
+Improved Mylla & Youlla Power [Ralf]
+9XPJ-WRNE-4K5ZE
+QWB3-524C-PUMY9
+6B4P-R0EC-6UYHG
+MV12-DRGP-FZ3W8
+
+Invisible Mag [Ralf]
+WTBJ-YXHX-807DR
+VA23-JF1N-1V8VU
+4BY1-9YF7-PVFZ9
+Gol Dragon Camera Bug Fix [Ralf]
+ZJ1T-C2EX-PAGGM
+A3BC-P57P-5UHGA
+EEYF-JVQR-JDYZY
+
+Reverser Target Lock Bug Fix [Ralf]
+7VCG-7W42-GBVTU
+UT2M-AU25-D8ZR9
+NGYD-EQKA-W69B2
+
+Tiny Grass Assassins Bug Fix [Ralf]
+XEF8-BV5M-5Z4VB
+DWVB-RF5W-NM4WU
+V469-KEX6-1C2QE
+
+Basic Rare Reduction Bug Fix [Ralf]
+9M7W-9B44-1Z1NB
+4AK9-MPQH-E0ZC8
+78WX-HJM1-W2QR5
+2FVK-HCC7-EYXQY
+PRAZ-84D8-PN04K
+U71R-F1P9-JMGPT
+52DQ-BJ3U-9E30B
+W4RQ-F1VK-XBU1T
+FTQB-NBR6-Z24A7
+E9FZ-A3QA-YCERP
+
+Invalid Items Bug Fix [Ralf]
+ZK7N-F3B6-50JDR
+P1GE-9FWQ-24RHU
+J5W7-YQX9-GWEHB
+V0QR-DWA7-UKB88
+J04A-YNBT-R5CCH
+FJB9-6B88-N89MX
+5H2K-VX7M-H1H60
+AP41-BTFQ-2HAVC
+FKAZ-77JT-A180T
+G8QG-E6PA-XE2C7
+255Q-F4H2-8ZFWV
+E9FZ-A3QA-YCERP
+
+Item Crate & Laser Fence Switch Fadeout Bug Fix [Ralf]
+8N38-YX7T-4HQ09
+ZK3F-NGK3-W8Z1U
+98P7-5X06-D7KN4
+G1KM-KZJ6-YJUXA
+
+SFX Cancellation Distance Bug Fix [Ralf]
+THXA-GHFX-HT6ZA
+1EQW-GY96-71BNJ
+Q6AG-GVKV-2507E
+
+Chat Bubble Window TAB Bug Fix [Ralf]
+J1DE-YYCZ-NQU12
+9XMR-BFHJ-PHJZK
+293Q-EUVP-GQ8HQ
+
+Chat Log Window LF/TAB Bug Fix [Ralf]
+8KZZ-HPJ6-D4KWT
+06UH-BDQV-Q4YJJ
+UTFG-Q8XF-E9XUF
+
+Alt. Chat Log Window Font (Small Beta Font) [Ralf]
+ZF2R-N96U-D4YD8
+06UH-BDQV-Q4YJJ
+GBCT-0E7G-8PKRK
+
+Improved Chat Log Window Size [Ralf]
+FF80-5TDQ-M1D13
+GD1G-V5C4-XJ424
+DXU5-N9MW-WJG6Y
+ZA1D-MARA-A70E7
+
+Chat Log Window: Scroll Lock (Hold L+R) [Ralf]
+EJVV-21RV-XRBKG
+DNN7-H46N-NT0V5
+F8VA-VM74-BDW8D
+UHM5-2NB3-2FT9A
+K9ZT-788D-XZAE8
+5HPD-EF5Z-0GRKR
+TDCZ-T6CB-PEE30
+G85W-QVVK-4UCE1
+FCNE-3EP1-54E1Y
+ZEQQ-9VT7-K2H7K
+E9FZ-A3QA-YCERP
+
+More Chat Text Colors [Ralf]
+9HM6-NGQ7-41649
+CJB9-U6PW-BJZJH
+Q4AF-0C56-95WEG
+M0CE-26RV-27WDY
+WGAK-QU8T-AND05
+3FXJ-TTAJ-JG7PK
+VUVB-RFFF-9ZH4V
+308J-Q0KG-976DP
+HAWH-WD4Y-KHTAJ
+KJ2R-JP91-H5FMY
+TB21-ZFDN-DAXU8
+8EDT-TBWM-Y6HQG
+A7T2-H5UB-613NE
+BMP0-ZUVP-FHDDG
+FXVY-QXE5-ETRM8
+E9FZ-A3QA-YCERP
+
+Colors
+
+<tab>CK - Light Grey
+<tab>CL - Red
+<tab>CM - Orange
+<tab>CN - Yellow
+<tab>CO - Light Green
+<tab>CP - Light Blue
+<tab>CQ - Light Purple
+<tab>CR - Medium Grey 1
+<tab>CS - Medium Grey 2
+<tab>CT - Dark Red
+<tab>CU - Brown
+<tab>CV - Olive
+<tab>CW - Dark Green
+<tab>CX - Dark Blue
+<tab>CY - Dark Purple
+<tab>CZ - Dark Grey
+
+Chat Tabulator Patch (Incl. Chat Bubble Window TAB Bug Fix) [Ralf]
+Q91N-2HT8-RNPPY
+UPD9-Y57U-DEKB7
+63YF-7FMQ-VJ0KQ
+N0NZ-9F3A-AK930
+T1F6-VJKW-E98D8
+PC9P-UPGQ-F76A3
+R7QF-62WG-ANU7K
+NMET-7FRA-PZ5TE
+G08N-YN0Q-JNC6P
+3W48-7HUD-N45NW
+YRCV-EKNY-Y12KJ
+241Q-CA9C-9YFZC
+VJH1-V3RQ-4K13M
+WJDK-45U3-EEANF
+N8RC-4YEA-YN844
+8HE5-3CUV-KU8BP
+DK3Q-BUWJ-D435U
+FCUG-H5N6-JUYH3
+UXA3-9X5D-HTGGN
+NUXY-H0T1-6ZTF3
+HUBD-JCZY-FQV8N
+NCDW-W89C-KKDQF
+293Q-EUVP-GQ8HQ
+E9FZ-A3QA-YCERP
+
+This code will let you enter a tabulator as a plain text keyword "<tab>" (w/o quotation marks).
+
+Remap Chat & Short Cut List Window Buttons [Ralf]
+9HHB-Z6YA-UB4BJ
+010B-J7Y0-KPNK4
+49RV-PC5D-6KK0U
+8AKH-7M6H-JW7Y1
+
+C-Stick Up = Open Chat Window
+Y or R + Y = Open Short Cut List Window
+
+Improved Short Cut List Window Size [Ralf]
+1RR0-KZM8-J9A0C
+A0GX-6FMK-CCJF0
+ZM5W-KU18-WJJ4M
+BF8C-6GVJ-TTE3V
+
+Improved Difluid Power [Ralf]
+Q1WM-35TH-J4UP5
+TEZ3-XXQ3-MNBEY
+B5H5-4XBM-0AQ2A
+
+Improved Monofluid Power [Ralf]
+M0ZT-PGKZ-KRVHP
+TEZ3-XXQ3-MNBEY
+E2VK-17J8-KVHGC
+
+Improved Mono/Dimate Power [Ralf]
+G83E-A6J0-QA0B5
+QHPY-MW5U-YDYPE
+9VZT-92C6-8QAW4
+
+Improved EFR Weapon Specials Power [Ralf]
+7R7A-RJ29-TEC9U
+HVRF-X662-5QM94
+2196-K7G1-7KYQ6
+
+Improved ETH Weapon Specials Power [Ralf]
+4PM1-W9TM-FNK1A
+D41X-81FD-DGBUR
+5MVH-97BK-A7A12
+
+Improved ETH Weapon Specials Shock Chance v1 [Ralf]
+HNGN-TWU1-ZNHGR
+RYX0-1B6M-7MBQA
+C4U3-VWEM-KHH01
+WC1R-W4JD-0P31B
+EYJ3-4DGV-R3JZP
+581Y-9E62-TU9AR
+GAUN-1HZG-23QN6
+39H1-JD51-F89RJ
+UE4M-YPZF-D5J7T
+BJ9G-1XD9-YW3KF
+9MH7-86RG-PYF0F
+7XKP-DPMK-DGK0E
+E9FZ-A3QA-YCERP
+
+Max Shock/Thunder/Storm/Tempest Shock Chance = 40%
+
+Improved ETH Weapon Specials Shock Chance v2 [Ralf]
+GKQ3-ZQ69-5K10P
+RYX0-1B6M-7MBQA
+C4U3-VWEM-KHH01
+WC1R-W4JD-0P31B
+EYJ3-4DGV-R3JZP
+581Y-9E62-TU9AR
+GD1B-019U-1KUFU
+981N-TNXA-PYZJK
+VWHY-KQAZ-GYQTK
+ECDW-HM64-3KPZ4
+TVZB-CYQ4-VA5NK
+1QT1-4MY1-09P0Q
+GFKF-A83D-HRMUW
+5MCF-BE2F-BUXTX
+5XRY-W1TF-D5ZZ5
+5G0J-ZXNT-G4VRC
+XQ05-XXNM-5N541
+61FR-ZWTC-5XZNH
+C7ER-P94J-F7601
+W9M6-THY0-DH9Y8
+37AJ-TWZB-X75WZ
+7XKP-DPMK-DGK0E
+E9FZ-A3QA-YCERP
+
+Max Shock/Thunder/Storm/Tempest Shock Chance = 10%/20%/30%/40%
+
+No Shock Status Stacking [Ralf]
+8XFA-VQFJ-DHPAE
+AQB9-PCEQ-MF0GV
+AC0Z-GFE7-PPNNY
+GYV2-FCVV-0AWVP
+XRWM-HUNJ-EBAYD
+57TA-MPG0-2F87G
+30N8-M7W6-RH0D4
+41BR-6MTE-Q3CW5
+CTFX-YHT8-XQ5WV
+E9FZ-A3QA-YCERP
+No Freeze/Paralyse/Confuse Specials Success Rate Bonus (Androids) [Ralf]
+EWHT-NXGK-QUCZM
+M1GP-940F-5HWAP
+GD03-9EPY-12GV1
+
+Improved Freeze/Paralyse/Confuse Specials Success Rate (Androids) [Ralf]
+HYRT-3JH7-ZKBDF
+C88Y-F9EH-04YRJ
+BP1W-36A3-U5AN5
+QMQM-7PQV-WEA9J
+
+Improved Freeze/Paralyse/Confuse Specials Success Rate (All) [Ralf]
+JZ25-099C-3GFAW
+5CGE-PBN2-M5NX1
+BP1W-36A3-U5AN5
+B1MV-AZRJ-Z3FNT
+QMQM-7PQV-WEA9J
+E9FZ-A3QA-YCERP
+
+Improved Gibarta/Rabarta & Ice Specials Freeze Chance [Ralf]
+JKYZ-6YQX-3G9UC
+CZ9E-K3UZ-5W46U
+DHB8-6N33-GUTM4
+DK4B-GKV8-C1RCV
+FQRB-RGJ4-87VPJ
+1Z5C-TDZY-AXTCR
+105P-CAPZ-VT4BT
+KZ13-FYCT-QZ9YG
+TCTN-GZY1-VTEAQ
+E9FZ-A3QA-YCERP
+
+Hunters & Forces: No Accuracy Loss Of Ranged Attacks [Ralf]
+V3Z9-DW36-VG5MY
+MYQE-NNUG-YJG6F
+UG98-F4M5-BK924
+
+Improved Gifoie Casting Time [Ralf]
+GT89-FMT9-EV1TT
+2C5G-XW42-H50C4
+
+Improved Rafoie Casting Time [Ralf]
+W00D-GX60-CZ6R9
+6H0A-9V52-UMCBZ
+
+Improved Gibarta Casting Time [Ralf]
+NQG7-CUFG-0XVTC
+NCUG-ETPU-XR122
+8QMV-GNB9-9M8H4
+B25A-THZ9-15XJT
+
+Improved Rabarta Casting Time [Ralf]
+FF9U-HX4E-UUW2G
+2Z1Z-PANZ-F3A2V
+
+Improved Gizonde Casting Time [Ralf]
+YA8G-CMT6-V37P8
+B1FX-XXDC-FETTR
+
+Improved Razonde Casting Time [Ralf]
+KD6P-K9UN-8C728
+F6Z4-2Y2E-NURER
+
+Improved Grants Casting Time [Ralf]
+DWR3-ENB4-9KF4C
+B11W-ZU07-3K89D
+
+Improved Deband Casting Time [Ralf]
+R8Z9-N28Z-1A22T
+JJ8W-MFCR-UWVEB
+
+Improved Shifta Casting Time [Ralf]
+1KJZ-HMRF-5P0UP
+FHA8-4M03-X96FM
+
+Improved Ryuker Casting Time [Ralf]
+P4N6-H9F0-TQ5MH
+YRGG-4H7U-6DE45
+
+Improved Resta Casting Time [Ralf]
+AH4P-8JK1-CDYUD
+76E4-EFK3-ETCK0
+
+Improved Anti Casting Time [Ralf]
+RNKV-YWMP-DQM3E
+GG0H-7JPZ-99ZPB
+
+Improved Reverser Casting Time [Ralf]
+E0BT-GPC9-FNZWQ
+1W2P-TE44-8EE15
+
+Improved Megid Casting Time [Ralf]
+2U6R-8PCF-RJF8D
+1WQ3-1RN3-TM0D5
+
+Improved Tech Casting Times [Ralf]
+HB60-DVGW-76GX0
+D91H-7FCH-B46AU
+WPGX-GG9H-DGX6U
+
+Psycho Wand: No HP Drain [Ralf]
+FC6P-V61Q-BBXP1
+2PZ5-HY1Z-B63C6
+X2JE-D06U-PA21N
+
+Dark Bridge: No Negative Status Effects [Ralf]
+BT1U-A93M-2XYGY
+8ECF-BY5K-7JMGH
+3PK1-RKQV-K1ZWM
+6CH5-WKXC-93T9G
+
+Improved Delsaber's Buster & Shield of Delsaber Combo [Ralf]
+B1Z3-E4BG-W0EGY
+9TR3-RMEV-H1FZC
+2D61-VXVH-FPZTA
+UJUM-B5TW-X5M04
+WE0M-DDMA-4YK6C
+096E-FF3Z-8VCTC
+EDER-PXRG-VYUMQ
+678J-M6J1-CQ35U
+312E-4EJM-BU5JU
+RN6W-NF7V-6CYXV
+6E88-Z1Z2-34CEU
+1TTN-8325-GATH0
+FCJF-6GNC-053VR
+YAZZ-MFG7-C1V5N
+CPNM-YDWM-GF52C
+PMRX-GQC7-M5WWG
+MN8F-JH42-EQ7NE
+ZQRQ-7F32-PUDFY
+EUAW-X08C-TGQY5
+4J4Z-0P69-271DQ
+NPA3-HZB4-2QG79
+TB2G-PB3P-DJ4G5
+E9FZ-A3QA-YCERP
+
+Shield of Delsaber: Enable Particle Effect [Ralf]
+7XC3-UMMZ-KRX2U
+78AN-DU8Z-WV46W
+0GKM-7YDJ-ZJEW7
+
+Lose 5% Meseta When Revived In Medi Centre [Ralf]
+22AG-2MZD-21TGQ
+QG17-B3F8-CWMWK
+M75H-K7MR-65GJ6
+QX12-6E3Z-V97ME
+V46X-ZNCG-U9QTJ
+0G5V-BNAM-Y91VR
+6YQR-TM1T-C8FKG
+948U-RARP-YBBQ0
+GGUC-YP1U-NT3D1
+E9FZ-A3QA-YCERP
+
+Never Lose Meseta When Revived In Medi Centre [Ralf]
+K0EC-JF7N-EJHPR
+HP4Y-8K50-7633K
+43A1-JFDR-Q48VD
+
+Enemies & Traps: No Player Speed Reduction [Ralf]
+H188-RXMH-P0E8R
+841G-YF8E-DPAXA
+KT21-YMCZ-JE4CG
+
+Disable All Map Traps [Ralf]
+4PQX-PHZR-1QP66
+CMDJ-F0J3-CN559
+G1CY-1ERB-3AXJE
+
+Map Traps: Slower Blast Time [Ralf]
+EYNX-74TB-Q3C5V
+P5N9-F3F8-MWHV9
+68BV-MECA-Y3TVQ
+9C9R-8QR3-0JW4N
+
+Android Traps: Faster Blast Time [Ralf]
+BFUW-EB72-974N9
+9XZH-74FT-1R39K
+62J0-3J9K-PHG7U
+GN1B-Z98B-G4598
+
+Enable Homing Traps (Map Traps Only) [Ralf]
+QUW8-1UV5-43QUT
+F3VR-YNRE-KVAAZ
+HG44-K2RX-C7KD3
+E4Y1-2Z64-0XZAZ
+WV14-JQZT-49BMG
+YXZ8-359G-28E1P
+4887-YRDF-V3FB5
+WUJ2-4CCJ-J9RXH
+YC4D-4BQ2-PVWCZ
+FKUG-GA3C-RUNN2
+AF0D-P98Z-KHQTY
+68BV-MECA-Y3TVQ
+VP4R-K4R4-XBGUV
+ZX70-CD0V-3NBA2
+E9FZ-A3QA-YCERP
+
+Enable Tech PB Generation [Ralf]
+4WXG-HB4F-J1AQC
+1AB4-PYJ8-1Y34T
+DTKV-R06P-GGU0T
+073Z-KBHB-28PXX
+2XVT-UVF7-M7WFA
+25ZP-XDXX-V6H5V
+T543-2PBT-6FNJK
+8DR1-0B33-ZA196
+WTNV-FNBE-WRUD8
+UQNF-9A2U-Q4XZ5
+084P-25QW-6PDVB
+HYJT-WGCH-76T94
+E9FZ-A3QA-YCERP
+
+
+Player Speed Modifier [Ralf]
+8C1C6070 D003001C
+041C606C C002C610
+045D8560 xxxxxxxx
+045D85F0 yyyyyyyy
+00000000 40000000
+
+xxxxxxxx = Walking Speed (IEEE-754 SP Floating-Point Number, Default: 3F800000 = 1.0)
+yyyyyyyy = Running Speed (IEEE-754 SP Floating-Point Number, Default: 3FC00000 = 1.5)
+
+
+Fast Player [Ralf]
+3R7H-FQQC-8TFBQ
+0AAD-2GX5-51ND9
+CN3K-E89M-7AX86
+GHAB-00AK-QDWPV
+K2JX-WZXC-C2UFY
+E9FZ-A3QA-YCERP
+
+Benny Hill Mode (Super Fast Player) [Ralf]
+Q6TE-2KGP-FUDQX
+0AAD-2GX5-51ND9
+CN3K-E89M-7AX86
+CAZY-JYGT-FBE9B
+JRR2-7G6T-T16KE
+E9FZ-A3QA-YCERP
+Have Four Action Button Palettes (C-Stick Version) - Part 1 [Ralf]
+CVBT-1ZDY-7R922
+RVAC-4FFT-AUKEN
+331N-9GDD-KTCYN
+ZHB6-22D0-WEJ4J
+695P-5MD6-PZGQZ
+FQEJ-1YDW-10QP5
+6C7F-3JJ5-BY8J8
+RNYY-90DK-VHT2N
+RW0Q-WETU-CCK95
+1B75-T7N5-XQ4ZA
+PBZU-JKU2-HVV0U
+B96G-Q1Z5-W29Y5
+MU3X-9A4U-GGZT2
+XCX7-H8U1-RN742
+8Y6C-MEAR-F734M
+JQH1-FMB3-3C39Y
+HBFG-91FW-3H1X1
+06Z7-NN6N-2GN88
+GA24-E4M7-VG7RM
+PJFB-EE02-Q8JY3
+D349-BJ5A-54T45
+DHYE-XZ0H-6YXHN
+YC2W-E27K-JV201
+F3QC-D2KR-CHNCA
+KRW3-DW5Q-136VZ
+G82J-7TV1-8A532
+QC82-07UB-39FA2
+HE5W-U6YK-ZY3WC
+U9QX-YFF3-8B0DF
+J1U3-NVFH-0T1J1
+N2AX-8A0P-AJRMC
+QYKB-YUAP-VF9HQ
+58G2-10B1-3131R
+T3MV-DB44-WU8W7
+MPD9-PQBA-KMQE6
+D17G-R10H-PZQA7
+8V5N-XWFF-A1ZGY
+MPGF-CUJ2-METBE
+E9FZ-A3QA-YCERP
+
+Have Four Action Button Palettes (C-Stick Version) - Part 2 [Ralf]
+2P2P-N3P5-ZHNNN
+RVAC-4FFT-AUKEN
+BETV-MMU5-TYXAD
+D7EA-HBH6-9JNG3
+VFGA-TRDB-T6VGC
+K8R8-ZWT5-TWAT4
+01PC-1T47-GKGKY
+E4R6-MNMC-ZCVDN
+1K17-4G1T-AJUPV
+VFQD-F545-E5NH6
+UAMB-B5DZ-ZM77Y
+384V-4RV4-7RW05
+V3QT-T6BJ-51B1V
+1G84-2U97-JMVMN
+5Z9U-X8ZZ-KQWR1
+5TUB-E1WK-D39ZE
+KJW0-1Z2F-6682W
+MJTC-QBDY-1F0PT
+HE9B-3QJA-0GRNC
+3A9C-ZRJN-X66ZD
+KD0H-H064-JTUV4
+0A31-MTNN-G9VJN
+NVTZ-PMRE-MWA14
+JA53-MDR9-YEWN3
+HGNW-E0TX-G2T63
+3HKC-J2NU-DGC1U
+8EDN-BWVD-QC9PY
+UQTW-DN6U-FCKMZ
+ZA3A-823G-K7NZY
+1ZZT-HC66-2PCFV
+MRP0-PUXY-Q7EJK
+JY34-YTM3-JA15Z
+NU7W-BJ45-DTDH4
+8MXH-HH9F-0H9Y7
+E9FZ-A3QA-YCERP
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+C-Stick Left  = Select Palette 1
+C-Stick Down  = Select Palette 2
+C-Stick Right = Select Palette 3
+C-Stick Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+C-Stick Left  = Load Palette 1 As Active Button Selection
+C-Stick Down  = Load Palette 2 As Active Button Selection
+C-Stick Right = Load Palette 3 As Active Button Selection
+C-Stick Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+C-Stick Left  = Save Active Button Selection As Palette 1
+C-Stick Down  = Save Active Button Selection As Palette 2
+C-Stick Right = Save Active Button Selection As Palette 3
+C-Stick Up    = Save Active Button Selection As Palette 4
+
+
+Have Four Action Button Palettes (D-Pad Version) - Part 1 [Ralf]
+HGU1-K9AY-MW8JJ
+RVAC-4FFT-AUKEN
+331N-9GDD-KTCYN
+ZHB6-22D0-WEJ4J
+695P-5MD6-PZGQZ
+FQEJ-1YDW-10QP5
+6C7F-3JJ5-BY8J8
+RNYY-90DK-VHT2N
+RW0Q-WETU-CCK95
+1B75-T7N5-XQ4ZA
+3YDQ-DPY7-2U3D1
+B96G-Q1Z5-W29Y5
+MU3X-9A4U-GGZT2
+7Z4R-VH6C-TQYYM
+8Y6C-MEAR-F734M
+AFGQ-2VHG-0WJ30
+HBFG-91FW-3H1X1
+06Z7-NN6N-2GN88
+ENFD-7GR2-6VYA5
+PJFB-EE02-Q8JY3
+D349-BJ5A-54T45
+R2QJ-8VZD-X9GDY
+YC2W-E27K-JV201
+F3QC-D2KR-CHNCA
+KRW3-DW5Q-136VZ
+G82J-7TV1-8A532
+QC82-07UB-39FA2
+HE5W-U6YK-ZY3WC
+U9QX-YFF3-8B0DF
+J1U3-NVFH-0T1J1
+N2AX-8A0P-AJRMC
+QYKB-YUAP-VF9HQ
+58G2-10B1-3131R
+T3MV-DB44-WU8W7
+MPD9-PQBA-KMQE6
+D17G-R10H-PZQA7
+8V5N-XWFF-A1ZGY
+MPGF-CUJ2-METBE
+E9FZ-A3QA-YCERP
+
+Have Four Action Button Palettes (D-Pad Version) - Part 2 [Ralf]
+KXUM-0VMM-TJ1WE
+RVAC-4FFT-AUKEN
+BETV-MMU5-TYXAD
+D7EA-HBH6-9JNG3
+VFGA-TRDB-T6VGC
+K8R8-ZWT5-TWAT4
+01PC-1T47-GKGKY
+E4R6-MNMC-ZCVDN
+1K17-4G1T-AJUPV
+VFQD-F545-E5NH6
+UAMB-B5DZ-ZM77Y
+384V-4RV4-7RW05
+V3QT-T6BJ-51B1V
+1G84-2U97-JMVMN
+5Z9U-X8ZZ-KQWR1
+5TUB-E1WK-D39ZE
+KJW0-1Z2F-6682W
+MJTC-QBDY-1F0PT
+HE9B-3QJA-0GRNC
+3A9C-ZRJN-X66ZD
+KD0H-H064-JTUV4
+0A31-MTNN-G9VJN
+NVTZ-PMRE-MWA14
+JA53-MDR9-YEWN3
+HGNW-E0TX-G2T63
+3HKC-J2NU-DGC1U
+8EDN-BWVD-QC9PY
+W9TU-HNZ3-4YHAX
+ARGT-13NW-30KEZ
+1ZZT-HC66-2PCFV
+MRP0-PUXY-Q7EJK
+JBP5-A02X-NJQTZ
+2EQH-P59V-69882
+8MXH-HH9F-0H9Y7
+E9FZ-A3QA-YCERP
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+D-Pad Left  = Select Palette 1
+D-Pad Down  = Select Palette 2
+D-Pad Right = Select Palette 3
+D-Pad Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+D-Pad Left  = Load Palette 1 As Active Button Selection
+D-Pad Down  = Load Palette 2 As Active Button Selection
+D-Pad Right = Load Palette 3 As Active Button Selection
+D-Pad Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+D-Pad Left  = Save Active Button Selection As Palette 1
+D-Pad Down  = Save Active Button Selection As Palette 2
+D-Pad Right = Save Active Button Selection As Palette 3
+D-Pad Up    = Save Active Button Selection As Palette 4
+TP Bar Color Bug Fix [Aleron Ives & Ralf]
+P35Y-HMB9-4VE9C
+J7Q1-00RW-11Q3P
+RBAV-NHB6-36JWF
+3N2V-AT64-54MX4
+2N84-6WAT-6ZD7W
+NKF4-Y3H1-B0QT0
+E9FZ-A3QA-YCERP
+
+Tech Auto Targetting Bug Fix [Ralf]
+4QKX-2HFX-TCN75
+BMTD-PHXK-XU4FZ
+UN0Q-0HXE-QC4YQ
+W96H-26XK-DAMYX
+NJHD-DRYM-A8PD9
+N84F-N4ZE-NV23T
+6TUR-14VR-TEQU8
+R9NA-XAJM-X0NB2
+W495-7PK8-6YNV2
+E9FZ-A3QA-YCERP
+
+Improved Tech Auto Targetting (Incl. Bug Fix) [Ralf]
+5VKU-8JNU-C4AJM
+BMTD-PHXK-XU4FZ
+UN0Q-0HXE-QC4YQ
+W96H-26XK-DAMYX
+X2B5-85HT-UH49R
+NJHD-DRYM-A8PD9
+ZYVG-404C-2GE8R
+N84F-N4ZE-NV23T
+YKY9-67MU-JVDY5
+6TUR-14VR-TEQU8
+1VQC-JHU9-ZWKXD
+WXHQ-E95A-3CU2J
+W495-7PK8-6YNV2
+HR3Q-N5J3-XUAMH
+993W-BC19-A57DG
+ZT0C-FPEY-75354
+E9FZ-A3QA-YCERP
+
+Improved Area Map [Aleron Ives & Ralf]
+4T0Z-YWT6-HXQ8C
+Y4AU-HAE9-UU9HK
+1471-PXE6-KZVQM
+R8XN-TNBF-DT3U5
+KDHT-Z7MR-NCBW0
+0UZ9-WZ6P-NEDHJ
+G5BZ-76GN-XADGJ
+TJFR-8W5Q-BX6BB
+BRU5-1684-VGCY3
+9U9P-VXTH-R6CMB
+57WD-U3N4-MYF6H
+FYUT-D85R-3RX0V
+0NB4-3CDQ-33ANN
+MPFE-QTTT-W1NN4
+93D3-0GQC-T6520
+9TZV-T4NK-XMYW2
+V9FW-FQDY-1JGYM
+9U62-UZXQ-R53AY
+
+Improved Mini Map v1 [Aleron Ives & Ralf]
+ZG50-TZPM-EZ0QE
+M34N-C71K-ZXAYF
+6TPQ-8PXN-AD93Q
+72C3-RXZJ-DAJY6
+MQ65-UFUT-DYJX3
+X4QR-FRQJ-8YE02
+2K4F-4VXP-Y489D
+HBU1-A2WD-9G17P
+AA4E-1VUE-K5YMJ
+GZVQ-2GU1-2RVDX
+BM36-75TC-0G2H1
+MPFE-QTTT-W1NN4
+
+Improved Mini Map v2 [Aleron Ives & Ralf]
+C90P-F0QC-B1VR1
+M34N-C71K-ZXAYF
+54EH-DG05-1C3VT
+2ZN4-2CU0-6QNE9
+BWNQ-0KGV-5D3MC
+Q6PH-47V2-K943F
+05GP-RJ59-A123C
+0N0J-DMGP-322D1
+MQ65-UFUT-DYJX3
+BMUD-JP7P-XG20C
+2K4F-4VXP-Y489D
+XR6V-NT66-WUGNM
+GZVQ-2GU1-2RVDX
+0TKN-3END-NKTE6
+67AB-F0RG-6NAF3
+7JQ7-EN9R-WA23X
+YFCG-VTUV-0ZAE7
+MPFE-QTTT-W1NN4
+
+Improved Mini Map v3 [Aleron Ives & Ralf]
+CQUM-G8UT-Q5JZ5
+M34N-C71K-ZXAYF
+J01C-W56G-AG4BJ
+BCHJ-CUB5-BUHAU
+QXJ6-AAN8-0CVUU
+FP8Y-ZREM-U9WWW
+GETC-CMU9-BCAPH
+PVTD-CA72-1NVXK
+ED01-Q1JP-31Z6E
+FQRU-RTBN-4RMZJ
+V9Q8-CDEW-TR7EE
+EEZ6-6DM4-EWA8X
+GZVQ-2GU1-2RVDX
+BRNM-ZB5U-HA89C
+XY3C-TE84-YV7AN
+AP1K-YZV2-JHJ7R
+GH38-MRPE-RAFCY
+MPFE-QTTT-W1NN4
+
+Improved Mini Map v4 [Aleron Ives & Ralf]
+4YHX-TVV3-N67JF
+GDH5-PHZH-JQ52P
+ZJTV-QR1Y-9MHFU
+M34N-C71K-ZXAYF
+C2J8-KFZQ-Z3W55
+902V-JG2U-T54CX
+28Y9-B08M-0ZFPM
+B435-BDPQ-A808N
+PJ4B-HCCN-0X34E
+H046-HKUY-5R2TK
+PKV4-023H-68H7V
+J83Q-G5ZX-9TP40
+7PZU-J5YZ-WRNW3
+Q793-WPV4-V7MUR
+VTA5-4GD8-G07HT
+MPFE-QTTT-W1NN4
+E9FZ-A3QA-YCERP
+
+Improved Split-Screen Map [Aleron Ives & Ralf]
+8JZ2-QM5T-2BH2G
+0WAU-2ZDZ-ZGX1W
+F46D-VCU0-TF8GH
+0CR6-K5QG-T7A5R
+JPYT-CKE0-UX2HV
+M7RJ-67XG-V72HU
+75NX-5C4N-B1VPZ
+WEUE-6E9P-2FZD1
+RT5P-NAE8-A443Z
+32Y5-D1MM-X9PZP
+ZAT3-J6VC-47UYU
+K0EG-NRW7-FRPAP
+1FP5-1QDC-PJ38C
+W8BC-NZDN-920Q6
+MPFE-QTTT-W1NN4
+E9FZ-A3QA-YCERP
+
+Reveal Complete Map [Ralf]
+6T65-H77C-TXB64
+CMNE-9WB0-CUY4Q
+81GN-KH1X-WGCBP
+EZJ7-U3EX-4CM0M
+P6KN-RG22-R0XNG
+E9FZ-A3QA-YCERP
+
+Challenge Mode: Access All Stages [Ralf]
+WJQ6-YVHU-C7AMU
+3926-P0GE-8VHF1
+N2DZ-B4JV-833MU
+
+Lock On Window: Show Enemy HP Bar [Ralf]
+MH13-5WF6-QMC3A
+XT3V-Y7KC-4U3Q4
+X2EX-04MH-6PC7Z
+GDXD-67DD-37Z5C
+RUYA-CECE-JA319
+9591-0XJR-YNVFQ
+CM7E-Y28G-40KX8
+1C0A-VMNW-D4JPJ
+E9FZ-A3QA-YCERP
+
+Lock On Window: Show Enemy HP/TP Bar [Ralf]
+NM1Y-HV9H-E1WZX
+XT3V-Y7KC-4U3Q4
+X2EX-04MH-6PC7Z
+7G26-R4W0-6PVP1
+GDXD-67DD-37Z5C
+RUYA-CECE-JA319
+4XKY-JWPN-AHTE8
+CF2Y-26VQ-EZJAJ
+GYB5-A75K-VRVCA
+CM7E-Y28G-40KX8
+HGDY-Y7K5-DBGGY
+E9FZ-A3QA-YCERP
+
+Humans & Newmans Can Use Traps [Ralf]
+YEKW-1MMQ-314QV
+NKKE-YHTK-K90VW
+F6QD-R5EQ-3V19B
+BJ0H-1U6N-8DU6D
+9TEY-C4A3-XF7NP
+9DP9-2J4Z-M4X3J
+9X7D-F9ZQ-F7R4N
+7GBG-RHF8-PKH1V
+KFT3-31K0-8M0HT
+D1WM-92DD-D9M5U
+KY3F-GDX8-YJM14
+P006-NQ1Z-97U2E
+8QMC-UJPE-WRRW3
+8WN5-ZT80-12D64
+7ZXZ-J9FH-D13PA
+G10G-7BQK-YAA35
+E9FZ-A3QA-YCERP
+QZF3-5QM6-THC44
+NPFZ-93AH-14KNK
+Z5YN-ZR5R-W08Z9
+T4XE-GBG8-5644K
+85AH-7ZM0-6JUEU
+RFX5-G6EU-H92T8
+FPE1-9Q96-GWC98
+C6FT-EWDU-NWRHD
+Y5UD-3EV7-UZ8E5
+E9FZ-A3QA-YCERP
+
+Full Action List (Incl. Photon Blasts & Traps) [Ralf]
+WNA5-5DWD-8GVJU
+6M78-BX1X-T4GRK
+M0XE-W9RB-9AMUJ
+XATH-HVVY-HBE3G
+3G3F-K094-8YM09
+D730-8ZYX-TMFVK
+ZQUK-08WN-MW5QB
+5W6Q-CBY7-EEQ7C
+PPYH-CC66-G932A
+BZMM-Z87N-0F1PQ
+A010-XDUD-YKV73
+EVR0-P3PW-HV8Z3
+A8E6-D20T-X9ZQ9
+XXA1-YWTR-QDR5Y
+26R0-FAF9-UB8Z8
+GZ5F-CQAC-M1PND
+PBH9-CVVC-Z1VD2
+41BH-CR82-F499A
+5RPP-UKZ8-962N6
+DBAW-BCY4-PJ79U
+NPFZ-93AH-14KNK
+Z5YN-ZR5R-W08Z9
+T4XE-GBG8-5644K
+85AH-7ZM0-6JUEU
+RFX5-G6EU-H92T8
+FPE1-9Q96-GWC98
+C6FT-EWDU-NWRHD
+98HD-56DK-T98GU
+BVGG-F83Y-9J1A8
+560K-JV82-1X5FX
+E9FZ-A3QA-YCERP
+
+Disable Photon Blast Palette Switching [Ralf]
+F4B2-Y1BH-1499N
+YZYF-HYCV-XVE1N
+0QYV-QTZJ-0HAVA
+
+Use this code with the Action Button Palette codes and the Full Action List code.Foie: Improved Range [Ralf]
+N5HD-4M85-VRRY0
+HZGW-X43D-CZ4E5
+7UUV-VKDW-YRJZG
+
+Foie: Improved TP Cost [Ralf]
+GX9H-5937-Z7TT5
+CNKX-YH9Z-BD349
+UHPP-99BC-FV4Y7
+
+Foie: Faster Fireball [Ralf]
+KTE0-1HCF-2F472
+5HU1-ECQ4-8FH1M
+
+Foie: Disable Auto Targetting [Ralf]
+1E4Y-ZYWM-4V9BT
+K0FX-1GE5-KGBN3
+YVWY-CM34-2YPFM
+
+Gifoie: Improved Range [Ralf]
+NKXD-6ZCB-VV2HF
+00PM-J6EJ-JH82V
+KMB4-VCV5-Z8QR8
+
+Gifoie: Improved TP Cost [Ralf]
+YPKM-6EJA-HJCFN
+XXU9-PCEM-6A9KR
+9FDA-BN0U-R44F9
+
+Gifoie: Faster Flaming Circle [Ralf]
+G3BE-G4TF-NBB0P
+6RXX-U7EN-BXJBY
+
+Rafoie: Improved Range [Ralf]
+F9FU-PAAN-8Q541
+R175-VDH4-78BYD
+5NJH-7JPV-YTMK4
+
+Rafoie: Improved TP Cost [Ralf]
+1PR7-5W0R-M6426
+U0AT-UXWQ-ACAV3
+62K2-PMEZ-340F4
+
+Rafoie: Improved Charge Time [Ralf]
+YW9C-45VH-H69R9
+WX3Y-J1XP-5JA7V
+
+Rafoie: Disable Auto Targetting [Ralf]
+JAUE-RJPN-FDW6J
+K0FX-1GE5-KGBN3
+JV2D-PGY4-BC7B9
+
+Barta: Improved Range [Ralf]
+QR61-RQV2-16GJM
+H3J2-GFYK-PD3WJ
+ET65-J89M-EQ3PU
+
+Barta: Improved TP Cost [Ralf]
+JUHT-CRPV-27D1E
+ZJ4B-XKUY-K1A2M
+NNNV-JBRH-9FFH0
+
+Barta: Faster Ice Beam [Ralf]
+7NEZ-5QCN-VJHP5
+WUFU-FCJX-U19Q2
+
+Barta: Disable Auto Targetting [Ralf]
+79F0-XN6U-URZ3T
+QDYE-KNXJ-J92FT
+KFYM-G80F-KKP6M
+UN0Q-0HXE-QC4YQ
+
+Gibarta: Improved Range [Ralf]
+NJX4-BN5W-DYVMA
+5D6P-M7MT-4HZ9H
+YJ68-X5D5-RZEVX
+
+Gibarta: Improved TP Cost [Ralf]
+7B2Q-W9YN-G0VRA
+4NHG-EE0Y-EFKWR
+YD78-X4F5-2ZQ1P
+
+Gibarta: Disable Auto Targetting [Ralf]
+UAFX-50YW-NT0QM
+K0FX-1GE5-KGBN3
+AFRA-U5YT-B5XK3
+
+Rabarta: Improved Range [Ralf]
+Z4KT-G3D0-ZZVBP
+JB5E-ZBP0-NBRJ7
+7J08-6QNK-09A9M
+
+Rabarta: Improved TP Cost [Ralf]
+KVNV-79JR-W6UEJ
+8N3N-38HX-5AJG8
+KRZZ-B5V5-WYP7D
+
+Rabarta: Improved Charge Time [Ralf]
+NBRY-335Y-TM7R6
+RJBV-UPAQ-HRENK
+
+Zonde: Improved Range [Ralf]
+ZYNV-XKUF-XRHE4
+PU0G-X726-36M1J
+4X9Q-6E84-HTR9P
+
+Zonde: Improved TP Cost [Ralf]
+924N-DW0R-PZTTU
+JND0-Y2VV-91DHE
+7EQV-HW0R-RCRJN
+
+Gizonde: Improved Range [Ralf]
+XAG0-C1UZ-G76YH
+GCCR-H6HH-6KBE5
+DQA1-59G0-V8N91
+
+Gizonde: Improved TP Cost [Ralf]
+561E-T74H-V6ZJR
+WPU5-QWWV-QPWUM
+GTKK-EJ75-313N0
+
+Razonde: Improved Range [Ralf]
+HARE-U6PP-138XM
+UYBV-4W9H-AA4PR
+VAGF-U5ZK-PG6F9
+
+Razonde: Improved TP Cost [Ralf]
+MMGU-HRKR-VF13V
+65WT-MW7Z-3GRGD
+4H4E-H65F-T6TXZ
+
+Razonde: Improved Charge Time [Ralf]
+1V2T-Z0TE-BQA01
+RYDC-D904-5Z9UD
+
+Grants: Improved Range [Ralf]
+FHC5-8J1X-4Z3C5
+E616-YZE5-FWPHC
+BKCX-Y4PX-13XKR
+
+Grants: Improved TP Cost [Ralf]
+C2TX-C3E9-RR4RX
+28BE-BKG2-KYUJV
+5WZ8-URZ2-AF5UD
+
+Grants: Improved Charge Time [Ralf]
+EAU6-XRYT-XW829
+HDRX-PX4D-HZBJ9
+
+Megid: Improved Range [Ralf]
+H83F-BA1D-QMAAV
+G3RH-0869-W7FDU
+3FU2-FX7G-B85E7
+
+Megid: Improved TP Cost [Ralf]
+BWGV-F3AY-7YRQ5
+PM0B-GQCN-X3R27
+BVTA-2PU4-VT4D7
+
+Megid: Faster Shadow Ball [Ralf]
+TDP6-F25P-JTF5X
+W2BE-EZZG-8KK1J
+
+Megid: Improved Charge Time [Ralf]
+2H2B-V56B-3RMZ1
+RTX4-64DN-5W6GG
+
+Megid: Disable Auto Targetting [Ralf]
+NDC8-MGQU-RYGC5
+K0FX-1GE5-KGBN3
+DFZ0-V1AP-CYVD2
+
+Shifta: Improved Power [Ralf]
+Y3F3-764P-UCUV8
+RE6B-5RCQ-CBRAZ
+
+Shifta: Improved Range [Ralf]
+893G-CJXQ-9BNYH
+QP95-UAUN-5D8DU
+
+Shifta: Improved TP Cost [Ralf]
+DFGW-GVGU-E3NH6
+269G-RZJ7-H2C67
+7GAA-J5EU-2QH7J
+
+Deband: Improved Power [Ralf]
+RBEZ-5QC8-TQJ89
+Q6RU-MR9K-BB0GZ
+
+Deband: Improved Range [Ralf]
+GTFF-VH1F-CKP45
+5HBJ-U1JD-G52WZ
+
+Deband: Improved TP Cost [Ralf]
+06VE-X160-3ZGJM
+PU8J-33UF-AX49U
+4291-XC39-EAWFW
+
+Jellen: Improved Power [Ralf]
+5MP9-RXGK-1MUJE
+HWYR-43WW-XMV28
+
+Jellen: Improved Range [Ralf]
+FC9K-7M02-BTQ1J
+KZ5F-T4VX-BE59H
+63FZ-YRVZ-DD8HT
+
+Jellen: Improved TP Cost [Ralf]
+5VT1-HW9Y-A4W9Z
+3QCM-QPJT-64MYD
+RY4E-D3Q1-XR3F3
+
+Zalure: Improved Power [Ralf]
+63BY-Z1T8-WR2JD
+AAGW-4HC2-ADKZU
+
+Zalure: Improved Range [Ralf]
+D47J-0TP0-VQVN6
+BQX4-QCHP-GRMVY
+U9NB-GV3U-HRCMG
+
+Zalure: Improved TP Cost [Ralf]
+PFFP-Z3WH-QNZV0
+9JVV-FVD0-YQT1D
+NBZR-5NWG-1Y477
+
+Resta: Improved Power [Ralf]
+BJZ6-9VJG-MCH2M
+1F27-Z32W-DW8RG
+CWDR-2BQ1-3YF16
+
+Resta: Improved Range [Ralf]
+DBYM-Z304-8R08H
+WV6V-H453-MYQW7
+
+Resta: Improved TP Cost [Ralf]
+PTXB-QVV2-WJXMW
+RJ0K-Z5M7-PVUAD
+28M9-ZE4T-HX4FB
+
+Reverser: Improved Range [Ralf]
+141U-0JE9-2N4DE
+N7BT-RZ1K-VQEBD
+
+Reverser: Improved TP Cost [Ralf]
+RRC8-HDNZ-EJD2D
+9WQY-RGXF-75UW1
+
+Reverser: Improved Charge Time [Ralf]
+5YWH-614P-JHCWW
+P13J-U383-E2906
+
+Ryuker: Improved TP Cost [Ralf]
+V1BU-XZ4F-4H4CE
+T5VC-H0VU-DWJGZ
+
+Ryuker: Improved Charge Time [Ralf]
+RYUK-XM3E-Y8JDW
+W6QJ-K63C-55PEA
+
+Anti: Improved Range [Ralf]
+KCJP-8125-5E00M
+D3TD-87F8-FATZ3
+
+Anti: Improved TP Cost [Ralf]
+KPMN-HD54-8THDH
+GH5P-G9MD-R85CE
+
+Improved Charge Time (All Techs) [Ralf]
+114A-206C-NUQNK
+NRV2-N9Q7-FD8P4
+ZGF6-4U46-KRQU1
+
+Improved PB Amplifier/Generate/Create [Ralf]
+C0V6-JJJ0-6UQX7
+H52X-0U4N-YKYCU
+BGJ5-N02K-B8QX4
+
+Improved HP Restorate/Generate/Revival [Ralf]
+FMKD-PN22-WGWRP
+X9VY-XQ9M-MM02G
+0PFT-V7YQ-CX22P
+
+Improved TP Restorate/Generate/Revival [Ralf]
+FPG9-N84J-YDV81
+5EPB-PBAQ-UVWT0
+ZUMA-BE1H-AP2YDBGM Test: Improved Window Height [Ralf]
+BZKQ-Z5XK-367DB
+RUMG-X4GB-8A2VU
+
+BGM Test: Display File Names [Ralf]
+RPAT-WG9G-J4NNR
+6TTX-WCMT-UEBCE
+1822-DBU7-96P1J
+
+BGM Test 2.0 [Ralf]
+4CV8-YWKD-WTKUD
+6TAZ-ZEQH-RVT4C
+8817-49E1-T3DN0
+1822-DBU7-96P1J
+M6JN-VRZN-4T9TF
+Q425-BHEM-HA8YU
+2Y54-2WTQ-RRCM1
+CM5T-8GFV-DYV5M
+6GY6-KEXU-9R6H3
+ME3K-YJ1M-ZZ7NG
+FUHE-5RN4-XQPZJ
+QVNT-PE88-Y69AV
+XBQW-Z84X-3PNJN
+0M63-7A6W-JXKG0
+GC5N-0X6X-5CREZ
+3EE6-PPC6-TK71F
+AY28-G1WD-QMMFR
+3JA0-AUUV-B6N6J
+VRU5-RUZM-FW309
+WT8J-KFMZ-VCAK3
+XTPQ-B9RH-QZJF6
+0BV8-MQGB-HF22Q
+7CYG-1TFP-Y7FEE
+JCNW-HK2N-ZPDCV
+ZZQJ-QA75-XXQBC
+9FKY-6BMY-YCZAZ
+5P68-GDXC-NMXD3
+T15C-2FQU-F9WJ4
+8EVN-J0CE-DF6PJ
+8DG6-KXWB-Q2YV1
+MHJ6-H6WJ-82CYP
+N9EB-6GMW-MR49A
+Y99D-EQEM-02G54
+WVY5-83PC-AP1F7
+4WFU-M832-Y0NAX
+8J1V-D0QA-04YFA
+RUMG-X4GB-8A2VU
+E9FZ-A3QA-YCERP
+
+Song List
+
+- carnaval.adx
+- chu_f.adx
+- CUBE_OPENING_LALA.adx (*)
+- dreams.adx
+- DreamS_KIDS.adx
+- ED_PIANO.adx
+- ENDING_LALA.adx (*)
+- ESCAPE.adx
+- Event.adx
+- HALL.adx
+- HALLOWEEN.adx
+- hearts.adx
+- Jinglebell.adx
+- jungle.adx (*)
+- LIVE.adx
+- mambo.adx
+- matter.adx
+- MILES.adx
+- nomal.adx
+- open.adx
+- OPENING_LALA.adx (*)
+- smile.adx
+- T1.adx
+- T2.adx
+- VR1.adx (*)
+- VR1_B.adx (*)
+- VR1_N.adx (*)
+- VR2_B.adx (*)
+- VR2_N.adx (*)
+- water.adx (*)
+- WEDDING.adx
+- Zarathustra.adx
+
+(*) Unused Song
+
+
+Background Music Modifier Codes
+
+
+DISKS
+
+DISK Vol.1 [Aleron Ives & Ralf]
+044F1BD8 xxxxxxxx - Default: 80478A60 (WEDDING.adx)
+
+DISK Vol.2 [Aleron Ives & Ralf]
+044F1BDC xxxxxxxx - Default: 80478A6C (Event.adx)
+
+DISK Vol.3 [Aleron Ives & Ralf]
+044F1BE0 xxxxxxxx - Default: 80478A78 (hearts.adx)
+
+DISK Vol.4 [Aleron Ives & Ralf]
+044F1BE4 xxxxxxxx - Default: 80478A84 (open.adx)
+
+DISK Vol.5 [Aleron Ives & Ralf]
+044F1BE8 xxxxxxxx - Default: 80478A90 (LIVE.adx)
+
+DISK Vol.6 [Aleron Ives & Ralf]
+044F1BEC xxxxxxxx - Default: 80478A9C (DreamS_KIDS.adx)
+
+DISK Vol.7 [Aleron Ives & Ralf]
+044F1BF0 xxxxxxxx - Default: 80478AAC (ED_PIANO.adx)
+
+xxxxxxxx = Song ID
+
+
+PIONEER 2
+
+City [Ralf]
+044436F0 xxxxxxxx - Default: 804434D0 (city.adx)
+044B5C10 xxxxxxxx
+
+Hunter's Guild [Ralf]
+044B5C04 xxxxxxxx - Default: 804434AC (GUILD.adx)
+
+Lab [Ralf]
+044B5C14 xxxxxxxx - Default: 804434DC (labo.adx)
+
+Lobby [Ralf]
+044436F4 xxxxxxxx - Default: 804436E4 (LOBBY.adx)
+
+Medi Centre [Ralf]
+044B5C08 xxxxxxxx - Default: 804434B8 (MEDICAL.adx)
+
+Shops [Ralf]
+044B5C00 xxxxxxxx - Default: 804434A0 (SHOP.adx)
+
+The Principal [Ralf]
+044B5C0C xxxxxxxx - Default: 804434C4 (soutoku.adx)
+
+xxxxxxxx = Song ID
+
+
+RAGOL - EPISODE I
+
+Forest 1 [Ralf]
+8C1402A4 2C030000
+04140BCC 60000000
+04140BD0 3C60xxxx
+04140BD4 6063yyyy
+00000000 40000000
+
+Default: 8043EE10 (forest_b.adx)
+
+Forest 2 [Ralf]
+8C1402A4 2C030000
+04140C78 60000000
+04140C7C 3C60xxxx
+04140C80 6063yyyy
+00000000 40000000
+
+Default: 8043EE10 (forest_b.adx)
+
+Under the Dome [Ralf]
+4C1402A4 2C030000
+0414056C 3C60xxxx
+04140570 6063yyyy
+
+Default: 8043EDB0 (dragon.adx)
+
+Cave 1 [Ralf]
+8C1402A4 2C030000
+041408E0 60000000
+041408E4 3C60xxxx
+041408E8 6063yyyy
+00000000 40000000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Cave 2 [Ralf]
+8C1402A4 2C030000
+041409A0 60000000
+041409A4 3C60xxxx
+041409A8 6063yyyy
+00000000 40000000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Cave 3 [Ralf]
+8C1402A4 2C030000
+04140A40 60000000
+04140A44 3C60xxxx
+04140A48 6063yyyy
+00000000 40000000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Underground Channel [Ralf]
+4C1402A4 2C030000
+04140618 3C60xxxx
+0414061C 6063yyyy
+
+Default: 8043EDC0 (delo.adx)
+
+Mine 1 [Ralf]
+8C1402A4 2C030000
+04140DE0 60000000
+04140DE4 3C60xxxx
+04140DE8 6063yyyy
+00000000 40000000
+
+Default: 8043EE30 (machin_b.adx)
+
+Mine 2 [Ralf]
+8C1402A4 2C030000
+04140EA0 60000000
+04140EA4 3C60xxxx
+04140EA8 6063yyyy
+00000000 40000000
+
+Default: 8043EE30 (machin_b.adx)
+
+Monitor Room (Vol Opt Battle - Part 1) [Ralf]
+4C1402A4 2C030000
+0403DD68 3C60xxxx
+0403DD80 6063yyyy
+
+Default: 804355C8 (vol_opt1.adx)
+
+Monitor Room (Vol Opt Battle - Part 2) [Ralf]
+4C1402A4 2C030000
+0403DD10 3C60xxxx
+0403DD14 6063yyyy
+
+Default: 804355B8 (vol_opt2.adx)
+
+Ruins 1 [Ralf]
+8C1402A4 2C030000
+041402A8 60000000
+041402AC 3C60xxxx
+041402B0 6063yyyy
+00000000 40000000
+
+Default: 8043ED80 (ship_b.adx)
+
+Ruins 2 [Ralf]
+8C1402A4 2C030000
+04140348 60000000
+0414034C 3C60xxxx
+04140350 6063yyyy
+00000000 40000000
+
+Default: 8043ED80 (ship_b.adx)
+
+Ruins 3 [Ralf]
+8C1402A4 2C030000
+041403E0 60000000
+041403E4 3C60xxxx
+041403E8 6063yyyy
+00000000 40000000
+
+Default: 8043ED80 (ship_b.adx)
+
+Monolith Area (Dark Falz) [Ralf]
+8C1402A4 2C030000
+0400CAF0 3C60xxxx
+0400CAF4 6063yyyy
+0400CAF8 4803F48C
+0404BF80 4BFC0B70
+0404BF84 481DADCD
+00000000 40000000
+
+Default: 8047A7E0 (dark_b1.adx)
+
+Dark Falz Battle (Form 1 & 2) [Ralf]
+4C1402A4 2C030000
+0404CEA4 3C60xxxx
+0404CEA8 6063yyyy
+
+Default: 80436544 (dark1.adx)
+
+Dark Falz Battle (Form 3) [Ralf]
+4C1402A4 2C030000
+0404C838 3C60xxxx
+0404C83C 6063yyyy
+
+Default: 80436538 (dark2.adx)
+
+Spaceship (Battle Mode) [Ralf]
+4C1402A4 2C030000
+043109F0 3FE0xxxx
+043109F4 63FFyyyy
+
+Default: 804758E4 (duel1.adx)
+
+Palace (Battle Mode) [Ralf]
+4C1402A4 2C030000
+043109E4 3FE0xxxx
+043109E8 63FFyyyy
+
+Default: 804758F0 (duel2.adx)
+
+xxxxyyyy = Song ID
+Background Music Modifier Codes
+
+
+RAGOL - EPISODE II
+
+VR Temple Alpha & Beta [Ralf]
+8C1402A4 2C030000
+04141044 60000000
+04141048 3C60xxxx
+0414104C 6063yyyy
+00000000 40000000
+
+Default: 8043EE58 (r_b.adx)
+
+VR Temple Final [Ralf]
+4C1402A4 2C030000
+042993B0 3C60xxxx
+042993B4 6063yyyy
+
+Default: 80464EE8 (delo2.adx)
+
+VR Spaceship Alpha & Beta [Ralf]
+8C1402A4 2C030000
+04140F68 60000000
+04140F6C 3C60xxxx
+04140F70 6063yyyy
+00000000 40000000
+
+Default: 8043EE50 (s_b.adx)
+
+VR Spaceship Final [Ralf]
+4C1402A4 2C030000
+04299318 3C60xxxx
+0429931C 6063yyyy
+
+Default: 80464ED8 (dragon2.adx)
+
+Central Control Area, Jungle Area, Mountain Area & Seaside Area [Ralf]
+8C1402A4 2C030000
+0429948C 60000000
+04299490 3C60xxxx
+04299494 6063yyyy
+00000000 40000000
+
+Default: 80464EF8 (j_b.adx)
+
+Cliffs of Gal Da Val [Ralf]
+4C1402A4 2C030000
+04140850 3C60xxxx
+04140854 6063yyyy
+
+Default: 8043EDD0 (gryphon.adx)
+
+Seabed Upper & Lower Levels [Ralf]
+8C1402A4 2C030000
+04299574 60000000
+04299578 3C60xxxx
+0429957C 6063yyyy
+00000000 40000000
+
+Default: 80464F00 (w_b.adx)
+
+Test Subject Disposal Area (Elevator - Olga Flow Battle) [Ralf]
+4C1402A4 2C030000
+042B00CC 3C80xxxx
+042B00DC 6083yyyy
+
+Default: 804706EC (proto1.adx)
+
+Test Subject Disposal Area (Hall - Before Olga Flow Battle) [Ralf]
+4C1402A4 2C030000
+042AFE2C 3C60xxxx
+042AFE30 6063yyyy
+
+Default: 804706E0 (HALL.adx)
+
+Test Subject Disposal Area (Hall - Olga Flow Battle) [Ralf]
+4C1402A4 2C030000
+042AFCE0 3C60xxxx
+042AFCE4 6063yyyy
+
+Default: 804706C8 (proto2.adx)
+
+Test Subject Disposal Area (Hall - After Olga Flow Battle) [Ralf]
+4C1402A4 2C030000
+042AC0FC 3C60xxxx
+042AC100 6063yyyy
+
+Default: 804706E0 (HALL.adx)
+
+xxxxyyyy = Song ID
+
+
+SCREENS
+
+Title Screen [Ralf]
+4C1402A4 2C030000
+04335A54 3C60xxxx
+04335A58 6063yyyy
+
+Default: 804775A8 (title.adx)
+
+Character/Mode Selection & Options [Ralf]
+4C1402A4 2C030000
+0423E5FC 3C60xxxx
+0423E600 6063yyyy
+
+Default: 8044DB18 (advr.adx)
+
+Character Creation [Ralf]
+4C1402A4 2C030000
+0428E324 3C60xxxx
+0428E328 6063yyyy
+
+Default: 80450F98 (CHARA.adx)
+
+Prologue (Episode 1) [Ralf]
+4C1402A4 2C030000
+041440F0 3C60xxxx
+041440F4 6063yyyy
+
+Default: 8043EF28 (OPENING.adx)
+
+Prologue (Episode 2) [Ralf]
+4C1402A4 2C030000
+041440E0 3C60xxxx
+041440E4 6063yyyy
+
+Default: 8043EF14 (CUBE_OPENING.adx)
+
+Epilogue (Episode 1 - Online) [Ralf]
+4C1402A4 2C030000
+042E45B0 3C60xxxx
+042E45B4 6063yyyy
+
+Default: 804728F8 (ENDING_LOOP.adx)
+
+Epilogue (Episode 1 - Offline) [Ralf]
+4C1402A4 2C030000
+0408C678 3C60xxxx
+0408C67C 6063yyyy
+
+Default: 804388A8 (ending.adx)
+
+Epilogue (Episode 2 - Online) [Ralf]
+4C1402A4 2C030000
+042E45C0 3C60xxxx
+042E45C4 6063yyyy
+
+Default: 80472908 (CUBE_ENDING_LOOP.adx)
+
+Epilogue (Episode 2 - Offline) [Ralf]
+4C1402A4 2C030000
+041440B8 3C60xxxx
+041440BC 6063yyyy
+
+Default: 8043EF04 (CUBE_ENDING.adx)
+
+xxxxyyyy = Song ID
+
+
+EVENTS
+
+Christmas [Ralf]
+4C1402A4 2C030000
+0417E718 3C60xxxx
+0417E71C 6063yyyy
+
+Default: 804436F8 (Jinglebell.adx)
+
+New Year [Ralf]
+4C1402A4 2C030000
+0417E728 3C60xxxx
+0417E72C 6063yyyy
+
+Default: 80443708 (Zarathustra.adx)
+
+Valentine's Day [Ralf]
+4C1402A4 2C030000
+0417E738 3C60xxxx
+0417E73C 6063yyyy
+
+Default: 80443718 (Valentine.adx)
+
+Easter [Ralf]
+4C1402A4 2C030000
+0417E748 3C60xxxx
+0417E74C 6063yyyy
+
+Default: 80443728 (Easter.adx)
+
+Halloween [Ralf]
+4C1402A4 2C030000
+0417E758 3C60xxxx
+0417E75C 6063yyyy
+
+Default: 80443734 (HALLOWEEN.adx)
+
+xxxxyyyy = Song ID
+
+
+Song IDs
+
+8044DB18 - advr.adx
+80449768 - carnaval.adx
+8043EDE0 - cave_b.adx
+8047A764 - cave_n.adx
+80450F98 - CHARA.adx
+8044979C - chu_f.adx
+804434D0 - city.adx
+8043EF04 - CUBE_ENDING.adx
+80472908 - CUBE_ENDING_LOOP.adx
+8043EF14 - CUBE_OPENING.adx
+817F4B3D - CUBE_OPENING_LALA.adx (*)
+80436544 - dark1.adx
+80436538 - dark2.adx
+8047A7E0 - dark_b1.adx
+8047A7EC - dark_b2.adx
+8043EDC0 - delo.adx
+80464EE8 - delo2.adx
+8043EDB0 - dragon.adx
+80464ED8 - dragon2.adx
+80449750 - dreams.adx
+80478A9C - DreamS_KIDS.adx
+804758E4 - duel1.adx
+804758F0 - duel2.adx
+80443728 - Easter.adx
+80478AAC - ED_PIANO.adx
+804388A8 - ending.adx
+817F4D7B - ENDING_LALA.adx (*)
+804728F8 - ENDING_LOOP.adx
+8047A844 - epi1.adx
+8047A850 - epi2.adx
+804497C8 - ESCAPE.adx
+80478A6C - Event.adx
+8043EE10 - forest_b.adx
+8047A738 - forest_n.adx
+8043EDD0 - gryphon.adx
+804434AC - GUILD.adx
+804706E0 - HALL.adx
+80443734 - HALLOWEEN.adx
+80478A78 - hearts.adx
+804436F8 - Jinglebell.adx
+817F6515 - jungle.adx (*)
+80464EF8 - j_b.adx
+8047A8C0 - J_N.adx
+804434DC - labo.adx
+80478A90 - LIVE.adx
+804436E4 - LOBBY.adx
+8043EE30 - machin_b.adx
+8047A788 - machin_n.adx
+8044975C - mambo.adx
+80449738 - matter.adx
+804434B8 - MEDICAL.adx
+804497E0 - MILES.adx
+80449790 - nomal.adx
+80478A84 - open.adx
+8043EF28 - OPENING.adx
+817F7EF1 - OPENING_LALA.adx (*)
+804706EC - proto1.adx
+804706C8 - proto2.adx
+8043EE58 - r_b.adx
+8047A888 - R_N.adx
+8043ED80 - ship_b.adx
+8047A7C8 - ship_n.adx
+804434A0 - SHOP.adx
+80449784 - smile.adx
+804434C4 - soutoku.adx
+8043EE50 - s_b.adx
+8047A8A4 - S_N.adx
+80478764 - T1.adx
+80470718 - T2.adx
+804775A8 - title.adx
+80443718 - Valentine.adx
+804355C8 - vol_opt1.adx
+804355B8 - vol_opt2.adx
+817FFEC0 - VR1.adx (*)
+817FFEC8 - VR1_B.adx (*)
+817FFED2 - VR1_N.adx (*)
+817FFEDC - VR2_B.adx (*)
+817FFEE6 - VR2_N.adx (*)
+817FFEFB - water.adx (*)
+80478A60 - WEDDING.adx
+80464F00 - w_b.adx
+8047A8DC - W_N.adx
+80443708 - Zarathustra.adx
+
+(*) Unused SongItem Removal Maxed Stats Bug Fix [Ralf]
+YVEM-ME5H-9P4R5
+979U-ZJT5-6M674
+ZF63-MG04-VZW4V
+0NPH-UGE2-K01DW
+AB75-K1MT-5RHXT
+EFPG-9PNF-YHN7Z
+93QC-XHAE-CX8Z2
+R68U-Z2MD-ER7TY
+H61B-UBTJ-Y46RX
+A2MB-MJ8B-K8NUY
+38GD-CER3-A5Z3E
+5UGK-7M0A-7RW8B
+NUYY-ET93-ERP2G
+469Q-GC9V-4VK5Q
+ZDTM-DUHW-6GHBJ
+QTUY-PTJY-Y29BV
+GDHD-PUWZ-EZZU1
+XRCW-FJDK-9N47J
+MB27-0R66-6YQ70
+8UGN-M48T-4K3UX
+UNA0-0DMK-HZHW5
+Q533-43QV-16WG0
+H0U8-81Q3-AHVFM
+YCVD-6JD7-PZJXZ
+XP37-UNMN-B3N2J
+NPPY-DDJY-ZEGHY
+0HK7-4B33-GEK2C
+XTGC-V6GK-GJ1C3
+00X6-9MAM-33WFT
+81V4-WUAD-V62DR
+E216-XZU8-RMBG3
+4UKF-EP14-YKAWP
+E9FZ-A3QA-YCERP
+
+Devil's & Demon's Special Damage Display Bug Fix [Ralf]
+K4V5-EHRY-K9V7W
+53FW-2MXV-QYNZ6
+A6VK-GTZF-NPCA3
+
+Restore Pioneer 2 Event Music [Aleron Ives & Ralf]
+R0RD-G5HE-YCV15
+0M1E-0XDE-77EXD
+UT33-1DN3-BVA9F
+TRQG-97FN-E3Q6W
+
+Restore Pioneer 2 Event Music v2 [Aleron Ives & Ralf]
+2NBN-M0PF-EWGW4
+K987-N63C-ABQBA
+R5A0-8QBT-1X4G3
+FZ2M-A1C8-AE67C
+V3X6-FV9Y-P3V45
+RF5Q-JBFJ-06TXA
+5D90-58QQ-1GQZW
+H9MA-QEH4-WWDB6
+FK01-0BF6-93JX2
+BVMU-UNKN-KXARD
+TRQG-97FN-E3Q6W
+E9FZ-A3QA-YCERP
+
+Attack Effectiveness Color Indicator [Ralf]
+D5CZ-9RZC-00613
+901G-AZK9-YB8CV
+5VXD-UWBT-9N587
+67MU-9XHC-50H3H
+DXBN-EVKX-JP311
+VKFU-7WVH-XKHR2
+PD34-F0VU-DQW36
+HGR3-BB96-KQXRQ
+V9VR-4H31-3K7TZ
+FR28-PGQC-KY4XJ
+XM21-0W0X-YCWUB
+5V0Q-60A5-B7CUU
+VJFD-RECZ-G8UTD
+9X6G-J7A6-ZXTVA
+ACGE-7A7M-HU00N
+QPGN-P9EQ-2PMTR
+EA3D-FJYA-1A3CK
+H3W3-BZGF-UF7EZ
+E9FZ-A3QA-YCERP
+
+Damage Value Colors
+
+Yellow - Less effective attack
+Orange - Medium effective attack
+Red    - High effective attack
+
+Enable Weapon Auto Targetting [Ralf]
+9CD9-EDVM-9T2AN
+96K9-QXP1-RVZG2
+QC2A-RPKX-J90GQ
+
+Tools Shop: No Tech Level Cap [Ralf]
+2BTN-K588-9JC86
+BVZ5-MMF3-MHY5M
+DW60-5GTH-ZT225
+T26V-MFRM-CZMAB
+XWM8-PUT0-T02CG
+NTKM-8KX4-01UBE
+2QY5-8NGQ-45BXM
+F4A0-DX58-6EV8K
+RKY2-W35M-D1E93
+MMQY-MBPP-8YQ7Z
+E9FZ-A3QA-YCERP
+
+Tools Shop: Able To Buy Grants & Megid [Ralf]
+824X-9T9V-98XWA
+B6J9-522C-YBUYU
+1ZQ5-HQF4-PK3PH
+YUAA-AHEM-HDB0X
+1XUG-5WX4-EQBEX
+TEER-NYJ6-80EHR
+6XNZ-BVTC-ZENBC
+8HR9-C40W-HBP8X
+Z4A1-5D4J-0YYRK
+UERF-1D3V-DE4X1
+6PA6-2BP7-V3F45
+R09K-5RF2-4TEUR
+WF8U-QMXQ-J1M4E
+Q7WU-W4GM-1F50B
+5VAX-FQTC-G0X7T
+9VHQ-ZTXP-PQ1FD
+E9FZ-A3QA-YCERP
+
+Tools Shop: Monomate Item Modifier [Ralf]
+0444C198 000000xx
+0444C19C 000000yy
+
+xxyy = Item ID (Default: 0000 - Monomate)
+
+Tools Shop: Dimate Item Modifier [Ralf]
+0444C1A0 000000xx
+0444C1A4 000000yy
+
+xxyy = Item ID (Default: 0001 - Dimate)
+
+Tools Shop: Trimate Item Modifier [Ralf]
+0444C1A8 000000xx
+0444C1AC 000000yy
+
+xxyy = Item ID (Default: 0002 - Trimate)
+
+Tools Shop: Monofluid Item Modifier [Ralf]
+0444C1B0 000000xx
+0444C1B4 000000yy
+
+xxyy = Item ID (Default: 0100 - Monofluid)
+
+Tools Shop: Difluid Item Modifier [Ralf]
+0444C1B8 000000xx
+0444C1BC 000000yy
+
+xxyy = Item ID (Default: 0101 - Difluid)
+
+Tools Shop: Trifluid Item Modifier [Ralf]
+0444C1C0 000000xx
+0444C1C4 000000yy
+
+xxyy = Item ID (Default: 0102 - Trifluid)
+
+Tools Shop: Antidote Item Modifier [Ralf]
+0444C1C8 000000xx
+0444C1CC 000000yy
+
+xxyy = Item ID (Default: 0600 - Antidote)
+
+Tools Shop: Antiparalysis Item Modifier [Ralf]
+0444C1D0 000000xx
+0444C1D4 000000yy
+
+xxyy = Item ID (Default: 0601 - Antiparalysis)
+
+Tools Shop: Sol Atomizer Item Modifier [Ralf]
+0444C1D8 000000xx
+0444C1DC 000000yy
+
+xxyy = Item ID (Default: 0300 - Sol Atomizer)
+
+Tools Shop: Moon Atomizer Item Modifier [Ralf]
+0444C1E0 000000xx
+0444C1E4 000000yy
+
+xxyy = Item ID (Default: 0400 - Moon Atomizer)
+
+Tools Shop: Star Atomizer Item Modifier [Ralf]
+0444C1E8 000000xx
+0444C1EC 000000yy
+
+xxyy = Item ID (Default: 0500 - Star Atomizer)
+
+Tools Shop: Telepipe Item Modifier [Ralf]
+0444C1F0 000000xx
+0444C1F4 000000yy
+
+xxyy = Item ID (Default: 0700 - Telepipe)
+
+Tools Shop: Trap Vision Item Modifier [Ralf]
+0444C1F8 000000xx
+0444C1FC 000000yy
+
+xxyy = Item ID (Default: 0800 - Trap Vision)
+
+Tools Shop: Scape Doll Item Modifier [Ralf]
+0444C200 000000xx
+0444C204 000000yy
+
+xxyy = Item ID (Default: 0900 - Scape Doll)
+
+Tools Shop: Monogrinder Item Modifier [Ralf]
+0444C208 000000xx
+0444C20C 000000yy
+
+xxyy = Item ID (Default: 0A00 - Monogrinder)
+
+Reduced Aura Field TP Drainage [Ralf]
+FA40-BV7W-QZR6D
+N036-G96E-V5BWD
+8MKG-D66B-KYPTH
+
+Reduced Evil Curst TP Drainage [Ralf]
+UB6U-B3YH-6A69A
+QMKM-PNJZ-VCHFQ
+HTRT-7ZN0-UB52R
+
+Reduced Luminous Field HP Drainage [Ralf]
+9WT6-4R3U-QTNTD
+N036-G96E-V5BWD
+UQQ6-UJC1-8QJ3C
+
+Reduced Parasite Wear: De Rol HP Drainage [Ralf]
+JWK4-G29P-1W279
+N036-G96E-V5BWD
+APDF-66CF-CJEJP
+
+Reduced Parasite Wear: Nelgal HP Drainage [Ralf]
+TBBZ-6RM3-5Z8B4
+N036-G96E-V5BWD
+9P1Z-AV43-A1D3H
+
+Reduced Parasite Wear: Vajulla HP Drainage [Ralf]
+7WEB-F9W8-AK9Y8
+N036-G96E-V5BWD
+0GTC-E6TN-754GH
+
+Reduced Soul Banish HP Drainage [Ralf]
+M5MM-GNQA-JF3VF
+1F1N-K6BJ-C10Z1
+KUFT-P6NN-ZQ973
+
+Reduced Soul Eater HP Drainage [Ralf]
+ZWZY-AVT3-BACZJ
+1F1N-K6BJ-C10Z1
+42TA-2W8V-9F9AC
+
+Reduced Twin Blaze HP Drainage [Ralf]
+823J-K6TK-9BX69
+BDTU-D8UF-XFVPR
+EWXT-654Z-YU7M1
+
+Reduced Yamigarasu HP Drainage [Ralf]
+VEER-R57A-9KQ4N
+2HMD-05BG-F1D0F
+0B8F-JB7N-5WVAF
+
+Improved Madam's Parasol HP Restoration [Ralf]
+79F1-F144-NBAVE
+M30F-RX4T-BM8BD
+WH5M-MU7N-XRNAD
+
+Improved Madam's Umbrella TP Restoration [Ralf]
+XG5E-TK3W-UCAT7
+2HVD-MB2N-14961
+YBQW-Z3E2-YT4KF
+
+Improved Marina's Bag HP Restoration [Ralf]
+7MVZ-YFFK-NKZ44
+5JJ4-YP8U-H4NN8
+WZ3D-70HZ-DXA03
+
+Improved Red Ring HP/TP Restoration [Ralf]
+ZQU5-KPZ0-DPK28
+YHEN-MPC0-UBAC2
+23TC-C67Y-28A2J
+QURA-P418-E3XXA
+
+Improved Revival Garment HP Restoration [Ralf]
+6NJF-BCP1-MKEGK
+RVRM-ZF18-872BN
+EP0K-RHPA-PGBAT
+
+Improved Spirit Garment TP Restoration [Ralf]
+WKKA-X8Q0-TFGWB
+FXAT-BEY0-QU5RX
+BZ6E-D8QE-VTWHJ
+
+Improved Rico's Glasses Abilities [Ralf]
+YJYG-HPHA-4JQ7Y
+AHH8-2VDT-28K4J
+7GC4-4RNX-BK4CH
+
+Improved Sacred Cloth Abilities [Ralf]
+J1U0-4W1W-N3W8W
+AHH8-2VDT-28K4J
+UW5E-KQFY-VAR53
+
+Improved Sacred Guard Abilities [Ralf]
+3BVB-M3FN-5G6NW
+AHH8-2VDT-28K4J
+ZU8M-2TT8-BU4QV
+
+Improved Sense Plate Abilities [Ralf]
+FUVG-0191-0Q6PK
+AHH8-2VDT-28K4J
+XQ9T-N5E8-4QDUG
+Christmas Theme (Offline Mode) [Aleron Ives & Ralf]
+FGEZ-M9FZ-EMV9P
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+RFAK-BFHB-TCGVD
+E9FZ-A3QA-YCERP
+
+New Year Theme (Offline Mode) [Aleron Ives & Ralf]
+546K-71FH-1P7VN
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+TRQG-97FN-E3Q6W
+25UX-R3QV-NP3NN
+E9FZ-A3QA-YCERP
+
+Valentine's Day Theme (Offline Mode) [Aleron Ives & Ralf]
+JQBK-FWQP-ZPRXJ
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+GN81-0QDE-JUWV0
+E9FZ-A3QA-YCERP
+
+Easter Theme (Offline Mode) [Aleron Ives & Ralf]
+BJ18-UF9X-ERJKY
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+J35N-NK74-0MXXU
+E9FZ-A3QA-YCERP
+
+Halloween Theme (Offline Mode) [Aleron Ives & Ralf]
+9AMD-X6JW-12PJD
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+GK5J-WNBJ-TVRXF
+E9FZ-A3QA-YCERP
+
+Sonic Theme (Offline Mode) [Aleron Ives & Ralf]
+6DBJ-HQ6W-N5RKZ
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+UT33-1DN3-BVA9F
+C4RY-G7K9-DJHYZ
+F4H6-W7R3-M2URT
+TCC6-MU15-EZDMH
+E9FZ-A3QA-YCERP
+
+Recon Frenzy [Ralf]
+QPP4-3TCW-CCQX2
+D447-465Y-PKUBD
+B3EC-Z1BX-1E1F0
+
+Mothmant/Mothvert Frenzy [Ralf]
+X2G1-YCCV-1R590
+6TEP-H1YD-WNNZT
+VDN3-K43G-5RXFK
+MF8Y-QU49-GGPUB
+
+Very High Rare Monster Encounter Rate [Ralf]
+UYRR-JVJU-TAKG8
+85E2-E0W9-190UD
+NBNZ-7YDT-GG0FU
+GQBF-94UE-M4HD2
+7N4B-95WA-H0D4E
+
+Mericarol/Merikle/Mericus Encounter Rate Patch [Ralf]
+CA54-2DPR-8XW95
+6D2J-XCCC-R859K
+CN1U-GRZE-31HDQ
+
+High Merikle/Mericus Encounter Rate (Incl. Patch) [Ralf]
+8ZJ8-EQRQ-92ZMC
+RFJZ-9DUX-5NMJY
+CN1U-GRZE-31HDQ
+MJJW-AKA5-Q5X8N
+3Z3D-A04Q-1B8FV
+E9FZ-A3QA-YCERP
+
+Savage/Barbarous Wolf & Gulgus/Gulgus-gue Encounter Rate Patch [Ralf]
+5J85-GPXR-D212N
+6C59-8RGJ-TPJ4B
+HHHY-84XG-8UDT1
+EAR4-20V1-AEE6F
+6WFA-07XT-Q7VGE
+KY3F-CGM9-5HFCQ
+HVYV-G1MD-HCBA3
+E9FZ-A3QA-YCERP
+
+High King Rappy Encounter Rate (All Difficulties) [Ralf]
+RBD5-0P8X-4M4C0
+7E28-7448-G62CY
+5Y1M-QW0R-RY7AP
+UZ6A-54H3-AZJDU
+
+Replace King Rappies With Baby Rappies [Ralf]
+JK26-30JW-CZTV2
+7E28-7448-G62CY
+E5G6-M3TJ-GEYF4
+N82Q-DKPW-VR8D8
+
+Replace Pofuilly Slimes With Pouilly Slimes [Ralf]
+PY0F-U1GT-9METE
+7B1N-0TQ2-9A8Y7
+G959-PC0W-QM9NV
+
+Replace Poison/Ob Lilies With Nar/Mil Lilies [Ralf]
+P5T6-VGU0-CTTFM
+9BC7-FPZU-6ZA3J
+PX9T-BNXA-WWBRE
+
+Replace Hildebears/Hidelts With Hildeblues/Hildetorrs [Ralf]
+JYDV-TD21-ZB4MH
+5MMY-HJ80-HD3ZU
+4YG7-AK46-DM7E9
+
+Replace Rag/El/Al/Pal/Event Rappies With King Rappy Counterparts [Ralf]
+GX7A-FMFN-3GQWD
+2ZQZ-ZBKN-QHZWU
+VN60-GUYU-E2WR4
+
+Replace Rag/El/Al/Pal/Event Rappies With Baby Rappy Counterparts [Ralf]
+4ACD-87QQ-RA73B
+EEGH-ZGZJ-CN190
+E5G6-M3TJ-GEYF4
+N82Q-DKPW-VR8D8
+VN60-GUYU-E2WR4
+E9FZ-A3QA-YCERP
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & St Rappies (Ep2) [Ralf]
+YVYJ-PP37-UZ9AZ
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+TMEA-ZZ0R-DZUPX
+CKJW-PHZU-TYJTG
+E9FZ-A3QA-YCERP
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Egg Rappies (Ep2) [Ralf]
+V4EQ-1YH6-7XG7R
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+W8K0-GX6B-A2UT0
+CKJW-PHZU-TYJTG
+E9FZ-A3QA-YCERP
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Love Rappies (Ep2) [Ralf]
+AQZ7-ZHXD-E6TYM
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+RNJV-PX1N-JY52E
+CKJW-PHZU-TYJTG
+E9FZ-A3QA-YCERP
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Hallo Rappies (Ep2) [Ralf]
+3Z90-QYHG-MXPNJ
+EEGH-ZGZJ-CN190
+N3M5-DUNX-FF7RG
+0QUW-FPQZ-4BY4T
+CKJW-PHZU-TYJTG
+E9FZ-A3QA-YCERP
+
+Replace Evil Sharks/Vulmers & Pal Sharks/Govulmers With Guil Sharks/Melqueeks [Ralf]
+44HN-WNJX-W15KJ
+C7HX-A1KP-MKMF2
+ETEK-EPM1-J9025
+
+Replace Dimenians/Arlans & La Dimenians/Merlans With So Dimenians/Del-Ds [Ralf]
+PUNE-8Y1B-HQYXN
+1TKD-V9CC-3ZDPN
+C37D-KW5E-6U1YG
+
+Replace Boomas/Bartles & Goboomas/Barbles With Gigoboomas/Tollaws [Ralf]
+UGY9-TYNQ-17B5D
+FC7U-Y22X-9WGKN
+7J1C-2YKM-CCQEW
+
+Replace Savage Wolves/Gulguses With Barbarous Wolves/Gulgus-gues [Ralf]
+8WD5-81RR-ADWP3
+VZP7-VG0H-UFNRM
+GCJY-0VB6-XAZ20
+
+Replace Sinow Beats/Blues With Sinow Golds/Reds [Ralf]
+5MBA-Y7G2-QVV78
+04QR-CQM9-WA1JE
+WX6G-HHZ7-JQTB5
+
+Replace Sinow Golds/Reds With Sinow Beats/Blues [Ralf]
+5TWX-TGGX-AA7YX
+04QR-CQM9-WA1JE
+MP7U-ZQXQ-HMBYG
+
+No Invisible Sinow Berills & Sinow Spigells [Ralf]
+ZJC3-0PXC-5698D
+EURY-K10C-K0UR0
+BVFM-06VZ-66W52
+K1VD-35Y7-3U7EZ
+ED11-WPNT-N92YC
+E9FZ-A3QA-YCERP
+
+Replace Sinow Berills With Sinow Spigells [Ralf]
+68Z6-AYZX-0B5CF
+1304-AU8V-NMWWE
+YYWM-JYKB-09MN9
+
+No Invisible Sinow Zoas & Sinow Zeles [Ralf]
+VU2N-2EK5-41BEX
+MFU6-E666-A8BP8
+MCHG-FGAJ-7XUPP
+D66P-TQ84-8H3WN
+44TE-0YBX-RJ9Y4
+E9FZ-A3QA-YCERP
+
+Replace Sinow Zoas With Sinow Zeles [Ralf]
+P5BE-7R5H-HZUG1
+2ZVG-E3QD-7GQF1
+TZJ4-PAYW-DTM6E
+
+Replace Ul Gibbons With Zol Gibbons [Ralf]
+4QWK-96YK-UFBK7
+PAMG-MFBR-WYJ77
+N7YD-4ZC8-DKV1N
+
+Replace Merillias With Meriltas [Ralf]
+368A-EHA0-FEJZF
+6YGG-G9TA-GGP97
+H1UY-M3AR-6VZNF
+
+Replace Dolmolms With Dolmdarls [Ralf]
+4RDJ-HVKG-3CQG8
+GG0F-788T-441F1
+YC2R-44X2-W28NC
+
+Enable Monster Debug Mode (Hold L) [Ralf]
+K1NR-CA6Z-XN3B5
+NRKN-V5UH-BBEP6
+UZRM-R10B-0R754
+1NNT-35MW-HJCU5
+0WZ9-T8D5-WGZAX
+NAYW-9ERZ-1RHPQ
+VDAD-U4RG-44A0T
+DJY5-HW3Z-AQ23J
+E9FZ-A3QA-YCERP
+
+Enable Monster Debug Mode v2 [Ralf]
+8RU3-611C-TCCU0
+NRKN-V5UH-BBEP6
+7W2P-RCQA-HUX0B
+KY50-8W37-B7WWQ
+56VU-GRJQ-GUNMK
+F5JN-ABNE-2CBNG
+MAFK-JWCR-Y3UXE
+585P-PUFB-66AAT
+B5KJ-J1B4-DM8QG
+72W2-FEV3-R84D9
+CCTA-8PYR-6PXPE
+APNC-J101-MWWTU
+Q2CU-XWJ6-68EZQ
+HATW-5962-0J9NX
+NGTZ-2N4H-FMJP6
+DJY5-HW3Z-AQ23J
+E9FZ-A3QA-YCERP
+
+L (Hold)              = Debug Mode On  (Temporary)
+L (Hold) + DPad Right = Debug Mode Off (Temporary)
+DPad Left/Right       = Debug Mode On/Off
+Unit Present Bug Fix [Ralf]
+H4ZG-4FH2-0HRFT
+2EKP-5W2J-XCBXU
+XFPX-MG46-DZDEG
+567R-9HCH-B9E7X
+8A82-6Y35-EG4NP
+05C1-16RB-R2G51
+TNHN-FC2H-P92JA
+K7DG-CZHU-B32N7
+E9FZ-A3QA-YCERP
+
+Foie Always Pierce [Ralf]
+JXDX-22C6-QBVGK
+4Q84-JRAQ-Z6K3U
+AATY-8TER-J6KJW
+
+Megid Always Pierce [Ralf]
+NZUH-PT1Y-NG3W8
+4Q84-JRAQ-Z6K3U
+JMRG-JCZY-8J6JK
+
+Androids Have All Traps Maxed [Ralf]
+FNQW-K5TR-GVWCJ
+91YT-6TX2-P15WU
+GP3Q-2QXC-Q0KWW
+9Y6G-D2A3-M0T0M
+
+Androids: Improved Damage Traps [Ralf]
+K3DE-N33Z-UGNMA
+700V-CAUE-BXRPT
+K93P-YMDX-HNPH2
+RUEK-NZN6-WPRT8
+
+Androids: Improved Damage Traps (Ultimate Mode Only) [Ralf]
+99P3-QE44-6K7Z7
+U9X6-7MZG-VWMNA
+F6B2-RP0J-2X5PP
+AMF8-A9QT-MC3X5
+8U8R-UNEB-2Y6HQ
+W3R8-DRVV-122AY
+8591-P7T2-EVVXT
+W4VV-043X-AH4JJ
+VMD6-8KKE-N3D4M
+ER4X-T8PX-NPPYY
+E9FZ-A3QA-YCERP
+
+Androids: Replace Freeze Traps With Jellen Traps [Ralf]
+8W5F-4QPG-BKK60
+U9X6-7MZG-VWMNA
+Y2M8-HV68-RF05K
+WTZM-PKHW-H7NFF
+G9MD-27CA-TEJYF
+TAUJ-H1NW-9192Z
+KJFP-QZJN-BT85D
+E9FZ-A3QA-YCERP
+
+Androids: Replace Confuse Traps With Zalure Traps [Ralf]
+04KB-A5R7-YV639
+U9X6-7MZG-VWMNA
+Y2M8-HV68-RF05K
+8D8X-XEYD-F5P6J
+HKPN-YDAQ-FJ656
+TAUJ-H1NW-9192Z
+KJFP-QZJN-BT85D
+E9FZ-A3QA-YCERP
+
+Androids: Replace Slow Traps With Paralyse Traps (All Game Modes) [Ralf]
+PC3T-8DUJ-NKHN5
+U9X6-7MZG-VWMNA
+NC93-DE9U-PFF4H
+VPA7-WD6D-KFPWA
+P2YZ-YRQG-WT48J
+E64U-7TKA-W2088
+UCUK-U3AA-8HFAP
+D5Q7-2A1E-1ECRZ
+E9FZ-A3QA-YCERP
+
+Androids: Replace Slow Traps With Megid Traps (All Game Modes) [Ralf]
+1N15-FZPK-YAHJC
+U9X6-7MZG-VWMNA
+PCZV-33JE-2PUY9
+6F52-5ANT-PEPET
+XA3T-B1QE-R23Q4
+3VNM-DA9Q-CB76M
+R3FG-ABUQ-B5N5K
+3FA0-N78F-6Y2WE
+9NM9-MB83-EB27B
+KXTE-A70U-1E82T
+R25Q-53YC-XAX1F
+32M7-NKEE-JVU75
+QZDW-FU7B-JWKZ1
+KJFP-QZJN-BT85D
+JHE1-MT5B-WU1HE
+4K3R-BWEF-5Y8H6
+VPA7-WD6D-KFPWA
+P2YZ-YRQG-WT48J
+E64U-7TKA-W2088
+UCUK-U3AA-8HFAP
+D5Q7-2A1E-1ECRZ
+E9FZ-A3QA-YCERP
+
+Improved DB's Saber, Armor & Shield Combo [Ralf]
+B9P9-86VB-7Q640
+8FMT-3BMH-8B15Y
+YTDG-RGYP-7TK5A
+CUTM-V03G-VTHWE
+NV4T-9AVN-EWRET
+E9FZ-A3QA-YCERP
+
+Improved Custom Ray, Frame & Barrier Combo [Ralf]
+ENGK-ZQDG-8DUEG
+8FMT-3BMH-8B15Y
+1G5G-J0ZA-VTHEM
+Z35U-MPFC-DWX0E
+QPB2-DUK3-Y059X
+E9FZ-A3QA-YCERP
+
+Improved Flowen's Sword, Frame & Shield Combo [Ralf]
+N01N-67N2-ZMRUM
+8FMT-3BMH-8B15Y
+0R15-09DY-9M54N
+78Q9-GWWQ-0MZBE
+Q73H-26N6-YK9C0
+E9FZ-A3QA-YCERP
+
+Hunter Field: Improved DFP Boost [Ralf]
+WKX0-W50T-J18F9
+5JGB-3RKK-Y73Z9
+WP25-ABD7-Y8H5P
+
+Ranger Field: Improved DFP Boost [Ralf]
+MEMN-X38D-R3WHD
+5JGB-3RKK-Y73Z9
+PMPM-DUHW-G08XE
+
+Force Field: Improved DFP Boost [Ralf]
+MNM4-UF73-EPWJK
+5JGB-3RKK-Y73Z9
+JJ5B-RRXH-Z4C46
+
+Love Heart: Improved DFP Boost & Range [Ralf]
+GXUQ-30V8-1NCNV
+RRND-YXMG-1XHEZ
+T75N-WM00-P6J7M
+M673-KUB0-HV6TB
+
+Blue/Green/Yellow/Purple/White/Black Ring: Improved Stat Boost & Range [Ralf]
+Q4HF-NQV3-HUGTW
+HPP1-XDUJ-XN9KB
+KCUZ-DP8J-UF41Z
+95U5-5UYG-DUHCB
+YW8T-JFQF-BD07A
+DRBZ-3RFD-T2489
+
+Blue/Green/Yellow/Purple/White/Black Ring: Improved Matching Patterns [Ralf]
+UUW0-72CF-PRZ98
+6N6G-NV0W-XYJ9R
+7QW7-2P1T-9DG6U
+ZBM9-KTJG-ZF0D7
+VYV3-1CR3-6RTBB
+626C-EKYK-NKNNA
+UEH8-MN3U-TU2YQ
+8MY2-MHTZ-J21MH
+VPY9-HM06-CD7UY
+UQZF-5FD4-R5807
+E9FZ-A3QA-YCERP
+
+Photon Launcher/Guilty Light/Red Scorpio: No Damage Reduction [Ralf]
+JA6U-WHET-72N5T
+GWBW-3PQ7-GNND3
+JT61-92GW-RVK7N
+
+Disable All Rare Armor Particle Effects [Ralf]
+3YDX-TY9E-Y13CY
+RYV0-CD05-1K0W6
+HK80-FQX7-QEDP9
+B7Y5-WW05-2R4FM
+
+Enable More Rare Armor Particle Effects [Ralf]
+W0FZ-633X-D36Z0
+XPWR-B2RU-W9XYV
+25N2-FMB1-WNQPA
+0ZCT-0JRX-0PCJ1
+ZQGM-J5ZP-K2TC2
+1TTY-8XDF-D4TC9
+RH0Q-RU2X-H1HXG
+Q5VH-QMW3-ACZFQ
+UHF3-ZE8J-1CD7G
+QN2J-CYGM-HFHZ6
+7CJV-K87W-W6N4Q
+FVAM-FUJX-BX1KF
+ZNE1-B8MD-YBBRE
+20V0-PDN5-WUKT9
+NAD6-37Q2-2G3TP
+7ZCE-H86F-6XVGN
+5QV8-Z970-EHAAR
+EBJ3-9D3T-5BN1N
+ZVQU-73H5-V6BRJ
+DH42-BZW1-2PBHR
+V3X2-5UN1-6YJNW
+BBYV-GQ0E-9FY55
+XG9T-ZFX1-NRYRW
+ABE6-F4XV-54J5C
+XYKK-PQN9-Y55VQ
+T66J-DV8M-BUJNQ
+N4E7-ZZQC-G819Z
+GDFQ-H228-YCMDR
+E9FZ-A3QA-YCERP
+
+Able To Equip Any Mag [Ralf]
+3WQE-KKRX-8QKJH
+1QG9-PMZE-616N1
+U06W-3DE7-B8HP9
+
+Equipped Mag Color Modifier (Permanently) [Ralf]
+4C111678 7C781B78
+0411167C 386000xx
+04111680 987B01A6
+
+xx = Mag Color ID (00 .. 11)
+
+Equipped Mag Color Modifier v1 (Temporary) [Ralf]
+0C111678 7C781B78
+0411404C 386000xx
+
+xx = Mag Color ID (00 .. 11)
+
+Equipped Mag Color Modifier v2 (Temporary) [Ralf]
+8C111678 7C781B78
+0411168C 3CA08000
+04111694 60A5C390
+0400C390 3F800000
+0400C394 rrrrrrrr
+0400C398 gggggggg
+0400C39C bbbbbbbb
+00000000 40000000
+
+rrrrrrrr = Red   (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+gggggggg = Green (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+bbbbbbbb = Blue  (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+
+Merge Color Modifier (Temporary) [Ralf]
+8C118410 7FC3F378
+0400C590 807E0024
+0400C594 28030000
+0400C598 41820024
+0400C59C 881E00EE
+0400C5A0 2800003A
+0400C5A4 41800018
+0400C5A8 28000049
+0400C5AC 41810010
+0400C5B0 3C00rrgg
+0400C5B4 6000bbFF
+0400C5B8 90030798
+0400C5BC 4810BE7C
+04118434 4BEF415C
+00000000 40000000
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Default Colors (rrggbb)
+
+00F5B3 - Cyan       (Anti & Resta Merge)
+0867FF - Dark Blue  (Deband Merge)
+3FCCE1 - Light Blue (Barta, Gibarta, Rabarta & Blue Merge)
+EBE700 - Yellow     (Zonde, Gizonde, Razonde & Yellow Merge)
+FF2138 - Red        (Shifta Merge)
+FF713F - Orange     (Foie, Gifoie, Rafoie & Red Merge)

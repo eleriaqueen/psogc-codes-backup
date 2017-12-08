@@ -1,0 +1,5026 @@
+
+(m) [CodeJunkies & Ralf]
+20010BE0 4E800020
+C6010BE0 800018A8
+E2000001 80008000
+2037C82C 4E800020
+C637C82C 800018A8
+E2000001 80008000
+206CB69C 4E800020
+C66CB69C 800018A8
+E2000001 80008000
+
+
+With the following codes, you are able to copy GameCube PSO 1&2 game saves from one memory card
+to another.
+
+Make Game Save Copyable [Ralf]
+20385460 909C0028
+C2385464 00000002
+38000004 981C0034
+38000000 00000000
+E2000001 80008000
+
+Make Game Save Valid [Ralf]
+201FD6CC 7C040040
+041FD6C8 7C0521AE
+041FD6D0 4800000C
+041FD76C 7C0521AE
+041FD774 4800000C
+E2000001 80008000
+
+How to use these codes:
+
+1. Save your game with the 'Make Game Save Copyable' code turned on and your source memory card
+   in port A:
+
+   To save your System file, go into the options menu from start screen and go back.
+   To save your Character and Guildcard file, go ingame and quit.
+
+2. Copy your System, Character and Guildcard file from your source memory card to your destination
+   memory card (via GameCube system menu).
+
+3. Start PSO with your destination memory card in port A and save your System file with the 'Make
+   Game Save Valid' code turned on. Your game save is valid now and works fine without codes.
+
+4. Please note that you cannot mix different game saves, because all Character and Guildcard files
+   are encrypted with a unique timestamp (stored in the System file).
+16:9 Aspect Ratio (Widescreen) [Ralf]
+203D533C FC200818
+C23D5340 00000002
+C0421128 EFBD00B2
+FC40E890 00000000
+E2000001 80008000
+
+Auto Camera Mode [Ralf]
+2006E650 48138C0D
+0406E658 60000000
+E2000001 80008000
+
+Flat Camera [Ralf]
+044890F4 41000000
+
+Top-Down Camera [Ralf]
+044890F4 42B40000
+
+Ultra Near Camera [Ralf]
+044890F4 41A80000
+044890F8 00000000
+045D52D0 C1A00000
+
+Far Out Camera [Ralf]
+044890F4 42400000
+044890F8 43000000
+Unlock All Doors [Ralf]
+20228A6C 7C632030
+04228A74 38600001
+04228A84 38600001
+E2000001 80008000
+
+Access All Areas & Quests [Ralf]
+201F4A04 7C832830
+041F4A0C 38600001
+041F4A2C 38600001
+041F4AB0 38600001
+041F4AD0 38600001
+E2000001 80008000
+
+Auto Revive [Ralf]
+201B19F0 7FC3F378
+0600DF40 00000010
+7C7E1B78 38800F00
+4800B6E9 481A3A90
+041B19D8 4BE5C568
+E2000001 80008000
+
+Invincibility [Ralf]
+201B7558 7FE3FB78
+041B7570 38600001
+E2000001 80008000
+
+Enable HP Restore (Rest) [Ralf]
+201D14D4 80030890
+041D14D8 38600001
+E2000001 80008000
+
+Enable TP Restore (Rest) [Ralf]
+201BE78C 80030890
+041BE790 38600001
+E2000001 80008000
+
+Enable HP & TP Restore (Rest) [Ralf]
+201BE78C 80030890
+041BE790 38600001
+041D0A38 41820048
+041D0A68 38600001
+041D14D8 38600001
+E2000001 80008000
+
+Cure Poison [Ralf]
+20015470 7C600735
+04015BFC 38600001
+E2000001 80008000
+
+Cure Freeze [Ralf]
+20015470 7C600735
+04015674 38600001
+E2000001 80008000
+
+Cure Slow Motion [Ralf]
+20015470 7C600735
+04015928 38600001
+E2000001 80008000
+
+Cure Confusion [Ralf]
+20015470 7C600735
+0401580C 38600001
+E2000001 80008000
+
+Cure Paralysis [Ralf]
+20015470 7C600735
+04015A60 38600001
+E2000001 80008000
+
+Cure Shock [Ralf]
+20015470 7C600735
+0401546C 38600001
+04015498 38600001
+E2000001 80008000
+
+Cure Negative Status Effects [Ralf]
+200194A8 7C002038
+040194AC 38600001
+E2000001 80008000
+
+Buy All Gears In Guards Shop [Ralf]
+2020E410 98610009
+C220E2CC 00000004
+7C6C42E6 7063FFFF
+38800048 7FC323D6
+7FDE21D6 7FDE1850
+38600001 00000000
+0620E414 0000001C
+7C6C42E6 7063FFFF
+38800085 7F6323D6
+7F7B21D6 7F7B1850
+48000048 00000000
+0620E5A8 0000001C
+7C6C42E6 7063FFFF
+38800035 7F8323D6
+7F9C21D6 7F9C1850
+48000048 00000000
+E2000001 80008000
+
+Buy Rare Gears In Guards Shop [Ralf]
+2020E410 98610009
+C220E2CC 00000004
+7C6C42E6 7063FFFF
+38800048 7FC323D6
+7FDE21D6 7FDE1850
+38600001 00000000
+0620E414 00000020
+7C6C42E6 7063FFFF
+38800070 7F6323D6
+7F7B21D6 7F7B1850
+3B7B0015 48000044
+0620E5A8 00000020
+7C6C42E6 7063FFFF
+3880001D 7F8323D6
+7F9C21D6 7F9C1850
+3B9C0018 48000044
+E2000001 80008000
+
+Buy Rare Weapons In Arms Shop [Ralf]
+20224C74 7C630214
+0600DB00 00000100
+7CAC42E6 70A5FFFF
+38C000A9 7CE533D6
+7CE731D6 7CE72850
+38E70001 98E10009
+38000000 38C00001
+28070010 40820008
+38C00007 28070093
+40820008 38C0000A
+28070009 41810010
+38000005 38C00003
+48000090 2807000C
+41810010 38000004
+38C00003 4800007C
+2807000E 4181000C
+38C00003 4800006C
+2807008A 4182FFF4
+2807008B 4182FFEC
+280700A2 4182FFE4
+2807000F 4082000C
+38C00004 48000044
+28070089 4182FFF4
+2807008C 4182FFEC
+28070011 4082000C
+38C00002 48000024
+2807002F 4182FFF4
+28070045 4182FFEC
+28070056 4182FFE4
+2807008E 4182FFDC
+7CAC42E6 70A50FFF
+7CE533D6 7CE731D6
+7CE72850 7CE70214
+98E1000A 4E800020
+04224C88 4BDE8E79
+04224CF4 4BDE8E0D
+04224D30 4BDE8DD1
+E2000001 80008000
+
+Buy Rare Items In Tools Shop [Ralf]
+20223B40 98A10009
+0600DA50 0000007C
+7CAC42E6 70A5FFFF
+38C00006 7CE533D6
+7CE731D6 7CE72850
+38E7000A 98E10009
+38C00001 2807000E
+40820008 38C00028
+2807000D 40820008
+38C00014 2807000C
+40820008 38C00006
+2807000B 40820008
+38C00007 2807000A
+40820008 38C00003
+7CAC42E6 70A50FFF
+7CE533D6 7CE731D6
+7CE72850 98E1000A
+4E800020 00000000
+04223B44 4BDE9F0D
+04223C3C 4BDE9E15
+04223DB0 4BFFFDE1
+E2000001 80008000
+
+Always Max Gears In Guards Shop [Ralf]
+2020E410 98610009
+0420DEC0 4800007C
+0420E22C 38600006
+0420E360 38600007
+0420E4F8 38600008
+E2000001 80008000
+
+Always Max Weapons In Arms Shop [Ralf]
+20223EB8 7C7EF92E
+04223EFC 480000DC
+04223FEC 480000DC
+042240DC 480000C4
+042241B4 48000094
+04224268 4800007C
+042242F8 48000094
+042243A0 48000064
+E2000001 80008000
+
+Always Max Items In Tools Shop [Ralf]
+202238F8 7FA4F02E
+042235E4 4800007C
+042238FC 38600007
+04223A50 38600002
+04223BB4 38600005
+E2000001 80008000
+
+Always New Gears In Guards Shop [Ralf]
+2020E76C 7C06382E
+0420E774 60000000
+E2000001 80008000
+
+Always New Weapons In Arms Shop [Ralf]
+2020E76C 7C06382E
+04224B2C 60000000
+E2000001 80008000
+
+Always New Items In Tools Shop [Ralf]
+2020E76C 7C06382E
+04223D80 60000000
+E2000001 80008000
+
+Able To Equip Any Gear [Ralf]
+20105320 7C040734
+041053C0 48000008
+04105440 60000000
+E2000001 80008000
+
+Able To Equip Any Weapon [Ralf]
+20105320 7C040734
+0410532C 48000008
+E2000001 80008000
+
+Able To Learn Any Technique [Ralf]
+20105320 7C040734
+041054B8 60000000
+0410D488 60000000
+E2000001 80008000
+
+Enemies Drop Always Rare Items [Ralf]
+20106878 7C04E0AE
+04106880 60000000
+04107680 60000000
+041076B8 60000000
+E2000001 80008000
+
+Fast Techniques [Ralf]
+201CD358 7FC4F378
+041CD2FC 38800000
+041CD360 38800000
+041CD768 38800000
+E2000001 80008000
+
+Fast Weapons [Ralf]
+201D363C 7FE3FB78
+041D3644 38000000
+041D36A0 38000000
+041D36A8 C0020774
+E2000001 80008000
+
+Long Range Weapons [Ralf]
+2013D324 7FE3FB78
+0413D33C C00211BC
+E2000001 80008000
+
+High Weapon Accuracy [Ralf]
+20015F7C FC00F840
+04015F80 60000000
+04015F94 60000000
+04016400 60000000
+04016414 60000000
+E2000001 80008000
+
+Quick PB Gauge Gain [Ralf]
+201D68AC FC001040
+C21D68B4 00000002
+C3E206B0 EC0107FA
+60000000 00000000
+E2000001 80008000
+
+Ultra Quick PB Gauge Gain [Ralf]
+201D68AC FC001040
+C21D68B4 00000002
+C3E20F54 EC0107FA
+60000000 00000000
+E2000001 80008000
+
+Quick EXP Gain [Ralf]
+200F6C14 A01F02D4
+C20F6C24 00000002
+83C4001C 1FDE0004
+60000000 00000000
+E2000001 80008000
+
+Ultra Quick EXP Gain [Ralf]
+200F6C14 A01F02D4
+C20F6C24 00000002
+83C4001C 1FDE000A
+60000000 00000000
+E2000001 80008000
+
+EXP Gain Multiplier [Ralf]
+200F6C14 A01F02D4
+C20F6C24 00000002
+83C4001C 1FDE00xx
+60000000 00000000
+E2000001 80008000
+
+xx = Multiplier
+One Hit Kills Most Enemies [Ralf]
+200114C4 7C800735
+C20114E0 00000004
+80030000 3C808044
+60846D78 7C002000
+A803032C 41820008
+3800FFFF 00000000
+E2000001 80008000
+
+Alice In Wonderland (Enable Shrink Mode) [Ralf]
+201140F4 38630004
+041140FC 38600001
+E2000001 80008000
+
+Play Offline Game With Online Mode Enemies [Ralf]
+2001DCB0 3C608043
+0401DCB8 38033CD8
+0401DD04 38033D0C
+044C97F0 8044B8BC
+044C97F4 8044B8D0
+E2000001 80008000
+
+Online Game: Disable In-Game Saves [Ralf]
+201D3ED4 2C030000
+041D3ED8 4800004C
+041FF59C 4800003C
+042D2280 48000020
+E2000001 80008000Extended Word Select Menu (PSO PCv2 Style) [Ralf]
+20346278 3BC00001
+0434627C 38600000
+E2000001 80008000
+
+Access All Areas (Main Teleporter) [Ralf]
+201866B0 7CA00039
+041866B4 60000000
+04186718 60000000
+04186788 60000000
+04186810 60000000
+E2000001 80008000
+
+No Unknown Weapons [Ralf]
+2012067C 889C01D2
+04120680 5484066E
+04120684 989C01D2
+04120688 60000000
+E2000001 80008000
+
+Replace Normal Mode Maps With Ultimate Mode Maps (GFX Only) [Ralf]
+20309A7C 2C000003
+04309A80 48000010
+E2000001 80008000
+
+Replace Ultimate Mode Maps With Normal Mode Maps (GFX Only) [Ralf]
+20309A7C 2C000003
+04309A80 4800002C
+E2000001 80008000
+
+
+Character Type Modifier [Ralf]
+04DDD974 00ii00jj
+04DDD978 00kk00ll
+02DDD97C 000000mm
+
+ii = Costume/Body Type (00 .. 11, 00 .. 18)
+
+jj = Skin Type (00 .. 03)
+kk = Face Type (00 .. 04)
+ll = Head Type (00 .. 04)
+mm = Hair Type (00 .. 09)
+
+
+Character Model Modifier [Ralf]
+2028DC1C 7C7F1B78
+0428DC20 386000xx
+0428DC24 4800006C
+E2000001 80008000
+
+xx = Model ID
+
+
+Model IDs
+
+00 - HUmar
+01 - HUnewearl
+02 - HUcast
+03 - RAmar
+04 - RAcast
+05 - RAcaseal
+06 - FOmarl
+07 - FOnewm
+08 - FOnewearl
+09 - HUcaseal
+0A - FOmar
+0B - RAmarl
+0C - Elly   (Base model must be a Hunter with hair/head type 1)
+0D - Flowen (Base model must be a Hunter or Ranger with hair/head type 1)
+0E - Tails
+0F - Knuckles
+10 - Sonic
+11 - Rico   (Base model must be a Hunter or Ranger with hair/head type 1)
+12 - Ninja  (Base model must be a Hunter with hair/head type 1)
+
+
+Play As Sonic [Ralf]
+2028DC1C 7C7F1B78
+0428DC20 38600010
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Knuckles [Ralf]
+2028DC1C 7C7F1B78
+0428DC20 3860000F
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Tails [Ralf]
+2028DC1C 7C7F1B78
+0428DC20 3860000E
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Elly (Incl. Base Model Fix) [Ralf]
+2028DC1C 7C7F1B78
+040FE7C8 38600000
+040FE864 38A00000
+040FE8C4 38800000
+0428C38C 38A00000
+0428C564 3BE00000
+0428C674 38A00000
+0428DADC 38000000
+0428DB1C 38000000
+0428DC20 3860000C
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Flowen (Incl. Base Model Fix) [Ralf]
+2028DC1C 7C7F1B78
+040FE7C8 38600000
+040FE864 38A00000
+040FE8C4 38800000
+0428C38C 38A00000
+0428C564 3BE00000
+0428C674 38A00000
+0428DADC 38000000
+0428DB1C 38000000
+0428DC20 3860000D
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Ninja (Incl. Base Model Fix) [Ralf]
+2028DC1C 7C7F1B78
+040FE7C8 38600000
+040FE864 38A00000
+040FE8C4 38800000
+0428C38C 38A00000
+0428C564 3BE00000
+0428C674 38A00000
+0428DADC 38000000
+0428DB1C 38000000
+0428DC20 38600012
+0428DC24 4800006C
+E2000001 80008000
+
+Play As Rico (Incl. Base Model Fix) [Ralf]
+2028DC1C 7C7F1B78
+040FE7C8 38600000
+040FE864 38A00000
+040FE8C4 38800000
+0428C38C 38A00000
+0428C564 3BE00000
+0428C674 38A00000
+0428DADC 38000000
+0428DB1C 38000000
+0428DC20 38600011
+0428DC24 4800006C
+E2000001 80008000
+
+
+Bank Item Modifier Codes
+
+Number Of Items In Bank [Ralf]
+04F27EA8 000000xx
+
+xx = Number Of Items (00 .. C8)
+
+
+Weapon Modifier Codes
+
+Bank Slot 1 Weapon Modifier [Ralf]
+06F27EB0 00000018
+00wwwwgg ss00iijj
+kkllmmnn FFFFFFFF
+00000000 00010001
+
+Bank Slot 2 Weapon Modifier [Ralf]
+06F27EC8 00000018
+00wwwwgg ss00iijj
+kkllmmnn FFFFFFFF
+00000000 00010001
+
+...
+
+Bank Slot 199 Weapon Modifier [Ralf]
+06F29140 00000018
+00wwwwgg ss00iijj
+kkllmmnn FFFFFFFF
+00000000 00010001
+
+Bank Slot 200 Weapon Modifier [Ralf]
+06F29158 00000018
+00wwwwgg ss00iijj
+kkllmmnn FFFFFFFF
+00000000 00010001
+
+wwww = Weapon ID
+
+gg = Weapon Grindage
+ss = Weapon Special & Flags
+
+
+Normal Weapons
+
+ii = Photon Elemental Type 1
+jj = Percentage Against Photon Elemental Type 1 (00 .. 7F)
+
+kk = Photon Elemental Type 2
+ll = Percentage Against Photon Elemental Type 2 (00 .. 7F)
+
+mm = Photon Elemental Type 3
+nn = Percentage Against Photon Elemental Type 3 (00 .. 7F)
+
+
+S Rank Weapons
+
+iijjkkllmmnn = Extended Weapon Name Bit Field (48 Bits)
+
+
+Extended Weapon Name Bit Field
+
+000rr0ss sssttttt 0uuuuuvv vvvwwwww 0xxxxxyy yyyzzzzz
+
+rr = Flags
+
+01 - Extended Weapon Name Only (No Base Weapon Name)
+10 - Extended Weapon Name And Base Weapon Name
+
+sssss = Character 1
+ttttt = Character 2
+uuuuu = Character 3
+vvvvv = Character 4
+wwwww = Character 5
+xxxxx = Character 6
+yyyyy = Character 7
+zzzzz = Character 8
+
+
+Characters
+
+00000 - None
+00001 - A
+00010 - B
+00011 - C
+00100 - D
+00101 - E
+00110 - F
+00111 - G
+
+01000 - H
+01001 - I
+01010 - J
+01011 - K
+01100 - L
+01101 - M
+01110 - N
+01111 - O
+
+10000 - P
+10001 - Q
+10010 - R
+10011 - S
+10100 - T
+10101 - U
+10110 - V
+10111 - W
+
+11000 - X
+11001 - Y
+11010 - Z
+11011 - [
+11100 - \
+11101 - ]
+11110 - ^
+11111 - _
+
+
+Weapon IDs
+
+0100 - Saber
+0101 - Brand
+0102 - Buster
+0103 - Pallasch
+0104 - Gladius
+0105 - DB'S SABER (Replica)
+0106 - KALADBOLG
+0107 - DURANDAL
+0200 - Sword
+0201 - Gigush
+0202 - Breaker
+0203 - Claymore
+0204 - Calibur
+0205 - FLOWEN'S SWORD (Replica)
+0206 - LAST SURVIVOR
+0207 - DRAGON SLAYER
+0300 - Dagger
+0301 - Knife
+0302 - Blade
+0303 - Edge
+
+0304 - Ripper
+0305 - BLADE DANCE
+0306 - BLOODY ART
+0307 - CROSS SCAR
+0400 - Partisan
+0401 - Halbert
+0402 - Glaive
+0403 - Berdys
+0404 - Gungnir
+0405 - BRIONAC
+0406 - VJAYA
+0407 - GAE BOLG
+0500 - Slicer
+0501 - Spinner
+0502 - Cutter
+0503 - Sawcer
+0504 - Diska
+0505 - SLICER OF ASSASSIN
+0506 - DISKA OF LIBERATOR
+0507 - DISKA OF BRAVEMEN
+
+0600 - Handgun
+0601 - Autogun
+0602 - Lockgun
+0603 - Railgun
+0604 - Raygun
+0605 - VARISTA
+0606 - CUSTOM RAY ver.OO
+0607 - BRAVACE
+0700 - Rifle
+0701 - Sniper
+0702 - Blaster
+0703 - Beam
+0704 - Laser
+0705 - VISK-235W
+0706 - WALS-MK2
+0707 - JUSTY-23ST
+0800 - Mechgun
+0801 - Assault
+0802 - Repeater
+0803 - Gatling
+
+0804 - Vulcan
+0805 - M&A60 VISE
+0806 - H&S25 JUSTICE
+0807 - L&K14 COMBAT
+0900 - Shot
+0901 - Spread
+0902 - Cannon
+0903 - Launcher
+0904 - Arms
+0905 - CRUSH BULLET
+0906 - METEOR SMASH
+0907 - FINAL IMPACT
+0A00 - Cane
+0A01 - Stick
+0A02 - Mace
+0A03 - Club
+0A04 - CLUB OF LACONIUM
+0A05 - MACE OF ADAMAN
+0A06 - CLUB OF ZUMIURAN
+0B00 - Rod
+
+0B01 - Pole
+0B02 - Pillar
+0B03 - Striker
+0B04 - BATTLE VERGE
+0B05 - BRAVE HAMMER
+0B06 - ALIVE AQHU
+0C00 - Wand
+0C01 - Staff
+0C02 - Baton
+0C03 - Scepter
+0C04 - FIRE SCEPTER:AGNI
+0C05 - ICE STAFF:DAGON
+0C06 - STORM VAND:INDRA
+0D00 - PHOTON CLAW
+0D01 - SILENCE CLAW
+0D02 - NEI'S CLAW (Replica)
+0E00 - DOUBLE SABER
+0E01 - STAG CUTLERY
+0E02 - TWIN BRAND
+0F00 - BRAVE KNUCKLE
+
+0F01 - ANGRY FIST
+0F02 - GOD HAND
+0F03 - SONIC KNUCKLE
+1000 - OROTIAGITO
+1001 - AGITO (AUW 1975)
+1002 - AGITO (AUW 1983 - Replica)
+1003 - AGITO (AUW 2001 - Replica)
+1004 - AGITO (AUW 1991 - Replica)
+1005 - AGITO (AUW 1977 - Replica)
+1006 - AGITO (AUW 1980 - Replica)
+1100 - SOUL EATER
+1101 - SOUL BANISH
+1200 - SPREAD NEEDLE
+1300 - HOLY RAY
+1400 - INFERNO BAZOOKA
+1500 - FLAME VISIT
+1501 - BURNING VISIT
+1600 - AKIKO'S FRYING PAN
+1700 - SORCERER'S CANE
+1800 - S-BEAT'S BLADE
+
+1900 - P-ARMS'S BLADE
+1A00 - DELSABER'S BUSTER
+1B00 - BRINGER'S RIFLE
+1C00 - EGG BLASTER
+1D00 - PSYCHO WAND
+1E00 - HEAVEN PUNISHER
+1F00 - LAVIS CANNON
+2000 - VICTOR AXE
+2100 - CHAIN SAWD
+2200 - CADUCEUS
+2300 - STING TIP
+2400 - MAGICAL PIECE
+2500 - TECHNICAL CROZIER
+2600 - SUPPRESSED GUN
+2700 - ANCIENT SABER
+2800 - HARISEN BATTLE FAN
+2900 - YAMIGARASU
+2A00 - AKIKO'S WOK
+2B00 - TOY HAMMER
+2C00 - ELYSION
+
+2D00 - RED SABER
+2E00 - METEOR CUDGEL
+2F00 - MONKEY KING BAR
+2F01 - BLACK KING BAR
+3000 - DOUBLE CANNON
+3100 - HUGE BATTLE FAN
+3200 - TSUMIKIRI J-SWORD
+3300 - SEALED J-SWORD
+3400 - RED SWORD
+3500 - CRAZY TUNE
+3600 - TWIN CHAKRAM
+3700 - WOK OF AKIKO'S SHOP
+3800 - LAVIS BLADE
+3900 - RED DAGGER
+3A00 - MADAM'S PARASOL
+3B00 - MADAM'S UMBRELLA
+3C00 - IMPERIAL PICK
+3D00 - BERDYSH
+3E00 - RED PARTISAN
+3F00 - FLIGHT CUTTER
+
+4000 - FLIGHT FAN
+4100 - RED SLICER
+4200 - HANDGUN:GULD
+4300 - HANDGUN:MILLA
+4400 - RED HANDGUN
+4500 - FROZEN SHOOTER
+4501 - SNOW QUEEN
+4600 - ANTI ANDROID RIFLE
+4700 - ROCKET PUNCH
+4800 - SAMBA MARACAS
+4900 - TWIN PSYCHOGUN
+4A00 - DRILL LAUNCHER
+4B00 - GULD MILLA
+4C00 - RED MECHGUN
+4D00 - BELRA CANNON
+4E00 - PANZER FAUST
+4E01 - IRON FAUST
+4F00 - SUMMIT MOON
+5000 - WINDMILL
+5100 - EVIL CURST
+
+5200 - FLOWER CANE
+5300 - HILDEBEAR'S CANE
+5400 - HILDEBLUE'S CANE
+5500 - RABBIT WAND
+5600 - PLANTAIN LEAF
+5601 - FATSIA
+5700 - DEMONIC FORK
+5800 - STRIKER OF CHAO
+5900 - BROOM
+5A00 - PROPHETS OF MOTAV
+5B00 - THE SIGH OF A GOD
+5C00 - TWINKLE STAR
+5D00 - PLANTAIN FAN
+5E00 - TWIN BLAZE
+5F00 - MARINA'S BAG
+6000 - DRAGON'S CLAW
+6100 - PANTHER'S CLAW
+6200 - S-RED'S BLADE
+6300 - PLANTAIN HUGE FAN
+6400 - CHAMELEON SCYTHE
+
+6500 - YASMINKOV 3000R
+6600 - ANO RIFLE
+6700 - BARANZ LAUNCHER
+6800 - BRANCH OF PAKUPAKU
+6900 - HEART OF POUMN
+6A00 - YASMINKOV 2000H
+6B00 - YASMINKOV 7000V
+6C00 - YASMINKOV 9000M
+6D00 - MASER BEAM
+6D01 - POWER MASER
+6E00 - GAME MAGAZINE
+6F00 - FLOWER BOUQUET
+7000 - SABER     (S Rank Weapon)
+7100 - SWORD     (S Rank Weapon)
+7200 - BLADE     (S Rank Weapon)
+7300 - PARTISAN  (S Rank Weapon)
+7400 - SLICER    (S Rank Weapon)
+7500 - GUN       (S Rank Weapon)
+7600 - RIFLE     (S Rank Weapon)
+7700 - MECHGUN   (S Rank Weapon)
+
+7800 - SHOT      (S Rank Weapon)
+7900 - CANE      (S Rank Weapon)
+7A00 - ROD       (S Rank Weapon)
+7B00 - WAND      (S Rank Weapon)
+7C00 - TWIN      (S Rank Weapon)
+7D00 - CLAW      (S Rank Weapon)
+7E00 - BAZOOKA   (S Rank Weapon)
+7F00 - NEEDLE    (S Rank Weapon)
+8000 - SCYTHE    (S Rank Weapon)
+8100 - HAMMER    (S Rank Weapon)
+8200 - MOON      (S Rank Weapon)
+8300 - PSYCHOGUN (S Rank Weapon)
+8400 - PUNCH     (S Rank Weapon)
+8500 - WINDMILL  (S Rank Weapon)
+8600 - HARISEN   (S Rank Weapon)
+8700 - KATANA    (S Rank Weapon)
+8800 - J-CUTTER  (S Rank Weapon)
+8900 - MUSASHI
+8901 - YAMATO
+8902 - ASUKA
+
+8903 - SANGE & YASHA
+8A00 - SANGE
+8A01 - YASHA
+8A02 - KAMUI
+8B00 - PHOTON LAUNCHER
+8B01 - GUILTY LIGHT
+8B02 - RED SCORPIO
+8C00 - TALIS
+8C01 - MAHU
+8C02 - HITOGATA
+8C03 - DANCING HITOGATA
+8D00 - NUG2000-BAZOOKA
+8E00 - S-BERILL'S HANDS #0
+8E01 - S-BERILL'S HANDS #1
+8F00 - FLOWEN'S SWORD (AUW 3060 - GREENILL)
+8F01 - FLOWEN'S SWORD (AUW 3064 - SKYLY)
+8F02 - FLOWEN'S SWORD (AUW 3067 - BLUEFULL)
+8F03 - FLOWEN'S SWORD (AUW 3073 - PURPLENUM)
+8F04 - FLOWEN'S SWORD (AUW 3077 - PINKAL)
+8F05 - FLOWEN'S SWORD (AUW 3082 - REDRIA)
+
+8F06 - FLOWEN'S SWORD (AUW 3083 - ORAN)
+8F07 - FLOWEN'S SWORD (AUW 3084 - YELLOWBOZE)
+8F08 - FLOWEN'S SWORD (AUW 3079 - WHITILL)
+9000 - DB's SWORD (AUW 3062 - GREENILL)
+9001 - DB's SWORD (AUW 3067 - SKYLY)
+9002 - DB's SWORD (AUW 3069 - BLUEFULL)
+9003 - DB's SWORD (AUW 3064 - PURPLENUM)
+9004 - DB's SWORD (AUW 3069 - PINKAL)
+9005 - DB's SWORD (AUW 3073 - REDRIA)
+9006 - DB's SWORD (AUW 3070 - ORAN)
+9007 - DB's SWORD (AUW 3075 - YELLOWBOZE)
+9008 - DB's SWORD (AUW 3077 - WHITILL)
+9100 - GI GUE BAZOOKA
+9200 - GUARDIANNA
+9300 - VIRIDIA CARD
+9301 - GREENILL CARD
+9302 - SKYLY CARD
+9303 - BLUEFULL CARD
+9304 - PURPLENUM CARD
+9305 - PINKAL CARD
+
+9306 - REDRIA CARD
+9307 - ORAN CARD
+9308 - YELLOWBOZE CARD
+9309 - WHITILL CARD
+9400 - MORNING GLORY
+9500 - PARTISAN of LIGHTNING
+9600 - GAL WIND
+9700 - ZANBA
+9800 - RIKA'S CLAW
+9900 - ANGEL HARP
+9A00 - DEMOLITION COMET
+9B00 - NEI'S CLAW
+9C00 - RAINBOW BATON
+9D00 - DARK FLOW
+9E00 - DARK METEOR
+9F00 - DARK BRIDGE
+A000 - G-ASSASSIN'S SABERS
+A100 - RAPPY'S FAN
+A200 - BOOMA'S CLAW
+A201 - GOBOOMA'S CLAW
+
+A202 - GIGOBOOMA'S CLAW
+A300 - RUBY BULLET
+A400 - AMORE ROSE
+A500 - SWORDS   (S Rank Weapon)
+A600 - LAUNCHER (S Rank Weapon)
+A700 - CARDS    (S Rank Weapon)
+A800 - KNUCKLE  (S Rank Weapon)
+A900 - AXE      (S Rank Weapon)
+
+
+Weapon Specials & Flags
+
+00 - None
+01 - Draw
+02 - Drain
+03 - Fill
+04 - Gush
+05 - Heart
+06 - Mind
+07 - Soul
+08 - Geist
+09 - Master's
+0A - Lord's
+0B - King's
+0C - Charge
+0D - Spirit
+0E - Berserk
+0F - Ice
+
+10 - Frost
+11 - Freeze
+12 - Blizzard
+13 - Bind
+14 - Hold
+15 - Seize
+16 - Arrest
+17 - Heat
+18 - Fire
+19 - Flame
+1A - Burning
+1B - Shock
+1C - Thunder
+1D - Storm
+1E - Tempest
+1F - Dim
+
+20 - Shadow
+21 - Dark
+22 - Hell
+23 - Panic
+24 - Riot
+25 - Havoc
+26 - Chaos
+27 - Devil's
+28 - Demon's
+
+40 - Present        (Combinable)
+80 - Unknown Weapon (Combinable)
+
+
+Photon Elemental Types
+
+00 - None
+01 - Native
+02 - Altered Beast
+03 - Machine
+04 - Dark
+05 - Hit
+
+
+Armor Modifier Codes
+
+Bank Slot 1 Armor Modifier [Ralf]
+06F27EB0 00000018
+0101xx00 ppssyyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 2 Armor Modifier [Ralf]
+06F27EC8 00000018
+0101xx00 ppssyyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+...
+
+Bank Slot 199 Armor Modifier [Ralf]
+06F29140 00000018
+0101xx00 ppssyyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 200 Armor Modifier [Ralf]
+06F29158 00000018
+0101xx00 ppssyyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+xx = Armor ID
+pp = Armor Flags (40 - Present)
+ss = Number Of Slots (00 .. 04)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Armor IDs
+
+00 - Frame
+01 - Armor
+02 - Psy Armor
+03 - Giga Frame
+04 - Soul Frame
+05 - Cross Armor
+06 - Solid Frame
+07 - Brave Armor
+08 - Hyper Frame
+09 - Grand Armor
+0A - Shock Frame
+0B - King's Frame
+0C - Dragon Frame
+0D - Absorb Armor
+0E - Protect Frame
+0F - General Armor
+10 - Perfect Frame
+11 - Valiant Frame
+12 - Imperial Armor
+13 - Holiness Armor
+
+14 - Guardian Armor
+15 - Divinity Armor
+16 - Ultimate Frame
+17 - Celestial Armor
+18 - HUNTER FIELD
+19 - RANGER FIELD
+1A - FORCE FIELD
+1B - REVIVAL GARMENT
+1C - SPIRIT GARMENT
+1D - STINK FRAME
+1E - D-PARTS ver1.01
+1F - D-PARTS ver2.10
+20 - PARASITE WEAR:De Rol
+21 - PARASITE WEAR:Nelgal
+22 - PARASITE WEAR:Vajulla
+23 - SENSE PLATE
+24 - GRAVITON PLATE
+25 - ATTRIBUTE PLATE
+26 - FLOWEN'S FRAME
+27 - CUSTOM FRAME ver.OO
+
+28 - DB'S ARMOR
+29 - GUARD WAVE
+2A - DF FIELD
+2B - LUMINOUS FIELD
+2C - CHU CHU FEVER
+2D - LOVE HEART
+2E - FLAME GARMENT
+2F - VIRUS ARMOR:Lafuteria
+30 - BRIGHTNESS CIRCLE
+31 - AURA FIELD
+32 - ELECTRO FRAME
+33 - SACRED CLOTH
+34 - SMOKING PLATE
+
+
+Shield Modifier Codes
+
+Bank Slot 1 Shield Modifier [Ralf]
+06F27EB0 00000018
+0102xx00 pp00yyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 2 Shield Modifier [Ralf]
+06F27EC8 00000018
+0102xx00 pp00yyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+...
+
+Bank Slot 199 Shield Modifier [Ralf]
+06F29140 00000018
+0102xx00 pp00yyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 200 Shield Modifier [Ralf]
+06F29158 00000018
+0102xx00 pp00yyyy
+zzzz0000 FFFFFFFF
+00000000 00010001
+
+xx = Shield ID
+pp = Shield Flags (40 - Present)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Shield IDs
+
+00 - Barrier
+01 - Shield
+02 - Core Shield
+03 - Giga Shield
+04 - Soul Barrier
+05 - Hard Shield
+06 - Brave Barrier
+07 - Solid Shield
+08 - Flame Barrier
+09 - Plasma Barrier
+0A - Freeze Barrier
+0B - Psychic Barrier
+0C - General Shield
+0D - Protect Barrier
+0E - Glorious Shield
+0F - Imperial Barrier
+10 - Guardian Shield
+11 - Divinity Barrier
+12 - Ultimate Shield
+13 - Spiritual Shield
+
+14 - Celestial Shield
+15 - INVISIBLE GUARD
+16 - SACRED GUARD
+17 - S-PARTS ver1.16
+18 - S-PARTS ver2.01
+19 - LIGHT RELIEF
+1A - SHIELD OF DELSABER
+1B - FORCE WALL
+1C - RANGER WALL
+1D - HUNTER WALL
+1E - ATTRIBUTE WALL
+1F - SECRET GEAR
+20 - COMBAT GEAR
+21 - PROTO REGENE GEAR
+22 - REGENERATE GEAR
+23 - REGENE GEAR ADV.
+24 - FLOWEN'S SHIELD
+25 - CUSTOM BARRIER ver.OO
+26 - DB'S SHIELD
+27 - RED RING
+
+28 - TRIPOLIC SHIELD
+29 - STANDSTILL SHIELD
+2A - SAFETY HEART
+2B - KASAMI BRACER
+2C - GODS SHIELD SUZAKU
+2D - GODS SHIELD GENBU
+2E - GODS SHIELD BYAKKO
+2F - GODS SHIELD SEIRYU
+30 - HUNTER'S SHELL
+31 - RICO'S GLASSES
+32 - RICO'S EARRING
+33 - BLUE RING
+34 - BARRIER
+35 - SECURE FEET
+36 - BARRIER
+37 - BARRIER
+38 - BARRIER
+39 - BARRIER
+3A - RESTA MERGE
+3B - ANTI MERGE
+
+3C - SHIFTA MERGE
+3D - DEBAND MERGE
+3E - FOIE MERGE
+3F - GIFOIE MERGE
+40 - RAFOIE MERGE
+41 - RED MERGE
+42 - BARTA MERGE
+43 - GIBARTA MERGE
+44 - RABARTA MERGE
+45 - BLUE MERGE
+46 - ZONDE MERGE
+47 - GIZONDE MERGE
+48 - RAZONDE MERGE
+49 - YELLOW MERGE
+4A - RECOVERY BARRIER
+4B - ASSIST BARRIER
+4C - RED BARRIER
+4D - BLUE BARRIER
+4E - YELLOW BARRIER
+4F - WEAPONS GOLD SHIELD
+
+50 - BLACK GEAR
+51 - WORKS GUARD
+52 - RAGOL RING
+53 - BLUE RING
+54 - BLUE RING
+55 - BLUE RING
+56 - BLUE RING
+57 - BLUE RING
+58 - BLUE RING
+59 - BLUE RING
+5A - BLUE RING
+5B - GREEN RING
+5c - GREEN RING
+5D - GREEN RING
+5E - GREEN RING
+5F - GREEN RING
+60 - GREEN RING
+61 - GREEN RING
+62 - GREEN RING
+63 - YELLOW RING
+
+64 - YELLOW RING
+65 - YELLOW RING
+66 - YELLOW RING
+67 - YELLOW RING
+68 - YELLOW RING
+69 - YELLOW RING
+6A - YELLOW RING
+6B - PURPLE RING
+6C - PURPLE RING
+6D - PURPLE RING
+6E - PURPLE RING
+6F - PURPLE RING
+70 - PURPLE RING
+71 - PURPLE RING
+72 - PURPLE RING
+73 - WHITE RING
+74 - WHITE RING
+75 - WHITE RING
+76 - WHITE RING
+77 - WHITE RING
+
+78 - WHITE RING
+79 - WHITE RING
+7A - WHITE RING
+7B - BLACK RING
+7C - BLACK RING
+7D - BLACK RING
+7E - BLACK RING
+7F - BLACK RING
+80 - BLACK RING
+81 - BLACK RING
+82 - BLACK RING
+83 - WEAPONS SILVER SHIELD
+84 - WEAPONS COPPER SHIELD
+
+
+Unit Modifier Codes
+
+Bank Slot 1 Unit Modifier [Ralf]
+06F27EB0 00000018
+0103xx00 0000yyyy
+00000000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 2 Unit Modifier [Ralf]
+06F27EC8 00000018
+0103xx00 0000yyyy
+00000000 FFFFFFFF
+00000000 00010001
+
+...
+
+Bank Slot 199 Unit Modifier [Ralf]
+06F29140 00000018
+0103xx00 0000yyyy
+00000000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 200 Unit Modifier [Ralf]
+06F29158 00000018
+0103xx00 0000yyyy
+00000000 FFFFFFFF
+00000000 00010001
+
+xx = Unit ID
+
+yyyy = Enhancement Boost (Little Endian, 0000 .. FFFF)
+
+0000 - None
+0200 - Good (+)
+0400 - Very Good (++)
+FEFF - Bad (-)
+FCFF - Very Bad (--)
+
+
+Unit IDs
+
+00 - Knight/Power
+01 - General/Power
+02 - Ogre/Power
+03 - God/Power
+04 - Priest/Mind
+05 - General/Mind
+06 - Angel/Mind
+07 - God/Mind
+08 - Marksman/Arm
+09 - General/Arm
+0A - Elf/Arm
+0B - God/Arm
+0C - Thief/Legs
+0D - General/Legs
+0E - Elf/Legs
+0F - God/Legs
+10 - Digger/HP
+11 - General/HP
+12 - Dragon/HP
+13 - God/HP
+
+14 - Magician/TP
+15 - General/TP
+16 - Angle/TP
+17 - God/TP
+18 - Warrior/Body
+19 - General/Body
+1A - Metal/Body
+1B - God/Body
+1C - Angel/Luck
+1D - God/Luck
+1E - Master/Ability
+1F - Hero/Ability
+20 - God/Ability
+21 - Resist/Fire
+22 - Resist/Flame
+23 - Resist/Burning
+24 - Resist/Cold
+25 - Resist/Freeze
+26 - Resist/Blizzard
+27 - Resist/Shock
+
+28 - Resist/Thunder
+29 - Resist/Storm
+2A - Resist/Light
+2B - Resist/Saint
+2C - Resist/Holy
+2D - Resist/Dark
+2E - Resist/Evil
+2F - Resist/Devil
+30 - All/Resist
+31 - Super/Resist
+32 - Perfect/Resist
+33 - HP/Restorate
+34 - HP/Generate
+35 - HP/Revival
+36 - TP/Restorate
+37 - TP/Generate
+38 - TP/Revival
+39 - PB/Amplifier
+3A - PB/Generate
+3B - PB/Create
+
+3C - Wizard/Technique
+3D - Devil/Technique
+3E - God/Technique
+3F - General/Battle
+40 - Devil/Battle
+41 - God/Battle
+42 - Cure/Poison
+43 - Cure/Paralysis
+44 - Cure/Slow
+45 - Cure/Confuse
+46 - Cure/Freeze
+47 - Cure/Shock
+
+
+Tech Modifier Codes
+
+Bank Slot 1 Tech Modifier [Ralf]
+06F27EB0 00000018
+0302ll00 xx000000
+00000000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 2 Tech Modifier [Ralf]
+06F27EC8 00000018
+0302ll00 xx000000
+00000000 FFFFFFFF
+00000000 00010001
+
+...
+
+Bank Slot 199 Tech Modifier [Ralf]
+06F29140 00000018
+0302ll00 xx000000
+00000000 FFFFFFFF
+00000000 00010001
+
+Bank Slot 200 Tech Modifier [Ralf]
+06F29158 00000018
+0302ll00 xx000000
+00000000 FFFFFFFF
+00000000 00010001
+
+ll = Tech Level
+
+00 - Level 1
+01 - Level 2
+..
+1C - Level 29
+1D - Level 30
+
+
+xx = Tech ID
+
+00 - Foie
+01 - Gifoie
+02 - Rafoie
+03 - Barta
+04 - Gibarta
+05 - Rabarta
+06 - Zonde
+07 - Gizonde
+08 - Razonde
+09 - Grants
+0A - Deband
+0B - Jellen
+0C - Zalure
+0D - Shifta
+0E - Ryuker
+0F - Resta
+10 - Anti
+11 - Reverser
+12 - Megid
+
+
+Item Modifier Codes
+
+Bank Slot 1 Item Modifier [Ralf]
+06F27EB0 00000018
+03xxxx00 00000000
+00000000 FFFFFFFF
+00000000 00yy0001
+
+Bank Slot 2 Item Modifier [Ralf]
+06F27EC8 00000018
+03xxxx00 00000000
+00000000 FFFFFFFF
+00000000 00yy0001
+
+...
+
+Bank Slot 199 Item Modifier [Ralf]
+06F29140 00000018
+03xxxx00 00000000
+00000000 FFFFFFFF
+00000000 00yy0001
+
+Bank Slot 200 Item Modifier [Ralf]
+06F29158 00000018
+03xxxx00 00000000
+00000000 FFFFFFFF
+00000000 00yy0001
+
+xxxx = Item ID
+
+yy = Quantity (01 .. 0A, Stackable Items Only)
+
+
+Item IDs
+
+0000 - Monomate
+0001 - Dimate
+0002 - Trimate
+0100 - Monofluid
+0101 - Difluid
+0102 - Trifluid
+0300 - Sol Atomizer
+0400 - Moon Atomizer
+0500 - Star Atomizer
+0600 - Antidote
+0601 - Antiparalysis
+0700 - Telepipe
+0800 - Trap Vision
+0900 - Scape Doll
+0A00 - Monogrinder
+0A01 - Digrinder
+0A02 - Trigrinder
+0B00 - Power Material
+0B01 - Mind Material
+0B02 - Evade Material
+
+0B03 - HP Material
+0B04 - TP Material
+0B05 - Def Material
+0B06 - Luck Material
+0C00 - Cell of MAG 502
+0C01 - Cell of MAG 213
+0C02 - Parts of RoboChao
+0C03 - Heart of Opa Opa
+0C04 - Heart of Pian
+0C05 - Heart of Chao
+0D00 - Sorcerer's Right Arm
+0D01 - S-beat's Arms
+0D02 - P-arm's Arms
+0D03 - Delsaber's Right Arm
+0D04 - Bringer's Right Arm
+0D05 - Delsaber's Left Arm
+0D06 - S-red's Arms
+0D07 - Dragon's Claw
+0D08 - Hildebear's Head
+0D09 - Hildeblue's Head
+
+0D0A - Parts of Baranz
+0D0B - Belra's Right Arm
+0D0C - Gi Gue's body
+0D0D - Sinow Berill's Arms
+0D0E - Grass Assassin's Arms
+0D0F - Booma's Right Arm
+0D10 - Gobooma's Right Arm
+0D11 - Gigobooma's Right Arm
+0D12 - Gal Gryphon's Wing
+0D13 - Rappy's Wing
+0E00 - Berill Photon
+0E01 - Parasitic gene "Flow"
+0E02 - Magic Stone "Iritista"
+0E03 - Blue-black stone
+0E04 - Syncesta
+0E05 - Magic Water
+0E06 - Parasitic cell Type D
+0E07 - magic rock "Heart Key"
+0E08 - magic rock "Moola"
+0E09 - Star Amplifier
+
+0E0A - Book of HITOGATA
+0E0B - Heart of Chu Chu
+0E0C - Parts of EGG BLASTER
+0E0D - Heart of Angel
+0E0E - Heart of Devil
+0E0F - Kit of Hamburger
+0E10 - Panther's Spirit
+0E11 - Kit of MARK3
+0E12 - Kit of MASTER SYSTEM
+0E13 - Kit of GENESIS
+0E14 - Kit of SEGA SATURN
+0E15 - Kit of DREAMCAST
+0E16 - Amplifier of Resta
+0E17 - Amplifier of Anti
+0E18 - Amplifier of Shifta
+0E19 - Amplifier of Deband
+0E1A - Amplifier of Foie
+0E1B - Amplifier of Gifoie
+0E1C - Amplifier of Rafoie
+0E1D - Amplifier of Barta
+
+0E1E - Amplifier of Gibarta
+0E1F - Amplifier of Rabarta
+0E20 - Amplifier of Zonde
+0E21 - Amplifier of Gizonde
+0E22 - Amplifier of Razonde
+0E23 - Amplifier of Red
+0E24 - Amplifier of Blue
+0E25 - Amplifier of Yellow
+0E26 - Heart of KAPU KAPU
+0E27 - Photon Booster
+0F00 - AddSlot
+1000 - Photon Drop
+1001 - Photon Sphere
+1002 - Photon Crystal
+1100 - Book of KATANA1
+1101 - Book of KATANA2
+1102 - Book of KATANA3
+1200 - Weapons Bronze Badge
+1201 - Weapons Silver Badge
+1202 - Weapons Gold Badge
+
+1203 - Weapons Crystal Badge
+1204 - Weapons Steel Badge
+1205 - Weapons Aluminum Badge
+1206 - Weapons Leather Badge
+1207 - Weapons Bone Badge
+1208 - Letter of appreciation
+1209 - Autograph Album
+120A - Valentine's Chocolate
+120B - New Year's Card
+120C - Christmas Card
+120D - Birthday Card
+120E - Proof of Sonic Team
+120F - Special Event Ticket
+1210 - Flower Bouquet
+1211 - Cake
+1212 - Accessories
+1213 - Mr.Naka's Business Card
+1300 - Present
+1400 - Chocolate
+1401 - Candy
+
+1402 - Cake
+1403 - Siver Badge
+1404 - Gold Badge
+1405 - Crystal Badge
+1406 - Iron Badge
+1407 - Aluminum Badge
+1408 - Leather Badge
+1409 - Bone Badge
+140A - Bouquet
+140B - Decoction
+1500 - Christmas Present
+1501 - Easter Egg
+1502 - Jack-O'-Lantern
+1600 - DISK Vol.1
+1601 - DISK Vol.2
+1602 - DISK Vol.3
+1603 - DISK Vol.4
+1604 - DISK Vol.5
+1605 - DISK Vol.6
+1606 - DISK Vol.7
+1700 - Hunters Report
+1701 - Hunters Report ("A")
+1702 - Hunters Report ("B")
+1703 - Hunters Report ("C")
+1704 - Hunters Report ("F")
+
+
+Mag Modifier Codes
+
+Bank Slot 1 Mag Modifier [Ralf]
+06F27EB0 00000018
+02mmllpp vvvvwwww
+xxxxyyyy FFFFFFFF
+ssiijjzz 00010001
+
+Bank Slot 2 Mag Modifier [Ralf]
+06F27EC8 00000018
+02mmllpp vvvvwwww
+xxxxyyyy FFFFFFFF
+ssiijjzz 00010001
+
+...
+
+Bank Slot 199 Mag Modifier [Ralf]
+06F29140 00000018
+02mmllpp vvvvwwww
+xxxxyyyy FFFFFFFF
+ssiijjzz 00010001
+
+Bank Slot 200 Mag Modifier [Ralf]
+06F29158 00000018
+02mmllpp vvvvwwww
+xxxxyyyy FFFFFFFF
+ssiijjzz 00010001
+
+mm = Mag ID
+ll = Level (01 .. C8)
+
+pp = Photon Blasts Bit Field (8 Bits)
+
+Photon Blasts Bit Field
+
+llrrrmmm
+
+ll  = Left   Photon Blast
+rrr = Right  Photon Blast
+mmm = Middle Photon Blast
+
+
+Middle & Right Photon Blast IDs
+
+000 - Farlla
+001 - Estlla
+010 - Golla
+011 - Pilla
+100 - Leilla
+101 - Mylla & Youlla
+110 - Megid
+111 - Grants
+
+
+Left Photon Blast IDs
+
+Middle & Right PB: Combo Of Farlla/Estlla
+
+00 - Golla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Golla
+
+00 - Estlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Pilla
+
+00 - Estlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Leilla
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Mylla&Youlla Or Farlla/Megid Or Farlla/Grants
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Estlla/Golla
+
+00 - Farlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Pilla
+
+00 - Farlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Leilla
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Mylla&Youlla Or Estlla/Megid Or Estlla/Grants
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Golla/Pilla
+
+00 - Farlla
+01 - Estlla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Mylla&Youlla Or Golla/Megid Or Golla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Pilla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Pilla/Mylla&Youlla Or Pilla/Megid Or Pilla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Leilla
+
+Middle & Right PB: Combo Of Leilla/Mylla&Youlla Or Leilla/Megid Or Leilla/Grants
+                   Or Mylla&Youlla/Megid Or Mylla&Youlla/Grants Or Megid/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Pilla
+
+
+vvvv = DEF  * 100. (Little Endian, 0000 .. 834E)
+wwww = POW  * 100. (Little Endian, 0000 .. 834E)
+xxxx = DEX  * 100. (Little Endian, 0000 .. 834E)
+yyyy = MIND * 100. (Little Endian, 0000 .. 834E)
+
+ss = Sync (00 .. 78)
+ii = IQ   (00 .. C8)
+
+
+jj = Mag Flags (Combinable)
+
+01 - Enable Middle Photon Blast
+02 - Enable Right  Photon Blast
+04 - Enable Left   Photon Blast
+40 - Present
+
+
+zz = Mag Color
+
+00 - Red
+01 - Blue
+02 - Yellow
+03 - Green
+04 - Purple
+05 - Black
+06 - White
+07 - Cyan
+08 - Brown
+09 - Orange
+0A - Light Blue
+0B - Olive
+0C - Light Cyan
+0D - Dark Purple
+0E - Grey
+0F - Light Grey
+10 - Pink
+11 - Dark Cyan
+
+
+Mag IDs
+
+00 - Mag
+01 - Varuna
+02 - Mitra
+03 - Surya
+04 - Vayu
+05 - Varaha
+06 - Kama
+07 - Ushasu
+08 - Apsaras
+09 - Kumara
+0A - Kaitabha
+0B - Tapas
+0C - Bhirava
+0D - Kalki
+0E - Rudra
+0F - Marutah
+10 - Yaksa
+11 - Sita
+12 - Garuda
+13 - Nandin
+
+14 - Ashvinau
+15 - Ribhava
+16 - Soma
+17 - Ila
+18 - Durga
+19 - Vritra
+1A - Namuci
+1B - Sumba
+1C - Naga
+1D - Pitri
+1E - Kabanda
+1F - Ravana
+20 - Marica
+21 - Soniti
+22 - Preta
+23 - Andhaka
+24 - Bana
+25 - Naraka
+26 - Madhu
+27 - Churel
+
+28 - ROBOCHAO
+29 - OPA-OPA
+2A - PIAN
+2B - CHAO
+2C - CHU CHU
+2D - KAPU KAPU
+2E - ANGEL'S WING
+2F - DEVIL'S WING
+30 - ELENOR
+31 - MARK3
+32 - MASTER SYSTEM
+33 - GENESIS
+34 - SEGA SATURN
+35 - DREAMCAST
+36 - HAMBURGER
+37 - PANZER'S TAIL
+38 - DAVIL'S TAIL
+39 - Deva
+3A - Rati
+3B - Savitri
+
+3C - Rukmin
+3D - Pushan
+3E - Diwari
+3F - Sato
+40 - Bhima
+41 - Nidra
+No Fog [Ralf]
+20083C40 FCA00890
+04083C44 C0C296DC
+E2000001 80008000
+
+Super Mates [Ralf]
+20116824 5460063E
+0411682C 48000034
+E2000001 80008000
+
+Super Fluids [Ralf]
+201174CC 5460063E
+041174D4 41820040
+041174E0 40800034
+E2000001 80008000
+
+God Of Grind [Ralf]
+201202A0 88840016
+041202A8 60000000
+041202B0 988301D1
+E2000001 80008000
+
+Super Grinders [Ralf]
+20115F5C 806300F8
+04115F64 1C600005
+E2000001 80008000
+
+Super Materials [Ralf]
+201AF054 7C9F2378
+081AF060 60000000
+20050064 00000000
+041AF2A0 60000000
+E2000001 80008000
+
+Unlimited Material Usage [Ralf]
+20336848 3800FFFF
+0433684C 38600000
+E2000001 80008000
+
+God Of Slots [Ralf]
+20117AF4 7C9F2378
+0400F730 38000004
+0400F734 98030192
+0400F738 481083C4
+04117AF8 4BEF7C38
+E2000001 80008000
+
+God Of Tech (Temporary) [Ralf]
+201D9D68 7FC4F378
+041D9D6C 8BE5005C
+E2000001 80008000
+
+God Of Tech (Permanently) [Ralf]
+201D9D68 7FC4F378
+0400F720 8BE5005C
+0400F724 9BE50048
+0400F728 481CA648
+041D9D6C 4BE359B4
+E2000001 80008000
+
+Shops: All Free [Ralf]
+2021A7C0 7F83E378
+0421A7C4 38600000
+0421BDB8 38600000
+0421F308 38600000
+E2000001 80008000
+
+Reveal All Traps [Ralf]
+201717E0 3C800001
+041717E8 38600001
+E2000001 80008000
+
+Telepipe Anywhere [Ralf]
+201B39E4 7C600034
+0410D338 60000000
+0410D350 60000000
+041B39E8 38600001
+E2000001 80008000
+
+Olga Flow Drop Items [Ralf]
+202AACCC 818C013C
+0600E1B0 00000028
+3800004D 90030370
+3C00C61C 38800000
+90030038 90830040
+480E8949 7FE3FB78
+481FDDD1 4829CB0C
+042AACDC 4BD634D4
+E2000001 80008000
+
+Dark Falz Drop Items [Ralf]
+2004B778 818C013C
+0600E0B0 0000003C
+3800002E 90030370
+800DAF90 2C000000
+38000000 38800000
+4182000C 3C00461B
+3C80431B 90030038
+90830040 480E8A35
+7FE3FB78 481FDEBD
+4803D6A4 00000000
+0404B788 4BFC2928
+E2000001 80008000
+
+One Kill Unseals Sealed J-Sword [Ralf]
+2012D6C4 7FE3FB78
+0412D6C8 38800100
+0412D6CC 4BFD5721
+0412D6D4 388059D8
+E2000001 80008000
+
+Tsumikiri J-Sword's Special Always Works [Ralf]
+20354EF4 807F00F0
+0600E180 00000014
+3C808001 8064E194
+3863FFFF 9064E194
+48341150 00000000
+0434F2DC 4BCBEEA4
+04354EFC 3C608001
+04354F00 38800064
+04354F04 9083E194
+E2000001 80008000
+
+Online Game: Never Lose Unequipped Items (Didn't Quit Properly) [Ralf]
+201FD4B8 38A02370
+041D3ED8 4800004C
+041FF9E0 60000000
+04200F3C 60000000
+04202AA8 38000000
+042C37C0 4800004C
+042D2280 48000020
+E2000001 80008000
+
+Online Game: Quick Save (Hold L+R And Open Item List) [Ralf]
+201FD4B8 38A02370
+0600E040 0000002C
+3C608059 A003E8A0
+70000060 28000060
+40820014 881F001C
+28000000 40820008
+4832B53D 807F0024
+4826B7F4 00000000
+041D3ED8 4800004C
+041FF9E0 60000000
+04200F3C 60000000
+04202AA8 38000000
+04279858 4BD947E8
+042C37C0 4800004C
+042D2280 48000020
+E2000001 80008000
+
+Includes "Never Lose Unequipped Items" patch.
+Level 300 Cap Mod [Ralf]
+201D9744 7C1E002E
+041AF744 3860012B
+041D979C 4831B630
+044D1FE0 437F0000
+044D1FFC 437F0000
+044D2050 437F0000
+044D206C 437F0000
+064F4DCC 000000B4
+906DB850 38600000
+6063A8C0 4BB89D3D
+7C7E1B79 4182009C
+3BE00000 7FE3FB78
+38800000 4BCE491D
+7C641B79 41820074
+7FC3F378 38A00960
+4BB19619 387E0960
+389E04B0 38A004B0
+4BB19609 38000064
+7C0903A6 807E095C
+389E095C 3C63004A
+9464000C 4200FFF8
+806DB850 80630000
+57E0103A 7FC3012E
+3C608044 60637016
+1C9F0024 7C632214
+38000006 7C0903A6
+A0030002 5400083C
+B4030002 4200FFF4
+3BDE0E10 3BFF0001
+2C1F000C 4180FF70
+4BCE4924 00000000
+E2000001 80008000
+
+This code will let you level up your character to a maximum level of 300.
+
+Level 600 Cap Mod [Ralf]
+201D9744 7C1E002E
+041AF744 38600257
+041D979C 4831B630
+044D1FE0 437F0000
+044D1FFC 437F0000
+044D2050 437F0000
+044D206C 437F0000
+064F4DCC 000000C4
+906DB850 3C600001
+60635180 4BB89D3D
+7C7E1B79 418200AC
+3BE00000 7FE3FB78
+38800000 4BCE491D
+7C641B79 41820084
+7FC3F378 38A00960
+4BB19619 3BA00960
+7C7EEA14 389E04B0
+38A004B0 4BB19605
+3BBD04B0 2C1D1C20
+4180FFE8 38000190
+7C0903A6 807E095C
+389E095C 3C63004A
+9464000C 4200FFF8
+806DB850 80630000
+57E0103A 7FC3012E
+3C608044 60637016
+1C9F0024 7C632214
+38000006 7C0903A6
+A0030002 5400083C
+B4030002 4200FFF4
+3BDE1C20 3BFF0001
+2C1F000C 4180FF60
+4BCE4914 00000000
+E2000001 80008000
+
+This code will let you level up your character to a maximum level of 600.
+
+Level 999 Cap Mod [Ralf]
+201D9744 7C1E002E
+041AF744 386003E6
+041D979C 4831B630
+044D1FE0 437F0000
+044D1FFC 437F0000
+044D2050 437F0000
+044D206C 437F0000
+064F4DCC 000000C4
+906DB850 3C600002
+60633280 4BB89D3D
+7C7E1B79 418200AC
+3BE00000 7FE3FB78
+38800000 4BCE491D
+7C641B79 41820084
+7FC3F378 38A00960
+4BB19619 3BA00960
+7C7EEA14 389E04B0
+38A004B0 4BB19605
+3BBD04B0 2C1D2EE0
+4180FFE8 38000320
+7C0903A6 807E095C
+389E095C 3C630027
+9464000C 4200FFF8
+806DB850 80630000
+57E0103A 7FC3012E
+3C608044 60637016
+1C9F0024 7C632214
+38000006 7C0903A6
+A0030002 1C000003
+B4030002 4200FFF4
+3BDE2EE0 3BFF0001
+2C1F000C 4180FF60
+4BCE4914 00000000
+E2000001 80008000
+
+This code will let you level up your character to a maximum level of 999.
+Shields DFP/EVP Bug Fix [Ralf]
+20118948 809E018C
+0411894C 88040016
+04118958 88040017
+E2000001 80008000
+
+Olga Flow Barta Bug Fix [Ralf]
+202BCC0C 801A042C
+0600D980 00000014
+807C0000 2C030013
+40820008 38600002
+482AF27C 00000000
+042BCC08 4BD50D78
+E2000001 80008000
+
+Morfos Frozen Player Bug Fix [Ralf]
+20336998 809E0030
+0600D9A0 00000018
+C042FC88 807E0030
+70630020 41820008
+C042FCA0 48329004
+043369B4 4BCD6FEC
+E2000001 80008000
+
+Ruins Laser Fence SFX Bug Fix [Ralf]
+20166C50 800300C8
+04166CC4 3C604005
+04166CC8 4800009C
+04166D60 4800001C
+E2000001 80008000
+
+VR Spaceship Item Drops Bug Fix [Ralf]
+045D6CF4 435C0000
+
+Hell/Dark Weapon Specials GFX Bug Fix (PSO BB Style) [Ralf]
+20357800 7CDF3379
+0600E1E0 0000001C
+7FC802A6 38A00000
+38C0001E 38E00040
+4807869D 7FC803A6
+4E800020 00000000
+04357834 388001E8
+04357858 4BCB6989
+043578C8 388001E8
+043578D8 4BCB6909
+E2000001 80008000
+
+Super Powerful Weapons [Ralf]
+044C4840 40000000
+044C4844 40400000
+
+Unlock All Combo Locked Weapons [Ralf]
+2010B95C 3880FFFF
+0410B980 38800000
+E2000001 80008000
+
+Ragol Ring: Disable Scape Doll Effect [Ralf]
+201B1A70 7C7F1B78
+041B1A74 48000034
+E2000001 80008000
+
+Android Classes: No Immunity To Paralysis & Poison [Ralf]
+20015A3C 2C030000
+04015A40 60000000
+04015BE4 60000000
+E2000001 80008000
+
+Human & Newman Classes: Immunity To Shock [Ralf]
+200154A4 3BC00001
+0600D640 00000018
+801F02E4 540007FF
+41820008 3BC00000
+2C1E0000 48007E58
+040154A8 4BFF8198
+E2000001 80008000
+
+Improved Draw Distance (Almost All Objects) [Aleron Ives & Ralf]
+20100C4C 93E1002C
+0600DFA0 00000040
+C3C2C200 EFDE0072
+4E800020 C042C200
+C01E001C EC0000B2
+4E800020 C382C200
+EF9C00B2 4E800020
+C002C200 C023000C
+EC000072 D003000C
+3C60804D 4E800020
+04100C50 4BF0D351
+041570BC 4BEB6EF1
+041A2628 4BE6B995
+041A2828 4BE6B779
+04206124 4BE07EA5
+042068C8 4BE07701
+045D5730 47AFC800
+045D65DC 47742400
+045D6C04 491C4000
+045D7A90 47AFC800
+045D8020 44AF0000
+E2000001 80008000
+
+Improved Trap Reveal Range [Aleron Ives & Ralf]
+045D7A90 47AFC800
+
+Improved Player & NPC Draw Distance [Aleron Ives & Ralf]
+045D6C04 491C4000
+045D6E10 44480000
+045D6EE8 44480000
+045D73FC 44480000
+045D8510 44480000
+
+Improved Teleporter/Warp Draw Distance [Aleron Ives & Ralf]
+045D7CF8 44160000
+045D7EC0 44160000
+045D8214 44160000
+045D824C 44160000
+045D8280 44160000
+045D82A0 44160000
+
+Improved Laser Fence/Switch Draw Distance [Aleron Ives & Ralf]
+085D7854 44160000
+20030010 00000000
+045D7930 44160000
+045D809C 44160000
+045D80B0 44160000
+045D80BC 442F0000
+045D80D0 44160000
+
+Improved Door/Switch/Wall Draw Distance [Aleron Ives & Ralf]
+045D7520 44160000
+085D7650 44480000
+20020020 00000000
+045D78DC 43C80000
+045D7950 44160000
+045D79B0 44160000
+045D7F1C 44160000
+045D7FAC 44160000
+045D7FF4 44480000
+045D8020 44480000
+045D8038 44480000
+045D8040 44160000
+045D81E8 43FA0000
+
+Improved Crate Draw Distance [Ralf]
+084DE1D8 43FA0000
+20030018 00000000
+045D7F48 43C30000
+
+Improved Item Box Draw Distance [Ralf]
+045D6CC0 43960000
+
+Improved Monster Blood Draw Distance [Aleron Ives]
+045D65DC 47742400
+
+Improved Particle Effect Draw Distance [Aleron Ives]
+045D5730 47AFC800
+
+Improved Area Map Draw Distance (Doors & Enemies) [Aleron Ives]
+045D87A4 48742400
+Improved Baranz Launcher [Ralf]
+20126740 900301FC
+04126770 38C00300
+041267A4 38C00600
+041267D8 38C0FD00
+0412680C 38C0FA00
+045D6FB8 41600000
+E2000001 80008000
+
+Improved Dancing Hitogata [Ralf]
+202D4DFC A883024A
+042D4E00 2C040000
+042D4E04 41820040
+042D4E0C 3BC4FFFF
+042D4E14 1FDE0200
+042D4E34 3BDEFC00
+042D504C 2C00000F
+042D5050 40810028
+E2000001 80008000
+
+Improved Dark Meteor [Ralf]
+20356C04 80BF00F0
+04356C84 38C00400
+04356CB8 38C0FC00
+04356CEC 38C00800
+04356D20 38C0F800
+E2000001 80008000
+
+Improved Maser Beam & Power Maser [Ralf]
+20127DCC 806300F0
+04127DF0 3BA00018
+04127DF8 3BA00010
+04127E00 3BA0001D
+E2000001 80008000
+
+Improved Sorcerer's Cane [Ralf]
+045D6F60 3F000000
+
+Improved Belra Cannon Special [Ralf]
+045D6F10 40800000
+
+Improved Berdysh Special [Ralf]
+20354FD0 2800003D
+04354FD4 4800001C
+E2000001 80008000
+
+Improved Caduceus Special [Ralf]
+20122D88 807F00F0
+04122D90 38C0001D
+04122D94 38A1006C
+04122D98 4810FC89
+E2000001 80008000
+
+Improved Dark Flow Special [Ralf]
+20326480 807E00F0
+04326498 5400083C
+043264B0 38C0F000
+043264C8 38C0F800
+043264F8 38C00800
+04326510 38C01000
+E2000001 80008000
+
+Improved Double Cannon Special [Ralf]
+20125060 807D00F0
+0600D5E0 00000010
+C002D3E0 EC210032
+D021004C 48117A80
+04125068 4BEE8578
+041251C4 60000000
+045D6F7C 3CA3D70A
+E2000001 80008000
+
+Improved Dragon's Claw Special [Ralf]
+201253C4 83FE00F0
+041253D4 38A1006C
+041253E0 38C60010
+041253E4 48112EED
+E2000001 80008000
+
+Improved Drill Launcher Special [Ralf]
+20124B48 4182001C
+04124B4C C022D3E0
+E2000001 80008000
+
+Improved Elysion Special [Ralf]
+20127C8C 807F00F0
+0600D940 00000014
+281E002C 40820008
+3BC00054 57C5063E
+4810F404 00000000
+0411CD50 4BEF0BF0
+04127C94 38C0001D
+04127C98 38A1006C
+04127C9C 4810AD85
+E2000001 80008000
+
+Improved Evil Curst Special [Ralf]
+20124500 83FE00F0
+04124510 38C30010
+E2000001 80008000
+
+Improved Gal Wind Special [Ralf]
+045DA9C8 3CA3D70A
+
+Improved Hildebear's Cane Special [Ralf]
+20121B94 83FE00F0
+04121BA4 38C30012
+E2000001 80008000
+
+Improved Hildeblue's Cane Special [Ralf]
+20122810 83FE00F0
+04122820 38C30012
+E2000001 80008000
+
+Improved Lavis Blade Special [Ralf]
+045D7000 3C75C28F
+045D7004 40800000
+
+Improved Lavis Cannon Special [Ralf]
+045D70A8 3C23D70A
+045D70AC 40800000
+
+Improved Magical Piece Special [Ralf]
+201278F4 807E00F0
+0600D960 00000014
+281E0024 40820008
+3BC000FF 80EDAF34
+4810F3E0 00000000
+0411CD4C 4BEF0C14
+04127908 60000000
+04127948 807E00F0
+04127950 38A0001D
+04127954 38830038
+04127958 4811174D
+E2000001 80008000
+
+Improved Orochi-Agito Special [Ralf]
+045D6FF0 3CA3D70A
+045D6FF4 40C00000
+
+Improved Plantain Huge Fan Special [Ralf]
+045D6F00 40800000
+
+Improved Prophets of Motav Special [Ralf]
+20127AFC 807F00F0
+04127B00 38C0001D
+04127B18 38C0001D
+E2000001 80008000
+
+Improved Psycho Wand Special [Ralf]
+2012BB34 807D00F0
+0412BB40 38C00010
+0412BB44 48000030
+0412BB54 38BD0208
+0412BB58 38C00016
+0412BB5C 48000018
+0612BB68 00000010
+389D01FC 38BD0208
+38C0001C 48106EAD
+E2000001 80008000
+
+Improved S-Red's Blade Special [Ralf]
+2012ECB0 807F00F0
+0412ECB4 38A0000A
+0412ECC8 38A0000A
+E2000001 80008000
+
+Improved Soul Banish Special [Ralf]
+2012D4F0 38810008
+0412D4F4 38C00015
+045D7158 3CA3D70A
+E2000001 80008000
+
+Improved Technical Crozier Special [Ralf]
+2012F6FC 807F00F0
+0412F700 38C0001D
+E2000001 80008000
+
+Improved The Sigh of a God Special [Ralf]
+2012FB5C 807C00F0
+0412FB58 38C30018
+E2000001 80008000
+
+Improved Twin Blaze Special [Ralf]
+20125E14 807F00F0
+04125E10 38A30012
+E2000001 80008000
+
+Improved Twin Psychogun Special [Ralf]
+2012FCFC 41820068
+0412FD00 48000020
+045D7208 40C00000
+E2000001 80008000
+
+Improved Vjaya Special [Ralf]
+2012B478 807F00F0
+0412B470 2C030064
+0412B47C 38800064
+0412B48C 38C0FF9C
+045D70C0 40C00000
+E2000001 80008000
+
+Improved Windmill Special [Ralf]
+20130694 801F01FC
+04130698 2C000CCC
+E2000001 80008000
+
+Improved Mag Specials [Ralf]
+20112DB0 90010074
+04112DB4 38000006
+04113204 2C00111C
+0411320C 3800111C
+E2000001 80008000
+
+Improved Farlla Power [Ralf]
+201A87D0 7CA3F1D6
+041A87DC C002C428
+041A881C C002C424
+E2000001 80008000
+
+Improved Estlla Power [Ralf]
+201A884C 7CA3F1D6
+041A8858 C002DA80
+041A8898 C002DE00
+E2000001 80008000
+
+Improved Golla Power [Ralf]
+201A88DC 7CA3F1D6
+041A88E8 C002C420
+041A8928 C002C41C
+E2000001 80008000
+
+Improved Pilla Power [Ralf]
+201A8950 7C630734
+041A8964 C002C420
+041A89A4 C002C41C
+E2000001 80008000
+
+Improved Leilla Power [Ralf]
+201A89C0 7C630734
+041A89DC C002DDC4
+E2000001 80008000
+
+Improved Mylla & Youlla Power [Ralf]
+201A89F4 7C630734
+041A8A10 C022DDAC
+041A8A18 C002DE00
+E2000001 80008000
+
+Invisible Mag [Ralf]
+20115294 2C030000
+04115298 480000D4
+E2000001 80008000
+Gol Dragon Camera Bug Fix [Ralf]
+202FD0F8 40800068
+042FD100 2C030001
+E2000001 80008000
+
+Reverser Target Lock Bug Fix [Ralf]
+201C6950 EC01002A
+041C694C 389F02FC
+E2000001 80008000
+
+Tiny Grass Assassins Bug Fix [Ralf]
+200BCB54 2C030006
+040BCB58 48000010
+E2000001 80008000
+
+Basic Rare Reduction Bug Fix [Ralf]
+20011AB8 5460063E
+0600D9E0 00000018
+880300EE 886300ED
+28000004 40810008
+38600001 480040C4
+04011AB4 4BFFBF2C
+E2000001 80008000
+
+Invalid Items Bug Fix [Ralf]
+2011CE44 1C030018
+0411CE54 7C030378
+0411CE58 3863FFFF
+0411CE5C 4BFFFFE8
+0411CF10 7C030378
+0411CF14 3863FFFF
+0411CF18 4BFFFFE8
+0411CF60 7C040378
+0411CF64 3884FFFF
+0411CF68 4BFFFFE8
+E2000001 80008000
+
+Item Crate & Laser Fence Switch Fadeout Bug Fix [Ralf]
+2018A414 2C030001
+0418A418 60000000
+04193D9C 60000000
+E2000001 80008000
+
+SFX Cancellation Distance Bug Fix [Ralf]
+045D8990 46AFC800
+045D8C30 43480000
+
+Chat Bubble Window TAB Bug Fix [Ralf]
+202514AC A01D0000
+042514B0 60000000
+E2000001 80008000
+
+Chat Log Window LF/TAB Bug Fix [Ralf]
+20269398 57A0056B
+042693A4 60000000
+E2000001 80008000
+
+Alt. Chat Log Window Font (Small Beta Font) [Ralf]
+20269398 57A0056B
+042693A4 60000004
+E2000001 80008000
+
+Improved Chat Log Window Size [Ralf]
+0444F7D0 44180000
+045D9878 436C0000
+045D987C 43D20000
+
+Chat Log Window: Scroll Lock (Hold L+R) [Ralf]
+20269480 C01C0084
+0600D6A0 0000001C
+3C608051 A063F290
+70600003 28000003
+41820008 D03C0084
+4825BDDC 00000000
+04269490 4BDA4210
+E2000001 80008000
+
+More Chat Text Colors [Ralf]
+20144E88 4800002C
+0600D070 00000030
+2C00004B 41800024
+2C00005A 4181001C
+3C608045 5404103A
+3803E874 7C602214
+8003FED4 48137E1C
+2C000030 48137DF4
+04144E8C 4BEC81E4
+E2000001 80008000
+
+Colors
+
+<tab>CK - Light Grey
+<tab>CL - Red
+<tab>CM - Orange
+<tab>CN - Yellow
+<tab>CO - Light Green
+<tab>CP - Light Blue
+<tab>CQ - Light Purple
+<tab>CR - Medium Grey 1
+<tab>CS - Medium Grey 2
+<tab>CT - Dark Red
+<tab>CU - Brown
+<tab>CV - Olive
+<tab>CW - Dark Green
+<tab>CX - Dark Blue
+<tab>CY - Dark Purple
+<tab>CZ - Dark Grey
+
+Chat Tabulator Patch (Incl. Chat Bubble Window TAB Bug Fix) [Ralf]
+20144E08 BFA10014
+0600D740 0000004C
+7C7D1B78 881D0000
+2C000000 41820038
+2C00003C 40820028
+3C007461 6000623E
+83DD0001 7C00F000
+40820014 3C000909
+60000909 901D0000
+901D0001 3BBD0001
+4BFFFFC4 7C7D1B78
+48137688 00000000
+04144E0C 4BEC8934
+042514B0 60000000
+E2000001 80008000
+
+This code will let you enter a tabulator as a plain text keyword "<tab>" (w/o quotation marks).
+
+Remap Chat & Short Cut List Window Buttons [Ralf]
+20246FCC 540007BD
+04246FD8 3C800400
+0424D450 60000000
+E2000001 80008000
+
+C-Stick Up = Open Chat Window
+Y or R + Y = Open Short Cut List Window
+
+Improved Short Cut List Window Size [Ralf]
+0444F3A0 438C0000
+0444F3A4 43200000
+0444FC0C 439A8000
+
+Improved Difluid Power [Ralf]
+201174CC 5460063E
+04117460 1C000096
+E2000001 80008000
+
+Improved Monofluid Power [Ralf]
+201174CC 5460063E
+04117494 1C00004B
+E2000001 80008000
+
+Improved Mono/Dimate Power [Ralf]
+20116824 5460063E
+04116848 1CA50002
+E2000001 80008000
+
+Improved EFR Weapon Specials Power [Ralf]
+20012AAC A81B02F2
+04012AF4 C02280B4
+E2000001 80008000
+
+Improved ETH Weapon Specials Power [Ralf]
+20012C1C A81B02F4
+04012C64 C02280B4
+E2000001 80008000
+
+Improved ETH Weapon Specials Shock Chance v1 [Ralf]
+20010558 EFE11028
+0600D480 00000024
+3C608001 60632D34
+80010034 7C030000
+4082000C C3E2802C
+EFFF07B2 7FC3F378
+480030E8 00000000
+04010584 4BFFCEFC
+E2000001 80008000
+
+Max Shock/Thunder/Storm/Tempest Shock Chance = 40%
+
+Improved ETH Weapon Specials Shock Chance v2 [Ralf]
+20010558 EFE11028
+0600D480 0000004C
+3C608001 60632D34
+80010034 7C030000
+40820034 8001001C
+C3E28290 28000002
+40820008 C3E28028
+28000003 40820008
+C3E28040 28000004
+40820008 C3E2802C
+EFFF07B2 7FC3F378
+480030C0 00000000
+04010584 4BFFCEFC
+E2000001 80008000
+
+Max Shock/Thunder/Storm/Tempest Shock Chance = 10%/20%/30%/40%
+
+No Shock Status Stacking [Ralf]
+200154A8 2C1E0000
+0600D0B0 00000018
+7FE3FB78 80030268
+2C000000 41810008
+480083F4 48008544
+040154B0 4BFF7C00
+E2000001 80008000
+No Freeze/Paralyse/Confuse Specials Success Rate Bonus (Androids) [Ralf]
+20011A74 2C00000A
+04011A7C 60000000
+E2000001 80008000
+
+Improved Freeze/Paralyse/Confuse Specials Success Rate (Androids) [Ralf]
+20011A74 2C00000A
+04011A3C 60000000
+04011A7C 3BFF0032
+E2000001 80008000
+
+Improved Freeze/Paralyse/Confuse Specials Success Rate (All) [Ralf]
+20011A74 2C00000A
+04011A3C 60000000
+04011A5C 60000000
+04011A7C 3BFF0032
+E2000001 80008000
+
+Improved Gibarta/Rabarta & Ice Specials Freeze Chance [Ralf]
+20010470 48000034
+0400D6C0 C3E2FB04
+0400D6C4 EFFF082A
+0400D6C8 48002D14
+040103D8 4BFFD2E8
+04010480 C002801C
+04010488 4080001C
+04010494 C002804C
+E2000001 80008000
+
+Hunters & Forces: No Accuracy Loss Of Ranged Attacks [Ralf]
+20015F10 38800020
+04015F1C 4800005C
+E2000001 80008000
+
+Improved Gifoie Casting Time [Ralf]
+024CC608 0000000F
+
+Improved Rafoie Casting Time [Ralf]
+024CC634 0000000F
+
+Improved Gibarta Casting Time [Ralf]
+202300E4 3880018F
+042300E8 38A0000F
+024CC68C 00000014
+E2000001 80008000
+
+Improved Rabarta Casting Time [Ralf]
+024CC6B8 0000000F
+
+Improved Gizonde Casting Time [Ralf]
+024CC710 0000000F
+
+Improved Razonde Casting Time [Ralf]
+024CC73C 0000000F
+
+Improved Grants Casting Time [Ralf]
+024CC768 00000014
+
+Improved Deband Casting Time [Ralf]
+024CC794 0000000F
+
+Improved Shifta Casting Time [Ralf]
+024CC818 0000000F
+
+Improved Ryuker Casting Time [Ralf]
+024CC844 0000000F
+
+Improved Resta Casting Time [Ralf]
+024CC870 0000000F
+
+Improved Anti Casting Time [Ralf]
+024CC89C 0000000F
+
+Improved Reverser Casting Time [Ralf]
+024CC8C8 0000000F
+
+Improved Megid Casting Time [Ralf]
+024CC8F4 00000014
+
+Improved Tech Casting Times [Ralf]
+084CC5DC 0000000F
+1012002C 00000000
+
+Psycho Wand: No HP Drain [Ralf]
+2012BCC4 7FE4FB78
+0412BCC8 60000000
+E2000001 80008000
+
+Dark Bridge: No Negative Status Effects [Ralf]
+20325AE8 38600030
+08325B10 3CC07FFF
+20020030 00000000
+E2000001 80008000
+
+Improved Delsaber's Buster & Shield of Delsaber Combo [Ralf]
+200197A4 886300ED
+0600D790 0000003C
+28030000 41820034
+880300ED 2800001A
+40820028 38000021
+80840D10 28040000
+41820014 888400EE
+2804001A 40820008
+38000022 980301D2
+4800BFCC 00000000
+04019784 7C641B78
+04019788 80630D1C
+04019790 4BFF4000
+0410A4EC 388001D1
+045D6DB4 40800000
+E2000001 80008000
+
+Shield of Delsaber: Enable Particle Effect [Ralf]
+2010A538 2C1E0000
+0410A53C 60000000
+E2000001 80008000
+
+Lose 5% Meseta When Revived In Medi Centre [Ralf]
+201BBCD0 38600234
+0600D9C0 00000018
+808302B0 80840020
+38000014 7C040396
+7C802050 481AE2F8
+041BBCC8 4BE51CF8
+E2000001 80008000
+
+Never Lose Meseta When Revived In Medi Centre [Ralf]
+201BBCD0 38600234
+041BBCCC 60000000
+E2000001 80008000
+
+Enemies & Traps: No Player Speed Reduction [Ralf]
+045D857C 3F800000
+045D8580 3F800000
+
+Disable All Map Traps [Ralf]
+201714C0 2C030000
+041714C4 60000000
+E2000001 80008000
+
+Map Traps: Slower Blast Time [Ralf]
+20170A88 80030348
+04170A90 4800002C
+04170AC0 3800006A
+E2000001 80008000
+
+Android Traps: Faster Blast Time [Ralf]
+201706C8 B01C0326
+041706D0 38000010
+04170704 38000096
+E2000001 80008000
+
+Enable Homing Traps (Map Traps Only) [Ralf]
+20170A88 80030348
+0600D040 00000024
+2C030078 40800018
+38000002 901F0344
+881F0030 7000009F
+981F0030 3803FFFF
+48164460 00000000
+04170A90 4800002C
+04170AC0 380000B4
+041714BC 4BE9BB84
+E2000001 80008000
+
+Enable Tech PB Generation [Ralf]
+2001404C 7F43D378
+0600D0D0 00000024
+FC00F81E D8010040
+80810044 7F63DB78
+481BF2E5 7F63DB78
+481BF249 FC00F81E
+48006F5C 00000000
+04014048 4BFF9088
+E2000001 80008000
+
+
+Player Speed Modifier [Ralf]
+201C6070 D003001C
+041C606C C002C610
+045D8560 xxxxxxxx
+045D85F0 yyyyyyyy
+E2000001 80008000
+
+xxxxxxxx = Walking Speed (IEEE-754 SP Floating-Point Number, Default: 3F800000 = 1.0)
+yyyyyyyy = Running Speed (IEEE-754 SP Floating-Point Number, Default: 3FC00000 = 1.5)
+
+
+Fast Player [Ralf]
+201C6070 D003001C
+041C606C C002C610
+045D8560 3FC00000
+045D85F0 40200000
+E2000001 80008000
+
+Benny Hill Mode (Super Fast Player) [Ralf]
+201C6070 D003001C
+041C606C C002C610
+045D8560 40400000
+045D85F0 40800000
+E2000001 80008000
+Have Four Action Button Palettes (C-Stick Version) [Ralf]
+201D812C 7C9C2378
+0600CD00 000000F0
+3C808000 6084CF3E
+3BE00000 A0C4003A
+2C060000 41820074
+B3E4003A 3C608051
+A003F294 A0A3F290
+7CA53038 70003C00
+41820058 5403056B
+41820008 3BC0002A
+540304A5 41820008
+3BC0001C 54030529
+41820008 3BC0000E
+7C84F214 38000007
+7C0903A6 387C0504
+2C050003 4082000C
+A0030004 B0040002
+A4040002 B4030004
+4200FFE8 3BC00000
+481CB3B0 38600003
+3C808001 B064CF78
+7FC3F378 482697F4
+3D808044 618CE3D0
+80030000 7C006000
+A0030004 40820018
+2C000000 40820010
+38600001 3D808001
+B06CCF78 4823F018
+3C608000 6063CF3E
+3800001C 7C0903A6
+38000000 B4030002
+4200FFFC 48328DB8
+041D8134 4BE34BCC
+04246C3C A01F004A
+04246C40 54030637
+0424BDE0 4BDC0FC0
+0427658C 4BD96800
+042765EC A01F004A
+042765F0 54030637
+04335BA0 4BCD7230
+E2000001 80008000
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+C-Stick Left  = Select Palette 1
+C-Stick Down  = Select Palette 2
+C-Stick Right = Select Palette 3
+C-Stick Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+C-Stick Left  = Load Palette 1 As Active Button Selection
+C-Stick Down  = Load Palette 2 As Active Button Selection
+C-Stick Right = Load Palette 3 As Active Button Selection
+C-Stick Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+C-Stick Left  = Save Active Button Selection As Palette 1
+C-Stick Down  = Save Active Button Selection As Palette 2
+C-Stick Right = Save Active Button Selection As Palette 3
+C-Stick Up    = Save Active Button Selection As Palette 4
+
+
+Have Four Action Button Palettes (D-Pad Version) [Ralf]
+201D812C 7C9C2378
+0600CD00 000000F0
+3C808000 6084CF3E
+3BE00000 A0C4003A
+2C060000 41820074
+B3E4003A 3C608051
+A003F296 A0A3F290
+7CA53038 700000F0
+41820058 540306F7
+41820008 3BC0002A
+54030631 41820008
+3BC0001C 540306B5
+41820008 3BC0000E
+7C84F214 38000007
+7C0903A6 387C0504
+2C050003 4082000C
+A0030004 B0040002
+A4040002 B4030004
+4200FFE8 3BC00000
+481CB3B0 38600003
+3C808001 B064CF78
+7FC3F378 482697F4
+3D808044 618CE3D0
+80030000 7C006000
+A0030004 40820018
+2C000000 40820010
+38600001 3D808001
+B06CCF78 4823F018
+3C608000 6063CF3E
+3800001C 7C0903A6
+38000000 B4030002
+4200FFFC 48328DB8
+041D8134 4BE34BCC
+04246C3C A01F0048
+04246C40 540304AB
+0424BDE0 4BDC0FC0
+0427658C 4BD96800
+042765EC A01F0048
+042765F0 540304AB
+04335BA0 4BCD7230
+E2000001 80008000
+
+This code will let you have up to four different palettes of action buttons.
+
+
+Battle Screen Control Keys
+
+D-Pad Left  = Select Palette 1
+D-Pad Down  = Select Palette 2
+D-Pad Right = Select Palette 3
+D-Pad Up    = Select Palette 4
+
+Customize Menu Control Keys
+
+D-Pad Left  = Load Palette 1 As Active Button Selection
+D-Pad Down  = Load Palette 2 As Active Button Selection
+D-Pad Right = Load Palette 3 As Active Button Selection
+D-Pad Up    = Load Palette 4 As Active Button Selection
+
+Hold L+R and press ...
+
+D-Pad Left  = Save Active Button Selection As Palette 1
+D-Pad Down  = Save Active Button Selection As Palette 2
+D-Pad Right = Save Active Button Selection As Palette 3
+D-Pad Up    = Save Active Button Selection As Palette 4
+
+TP Bar Color Bug Fix [Aleron Ives & Ralf]
+2026EF3C 3C80FF01
+0426EF44 3884AAFA
+0426F058 3863AAFA
+0426F0E0 3883AAFA
+044D1248 FF0074EE
+E2000001 80008000
+
+Tech Auto Targetting Bug Fix [Ralf]
+2022D6A8 8001001C
+0422DA58 60000000
+044CC5D4 0000001E
+044CC62C 00000028
+044CC658 00000032
+044CC684 0000003C
+024CC696 0000003C
+044CC8EC 00000028
+E2000001 80008000
+
+Improved Tech Auto Targetting (Incl. Bug Fix) [Ralf]
+2022D6A8 8001001C
+0422DA58 60000000
+044CC5D4 0000001E
+024CC5E6 00000006
+044CC62C 00000028
+024CC63E 00000008
+044CC658 00000032
+024CC66A 0000000A
+044CC684 0000003C
+024CC696 0000000C
+044CC6DC 00004000
+084CC760 00004000
+2004002C 00000000
+044CC8EC 00000028
+024CC8FE 00000008
+E2000001 80008000
+
+Improved Area Map [Aleron Ives & Ralf]
+0444FECC 436C0000
+044C8C00 43B10000
+044C8C38 41050000
+044C8C40 415B0000
+044C8C68 43C68000
+044C8C70 43CB8000
+044C8CB8 43860000
+044C8CD0 432C0000
+044C8CE0 42C80000
+044D13B4 43680000
+045CF7F4 447A0000
+045CF7F8 459C4000
+045D87A4 49005390
+045D9700 437C0000
+045D9710 43DE0000
+045D9724 42740000
+045D972C 42E80000
+
+Improved Mini Map v1 [Aleron Ives & Ralf]
+0444FD28 447A0000
+044C8BE8 440B0000
+044C8BEC 42CC0000
+064C8C54 00000010
+4412C000 42F60000
+4412C000 43050000
+044C8CAC 43F60000
+044C8CB0 42180000
+045CF7F0 452F0000
+045D87A4 49005390
+
+Improved Mini Map v2 [Aleron Ives & Ralf]
+0444FD28 447A0000
+044C8BE8 44098000
+044C8BEC 42D80000
+064C8C24 00000010
+416D0000 3FE80000
+41998000 40C60000
+064C8C54 00000010
+4412C000 43070000
+4412C000 43110000
+044C8CB0 42180000
+044C8CC4 430C0000
+044C8CC8 430C0000
+044C8CDC 42480000
+045CF7F0 4528C000
+045D87A4 49005390
+
+Improved Mini Map v3 [Aleron Ives & Ralf]
+0444FD28 447A0000
+044C8BEC 42EC0000
+064C8C24 00000010
+41680000 3FC00000
+419C0000 40D00000
+064C8C54 00000010
+4413C000 431B0000
+4413C000 43250000
+044C8CAC 43E80000
+044C8CB0 42180000
+044C8CC4 43200000
+044C8CC8 43200000
+044C8CDC 42200000
+045CF7F0 45228000
+045D87A4 49005390
+
+Improved Mini Map v4 [Aleron Ives & Ralf]
+201FB140 D03E001C
+041FB144 C002FDA8
+0444FD28 447A0000
+044C8BEC 42C00000
+064C8C24 00000010
+41600000 3F800000
+41A00000 40E00000
+064C8C54 00000010
+44160000 41200000
+44160000 41A00000
+044C8CDC 00000000
+045CF7F0 451C4000
+045D87A4 49005390
+E2000001 80008000
+
+Improved Split-Screen Map [Aleron Ives & Ralf]
+201FB344 7FE3FB78
+041FB348 4BFFFF4C
+041FBAA4 C002E9BC
+04477744 43A80000
+044C8C48 41000000
+044C8C50 41600000
+064C8C74 00000010
+43FF8000 43928000
+43FF8000 43978000
+044C8CC0 43100000
+044C8CD8 43400000
+044C8CE4 42C80000
+045D87A4 49005390
+E2000001 80008000
+
+Reveal Complete Map [Ralf]
+201FA0A0 FC010040
+041FA0A4 4800000C
+041FA168 4800000C
+041FB11C 60000000
+E2000001 80008000
+
+Challenge Mode: Access All Stages [Ralf]
+20288AB8 2C000009
+04288ABC 60000000
+E2000001 80008000
+
+Lock On Window: Show Enemy HP Bar [Ralf]
+202627A0 D01D0024
+042627A4 4BFE12B1
+084D0548 42640000
+20030030 00000000
+044D0608 42300000
+044D0624 FF00FF15
+045D9344 42A00000
+E2000001 80008000
+
+Lock On Window: Show Enemy HP/TP Bar [Ralf]
+202627A0 D01D0024
+042627A4 4BFE12B1
+04262808 4BFE124D
+084D0548 428A0000
+20030030 00000000
+044D0608 42300000
+044D0624 FF00FF15
+044D0634 42600000
+044D0650 FF008CFC
+045D9344 42B80000
+E2000001 80008000
+
+Humans & Newmans Can Use Traps [Ralf]
+201AFBCC 7FE3FB78
+0600CA80 00000024
+8863088D 2C030004
+41820018 2C030005
+41820010 2C030009
+41820008 38600002
+4E800020 00000000
+041AFBD0 38600001
+041AFC04 4BE5CE7D
+041AFC70 38600001
+041AFCB0 4BE5CDD1
+0426E358 48000028
+E2000001 80008000
+2044F6B4 00080000
+042773BC 3803F618
+0644F6B4 0000001C
+0004000D 0004000E
+00000000 0004000F
+00040010 00000000
+00080000 00000000
+E2000001 80008000
+
+Full Action List (Incl. Photon Blasts & Traps) [Ralf]
+201CC6EC 387F04AC
+0600CA40 00000040
+28030000 40820008
+3BE00000 7C00F800
+481CBEA0 38000003
+7C0903A6 63C40500
+38BF0538 A4050004
+7C040000 4182000C
+4200FFF4 38600000
+2C030000 481BFC7C
+041CC6F4 4BE40360
+041D88EC 4BE34154
+042773BC 3803F618
+0644F6B4 00000034
+0004000D 0004000E
+00000000 0004000F
+00040010 00000000
+00050000 00050001
+00050002 00050003
+00050004 00050005
+00080000 00000000
+E2000001 80008000
+
+Disable Photon Blast Palette Switching [Ralf]
+201B6034 387F04AC
+041B6038 38600000
+E2000001 80008000
+
+Use this code with the Action Button Palette codes and the Full Action List code.
+Foie: Improved Range [Ralf]
+044CC5C4 43160000
+024CC5E2 0000000C
+
+Foie: Improved TP Cost [Ralf]
+024CC5CC 00000003
+004CC5DF 0000003C
+
+Foie: Faster Fireball [Ralf]
+044CC5C0 40900000
+
+Foie: Disable Auto Targetting [Ralf]
+2022D6A8 8001001C
+0422D6AC 60000000
+E2000001 80008000
+
+Gifoie: Improved Range [Ralf]
+044CC5F0 42960000
+024CC60E 00000008
+
+Gifoie: Improved TP Cost [Ralf]
+024CC5F8 00000006
+004CC60B 00000042
+
+Gifoie: Faster Flaming Circle [Ralf]
+044CC5EC 41400000
+
+Rafoie: Improved Range [Ralf]
+044CC61C 43160000
+024CC63A 00000014
+
+Rafoie: Improved TP Cost [Ralf]
+024CC624 0000000A
+004CC637 00000046
+
+Rafoie: Improved Charge Time [Ralf]
+024CC626 00000005
+
+Rafoie: Disable Auto Targetting [Ralf]
+2022D6A8 8001001C
+0422D8E4 60000000
+E2000001 80008000
+
+Barta: Improved Range [Ralf]
+044CC648 43020000
+024CC666 0000002C
+
+Barta: Improved TP Cost [Ralf]
+024CC650 00000003
+004CC663 0000003C
+
+Barta: Faster Ice Beam [Ralf]
+044CC644 40900000
+
+Barta: Disable Auto Targetting [Ralf]
+2022D6A8 8001001C
+0422DA2C 60000000
+0422DA58 60000000
+E2000001 80008000
+
+Gibarta: Improved Range [Ralf]
+044CC674 43160000
+024CC692 00000014
+
+Gibarta: Improved TP Cost [Ralf]
+024CC67C 00000006
+004CC68F 00000042
+
+Gibarta: Disable Auto Targetting [Ralf]
+2022D6A8 8001001C
+0422DBA0 60000000
+E2000001 80008000
+
+Rabarta: Improved Range [Ralf]
+044CC6A0 42960000
+024CC6BE 00000003
+
+Rabarta: Improved TP Cost [Ralf]
+024CC6A8 0000000A
+004CC6BB 00000046
+
+Rabarta: Improved Charge Time [Ralf]
+024CC6AA 00000005
+
+Zonde: Improved Range [Ralf]
+044CC6CC 43200000
+024CC6EA 0000000C
+
+Zonde: Improved TP Cost [Ralf]
+024CC6D4 00000003
+004CC6E7 0000003C
+
+Gizonde: Improved Range [Ralf]
+044CC6F8 42F00000
+024CC716 00000020
+
+Gizonde: Improved TP Cost [Ralf]
+024CC700 00000006
+004CC713 00000042
+
+Razonde: Improved Range [Ralf]
+044CC724 42960000
+024CC742 00000023
+
+Razonde: Improved TP Cost [Ralf]
+024CC72C 0000000A
+004CC73F 00000046
+
+Razonde: Improved Charge Time [Ralf]
+024CC72E 00000005
+
+Grants: Improved Range [Ralf]
+044CC750 43480000
+024CC76E 00000028
+
+Grants: Improved TP Cost [Ralf]
+024CC758 00000014
+004CC76B 00000046
+
+Grants: Improved Charge Time [Ralf]
+024CC75A 00000005
+
+Megid: Improved Range [Ralf]
+044CC8DC 43160000
+024CC8FA 0000001E
+
+Megid: Improved TP Cost [Ralf]
+024CC8E4 0000000F
+004CC8F7 00000034
+
+Megid: Faster Shadow Ball [Ralf]
+044CC8D8 40400000
+
+Megid: Improved Charge Time [Ralf]
+024CC8E6 00000005
+
+Megid: Disable Auto Targetting [Ralf]
+2022D6A8 8001001C
+0422E7B8 60000000
+E2000001 80008000
+
+Shifta: Improved Power [Ralf]
+024CC81C 00000002
+
+Shifta: Improved Range [Ralf]
+044CC800 42F00000
+
+Shifta: Improved TP Cost [Ralf]
+024CC808 00000005
+004CC81B 00000034
+
+Deband: Improved Power [Ralf]
+024CC798 00000002
+
+Deband: Improved Range [Ralf]
+044CC77C 42F00000
+
+Deband: Improved TP Cost [Ralf]
+024CC784 00000005
+004CC797 00000034
+
+Jellen: Improved Power [Ralf]
+024CC7C4 00000002
+
+Jellen: Improved Range [Ralf]
+044CC7A8 42960000
+024CC7C6 00000007
+
+Jellen: Improved TP Cost [Ralf]
+024CC7B0 00000005
+004CC7C3 00000024
+
+Zalure: Improved Power [Ralf]
+024CC7F0 00000002
+
+Zalure: Improved Range [Ralf]
+044CC7D4 42960000
+024CC7F2 00000007
+
+Zalure: Improved TP Cost [Ralf]
+024CC7DC 00000005
+004CC7EF 00000024
+
+Resta: Improved Power [Ralf]
+044CC850 42C80000
+024CC874 0000000A
+
+Resta: Improved Range [Ralf]
+044CC858 42F00000
+
+Resta: Improved TP Cost [Ralf]
+024CC860 00000008
+004CC873 0000004C
+
+Reverser: Improved Range [Ralf]
+044CC8B0 43480000
+
+Reverser: Improved TP Cost [Ralf]
+024CC8B8 0000000A
+
+Reverser: Improved Charge Time [Ralf]
+024CC8BA 00000005
+
+Ryuker: Improved TP Cost [Ralf]
+024CC834 00000005
+
+Ryuker: Improved Charge Time [Ralf]
+024CC836 00000005
+
+Anti: Improved Range [Ralf]
+044CC884 42F00000
+
+Anti: Improved TP Cost [Ralf]
+024CC88C 00000005
+
+Improved Charge Time (All Techs) [Ralf]
+084CC5CE 00000005
+1012002C 00000000
+
+Improved PB Amplifier/Generate/Create [Ralf]
+20118EF0 7FC3F378
+04118EF4 C042FD3C
+E2000001 80008000
+
+Improved HP Restorate/Generate/Revival [Ralf]
+20118E10 7FC3F378
+04118E14 C042FD3C
+E2000001 80008000
+
+Improved TP Restorate/Generate/Revival [Ralf]
+20118E80 7FC3F378
+04118E84 C042FD3C
+E2000001 80008000BGM Test: Improved Window Height [Ralf]
+045D94AC 43700000
+
+BGM Test: Display File Names [Ralf]
+20369A94 5460103A
+04369A98 386443F4
+E2000001 80008000
+
+BGM Test 2.0 [Ralf]
+2026B28C 3BFF0001
+0426B290 2C1F0020
+04369A98 386443F4
+064F43F4 00000080
+80449768 8044979C
+817F4B3D 80449750
+80478A9C 80478AAC
+817F4D7B 804497C8
+80478A6C 804706E0
+80443734 80478A78
+804436F8 817F6515
+80478A90 8044975C
+80449738 804497E0
+80449790 80478A84
+817F7EF1 80449784
+80478764 80470718
+817FFEC0 817FFEC8
+817FFED2 817FFEDC
+817FFEE6 817FFEFB
+80478A60 80443708
+045D94AC 43700000
+E2000001 80008000
+
+Song List
+
+- carnaval.adx
+- chu_f.adx
+- CUBE_OPENING_LALA.adx (*)
+- dreams.adx
+- DreamS_KIDS.adx
+- ED_PIANO.adx
+- ENDING_LALA.adx (*)
+- ESCAPE.adx
+- Event.adx
+- HALL.adx
+- HALLOWEEN.adx
+- hearts.adx
+- Jinglebell.adx
+- jungle.adx (*)
+- LIVE.adx
+- mambo.adx
+- matter.adx
+- MILES.adx
+- nomal.adx
+- open.adx
+- OPENING_LALA.adx (*)
+- smile.adx
+- T1.adx
+- T2.adx
+- VR1.adx (*)
+- VR1_B.adx (*)
+- VR1_N.adx (*)
+- VR2_B.adx (*)
+- VR2_N.adx (*)
+- water.adx (*)
+- WEDDING.adx
+- Zarathustra.adx
+
+(*) Unused Song
+
+
+Background Music Modifier Codes
+
+
+DISKS
+
+DISK Vol.1 [Aleron Ives & Ralf]
+044F1BD8 xxxxxxxx - Default: 80478A60 (WEDDING.adx)
+
+DISK Vol.2 [Aleron Ives & Ralf]
+044F1BDC xxxxxxxx - Default: 80478A6C (Event.adx)
+
+DISK Vol.3 [Aleron Ives & Ralf]
+044F1BE0 xxxxxxxx - Default: 80478A78 (hearts.adx)
+
+DISK Vol.4 [Aleron Ives & Ralf]
+044F1BE4 xxxxxxxx - Default: 80478A84 (open.adx)
+
+DISK Vol.5 [Aleron Ives & Ralf]
+044F1BE8 xxxxxxxx - Default: 80478A90 (LIVE.adx)
+
+DISK Vol.6 [Aleron Ives & Ralf]
+044F1BEC xxxxxxxx - Default: 80478A9C (DreamS_KIDS.adx)
+
+DISK Vol.7 [Aleron Ives & Ralf]
+044F1BF0 xxxxxxxx - Default: 80478AAC (ED_PIANO.adx)
+
+xxxxxxxx = Song ID
+
+
+PIONEER 2
+
+City [Ralf]
+044436F0 xxxxxxxx - Default: 804434D0 (city.adx)
+044B5C10 xxxxxxxx
+
+Hunter's Guild [Ralf]
+044B5C04 xxxxxxxx - Default: 804434AC (GUILD.adx)
+
+Lab [Ralf]
+044B5C14 xxxxxxxx - Default: 804434DC (labo.adx)
+
+Lobby [Ralf]
+044436F4 xxxxxxxx - Default: 804436E4 (LOBBY.adx)
+
+Medi Centre [Ralf]
+044B5C08 xxxxxxxx - Default: 804434B8 (MEDICAL.adx)
+
+Shops [Ralf]
+044B5C00 xxxxxxxx - Default: 804434A0 (SHOP.adx)
+
+The Principal [Ralf]
+044B5C0C xxxxxxxx - Default: 804434C4 (soutoku.adx)
+
+xxxxxxxx = Song ID
+
+
+RAGOL - EPISODE I
+
+Forest 1 [Ralf]
+201402A4 2C030000
+04140BCC 60000000
+04140BD0 3C60xxxx
+04140BD4 6063yyyy
+E2000001 80008000
+
+Default: 8043EE10 (forest_b.adx)
+
+Forest 2 [Ralf]
+201402A4 2C030000
+04140C78 60000000
+04140C7C 3C60xxxx
+04140C80 6063yyyy
+E2000001 80008000
+
+Default: 8043EE10 (forest_b.adx)
+
+Under the Dome [Ralf]
+201402A4 2C030000
+0414056C 3C60xxxx
+04140570 6063yyyy
+E2000001 80008000
+
+Default: 8043EDB0 (dragon.adx)
+
+Cave 1 [Ralf]
+201402A4 2C030000
+041408E0 60000000
+041408E4 3C60xxxx
+041408E8 6063yyyy
+E2000001 80008000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Cave 2 [Ralf]
+201402A4 2C030000
+041409A0 60000000
+041409A4 3C60xxxx
+041409A8 6063yyyy
+E2000001 80008000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Cave 3 [Ralf]
+201402A4 2C030000
+04140A40 60000000
+04140A44 3C60xxxx
+04140A48 6063yyyy
+E2000001 80008000
+
+Default: 8043EDE0 (cave_b.adx)
+
+Underground Channel [Ralf]
+201402A4 2C030000
+04140618 3C60xxxx
+0414061C 6063yyyy
+E2000001 80008000
+
+Default: 8043EDC0 (delo.adx)
+
+Mine 1 [Ralf]
+201402A4 2C030000
+04140DE0 60000000
+04140DE4 3C60xxxx
+04140DE8 6063yyyy
+E2000001 80008000
+
+Default: 8043EE30 (machin_b.adx)
+
+Mine 2 [Ralf]
+201402A4 2C030000
+04140EA0 60000000
+04140EA4 3C60xxxx
+04140EA8 6063yyyy
+E2000001 80008000
+
+Default: 8043EE30 (machin_b.adx)
+
+Monitor Room (Vol Opt Battle - Part 1) [Ralf]
+201402A4 2C030000
+0403DD68 3C60xxxx
+0403DD80 6063yyyy
+E2000001 80008000
+
+Default: 804355C8 (vol_opt1.adx)
+
+Monitor Room (Vol Opt Battle - Part 2) [Ralf]
+201402A4 2C030000
+0403DD10 3C60xxxx
+0403DD14 6063yyyy
+E2000001 80008000
+
+Default: 804355B8 (vol_opt2.adx)
+
+Ruins 1 [Ralf]
+201402A4 2C030000
+041402A8 60000000
+041402AC 3C60xxxx
+041402B0 6063yyyy
+E2000001 80008000
+
+Default: 8043ED80 (ship_b.adx)
+
+Ruins 2 [Ralf]
+201402A4 2C030000
+04140348 60000000
+0414034C 3C60xxxx
+04140350 6063yyyy
+E2000001 80008000
+
+Default: 8043ED80 (ship_b.adx)
+
+Ruins 3 [Ralf]
+201402A4 2C030000
+041403E0 60000000
+041403E4 3C60xxxx
+041403E8 6063yyyy
+E2000001 80008000
+
+Default: 8043ED80 (ship_b.adx)
+
+Monolith Area (Dark Falz) [Ralf]
+201402A4 2C030000
+0400CAF0 3C60xxxx
+0400CAF4 6063yyyy
+0400CAF8 4803F48C
+0404BF80 4BFC0B70
+0404BF84 481DADCD
+E2000001 80008000
+
+Default: 8047A7E0 (dark_b1.adx)
+
+Dark Falz Battle (Form 1 & 2) [Ralf]
+201402A4 2C030000
+0404CEA4 3C60xxxx
+0404CEA8 6063yyyy
+E2000001 80008000
+
+Default: 80436544 (dark1.adx)
+
+Dark Falz Battle (Form 3) [Ralf]
+201402A4 2C030000
+0404C838 3C60xxxx
+0404C83C 6063yyyy
+E2000001 80008000
+
+Default: 80436538 (dark2.adx)
+
+Spaceship (Battle Mode) [Ralf]
+201402A4 2C030000
+043109F0 3FE0xxxx
+043109F4 63FFyyyy
+E2000001 80008000
+
+Default: 804758E4 (duel1.adx)
+
+Palace (Battle Mode) [Ralf]
+201402A4 2C030000
+043109E4 3FE0xxxx
+043109E8 63FFyyyy
+E2000001 80008000
+
+Default: 804758F0 (duel2.adx)
+
+xxxxyyyy = Song ID
+Background Music Modifier Codes
+
+
+RAGOL - EPISODE II
+
+VR Temple Alpha & Beta [Ralf]
+201402A4 2C030000
+04141044 60000000
+04141048 3C60xxxx
+0414104C 6063yyyy
+E2000001 80008000
+
+Default: 8043EE58 (r_b.adx)
+
+VR Temple Final [Ralf]
+201402A4 2C030000
+042993B0 3C60xxxx
+042993B4 6063yyyy
+E2000001 80008000
+
+Default: 80464EE8 (delo2.adx)
+
+VR Spaceship Alpha & Beta [Ralf]
+201402A4 2C030000
+04140F68 60000000
+04140F6C 3C60xxxx
+04140F70 6063yyyy
+E2000001 80008000
+
+Default: 8043EE50 (s_b.adx)
+
+VR Spaceship Final [Ralf]
+201402A4 2C030000
+04299318 3C60xxxx
+0429931C 6063yyyy
+E2000001 80008000
+
+Default: 80464ED8 (dragon2.adx)
+
+Central Control Area, Jungle Area, Mountain Area & Seaside Area [Ralf]
+201402A4 2C030000
+0429948C 60000000
+04299490 3C60xxxx
+04299494 6063yyyy
+E2000001 80008000
+
+Default: 80464EF8 (j_b.adx)
+
+Cliffs of Gal Da Val [Ralf]
+201402A4 2C030000
+04140850 3C60xxxx
+04140854 6063yyyy
+E2000001 80008000
+
+Default: 8043EDD0 (gryphon.adx)
+
+Seabed Upper & Lower Levels [Ralf]
+201402A4 2C030000
+04299574 60000000
+04299578 3C60xxxx
+0429957C 6063yyyy
+E2000001 80008000
+
+Default: 80464F00 (w_b.adx)
+
+Test Subject Disposal Area (Elevator - Olga Flow Battle) [Ralf]
+201402A4 2C030000
+042B00CC 3C80xxxx
+042B00DC 6083yyyy
+E2000001 80008000
+
+Default: 804706EC (proto1.adx)
+
+Test Subject Disposal Area (Hall - Before Olga Flow Battle) [Ralf]
+201402A4 2C030000
+042AFE2C 3C60xxxx
+042AFE30 6063yyyy
+E2000001 80008000
+
+Default: 804706E0 (HALL.adx)
+
+Test Subject Disposal Area (Hall - Olga Flow Battle) [Ralf]
+201402A4 2C030000
+042AFCE0 3C60xxxx
+042AFCE4 6063yyyy
+E2000001 80008000
+
+Default: 804706C8 (proto2.adx)
+
+Test Subject Disposal Area (Hall - After Olga Flow Battle) [Ralf]
+201402A4 2C030000
+042AC0FC 3C60xxxx
+042AC100 6063yyyy
+E2000001 80008000
+
+Default: 804706E0 (HALL.adx)
+
+xxxxyyyy = Song ID
+
+
+SCREENS
+
+Title Screen [Ralf]
+201402A4 2C030000
+04335A54 3C60xxxx
+04335A58 6063yyyy
+E2000001 80008000
+
+Default: 804775A8 (title.adx)
+
+Character/Mode Selection & Options [Ralf]
+201402A4 2C030000
+0423E5FC 3C60xxxx
+0423E600 6063yyyy
+E2000001 80008000
+
+Default: 8044DB18 (advr.adx)
+
+Character Creation [Ralf]
+201402A4 2C030000
+0428E324 3C60xxxx
+0428E328 6063yyyy
+E2000001 80008000
+
+Default: 80450F98 (CHARA.adx)
+
+Prologue (Episode 1) [Ralf]
+201402A4 2C030000
+041440F0 3C60xxxx
+041440F4 6063yyyy
+E2000001 80008000
+
+Default: 8043EF28 (OPENING.adx)
+
+Prologue (Episode 2) [Ralf]
+201402A4 2C030000
+041440E0 3C60xxxx
+041440E4 6063yyyy
+E2000001 80008000
+
+Default: 8043EF14 (CUBE_OPENING.adx)
+
+Epilogue (Episode 1 - Online) [Ralf]
+201402A4 2C030000
+042E45B0 3C60xxxx
+042E45B4 6063yyyy
+E2000001 80008000
+
+Default: 804728F8 (ENDING_LOOP.adx)
+
+Epilogue (Episode 1 - Offline) [Ralf]
+201402A4 2C030000
+0408C678 3C60xxxx
+0408C67C 6063yyyy
+E2000001 80008000
+
+Default: 804388A8 (ending.adx)
+
+Epilogue (Episode 2 - Online) [Ralf]
+201402A4 2C030000
+042E45C0 3C60xxxx
+042E45C4 6063yyyy
+E2000001 80008000
+
+Default: 80472908 (CUBE_ENDING_LOOP.adx)
+
+Epilogue (Episode 2 - Offline) [Ralf]
+201402A4 2C030000
+041440B8 3C60xxxx
+041440BC 6063yyyy
+E2000001 80008000
+
+Default: 8043EF04 (CUBE_ENDING.adx)
+
+xxxxyyyy = Song ID
+
+
+EVENTS
+
+Christmas [Ralf]
+201402A4 2C030000
+0417E718 3C60xxxx
+0417E71C 6063yyyy
+E2000001 80008000
+
+Default: 804436F8 (Jinglebell.adx)
+
+New Year [Ralf]
+201402A4 2C030000
+0417E728 3C60xxxx
+0417E72C 6063yyyy
+E2000001 80008000
+
+Default: 80443708 (Zarathustra.adx)
+
+Valentine's Day [Ralf]
+201402A4 2C030000
+0417E738 3C60xxxx
+0417E73C 6063yyyy
+E2000001 80008000
+
+Default: 80443718 (Valentine.adx)
+
+Easter [Ralf]
+201402A4 2C030000
+0417E748 3C60xxxx
+0417E74C 6063yyyy
+E2000001 80008000
+
+Default: 80443728 (Easter.adx)
+
+Halloween [Ralf]
+201402A4 2C030000
+0417E758 3C60xxxx
+0417E75C 6063yyyy
+E2000001 80008000
+
+Default: 80443734 (HALLOWEEN.adx)
+
+xxxxyyyy = Song ID
+
+
+Song IDs
+
+8044DB18 - advr.adx
+80449768 - carnaval.adx
+8043EDE0 - cave_b.adx
+8047A764 - cave_n.adx
+80450F98 - CHARA.adx
+8044979C - chu_f.adx
+804434D0 - city.adx
+8043EF04 - CUBE_ENDING.adx
+80472908 - CUBE_ENDING_LOOP.adx
+8043EF14 - CUBE_OPENING.adx
+817F4B3D - CUBE_OPENING_LALA.adx (*)
+80436544 - dark1.adx
+80436538 - dark2.adx
+8047A7E0 - dark_b1.adx
+8047A7EC - dark_b2.adx
+8043EDC0 - delo.adx
+80464EE8 - delo2.adx
+8043EDB0 - dragon.adx
+80464ED8 - dragon2.adx
+80449750 - dreams.adx
+80478A9C - DreamS_KIDS.adx
+804758E4 - duel1.adx
+804758F0 - duel2.adx
+80443728 - Easter.adx
+80478AAC - ED_PIANO.adx
+804388A8 - ending.adx
+817F4D7B - ENDING_LALA.adx (*)
+804728F8 - ENDING_LOOP.adx
+8047A844 - epi1.adx
+8047A850 - epi2.adx
+804497C8 - ESCAPE.adx
+80478A6C - Event.adx
+8043EE10 - forest_b.adx
+8047A738 - forest_n.adx
+8043EDD0 - gryphon.adx
+804434AC - GUILD.adx
+804706E0 - HALL.adx
+80443734 - HALLOWEEN.adx
+80478A78 - hearts.adx
+804436F8 - Jinglebell.adx
+817F6515 - jungle.adx (*)
+80464EF8 - j_b.adx
+8047A8C0 - J_N.adx
+804434DC - labo.adx
+80478A90 - LIVE.adx
+804436E4 - LOBBY.adx
+8043EE30 - machin_b.adx
+8047A788 - machin_n.adx
+8044975C - mambo.adx
+80449738 - matter.adx
+804434B8 - MEDICAL.adx
+804497E0 - MILES.adx
+80449790 - nomal.adx
+80478A84 - open.adx
+8043EF28 - OPENING.adx
+817F7EF1 - OPENING_LALA.adx (*)
+804706EC - proto1.adx
+804706C8 - proto2.adx
+8043EE58 - r_b.adx
+8047A888 - R_N.adx
+8043ED80 - ship_b.adx
+8047A7C8 - ship_n.adx
+804434A0 - SHOP.adx
+80449784 - smile.adx
+804434C4 - soutoku.adx
+8043EE50 - s_b.adx
+8047A8A4 - S_N.adx
+80478764 - T1.adx
+80470718 - T2.adx
+804775A8 - title.adx
+80443718 - Valentine.adx
+804355C8 - vol_opt1.adx
+804355B8 - vol_opt2.adx
+817FFEC0 - VR1.adx (*)
+817FFEC8 - VR1_B.adx (*)
+817FFED2 - VR1_N.adx (*)
+817FFEDC - VR2_B.adx (*)
+817FFEE6 - VR2_N.adx (*)
+817FFEFB - water.adx (*)
+80478A60 - WEDDING.adx
+80464F00 - w_b.adx
+8047A8DC - W_N.adx
+80443708 - Zarathustra.adx
+
+(*) Unused Song
+Item Removal Maxed Stats Bug Fix [Ralf]
+201BA1D8 7FC3F378
+0600C400 00000074
+9421FFF0 481ADE0C
+9421FFE0 7C0802A6
+90010024 BF410008
+7C7F1B78 4BFFFFE5
+3BC00000 3BBF0D04
+837F032C 839D0000
+7F83E379 41820018
+38800001 480FEE5D
+7F83E378 38800001
+480FEFCD 3BBD0004
+3BDE0001 2C1E000D
+4180FFD4 937F032C
+BB410008 80010024
+7C0803A6 38210020
+4E800020 00000000
+041BA20C 4BE521FC
+E2000001 80008000
+
+Devil's & Demon's Special Damage Display Bug Fix [Ralf]
+200130BC 38C00001
+040130C4 4BFFFCC0
+E2000001 80008000
+
+Restore Pioneer 2 Event Music [Aleron Ives & Ralf]
+2017E6C8 9001000C
+0417E6E8 800DAFE0
+044B5C38 8017E728
+E2000001 80008000
+
+Restore Pioneer 2 Event Music v2 [Aleron Ives & Ralf]
+2017E6C8 9001000C
+0417E6D4 8061000C
+0617E6DC 0000001C
+900DB54C 41820018
+80610008 28000006
+4082000C 38636304
+480000A4 00000000
+044B5C38 8017E728
+E2000001 80008000
+
+Attack Effectiveness Color Indicator [Ralf]
+20016274 28001000
+0600C550 00000034
+3880FF00 3CA08001
+9085C54C A89D02B8
+1CE601FF 7C8723D6
+280400FF 40810008
+388000FF 7C8420F8
+9885C54E 8085C54C
+48009D08 00000000
+04016104 3880D020
+04016284 4BFF62CC
+0401630C 3880FF40
+E2000001 80008000
+
+Damage Value Colors
+
+Yellow - Less effective attack
+Orange - Medium effective attack
+Red    - High effective attack
+
+Enable Weapon Auto Targetting [Ralf]
+2013D350 D01F0028
+0413D354 38007FFF
+E2000001 80008000
+
+Tools Shop: No Tech Level Cap [Ralf]
+202237A8 7C0301D6
+042237B0 2C0400C7
+042237C4 388000C7
+04223818 2C00001D
+04223820 3860001D
+04223844 3800001E
+04223874 38600001
+042238B0 2C00001D
+042238B8 3880001D
+E2000001 80008000
+
+Tools Shop: Able To Buy Grants & Megid [Ralf]
+20223830 3C804330
+0600C4C0 00000034
+989F0002 7C6D42E6
+7C8C42E6 7C841A78
+708400FF 38000012
+280400F0 40810008
+38000009 280400E0
+40810008 981F0004
+482173D0 00000000
+042238BC 4BDE8C04
+E2000001 80008000
+
+Tools Shop: Monomate Item Modifier [Ralf]
+0444C198 000000xx
+0444C19C 000000yy
+
+xxyy = Item ID (Default: 0000 - Monomate)
+
+Tools Shop: Dimate Item Modifier [Ralf]
+0444C1A0 000000xx
+0444C1A4 000000yy
+
+xxyy = Item ID (Default: 0001 - Dimate)
+
+Tools Shop: Trimate Item Modifier [Ralf]
+0444C1A8 000000xx
+0444C1AC 000000yy
+
+xxyy = Item ID (Default: 0002 - Trimate)
+
+Tools Shop: Monofluid Item Modifier [Ralf]
+0444C1B0 000000xx
+0444C1B4 000000yy
+
+xxyy = Item ID (Default: 0100 - Monofluid)
+
+Tools Shop: Difluid Item Modifier [Ralf]
+0444C1B8 000000xx
+0444C1BC 000000yy
+
+xxyy = Item ID (Default: 0101 - Difluid)
+
+Tools Shop: Trifluid Item Modifier [Ralf]
+0444C1C0 000000xx
+0444C1C4 000000yy
+
+xxyy = Item ID (Default: 0102 - Trifluid)
+
+Tools Shop: Antidote Item Modifier [Ralf]
+0444C1C8 000000xx
+0444C1CC 000000yy
+
+xxyy = Item ID (Default: 0600 - Antidote)
+
+Tools Shop: Antiparalysis Item Modifier [Ralf]
+0444C1D0 000000xx
+0444C1D4 000000yy
+
+xxyy = Item ID (Default: 0601 - Antiparalysis)
+
+Tools Shop: Sol Atomizer Item Modifier [Ralf]
+0444C1D8 000000xx
+0444C1DC 000000yy
+
+xxyy = Item ID (Default: 0300 - Sol Atomizer)
+
+Tools Shop: Moon Atomizer Item Modifier [Ralf]
+0444C1E0 000000xx
+0444C1E4 000000yy
+
+xxyy = Item ID (Default: 0400 - Moon Atomizer)
+
+Tools Shop: Star Atomizer Item Modifier [Ralf]
+0444C1E8 000000xx
+0444C1EC 000000yy
+
+xxyy = Item ID (Default: 0500 - Star Atomizer)
+
+Tools Shop: Telepipe Item Modifier [Ralf]
+0444C1F0 000000xx
+0444C1F4 000000yy
+
+xxyy = Item ID (Default: 0700 - Telepipe)
+
+Tools Shop: Trap Vision Item Modifier [Ralf]
+0444C1F8 000000xx
+0444C1FC 000000yy
+
+xxyy = Item ID (Default: 0800 - Trap Vision)
+
+Tools Shop: Scape Doll Item Modifier [Ralf]
+0444C200 000000xx
+0444C204 000000yy
+
+xxyy = Item ID (Default: 0900 - Scape Doll)
+
+Tools Shop: Monogrinder Item Modifier [Ralf]
+0444C208 000000xx
+0444C20C 000000yy
+
+xxyy = Item ID (Default: 0A00 - Monogrinder)
+
+Reduced Aura Field TP Drainage [Ralf]
+20117BD8 3860002C
+04117CBC 38C002EE
+E2000001 80008000
+
+Reduced Evil Curst TP Drainage [Ralf]
+201247C4 3860002C
+041247E8 38C001C2
+E2000001 80008000
+
+Reduced Luminous Field HP Drainage [Ralf]
+20117BD8 3860002C
+04117C8C 38C002EE
+E2000001 80008000
+
+Reduced Parasite Wear: De Rol HP Drainage [Ralf]
+20117BD8 3860002C
+04117BFC 38C005DC
+E2000001 80008000
+
+Reduced Parasite Wear: Nelgal HP Drainage [Ralf]
+20117BD8 3860002C
+04117C2C 38C004B0
+E2000001 80008000
+
+Reduced Parasite Wear: Vajulla HP Drainage [Ralf]
+20117BD8 3860002C
+04117C5C 38C0041A
+E2000001 80008000
+
+Reduced Soul Banish HP Drainage [Ralf]
+2012D41C 3860002C
+0412D470 38C001C2
+E2000001 80008000
+
+Reduced Soul Eater HP Drainage [Ralf]
+2012D41C 3860002C
+0412D440 38C002EE
+E2000001 80008000
+
+Reduced Twin Blaze HP Drainage [Ralf]
+20125E7C 3860002C
+04125EA0 38C001C2
+E2000001 80008000
+
+Reduced Yamigarasu HP Drainage [Ralf]
+20127FEC 3860002C
+04128010 38C001C2
+E2000001 80008000
+
+Improved Madam's Parasol HP Restoration [Ralf]
+2012F290 3860002C
+0412F2B4 38C0001E
+E2000001 80008000
+
+Improved Madam's Umbrella TP Restoration [Ralf]
+2012FF84 3860002C
+0412FFA8 38C0001E
+E2000001 80008000
+
+Improved Marina's Bag HP Restoration [Ralf]
+201215B8 3860002C
+041215DC 38C0001E
+E2000001 80008000
+
+Improved Red Ring HP/TP Restoration [Ralf]
+20118628 2C000027
+04118670 38C00096
+0411869C 38C00096
+E2000001 80008000
+
+Improved Revival Garment HP Restoration [Ralf]
+20117B78 3860002C
+04117B9C 38C00032
+E2000001 80008000
+
+Improved Spirit Garment TP Restoration [Ralf]
+20117BA8 3860002C
+04117BCC 38C00064
+E2000001 80008000
+
+Improved Rico's Glasses Abilities [Ralf]
+201181E8 2800001C
+04118238 3880000A
+E2000001 80008000
+
+Improved Sacred Cloth Abilities [Ralf]
+201181E8 2800001C
+04117A3C 3880000A
+E2000001 80008000
+
+Improved Sacred Guard Abilities [Ralf]
+201181E8 2800001C
+0411821C 3880000A
+E2000001 80008000
+
+Improved Sense Plate Abilities [Ralf]
+201181E8 2800001C
+04117A2C 3880000A
+E2000001 80008000Christmas Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+045D17E0 00000001
+E2000001 80008000
+
+New Year Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+044B5C38 8017E728
+045D17E0 00000002
+E2000001 80008000
+
+Valentine's Day Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+045D17E0 00000003
+E2000001 80008000
+
+Easter Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+045D17E0 00000004
+E2000001 80008000
+
+Halloween Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+045D17E0 00000005
+E2000001 80008000
+
+Sonic Theme (Offline Mode) [Aleron Ives & Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+0417E6E8 800DAFE0
+0417E854 60000000
+041852DC 60000000
+045D17E0 00000006
+E2000001 80008000
+
+Recon Frenzy [Ralf]
+2031EBC0 FC00001E
+0431EBEC 60000000
+E2000001 80008000
+
+Mothmant/Mothvert Frenzy [Ralf]
+200B3918 FC00001E
+040B3944 60000000
+040B3980 60000000
+E2000001 80008000
+
+Very High Rare Monster Encounter Rate [Ralf]
+045D5E20 3E800000
+045D61D4 3E800000
+045D623C 3E800000
+045D6994 3E800000
+
+Mericarol/Merikle/Mericus Encounter Rate Patch [Ralf]
+202CFF30 7C7F1B78
+042CFF44 4081000C
+E2000001 80008000
+
+High Merikle/Mericus Encounter Rate (Incl. Patch) [Ralf]
+202CFF30 7C7F1B78
+042CFF44 4081000C
+042CFF58 C002ECA4
+042CFF70 C002E1CC
+E2000001 80008000
+
+Savage/Barbarous Wolf & Gulgus/Gulgus-gue Encounter Rate Patch [Ralf]
+200B7E78 7C7F1B78
+040B7E88 7FE3FB78
+060B7E98 00000010
+4BF591F5 C002E194
+FC010040 41800030
+E2000001 80008000
+
+High King Rappy Encounter Rate (All Difficulties) [Ralf]
+200C17B4 2C03000F
+040C1F8C 60000000
+040C1F98 C002E1CC
+E2000001 80008000
+
+Replace King Rappies With Baby Rappies [Ralf]
+200C17B4 2C03000F
+040BFFE0 C022E714
+040BFFE8 C042E668
+E2000001 80008000
+
+Replace Pofuilly Slimes With Pouilly Slimes [Ralf]
+200EB1C8 4800000C
+040EB1CC 38000001
+E2000001 80008000
+
+Replace Poison/Ob Lilies With Nar/Mil Lilies [Ralf]
+200C40FC 2C030023
+040C4128 60000000
+E2000001 80008000
+
+Replace Hildebears/Hidelts With Hildeblues/Hildetorrs [Ralf]
+200ACAC0 FC010040
+040ACAC4 60000000
+E2000001 80008000
+
+Replace Rag/El/Al/Pal/Event Rappies With King Rappy Counterparts [Ralf]
+200C17B4 2C03000F
+040C1F8C 48000018
+E2000001 80008000
+
+Replace Rag/El/Al/Pal/Event Rappies With Baby Rappy Counterparts [Ralf]
+200C17B4 2C03000F
+040BFFE0 C022E714
+040BFFE8 C042E668
+040C1F8C 48000018
+E2000001 80008000
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & St Rappies (Ep2) [Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+040C17BC 38000001
+040C1CD0 60000000
+E2000001 80008000
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Egg Rappies (Ep2) [Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+040C17BC 38000004
+040C1CD0 60000000
+E2000001 80008000
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Love Rappies (Ep2) [Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+040C17BC 38000003
+040C1CD0 60000000
+E2000001 80008000
+
+Replace Rag/El Rappies With Al/Pal Rappies (Ep1) & Hallo Rappies (Ep2) [Ralf]
+200C17B4 2C03000F
+040C17B8 60000000
+040C17BC 38000005
+040C1CD0 60000000
+E2000001 80008000
+
+Replace Evil Sharks/Vulmers & Pal Sharks/Govulmers With Guil Sharks/Melqueeks [Ralf]
+200AC6EC 7FC3F378
+040AC6F4 38000002
+E2000001 80008000
+
+Replace Dimenians/Arlans & La Dimenians/Merlans With So Dimenians/Del-Ds [Ralf]
+200A856C 7FC3F378
+040A8574 38000002
+E2000001 80008000
+
+Replace Boomas/Bartles & Goboomas/Barbles With Gigoboomas/Tollaws [Ralf]
+20092810 7FC3F378
+04092818 38000002
+E2000001 80008000
+
+Replace Savage Wolves/Gulguses With Barbarous Wolves/Gulgus-gues [Ralf]
+200B7E78 7C7F1B78
+040B7EA4 60000000
+E2000001 80008000
+
+Replace Sinow Beats/Blues With Sinow Golds/Reds [Ralf]
+200E6F3C 7C7F1B78
+040E6F48 60000000
+E2000001 80008000
+
+Replace Sinow Golds/Reds With Sinow Beats/Blues [Ralf]
+200E6F3C 7C7F1B78
+040E6F48 48000028
+E2000001 80008000
+
+No Invisible Sinow Berills & Sinow Spigells [Ralf]
+200F17FC 7FE3FB78
+040F1810 38000000
+040F22D4 38000000
+040F4DD0 38000000
+E2000001 80008000
+
+Replace Sinow Berills With Sinow Spigells [Ralf]
+200F4DC0 7C7F1B78
+040F4E50 38000001
+E2000001 80008000
+
+No Invisible Sinow Zoas & Sinow Zeles [Ralf]
+20316694 7FE3FB78
+04316690 38000000
+04316F50 38000000
+04319D9C 38000000
+E2000001 80008000
+
+Replace Sinow Zoas With Sinow Zeles [Ralf]
+20319D8C 7C7F1B78
+04319E1C 38000001
+E2000001 80008000
+
+Replace Ul Gibbons With Zol Gibbons [Ralf]
+200D1078 7C7F1B78
+040D10C4 60000000
+E2000001 80008000
+
+Replace Merillias With Meriltas [Ralf]
+200D511C 7C0802A6
+040D5158 60000000
+E2000001 80008000
+
+Replace Dolmolms With Dolmdarls [Ralf]
+20300530 7C7F1B78
+0430053C 4800001C
+E2000001 80008000
+
+Enable Monster Debug Mode (Hold L) [Ralf]
+20080708 FC200818
+06080718 00000014
+3C608051 A063F290
+546307BD 4082001C
+48000020 00000000
+040FDA9C 38600001
+E2000001 80008000
+
+Enable Monster Debug Mode v2 [Ralf]
+20080708 FC200818
+06080718 00000034
+3D808051 818CF290
+55800631 4182000C
+38600000 4800001C
+38600001 55800673
+40820010 5580039D
+4082000C 886DA90A
+986DA90A 00000000
+040FDA9C 38600001
+E2000001 80008000
+
+L (Hold)              = Debug Mode On  (Temporary)
+L (Hold) + DPad Right = Debug Mode Off (Temporary)
+DPad Left/Right       = Debug Mode On/Off
+Unit Present Bug Fix [Ralf]
+2011904C 7C7E1B78
+0600C640 00000014
+54800673 41820008
+38800000 38040009
+4810CA30 00000000
+0411907C 4BEF35C4
+E2000001 80008000
+
+Foie Always Pierce [Ralf]
+2022F910 7FC3F378
+0422F914 60000000
+E2000001 80008000
+
+Megid Always Pierce [Ralf]
+2022F910 7FC3F378
+04234E60 60000000
+E2000001 80008000
+
+Androids Have All Traps Maxed [Ralf]
+201C594C 2C1E0002
+041C5BCC 4D820020
+041C5BD0 4800000C
+E2000001 80008000
+
+Androids: Improved Damage Traps [Ralf]
+2016FB20 7C7F1B78
+04170494 38000000
+041704DC C3E2FCF0
+E2000001 80008000
+
+Androids: Improved Damage Traps (Ultimate Mode Only) [Ralf]
+2016FB20 7C7F1B78
+0600C3D0 0000001C
+EC000072 C022FCF0
+800DAF90 2C000003
+40820008 EC000072
+48164140 00000000
+04170524 4BE9BEAC
+E2000001 80008000
+
+Androids: Replace Freeze Traps With Jellen Traps [Ralf]
+2016FB20 7C7F1B78
+0416FB28 2C00000B
+04170544 3800000B
+04170548 C002EDEC
+04170608 2C00000B
+04170638 3B400001
+E2000001 80008000
+
+Androids: Replace Confuse Traps With Zalure Traps [Ralf]
+2016FB20 7C7F1B78
+0416FB28 2C00000B
+0417056C 3800000C
+04170570 C002EDEC
+04170608 2C00000B
+04170638 3B400001
+E2000001 80008000
+
+Androids: Replace Slow Traps With Paralyse Traps (All Game Modes) [Ralf]
+2016FB20 7C7F1B78
+04170558 38000010
+041C5950 60000000
+041C5A54 41820038
+041C5AA4 4182004C
+041C5B08 4182004C
+041C5B6C 4182004C
+E2000001 80008000
+
+Androids: Replace Slow Traps With Megid Traps (All Game Modes) [Ralf]
+2016FB20 7C7F1B78
+0416FB2C 40800048
+0616FB40 00000010
+387F02FC 388001EF
+2C000005 4182000C
+04170558 38000005
+0417055C C002F928
+04170614 3B400000
+04170618 2C000005
+0417061C 41820020
+04170628 60000000
+04170638 3B400001
+0417065C 7F44D378
+0417066C 7F44D378
+041C5950 60000000
+041C5A54 41820038
+041C5AA4 4182004C
+041C5B08 4182004C
+041C5B6C 4182004C
+E2000001 80008000
+
+Improved DB's Saber, Armor & Shield Combo [Ralf]
+2010D8CC 7C9E2378
+0410D98C C3E2FF58
+0410DC60 C3E2FF58
+0410DE34 C3E2FF58
+E2000001 80008000
+
+Improved Custom Ray, Frame & Barrier Combo [Ralf]
+2010D8CC 7C9E2378
+0410DA6C C3E2FF58
+0410DD40 C3E2FF58
+0410DF04 C3E2FF58
+E2000001 80008000
+
+Improved Flowen's Sword, Frame & Shield Combo [Ralf]
+2010D8CC 7C9E2378
+0410D9FC C3E2FF58
+0410DCD0 C3E2FF58
+0410DE9C C3E2FF58
+E2000001 80008000
+
+Hunter Field: Improved DFP Boost [Ralf]
+2010DB04 5460063E
+0410DB18 C3E2AE74
+E2000001 80008000
+
+Ranger Field: Improved DFP Boost [Ralf]
+2010DB04 5460063E
+0410DB78 C3E2AE74
+E2000001 80008000
+
+Force Field: Improved DFP Boost [Ralf]
+2010DB04 5460063E
+0410DBD8 C3E2AE74
+E2000001 80008000
+
+Love Heart: Improved DFP Boost & Range [Ralf]
+2010DB04 5460063E
+0410DD5C C3E2AE74
+0443E240 40A38800
+E2000001 80008000
+
+Blue/Green/Yellow/Purple/White/Black Ring: Improved Stat Boost & Range [Ralf]
+0643DF2C 00000010
+00000064 00320032
+00C80064 00640014
+0443E248 40C38800
+
+Blue/Green/Yellow/Purple/White/Black Ring: Improved Matching Patterns [Ralf]
+20118188 88190002
+0600C5D0 0000001C
+5463063E 28030053
+41800010 28030082
+41810008 7C030378
+4810BBA8 00000000
+0411818C 4BEF4444
+E2000001 80008000
+
+Photon Launcher/Guilty Light/Red Scorpio: No Damage Reduction [Ralf]
+202D5CC4 7FE5FB78
+042D5CC8 4808CA39
+E2000001 80008000
+
+Disable All Rare Armor Particle Effects [Ralf]
+20107EF4 7FE3FB78
+04107F04 48000010
+04363B2C 48000038
+E2000001 80008000
+
+Enable More Rare Armor Particle Effects [Ralf]
+20363AC4 7FE3FB78
+0600C330 00000058
+901F01A0 3883FFE8
+28040011 40800024
+3C608000 6063C364
+5480083C 7C63022E
+706001FF 901F019C
+5460A33E 901F01A0
+48357810 21732065
+11A710B8 10BB2077
+20CF215D 107E107E
+107E102E 212A20D1
+207B2079 21B50000
+04117E5C 4800003C
+04363AC8 38C0005A
+04363B6C 4BCA87C4
+04479DB8 0000007D
+E2000001 80008000
+
+Able To Equip Any Mag [Ralf]
+20105320 7C040734
+04105474 48000090
+E2000001 80008000
+
+Equipped Mag Color Modifier (Permanently) [Ralf]
+20111678 7C781B78
+0411167C 386000xx
+04111680 987B01A6
+E2000001 80008000
+
+xx = Mag Color ID (00 .. 11)
+
+Equipped Mag Color Modifier v1 (Temporary) [Ralf]
+20111678 7C781B78
+0411404C 386000xx
+E2000001 80008000
+
+xx = Mag Color ID (00 .. 11)
+
+Equipped Mag Color Modifier v2 (Temporary) [Ralf]
+20111678 7C781B78
+0411168C 3CA08000
+04111694 60A5C390
+0600C390 00000010
+3F800000 rrrrrrrr
+gggggggg bbbbbbbb
+E2000001 80008000
+
+rrrrrrrr = Red   (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+gggggggg = Green (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+bbbbbbbb = Blue  (IEEE-754 SP Floating-Point Number, 0.0 .. 1.0)
+
+Merge Color Modifier (Temporary) [Ralf]
+20118410 7FC3F378
+0600C590 00000030
+807E0024 28030000
+41820024 881E00EE
+2800003A 41800018
+28000049 41810010
+3C00rrgg 6000bbFF
+90030798 4810BE7C
+04118434 4BEF415C
+E2000001 80008000
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Default Colors (rrggbb)
+
+00F5B3 - Cyan       (Anti & Resta Merge)
+0867FF - Dark Blue  (Deband Merge)
+3FCCE1 - Light Blue (Barta, Gibarta, Rabarta & Blue Merge)
+EBE700 - Yellow     (Zonde, Gizonde, Razonde & Yellow Merge)
+FF2138 - Red        (Shifta Merge)
+FF713F - Orange     (Foie, Gifoie, Rafoie & Red Merge)
+
