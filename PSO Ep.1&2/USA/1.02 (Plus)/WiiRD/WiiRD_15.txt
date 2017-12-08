@@ -1,0 +1,294 @@
+BGM Test: Improved Window Height [Ralf]
+045DD26C 43700000
+
+BGM Test: Display File Names [Ralf]
+2036A6A0 5460103A
+0436A6A4 3864351C
+E2000001 80008000
+
+BGM Test 2.0 [Ralf]
+2026BA44 3BFF0001
+0426BA48 2C1F0020
+0436A6A4 3864351C
+064F351C 00000080
+80449910 80449944
+817F4750 804498F8
+80478D14 80478D24
+817F498E 80449970
+80478CE4 804705E8
+804438DC 80478CF0
+804438A0 817F6128
+80478D08 80449904
+804498E0 80449988
+80449938 80478CFC
+817F7B11 8044992C
+804789DC 804709E0
+817FFEB4 817FFEBC
+817FFEC6 817FFED0
+817FFEDA 817FFEEF
+80478CD8 804438B0
+045DD26C 43700000
+E2000001 80008000
+
+Song List
+
+- carnaval.adx
+- chu_f.adx
+- CUBE_OPENING_LALA.adx (*)
+- dreams.adx
+- DreamS_KIDS.adx
+- ED_PIANO.adx
+- ENDING_LALA.adx (*)
+- ESCAPE.adx
+- Event.adx
+- HALL.adx
+- HALLOWEEN.adx
+- hearts.adx
+- Jinglebell.adx
+- jungle.adx (*)
+- LIVE.adx
+- mambo.adx
+- matter.adx
+- MILES.adx
+- nomal.adx
+- open.adx
+- OPENING_LALA.adx (*)
+- smile.adx
+- T1.adx
+- T2.adx
+- VR1.adx (*)
+- VR1_B.adx (*)
+- VR1_N.adx (*)
+- VR2_B.adx (*)
+- VR2_N.adx (*)
+- water.adx (*)
+- WEDDING.adx
+- Zarathustra.adx
+
+(*) Unused Song
+
+
+Background Music Modifier Codes
+
+
+DISKS
+
+DISK Vol.1 [Aleron Ives & Ralf]
+044F0D00 xxxxxxxx - Default: 80478CD8 (WEDDING.adx)
+
+DISK Vol.2 [Aleron Ives & Ralf]
+044F0D04 xxxxxxxx - Default: 80478CE4 (Event.adx)
+
+DISK Vol.3 [Aleron Ives & Ralf]
+044F0D08 xxxxxxxx - Default: 80478CF0 (hearts.adx)
+
+DISK Vol.4 [Aleron Ives & Ralf]
+044F0D0C xxxxxxxx - Default: 80478CFC (open.adx)
+
+DISK Vol.5 [Aleron Ives & Ralf]
+044F0D10 xxxxxxxx - Default: 80478D08 (LIVE.adx)
+
+DISK Vol.6 [Aleron Ives & Ralf]
+044F0D14 xxxxxxxx - Default: 80478D14 (DreamS_KIDS.adx)
+
+DISK Vol.7 [Aleron Ives & Ralf]
+044F0D18 xxxxxxxx - Default: 80478D24 (ED_PIANO.adx)
+
+xxxxxxxx = Song ID
+
+
+PIONEER 2
+
+City [Ralf]
+04443898 xxxxxxxx - Default: 80443678 (city.adx)
+044B5790 xxxxxxxx
+
+Hunter's Guild [Ralf]
+044B5784 xxxxxxxx - Default: 80443654 (GUILD.adx)
+
+Lab [Ralf]
+044B5794 xxxxxxxx - Default: 80443684 (labo.adx)
+
+Lobby [Ralf]
+0444389C xxxxxxxx - Default: 8044388C (LOBBY.adx)
+
+Medi Centre [Ralf]
+044B5788 xxxxxxxx - Default: 80443660 (MEDICAL.adx)
+
+Shops [Ralf]
+044B5780 xxxxxxxx - Default: 80443648 (SHOP.adx)
+
+The Principal [Ralf]
+044B578C xxxxxxxx - Default: 8044366C (soutoku.adx)
+
+xxxxxxxx = Song ID
+
+
+RAGOL - EPISODE I
+
+Forest 1 [Ralf]
+20140020 2C030000
+04140948 60000000
+0414094C 3C60xxxx
+04140950 6063yyyy
+E2000001 80008000
+
+Default: 8043F218 (forest_b.adx)
+
+Forest 2 [Ralf]
+20140020 2C030000
+041409F4 60000000
+041409F8 3C60xxxx
+041409FC 6063yyyy
+E2000001 80008000
+
+Default: 8043F218 (forest_b.adx)
+
+Under the Dome [Ralf]
+20140020 2C030000
+041402E8 3C60xxxx
+041402EC 6063yyyy
+E2000001 80008000
+
+Default: 8043F1B8 (dragon.adx)
+
+Cave 1 [Ralf]
+20140020 2C030000
+0414065C 60000000
+04140660 3C60xxxx
+04140664 6063yyyy
+E2000001 80008000
+
+Default: 8043F1E8 (cave_b.adx)
+
+Cave 2 [Ralf]
+20140020 2C030000
+0414071C 60000000
+04140720 3C60xxxx
+04140724 6063yyyy
+E2000001 80008000
+
+Default: 8043F1E8 (cave_b.adx)
+
+Cave 3 [Ralf]
+20140020 2C030000
+041407BC 60000000
+041407C0 3C60xxxx
+041407C4 6063yyyy
+E2000001 80008000
+
+Default: 8043F1E8 (cave_b.adx)
+
+Underground Channel [Ralf]
+20140020 2C030000
+04140394 3C60xxxx
+04140398 6063yyyy
+E2000001 80008000
+
+Default: 8043F1C8 (delo.adx)
+
+Mine 1 [Ralf]
+20140020 2C030000
+04140B5C 60000000
+04140B60 3C60xxxx
+04140B64 6063yyyy
+E2000001 80008000
+
+Default: 8043F238 (machin_b.adx)
+
+Mine 2 [Ralf]
+20140020 2C030000
+04140C1C 60000000
+04140C20 3C60xxxx
+04140C24 6063yyyy
+E2000001 80008000
+
+Default: 8043F238 (machin_b.adx)
+
+Monitor Room (Vol Opt Battle - Part 1) [Ralf]
+20140020 2C030000
+0403DCF0 3C60xxxx
+0403DD08 6063yyyy
+E2000001 80008000
+
+Default: 80436328 (vol_opt1.adx)
+
+Monitor Room (Vol Opt Battle - Part 2) [Ralf]
+20140020 2C030000
+0403DC98 3C60xxxx
+0403DC9C 6063yyyy
+E2000001 80008000
+
+Default: 80436318 (vol_opt2.adx)
+
+Ruins 1 [Ralf]
+20140020 2C030000
+04140024 60000000
+04140028 3C60xxxx
+0414002C 6063yyyy
+E2000001 80008000
+
+Default: 8043F188 (ship_b.adx)
+
+Ruins 2 [Ralf]
+20140020 2C030000
+041400C4 60000000
+041400C8 3C60xxxx
+041400CC 6063yyyy
+E2000001 80008000
+
+Default: 8043F188 (ship_b.adx)
+
+Ruins 3 [Ralf]
+20140020 2C030000
+0414015C 60000000
+04140160 3C60xxxx
+04140164 6063yyyy
+E2000001 80008000
+
+Default: 8043F188 (ship_b.adx)
+
+Monolith Area (Dark Falz) [Ralf]
+20140020 2C030000
+0400CAF0 3C60xxxx
+0400CAF4 6063yyyy
+0400CAF8 4803F414
+0404BF08 4BFC0BE8
+0404BF0C 481DB5AD
+E2000001 80008000
+
+Default: 8047AA58 (dark_b1.adx)
+
+Dark Falz Battle (Form 1 & 2) [Ralf]
+20140020 2C030000
+0404CE2C 3C60xxxx
+0404CE30 6063yyyy
+E2000001 80008000
+
+Default: 804372A4 (dark1.adx)
+
+Dark Falz Battle (Form 3) [Ralf]
+20140020 2C030000
+0404C7C0 3C60xxxx
+0404C7C4 6063yyyy
+E2000001 80008000
+
+Default: 80437298 (dark2.adx)
+
+Spaceship (Battle Mode) [Ralf]
+20140020 2C030000
+04311694 3FE0xxxx
+04311698 63FFyyyy
+E2000001 80008000
+
+Default: 80475BAC (duel1.adx)
+
+Palace (Battle Mode) [Ralf]
+20140020 2C030000
+04311688 3FE0xxxx
+0431168C 63FFyyyy
+E2000001 80008000
+
+Default: 80475BB8 (duel2.adx)
+
+xxxxyyyy = Song ID

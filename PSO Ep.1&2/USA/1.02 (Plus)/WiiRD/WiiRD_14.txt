@@ -1,0 +1,233 @@
+Foie: Improved Range [Ralf]
+044CC1D4 43160000
+024CC1F2 0000000C
+
+Foie: Improved TP Cost [Ralf]
+024CC1DC 00000003
+004CC1EF 0000003C
+
+Foie: Faster Fireball [Ralf]
+044CC1D0 40900000
+
+Foie: Disable Auto Targetting [Ralf]
+2022DE10 8001001C
+0422DE14 60000000
+E2000001 80008000
+
+Gifoie: Improved Range [Ralf]
+044CC200 42960000
+024CC21E 00000008
+
+Gifoie: Improved TP Cost [Ralf]
+024CC208 00000006
+004CC21B 00000042
+
+Gifoie: Faster Flaming Circle [Ralf]
+044CC1FC 41400000
+
+Rafoie: Improved Range [Ralf]
+044CC22C 43160000
+024CC24A 00000014
+
+Rafoie: Improved TP Cost [Ralf]
+024CC234 0000000A
+004CC247 00000046
+
+Rafoie: Improved Charge Time [Ralf]
+024CC236 00000005
+
+Rafoie: Disable Auto Targetting [Ralf]
+2022DE10 8001001C
+0422E04C 60000000
+E2000001 80008000
+
+Barta: Improved Range [Ralf]
+044CC258 43020000
+024CC276 0000002C
+
+Barta: Improved TP Cost [Ralf]
+024CC260 00000003
+004CC273 0000003C
+
+Barta: Faster Ice Beam [Ralf]
+044CC254 40900000
+
+Barta: Disable Auto Targetting [Ralf]
+2022DE10 8001001C
+0422E194 60000000
+0422E1C0 60000000
+E2000001 80008000
+
+Gibarta: Improved Range [Ralf]
+044CC284 43160000
+024CC2A2 00000014
+
+Gibarta: Improved TP Cost [Ralf]
+024CC28C 00000006
+004CC29F 00000042
+
+Gibarta: Disable Auto Targetting [Ralf]
+2022DE10 8001001C
+0422E308 60000000
+E2000001 80008000
+
+Rabarta: Improved Range [Ralf]
+044CC2B0 42960000
+024CC2CE 00000003
+
+Rabarta: Improved TP Cost [Ralf]
+024CC2B8 0000000A
+004CC2CB 00000046
+
+Rabarta: Improved Charge Time [Ralf]
+024CC2BA 00000005
+
+Zonde: Improved Range [Ralf]
+044CC2DC 43200000
+024CC2FA 0000000C
+
+Zonde: Improved TP Cost [Ralf]
+024CC2E4 00000003
+004CC2F7 0000003C
+
+Gizonde: Improved Range [Ralf]
+044CC308 42F00000
+024CC326 00000020
+
+Gizonde: Improved TP Cost [Ralf]
+024CC310 00000006
+004CC323 00000042
+
+Razonde: Improved Range [Ralf]
+044CC334 42960000
+024CC352 00000023
+
+Razonde: Improved TP Cost [Ralf]
+024CC33C 0000000A
+004CC34F 00000046
+
+Razonde: Improved Charge Time [Ralf]
+024CC33E 00000005
+
+Grants: Improved Range [Ralf]
+044CC360 43480000
+024CC37E 00000028
+
+Grants: Improved TP Cost [Ralf]
+024CC368 00000014
+004CC37B 00000046
+
+Grants: Improved Charge Time [Ralf]
+024CC36A 00000005
+
+Megid: Improved Range [Ralf]
+044CC4EC 43160000
+024CC50A 0000001E
+
+Megid: Improved TP Cost [Ralf]
+024CC4F4 0000000F
+004CC507 00000034
+
+Megid: Faster Shadow Ball [Ralf]
+044CC4E8 40400000
+
+Megid: Improved Charge Time [Ralf]
+024CC4F6 00000005
+
+Megid: Disable Auto Targetting [Ralf]
+2022DE10 8001001C
+0422EF20 60000000
+E2000001 80008000
+
+Shifta: Improved Power [Ralf]
+024CC42C 00000002
+
+Shifta: Improved Range [Ralf]
+044CC410 42F00000
+
+Shifta: Improved TP Cost [Ralf]
+024CC418 00000005
+004CC42B 00000034
+
+Deband: Improved Power [Ralf]
+024CC3A8 00000002
+
+Deband: Improved Range [Ralf]
+044CC38C 42F00000
+
+Deband: Improved TP Cost [Ralf]
+024CC394 00000005
+004CC3A7 00000034
+
+Jellen: Improved Power [Ralf]
+024CC3D4 00000002
+
+Jellen: Improved Range [Ralf]
+044CC3B8 42960000
+024CC3D6 00000007
+
+Jellen: Improved TP Cost [Ralf]
+024CC3C0 00000005
+004CC3D3 00000024
+
+Zalure: Improved Power [Ralf]
+024CC400 00000002
+
+Zalure: Improved Range [Ralf]
+044CC3E4 42960000
+024CC402 00000007
+
+Zalure: Improved TP Cost [Ralf]
+024CC3EC 00000005
+004CC3FF 00000024
+
+Resta: Improved Power [Ralf]
+044CC460 42C80000
+024CC484 0000000A
+
+Resta: Improved Range [Ralf]
+044CC468 42F00000
+
+Resta: Improved TP Cost [Ralf]
+024CC470 00000008
+004CC483 0000004C
+
+Reverser: Improved Range [Ralf]
+044CC4C0 43480000
+
+Reverser: Improved TP Cost [Ralf]
+024CC4C8 0000000A
+
+Reverser: Improved Charge Time [Ralf]
+024CC4CA 00000005
+
+Ryuker: Improved TP Cost [Ralf]
+024CC444 00000005
+
+Ryuker: Improved Charge Time [Ralf]
+024CC446 00000005
+
+Anti: Improved Range [Ralf]
+044CC494 42F00000
+
+Anti: Improved TP Cost [Ralf]
+024CC49C 00000005
+
+Improved Charge Time (All Techs) [Ralf]
+084CC1DE 00000005
+1012002C 00000000
+
+Improved PB Amplifier/Generate/Create [Ralf]
+20118D18 7FC3F378
+04118D1C C042FD3C
+E2000001 80008000
+
+Improved HP Restorate/Generate/Revival [Ralf]
+20118C38 7FC3F378
+04118C3C C042FD3C
+E2000001 80008000
+
+Improved TP Restorate/Generate/Revival [Ralf]
+20118CA8 7FC3F378
+04118CAC C042FD3C
+E2000001 80008000
