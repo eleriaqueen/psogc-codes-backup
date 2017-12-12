@@ -1,0 +1,1629 @@
+Extended Word Select Menu (PSO PCv2 Style) [Ralf]
+AEAM-E424-BW2R5
+HFFG-29U6-2EADV
+VC55-3MR2-TEWTB
+
+Access All Areas (Main Teleporter) [Ralf]
+1NTC-XMX3-RJREQ
+NTYW-57HC-1J1Q3
+RM6K-63UD-ANCD4
+1731-F4UR-DWJKA
+VH6K-889K-E3MZQ
+9CHM-V5QK-P7QU5
+E9FZ-A3QA-YCERP
+
+No Unknown Weapons [Ralf]
+KGZ1-JJ1P-86ZQ6
+CQ1K-128Q-GAWU9
+MN1F-FUGB-6FPQC
+KJ0A-1DHQ-H43JC
+T4HH-Y5DC-JWZK9
+E9FZ-A3QA-YCERP
+
+Replace Normal Mode Maps With Ultimate Mode Maps (GFX Only) [Ralf]
+E67E-14GY-44084
+BY2N-NTDM-WFKPN
+FCEP-7KZP-NAJG0
+
+Replace Ultimate Mode Maps With Normal Mode Maps (GFX Only) [Ralf]
+QF88-UQWP-J51EW
+BY2N-NTDM-WFKPN
+JVBA-M3VE-282BF
+
+
+Character Type Modifier [Ralf]
+04D962D4 00ii00jj
+04D962D8 00kk00ll
+02D962DC 000000mm
+
+ii = Costume/Body Type (00 .. 11, 00 .. 18)
+
+jj = Skin Type (00 .. 03)
+kk = Face Type (00 .. 04)
+ll = Head Type (00 .. 04)
+mm = Hair Type (00 .. 09)
+
+
+Character Model Modifier [Ralf]
+4C28CF58 7C7F1B78
+0428CF5C 386000xx
+0428CF60 4800006C
+
+xx = Model ID
+
+
+Model IDs
+
+00 - HUmar
+01 - HUnewearl
+02 - HUcast
+03 - RAmar
+04 - RAcast
+05 - RAcaseal
+06 - FOmarl
+07 - FOnewm
+08 - FOnewearl
+09 - HUcaseal
+0A - FOmar
+0B - RAmarl
+0C - Elly   (Base model must be a Hunter with hair/head type 1)
+0D - Flowen (Base model must be a Hunter or Ranger with hair/head type 1)
+0E - Tails
+0F - Knuckles
+10 - Sonic
+11 - Rico   (Base model must be a Hunter or Ranger with hair/head type 1)
+12 - Ninja  (Base model must be a Hunter with hair/head type 1)
+
+
+Play As Sonic [Ralf]
+MEEJ-0VEU-FTHBH
+RF2D-Q09W-4GFUQ
+4R6K-B79G-VUYW4
+MC79-8ZZX-XNE53
+
+Play As Knuckles [Ralf]
+72QG-R7PC-72XZY
+RF2D-Q09W-4GFUQ
+0T74-0XXA-DCVNK
+MC79-8ZZX-XNE53
+
+Play As Tails [Ralf]
+CRZA-8YH4-GJBU6
+RF2D-Q09W-4GFUQ
+64HF-T17U-CT060
+MC79-8ZZX-XNE53
+
+Play As Elly (Incl. Base Model Fix) [Ralf]
+KWBD-UN3D-ZYPE9
+MP58-08GZ-0X9VD
+BAGM-HW4J-DEAGW
+1V0K-BVRE-1774V
+ZF58-HGHW-MEGRF
+0PHT-661Q-HGGA1
+6QHJ-XRYQ-VGCZY
+9F6G-5H1N-3WBAW
+H703-J5RX-MZHAA
+9BYU-GGHU-3VJB6
+FW41-6QBZ-Q0CYB
+MC79-8ZZX-XNE53
+E9FZ-A3QA-YCERP
+
+Play As Flowen (Incl. Base Model Fix) [Ralf]
+EMQY-GJ0V-4P3FY
+MP58-08GZ-0X9VD
+BAGM-HW4J-DEAGW
+1V0K-BVRE-1774V
+ZF58-HGHW-MEGRF
+0PHT-661Q-HGGA1
+6QHJ-XRYQ-VGCZY
+9F6G-5H1N-3WBAW
+H703-J5RX-MZHAA
+9BYU-GGHU-3VJB6
+NTGP-THNR-D1N7R
+MC79-8ZZX-XNE53
+E9FZ-A3QA-YCERP
+
+Play As Ninja (Incl. Base Model Fix) [Ralf]
+B1YV-J1NG-EB4ZB
+MP58-08GZ-0X9VD
+BAGM-HW4J-DEAGW
+1V0K-BVRE-1774V
+ZF58-HGHW-MEGRF
+0PHT-661Q-HGGA1
+6QHJ-XRYQ-VGCZY
+9F6G-5H1N-3WBAW
+H703-J5RX-MZHAA
+9BYU-GGHU-3VJB6
+1NN7-K4YR-EHT00
+MC79-8ZZX-XNE53
+E9FZ-A3QA-YCERP
+
+Play As Rico (Incl. Base Model Fix) [Ralf]
+BCDD-CV33-M3XT9
+MP58-08GZ-0X9VD
+BAGM-HW4J-DEAGW
+1V0K-BVRE-1774V
+ZF58-HGHW-MEGRF
+0PHT-661Q-HGGA1
+6QHJ-XRYQ-VGCZY
+9F6G-5H1N-3WBAW
+H703-J5RX-MZHAA
+9BYU-GGHU-3VJB6
+Y736-3RNQ-ZNR1Z
+MC79-8ZZX-XNE53
+E9FZ-A3QA-YCERP
+
+
+Bank Item Modifier Codes
+
+Number Of Items In Bank [Ralf]
+04EE0808 000000xx
+
+xx = Number Of Items (00 .. C8)
+
+
+Weapon Modifier Codes
+
+Bank Slot 1 Weapon Modifier [Ralf]
+04EE0810 00wwwwgg
+04EE0814 ss00iijj
+04EE0818 kkllmmnn
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00010001
+
+Bank Slot 2 Weapon Modifier [Ralf]
+04EE0828 00wwwwgg
+04EE082C ss00iijj
+04EE0830 kkllmmnn
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Weapon Modifier [Ralf]
+04EE1AA0 00wwwwgg
+04EE1AA4 ss00iijj
+04EE1AA8 kkllmmnn
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00010001
+
+Bank Slot 200 Weapon Modifier [Ralf]
+04EE1AB8 00wwwwgg
+04EE1ABC ss00iijj
+04EE1AC0 kkllmmnn
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00010001
+
+wwww = Weapon ID
+
+gg = Weapon Grindage
+ss = Weapon Special & Flags
+
+
+Normal Weapons
+
+ii = Photon Elemental Type 1
+jj = Percentage Against Photon Elemental Type 1 (00 .. 7F)
+
+kk = Photon Elemental Type 2
+ll = Percentage Against Photon Elemental Type 2 (00 .. 7F)
+
+mm = Photon Elemental Type 3
+nn = Percentage Against Photon Elemental Type 3 (00 .. 7F)
+
+
+S Rank Weapons
+
+iijjkkllmmnn = Extended Weapon Name Bit Field (48 Bits)
+
+
+Extended Weapon Name Bit Field
+
+000rr0ss sssttttt 0uuuuuvv vvvwwwww 0xxxxxyy yyyzzzzz
+
+rr = Flags
+
+01 - Extended Weapon Name Only (No Base Weapon Name)
+10 - Extended Weapon Name And Base Weapon Name
+
+sssss = Character 1
+ttttt = Character 2
+uuuuu = Character 3
+vvvvv = Character 4
+wwwww = Character 5
+xxxxx = Character 6
+yyyyy = Character 7
+zzzzz = Character 8
+
+
+Characters
+
+00000 - None
+00001 - A
+00010 - B
+00011 - C
+00100 - D
+00101 - E
+00110 - F
+00111 - G
+
+01000 - H
+01001 - I
+01010 - J
+01011 - K
+01100 - L
+01101 - M
+01110 - N
+01111 - O
+
+10000 - P
+10001 - Q
+10010 - R
+10011 - S
+10100 - T
+10101 - U
+10110 - V
+10111 - W
+
+11000 - X
+11001 - Y
+11010 - Z
+11011 - [
+11100 - \
+11101 - ]
+11110 - ^
+11111 - _
+
+
+Weapon IDs
+
+0100 - Saber
+0101 - Brand
+0102 - Buster
+0103 - Pallasch
+0104 - Gladius
+0105 - DB'S SABER (Replica)
+0106 - KALADBOLG
+0107 - DURANDAL
+0200 - Sword
+0201 - Gigush
+0202 - Breaker
+0203 - Claymore
+0204 - Calibur
+0205 - FLOWEN'S SWORD (Replica)
+0206 - LAST SURVIVOR
+0207 - DRAGON SLAYER
+0300 - Dagger
+0301 - Knife
+0302 - Blade
+0303 - Edge
+
+0304 - Ripper
+0305 - BLADE DANCE
+0306 - BLOODY ART
+0307 - CROSS SCAR
+0400 - Partisan
+0401 - Halbert
+0402 - Glaive
+0403 - Berdys
+0404 - Gungnir
+0405 - BRIONAC
+0406 - VJAYA
+0407 - GAE BOLG
+0500 - Slicer
+0501 - Spinner
+0502 - Cutter
+0503 - Sawcer
+0504 - Diska
+0505 - SLICER OF ASSASSIN
+0506 - DISKA OF LIBERATOR
+0507 - DISKA OF BRAVEMEN
+
+0600 - Handgun
+0601 - Autogun
+0602 - Lockgun
+0603 - Railgun
+0604 - Raygun
+0605 - VARISTA
+0606 - CUSTOM RAY ver.OO
+0607 - BRAVACE
+0700 - Rifle
+0701 - Sniper
+0702 - Blaster
+0703 - Beam
+0704 - Laser
+0705 - VISK-235W
+0706 - WALS-MK2
+0707 - JUSTY-23ST
+0800 - Mechgun
+0801 - Assault
+0802 - Repeater
+0803 - Gatling
+
+0804 - Vulcan
+0805 - M&A60 VISE
+0806 - H&S25 JUSTICE
+0807 - L&K14 COMBAT
+0900 - Shot
+0901 - Spread
+0902 - Cannon
+0903 - Launcher
+0904 - Arms
+0905 - CRUSH BULLET
+0906 - METEOR SMASH
+0907 - FINAL IMPACT
+0A00 - Cane
+0A01 - Stick
+0A02 - Mace
+0A03 - Club
+0A04 - CLUB OF LACONIUM
+0A05 - MACE OF ADAMAN
+0A06 - CLUB OF ZUMIURAN
+0B00 - Rod
+
+0B01 - Pole
+0B02 - Pillar
+0B03 - Striker
+0B04 - BATTLE VERGE
+0B05 - BRAVE HAMMER
+0B06 - ALIVE AQHU
+0C00 - Wand
+0C01 - Staff
+0C02 - Baton
+0C03 - Scepter
+0C04 - FIRE SCEPTER:AGNI
+0C05 - ICE STAFF:DAGON
+0C06 - STORM VAND:INDRA
+0D00 - PHOTON CLAW
+0D01 - SILENCE CLAW
+0D02 - NEI'S CLAW (Replica)
+0E00 - DOUBLE SABER
+0E01 - STAG CUTLERY
+0E02 - TWIN BRAND
+0F00 - BRAVE KNUCKLE
+
+0F01 - ANGRY FIST
+0F02 - GOD HAND
+0F03 - SONIC KNUCKLE
+1000 - OROTIAGITO
+1001 - AGITO (AUW 1975)
+1002 - AGITO (AUW 1983 - Replica)
+1003 - AGITO (AUW 2001 - Replica)
+1004 - AGITO (AUW 1991 - Replica)
+1005 - AGITO (AUW 1977 - Replica)
+1006 - AGITO (AUW 1980 - Replica)
+1100 - SOUL EATER
+1101 - SOUL BANISH
+1200 - SPREAD NEEDLE
+1300 - HOLY RAY
+1400 - INFERNO BAZOOKA
+1500 - FLAME VISIT
+1501 - BURNING VISIT
+1600 - AKIKO'S FRYING PAN
+1700 - SORCERER'S CANE
+1800 - S-BEAT'S BLADE
+
+1900 - P-ARMS'S BLADE
+1A00 - DELSABER'S BUSTER
+1B00 - BRINGER'S RIFLE
+1C00 - EGG BLASTER
+1D00 - PSYCHO WAND
+1E00 - HEAVEN PUNISHER
+1F00 - LAVIS CANNON
+2000 - VICTOR AXE
+2100 - CHAIN SAWD
+2200 - CADUCEUS
+2300 - STING TIP
+2400 - MAGICAL PIECE
+2500 - TECHNICAL CROZIER
+2600 - SUPPRESSED GUN
+2700 - ANCIENT SABER
+2800 - HARISEN BATTLE FAN
+2900 - YAMIGARASU
+2A00 - AKIKO'S WOK
+2B00 - TOY HAMMER
+2C00 - ELYSION
+
+2D00 - RED SABER
+2E00 - METEOR CUDGEL
+2F00 - MONKEY KING BAR
+2F01 - BLACK KING BAR
+3000 - DOUBLE CANNON
+3100 - HUGE BATTLE FAN
+3200 - TSUMIKIRI J-SWORD
+3300 - SEALED J-SWORD
+3400 - RED SWORD
+3500 - CRAZY TUNE
+3600 - TWIN CHAKRAM
+3700 - WOK OF AKIKO'S SHOP
+3800 - LAVIS BLADE
+3900 - RED DAGGER
+3A00 - MADAM'S PARASOL
+3B00 - MADAM'S UMBRELLA
+3C00 - IMPERIAL PICK
+3D00 - BERDYSH
+3E00 - RED PARTISAN
+3F00 - FLIGHT CUTTER
+
+4000 - FLIGHT FAN
+4100 - RED SLICER
+4200 - HANDGUN:GULD
+4300 - HANDGUN:MILLA
+4400 - RED HANDGUN
+4500 - FROZEN SHOOTER
+4501 - SNOW QUEEN
+4600 - ANTI ANDROID RIFLE
+4700 - ROCKET PUNCH
+4800 - SAMBA MARACAS
+4900 - TWIN PSYCHOGUN
+4A00 - DRILL LAUNCHER
+4B00 - GULD MILLA
+4C00 - RED MECHGUN
+4D00 - BELRA CANNON
+4E00 - PANZER FAUST
+4E01 - IRON FAUST
+4F00 - SUMMIT MOON
+5000 - WINDMILL
+5100 - EVIL CURST
+
+5200 - FLOWER CANE
+5300 - HILDEBEAR'S CANE
+5400 - HILDEBLUE'S CANE
+5500 - RABBIT WAND
+5600 - PLANTAIN LEAF
+5601 - FATSIA
+5700 - DEMONIC FORK
+5800 - STRIKER OF CHAO
+5900 - BROOM
+5A00 - PROPHETS OF MOTAV
+5B00 - THE SIGH OF A GOD
+5C00 - TWINKLE STAR
+5D00 - PLANTAIN FAN
+5E00 - TWIN BLAZE
+5F00 - MARINA'S BAG
+6000 - DRAGON'S CLAW
+6100 - PANTHER'S CLAW
+6200 - S-RED'S BLADE
+6300 - PLANTAIN HUGE FAN
+6400 - CHAMELEON SCYTHE
+
+6500 - YASMINKOV 3000R
+6600 - ANO RIFLE
+6700 - BARANZ LAUNCHER
+6800 - BRANCH OF PAKUPAKU
+6900 - HEART OF POUMN
+6A00 - YASMINKOV 2000H
+6B00 - YASMINKOV 7000V
+6C00 - YASMINKOV 9000M
+6D00 - MASER BEAM
+6D01 - POWER MASER
+6E00 - GAME MAGAZINE
+6F00 - FLOWER BOUQUET
+7000 - SABER     (S Rank Weapon)
+7100 - SWORD     (S Rank Weapon)
+7200 - BLADE     (S Rank Weapon)
+7300 - PARTISAN  (S Rank Weapon)
+7400 - SLICER    (S Rank Weapon)
+7500 - GUN       (S Rank Weapon)
+7600 - RIFLE     (S Rank Weapon)
+7700 - MECHGUN   (S Rank Weapon)
+
+7800 - SHOT      (S Rank Weapon)
+7900 - CANE      (S Rank Weapon)
+7A00 - ROD       (S Rank Weapon)
+7B00 - WAND      (S Rank Weapon)
+7C00 - TWIN      (S Rank Weapon)
+7D00 - CLAW      (S Rank Weapon)
+7E00 - BAZOOKA   (S Rank Weapon)
+7F00 - NEEDLE    (S Rank Weapon)
+8000 - SCYTHE    (S Rank Weapon)
+8100 - HAMMER    (S Rank Weapon)
+8200 - MOON      (S Rank Weapon)
+8300 - PSYCHOGUN (S Rank Weapon)
+8400 - PUNCH     (S Rank Weapon)
+8500 - WINDMILL  (S Rank Weapon)
+8600 - HARISEN   (S Rank Weapon)
+8700 - KATANA    (S Rank Weapon)
+8800 - J-CUTTER  (S Rank Weapon)
+8900 - MUSASHI
+8901 - YAMATO
+8902 - ASUKA
+
+8903 - SANGE & YASHA
+8A00 - SANGE
+8A01 - YASHA
+8A02 - KAMUI
+8B00 - PHOTON LAUNCHER
+8B01 - GUILTY LIGHT
+8B02 - RED SCORPIO
+8C00 - TALIS
+8C01 - MAHU
+8C02 - HITOGATA
+8C03 - DANCING HITOGATA
+8D00 - NUG2000-BAZOOKA
+8E00 - S-BERILL'S HANDS #0
+8E01 - S-BERILL'S HANDS #1
+8F00 - FLOWEN'S SWORD (AUW 3060 - GREENILL)
+8F01 - FLOWEN'S SWORD (AUW 3064 - SKYLY)
+8F02 - FLOWEN'S SWORD (AUW 3067 - BLUEFULL)
+8F03 - FLOWEN'S SWORD (AUW 3073 - PURPLENUM)
+8F04 - FLOWEN'S SWORD (AUW 3077 - PINKAL)
+8F05 - FLOWEN'S SWORD (AUW 3082 - REDRIA)
+
+8F06 - FLOWEN'S SWORD (AUW 3083 - ORAN)
+8F07 - FLOWEN'S SWORD (AUW 3084 - YELLOWBOZE)
+8F08 - FLOWEN'S SWORD (AUW 3079 - WHITILL)
+9000 - DB's SWORD (AUW 3062 - GREENILL)
+9001 - DB's SWORD (AUW 3067 - SKYLY)
+9002 - DB's SWORD (AUW 3069 - BLUEFULL)
+9003 - DB's SWORD (AUW 3064 - PURPLENUM)
+9004 - DB's SWORD (AUW 3069 - PINKAL)
+9005 - DB's SWORD (AUW 3073 - REDRIA)
+9006 - DB's SWORD (AUW 3070 - ORAN)
+9007 - DB's SWORD (AUW 3075 - YELLOWBOZE)
+9008 - DB's SWORD (AUW 3077 - WHITILL)
+9100 - GI GUE BAZOOKA
+9200 - GUARDIANNA
+9300 - VIRIDIA CARD
+9301 - GREENILL CARD
+9302 - SKYLY CARD
+9303 - BLUEFULL CARD
+9304 - PURPLENUM CARD
+9305 - PINKAL CARD
+
+9306 - REDRIA CARD
+9307 - ORAN CARD
+9308 - YELLOWBOZE CARD
+9309 - WHITILL CARD
+9400 - MORNING GLORY
+9500 - PARTISAN of LIGHTNING
+9600 - GAL WIND
+9700 - ZANBA
+9800 - RIKA'S CLAW
+9900 - ANGEL HARP
+9A00 - DEMOLITION COMET
+9B00 - NEI'S CLAW
+9C00 - RAINBOW BATON
+9D00 - DARK FLOW
+9E00 - DARK METEOR
+9F00 - DARK BRIDGE
+A000 - G-ASSASSIN'S SABERS
+A100 - RAPPY'S FAN
+A200 - BOOMA'S CLAW
+A201 - GOBOOMA'S CLAW
+
+A202 - GIGOBOOMA'S CLAW
+A300 - RUBY BULLET
+A400 - AMORE ROSE
+A500 - SWORDS   (S Rank Weapon)
+A600 - LAUNCHER (S Rank Weapon)
+A700 - CARDS    (S Rank Weapon)
+A800 - KNUCKLE  (S Rank Weapon)
+A900 - AXE      (S Rank Weapon)
+
+
+Weapon Specials & Flags
+
+00 - None
+01 - Draw
+02 - Drain
+03 - Fill
+04 - Gush
+05 - Heart
+06 - Mind
+07 - Soul
+08 - Geist
+09 - Master's
+0A - Lord's
+0B - King's
+0C - Charge
+0D - Spirit
+0E - Berserk
+0F - Ice
+
+10 - Frost
+11 - Freeze
+12 - Blizzard
+13 - Bind
+14 - Hold
+15 - Seize
+16 - Arrest
+17 - Heat
+18 - Fire
+19 - Flame
+1A - Burning
+1B - Shock
+1C - Thunder
+1D - Storm
+1E - Tempest
+1F - Dim
+
+20 - Shadow
+21 - Dark
+22 - Hell
+23 - Panic
+24 - Riot
+25 - Havoc
+26 - Chaos
+27 - Devil's
+28 - Demon's
+
+40 - Present        (Combinable)
+80 - Unknown Weapon (Combinable)
+
+
+Photon Elemental Types
+
+00 - None
+01 - Native
+02 - Altered Beast
+03 - Machine
+04 - Dark
+05 - Hit
+
+
+Armor Modifier Codes
+
+Bank Slot 1 Armor Modifier [Ralf]
+04EE0810 0101xx00
+04EE0814 ppssyyyy
+04EE0818 zzzz0000
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00010001
+
+Bank Slot 2 Armor Modifier [Ralf]
+04EE0828 0101xx00
+04EE082C ppssyyyy
+04EE0830 zzzz0000
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Armor Modifier [Ralf]
+04EE1AA0 0101xx00
+04EE1AA4 ppssyyyy
+04EE1AA8 zzzz0000
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00010001
+
+Bank Slot 200 Armor Modifier [Ralf]
+04EE1AB8 0101xx00
+04EE1ABC ppssyyyy
+04EE1AC0 zzzz0000
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00010001
+
+xx = Armor ID
+pp = Armor Flags (40 - Present)
+ss = Number Of Slots (00 .. 04)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Armor IDs
+
+00 - Frame
+01 - Armor
+02 - Psy Armor
+03 - Giga Frame
+04 - Soul Frame
+05 - Cross Armor
+06 - Solid Frame
+07 - Brave Armor
+08 - Hyper Frame
+09 - Grand Armor
+0A - Shock Frame
+0B - King's Frame
+0C - Dragon Frame
+0D - Absorb Armor
+0E - Protect Frame
+0F - General Armor
+10 - Perfect Frame
+11 - Valiant Frame
+12 - Imperial Armor
+13 - Holiness Armor
+
+14 - Guardian Armor
+15 - Divinity Armor
+16 - Ultimate Frame
+17 - Celestial Armor
+18 - HUNTER FIELD
+19 - RANGER FIELD
+1A - FORCE FIELD
+1B - REVIVAL GARMENT
+1C - SPIRIT GARMENT
+1D - STINK FRAME
+1E - D-PARTS ver1.01
+1F - D-PARTS ver2.10
+20 - PARASITE WEAR:De Rol
+21 - PARASITE WEAR:Nelgal
+22 - PARASITE WEAR:Vajulla
+23 - SENSE PLATE
+24 - GRAVITON PLATE
+25 - ATTRIBUTE PLATE
+26 - FLOWEN'S FRAME
+27 - CUSTOM FRAME ver.OO
+
+28 - DB'S ARMOR
+29 - GUARD WAVE
+2A - DF FIELD
+2B - LUMINOUS FIELD
+2C - CHU CHU FEVER
+2D - LOVE HEART
+2E - FLAME GARMENT
+2F - VIRUS ARMOR:Lafuteria
+30 - BRIGHTNESS CIRCLE
+31 - AURA FIELD
+32 - ELECTRO FRAME
+33 - SACRED CLOTH
+34 - SMOKING PLATE
+
+
+Shield Modifier Codes
+
+Bank Slot 1 Shield Modifier [Ralf]
+04EE0810 0102xx00
+04EE0814 pp00yyyy
+04EE0818 zzzz0000
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00010001
+
+Bank Slot 2 Shield Modifier [Ralf]
+04EE0828 0102xx00
+04EE082C pp00yyyy
+04EE0830 zzzz0000
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Shield Modifier [Ralf]
+04EE1AA0 0102xx00
+04EE1AA4 pp00yyyy
+04EE1AA8 zzzz0000
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00010001
+
+Bank Slot 200 Shield Modifier [Ralf]
+04EE1AB8 0102xx00
+04EE1ABC pp00yyyy
+04EE1AC0 zzzz0000
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00010001
+
+xx = Shield ID
+pp = Shield Flags (40 - Present)
+
+yyyy = DFP Boost (Little Endian, 0000 .. FF7F)
+zzzz = EVP Boost (Little Endian, 0000 .. FF7F)
+
+
+Shield IDs
+
+00 - Barrier
+01 - Shield
+02 - Core Shield
+03 - Giga Shield
+04 - Soul Barrier
+05 - Hard Shield
+06 - Brave Barrier
+07 - Solid Shield
+08 - Flame Barrier
+09 - Plasma Barrier
+0A - Freeze Barrier
+0B - Psychic Barrier
+0C - General Shield
+0D - Protect Barrier
+0E - Glorious Shield
+0F - Imperial Barrier
+10 - Guardian Shield
+11 - Divinity Barrier
+12 - Ultimate Shield
+13 - Spiritual Shield
+
+14 - Celestial Shield
+15 - INVISIBLE GUARD
+16 - SACRED GUARD
+17 - S-PARTS ver1.16
+18 - S-PARTS ver2.01
+19 - LIGHT RELIEF
+1A - SHIELD OF DELSABER
+1B - FORCE WALL
+1C - RANGER WALL
+1D - HUNTER WALL
+1E - ATTRIBUTE WALL
+1F - SECRET GEAR
+20 - COMBAT GEAR
+21 - PROTO REGENE GEAR
+22 - REGENERATE GEAR
+23 - REGENE GEAR ADV.
+24 - FLOWEN'S SHIELD
+25 - CUSTOM BARRIER ver.OO
+26 - DB'S SHIELD
+27 - RED RING
+
+28 - TRIPOLIC SHIELD
+29 - STANDSTILL SHIELD
+2A - SAFETY HEART
+2B - KASAMI BRACER
+2C - GODS SHIELD SUZAKU
+2D - GODS SHIELD GENBU
+2E - GODS SHIELD BYAKKO
+2F - GODS SHIELD SEIRYU
+30 - HUNTER'S SHELL
+31 - RICO'S GLASSES
+32 - RICO'S EARRING
+33 - BLUE RING
+34 - BARRIER
+35 - SECURE FEET
+36 - BARRIER
+37 - BARRIER
+38 - BARRIER
+39 - BARRIER
+3A - RESTA MERGE
+3B - ANTI MERGE
+
+3C - SHIFTA MERGE
+3D - DEBAND MERGE
+3E - FOIE MERGE
+3F - GIFOIE MERGE
+40 - RAFOIE MERGE
+41 - RED MERGE
+42 - BARTA MERGE
+43 - GIBARTA MERGE
+44 - RABARTA MERGE
+45 - BLUE MERGE
+46 - ZONDE MERGE
+47 - GIZONDE MERGE
+48 - RAZONDE MERGE
+49 - YELLOW MERGE
+4A - RECOVERY BARRIER
+4B - ASSIST BARRIER
+4C - RED BARRIER
+4D - BLUE BARRIER
+4E - YELLOW BARRIER
+4F - WEAPONS GOLD SHIELD
+
+50 - BLACK GEAR
+51 - WORKS GUARD
+52 - RAGOL RING
+53 - BLUE RING
+54 - BLUE RING
+55 - BLUE RING
+56 - BLUE RING
+57 - BLUE RING
+58 - BLUE RING
+59 - BLUE RING
+5A - BLUE RING
+5B - GREEN RING
+5c - GREEN RING
+5D - GREEN RING
+5E - GREEN RING
+5F - GREEN RING
+60 - GREEN RING
+61 - GREEN RING
+62 - GREEN RING
+63 - YELLOW RING
+
+64 - YELLOW RING
+65 - YELLOW RING
+66 - YELLOW RING
+67 - YELLOW RING
+68 - YELLOW RING
+69 - YELLOW RING
+6A - YELLOW RING
+6B - PURPLE RING
+6C - PURPLE RING
+6D - PURPLE RING
+6E - PURPLE RING
+6F - PURPLE RING
+70 - PURPLE RING
+71 - PURPLE RING
+72 - PURPLE RING
+73 - WHITE RING
+74 - WHITE RING
+75 - WHITE RING
+76 - WHITE RING
+77 - WHITE RING
+
+78 - WHITE RING
+79 - WHITE RING
+7A - WHITE RING
+7B - BLACK RING
+7C - BLACK RING
+7D - BLACK RING
+7E - BLACK RING
+7F - BLACK RING
+80 - BLACK RING
+81 - BLACK RING
+82 - BLACK RING
+83 - WEAPONS SILVER SHIELD
+84 - WEAPONS COPPER SHIELD
+
+
+Unit Modifier Codes
+
+Bank Slot 1 Unit Modifier [Ralf]
+04EE0810 0103xx00
+04EE0814 0000yyyy
+04EE0818 00000000
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00010001
+
+Bank Slot 2 Unit Modifier [Ralf]
+04EE0828 0103xx00
+04EE082C 0000yyyy
+04EE0830 00000000
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Unit Modifier [Ralf]
+04EE1AA0 0103xx00
+04EE1AA4 0000yyyy
+04EE1AA8 00000000
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00010001
+
+Bank Slot 200 Unit Modifier [Ralf]
+04EE1AB8 0103xx00
+04EE1ABC 0000yyyy
+04EE1AC0 00000000
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00010001
+
+xx = Unit ID
+
+yyyy = Enhancement Boost (Little Endian, 0000 .. FFFF)
+
+0000 - None
+0200 - Good (+)
+0400 - Very Good (++)
+FEFF - Bad (-)
+FCFF - Very Bad (--)
+
+
+Unit IDs
+
+00 - Knight/Power
+01 - General/Power
+02 - Ogre/Power
+03 - God/Power
+04 - Priest/Mind
+05 - General/Mind
+06 - Angel/Mind
+07 - God/Mind
+08 - Marksman/Arm
+09 - General/Arm
+0A - Elf/Arm
+0B - God/Arm
+0C - Thief/Legs
+0D - General/Legs
+0E - Elf/Legs
+0F - God/Legs
+10 - Digger/HP
+11 - General/HP
+12 - Dragon/HP
+13 - God/HP
+
+14 - Magician/TP
+15 - General/TP
+16 - Angle/TP
+17 - God/TP
+18 - Warrior/Body
+19 - General/Body
+1A - Metal/Body
+1B - God/Body
+1C - Angel/Luck
+1D - God/Luck
+1E - Master/Ability
+1F - Hero/Ability
+20 - God/Ability
+21 - Resist/Fire
+22 - Resist/Flame
+23 - Resist/Burning
+24 - Resist/Cold
+25 - Resist/Freeze
+26 - Resist/Blizzard
+27 - Resist/Shock
+
+28 - Resist/Thunder
+29 - Resist/Storm
+2A - Resist/Light
+2B - Resist/Saint
+2C - Resist/Holy
+2D - Resist/Dark
+2E - Resist/Evil
+2F - Resist/Devil
+30 - All/Resist
+31 - Super/Resist
+32 - Perfect/Resist
+33 - HP/Restorate
+34 - HP/Generate
+35 - HP/Revival
+36 - TP/Restorate
+37 - TP/Generate
+38 - TP/Revival
+39 - PB/Amplifier
+3A - PB/Generate
+3B - PB/Create
+
+3C - Wizard/Technique
+3D - Devil/Technique
+3E - God/Technique
+3F - General/Battle
+40 - Devil/Battle
+41 - God/Battle
+42 - Cure/Poison
+43 - Cure/Paralysis
+44 - Cure/Slow
+45 - Cure/Confuse
+46 - Cure/Freeze
+47 - Cure/Shock
+
+
+Tech Modifier Codes
+
+Bank Slot 1 Tech Modifier [Ralf]
+04EE0810 0302ll00
+04EE0814 xx000000
+04EE0818 00000000
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00010001
+
+Bank Slot 2 Tech Modifier [Ralf]
+04EE0828 0302ll00
+04EE082C xx000000
+04EE0830 00000000
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Tech Modifier [Ralf]
+04EE1AA0 0302ll00
+04EE1AA4 xx000000
+04EE1AA8 00000000
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00010001
+
+Bank Slot 200 Tech Modifier [Ralf]
+04EE1AB8 0302ll00
+04EE1ABC xx000000
+04EE1AC0 00000000
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00010001
+
+ll = Tech Level
+
+00 - Level 1
+01 - Level 2
+..
+1C - Level 29
+1D - Level 30
+
+
+xx = Tech ID
+
+00 - Foie
+01 - Gifoie
+02 - Rafoie
+03 - Barta
+04 - Gibarta
+05 - Rabarta
+06 - Zonde
+07 - Gizonde
+08 - Razonde
+09 - Grants
+0A - Deband
+0B - Jellen
+0C - Zalure
+0D - Shifta
+0E - Ryuker
+0F - Resta
+10 - Anti
+11 - Reverser
+12 - Megid
+
+
+Item Modifier Codes
+
+Bank Slot 1 Item Modifier [Ralf]
+04EE0810 03xxxx00
+04EE0814 00000000
+04EE0818 00000000
+04EE081C FFFFFFFF
+04EE0820 00000000
+04EE0824 00yy0001
+
+Bank Slot 2 Item Modifier [Ralf]
+04EE0828 03xxxx00
+04EE082C 00000000
+04EE0830 00000000
+04EE0834 FFFFFFFF
+04EE0838 00000000
+04EE083C 00yy0001
+
+...
+
+Bank Slot 199 Item Modifier [Ralf]
+04EE1AA0 03xxxx00
+04EE1AA4 00000000
+04EE1AA8 00000000
+04EE1AAC FFFFFFFF
+04EE1AB0 00000000
+04EE1AB4 00yy0001
+
+Bank Slot 200 Item Modifier [Ralf]
+04EE1AB8 03xxxx00
+04EE1ABC 00000000
+04EE1AC0 00000000
+04EE1AC4 FFFFFFFF
+04EE1AC8 00000000
+04EE1ACC 00yy0001
+
+xxxx = Item ID
+
+yy = Quantity (01 .. 0A, Stackable Items Only)
+
+
+Item IDs
+
+0000 - Monomate
+0001 - Dimate
+0002 - Trimate
+0100 - Monofluid
+0101 - Difluid
+0102 - Trifluid
+0300 - Sol Atomizer
+0400 - Moon Atomizer
+0500 - Star Atomizer
+0600 - Antidote
+0601 - Antiparalysis
+0700 - Telepipe
+0800 - Trap Vision
+0900 - Scape Doll
+0A00 - Monogrinder
+0A01 - Digrinder
+0A02 - Trigrinder
+0B00 - Power Material
+0B01 - Mind Material
+0B02 - Evade Material
+
+0B03 - HP Material
+0B04 - TP Material
+0B05 - Def Material
+0B06 - Luck Material
+0C00 - Cell of MAG 502
+0C01 - Cell of MAG 213
+0C02 - Parts of RoboChao
+0C03 - Heart of Opa Opa
+0C04 - Heart of Pian
+0C05 - Heart of Chao
+0D00 - Sorcerer's Right Arm
+0D01 - S-beat's Arms
+0D02 - P-arm's Arms
+0D03 - Delsaber's Right Arm
+0D04 - Bringer's Right Arm
+0D05 - Delsaber's Left Arm
+0D06 - S-red's Arms
+0D07 - Dragon's Claw
+0D08 - Hildebear's Head
+0D09 - Hildeblue's Head
+
+0D0A - Parts of Baranz
+0D0B - Belra's Right Arm
+0D0C - Gi Gue's body
+0D0D - Sinow Berill's Arms
+0D0E - Grass Assassin's Arms
+0D0F - Booma's Right Arm
+0D10 - Gobooma's Right Arm
+0D11 - Gigobooma's Right Arm
+0D12 - Gal Gryphon's Wing
+0D13 - Rappy's Wing
+0E00 - Berill Photon
+0E01 - Parasitic gene "Flow"
+0E02 - Magic Stone "Iritista"
+0E03 - Blue-black stone
+0E04 - Syncesta
+0E05 - Magic Water
+0E06 - Parasitic cell Type D
+0E07 - magic rock "Heart Key"
+0E08 - magic rock "Moola"
+0E09 - Star Amplifier
+
+0E0A - Book of HITOGATA
+0E0B - Heart of Chu Chu
+0E0C - Parts of EGG BLASTER
+0E0D - Heart of Angel
+0E0E - Heart of Devil
+0E0F - Kit of Hamburger
+0E10 - Panther's Spirit
+0E11 - Kit of MARK3
+0E12 - Kit of MASTER SYSTEM
+0E13 - Kit of GENESIS
+0E14 - Kit of SEGA SATURN
+0E15 - Kit of DREAMCAST
+0E16 - Amplifier of Resta
+0E17 - Amplifier of Anti
+0E18 - Amplifier of Shifta
+0E19 - Amplifier of Deband
+0E1A - Amplifier of Foie
+0E1B - Amplifier of Gifoie
+0E1C - Amplifier of Rafoie
+0E1D - Amplifier of Barta
+
+0E1E - Amplifier of Gibarta
+0E1F - Amplifier of Rabarta
+0E20 - Amplifier of Zonde
+0E21 - Amplifier of Gizonde
+0E22 - Amplifier of Razonde
+0E23 - Amplifier of Red
+0E24 - Amplifier of Blue
+0E25 - Amplifier of Yellow
+0E26 - Heart of KAPU KAPU
+0E27 - Photon Booster
+0F00 - AddSlot
+1000 - Photon Drop
+1001 - Photon Sphere
+1002 - Photon Crystal
+1100 - Book of KATANA1
+1101 - Book of KATANA2
+1102 - Book of KATANA3
+1200 - Weapons Bronze Badge
+1201 - Weapons Silver Badge
+1202 - Weapons Gold Badge
+
+1203 - Weapons Crystal Badge
+1204 - Weapons Steel Badge
+1205 - Weapons Aluminum Badge
+1206 - Weapons Leather Badge
+1207 - Weapons Bone Badge
+1208 - Letter of appreciation
+1209 - Autograph Album
+120A - Valentine's Chocolate
+120B - New Year's Card
+120C - Christmas Card
+120D - Birthday Card
+120E - Proof of Sonic Team
+120F - Special Event Ticket
+1210 - Flower Bouquet
+1211 - Cake
+1212 - Accessories
+1213 - Mr.Naka's Business Card
+1300 - Present
+1400 - Chocolate
+1401 - Candy
+
+1402 - Cake
+1403 - Siver Badge
+1404 - Gold Badge
+1405 - Crystal Badge
+1406 - Iron Badge
+1407 - Aluminum Badge
+1408 - Leather Badge
+1409 - Bone Badge
+140A - Bouquet
+140B - Decoction
+1500 - Christmas Present
+1501 - Easter Egg
+1502 - Jack-O'-Lantern
+1600 - DISK Vol.1
+1601 - DISK Vol.2
+1602 - DISK Vol.3
+1603 - DISK Vol.4
+1604 - DISK Vol.5
+1605 - DISK Vol.6
+1606 - DISK Vol.7
+1700 - Hunters Report
+1701 - Hunters Report ("A")
+1702 - Hunters Report ("B")
+1703 - Hunters Report ("C")
+1704 - Hunters Report ("F")
+
+
+Mag Modifier Codes
+
+Bank Slot 1 Mag Modifier [Ralf]
+04EE0810 02mmllpp
+04EE0814 vvvvwwww
+04EE0818 xxxxyyyy
+04EE081C FFFFFFFF
+04EE0820 ssiijjzz
+04EE0824 00010001
+
+Bank Slot 2 Mag Modifier [Ralf]
+04EE0828 02mmllpp
+04EE082C vvvvwwww
+04EE0830 xxxxyyyy
+04EE0834 FFFFFFFF
+04EE0838 ssiijjzz
+04EE083C 00010001
+
+...
+
+Bank Slot 199 Mag Modifier [Ralf]
+04EE1AA0 02mmllpp
+04EE1AA4 vvvvwwww
+04EE1AA8 xxxxyyyy
+04EE1AAC FFFFFFFF
+04EE1AB0 ssiijjzz
+04EE1AB4 00010001
+
+Bank Slot 200 Mag Modifier [Ralf]
+04EE1AB8 02mmllpp
+04EE1ABC vvvvwwww
+04EE1AC0 xxxxyyyy
+04EE1AC4 FFFFFFFF
+04EE1AC8 ssiijjzz
+04EE1ACC 00010001
+
+mm = Mag ID
+ll = Level (01 .. C8)
+
+pp = Photon Blasts Bit Field (8 Bits)
+
+Photon Blasts Bit Field
+
+llrrrmmm
+
+ll  = Left   Photon Blast
+rrr = Right  Photon Blast
+mmm = Middle Photon Blast
+
+
+Middle & Right Photon Blast IDs
+
+000 - Farlla
+001 - Estlla
+010 - Golla
+011 - Pilla
+100 - Leilla
+101 - Mylla & Youlla
+110 - Megid
+111 - Grants
+
+
+Left Photon Blast IDs
+
+Middle & Right PB: Combo Of Farlla/Estlla
+
+00 - Golla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Golla
+
+00 - Estlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Pilla
+
+00 - Estlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Leilla
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Farlla/Mylla&Youlla Or Farlla/Megid Or Farlla/Grants
+
+00 - Estlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Estlla/Golla
+
+00 - Farlla
+01 - Pilla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Pilla
+
+00 - Farlla
+01 - Golla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Leilla
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Estlla/Mylla&Youlla Or Estlla/Megid Or Estlla/Grants
+
+00 - Farlla
+01 - Golla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Golla/Pilla
+
+00 - Farlla
+01 - Estlla
+10 - Leilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Golla/Mylla&Youlla Or Golla/Megid Or Golla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Pilla
+11 - Leilla
+
+Middle & Right PB: Combo Of Pilla/Leilla
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Mylla & Youlla
+
+Middle & Right PB: Combo Of Pilla/Mylla&Youlla Or Pilla/Megid Or Pilla/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Leilla
+
+Middle & Right PB: Combo Of Leilla/Mylla&Youlla Or Leilla/Megid Or Leilla/Grants
+                   Or Mylla&Youlla/Megid Or Mylla&Youlla/Grants Or Megid/Grants
+
+00 - Farlla
+01 - Estlla
+10 - Golla
+11 - Pilla
+
+
+vvvv = DEF  * 100. (Little Endian, 0000 .. 834E)
+wwww = POW  * 100. (Little Endian, 0000 .. 834E)
+xxxx = DEX  * 100. (Little Endian, 0000 .. 834E)
+yyyy = MIND * 100. (Little Endian, 0000 .. 834E)
+
+ss = Sync (00 .. 78)
+ii = IQ   (00 .. C8)
+
+
+jj = Mag Flags (Combinable)
+
+01 - Enable Middle Photon Blast
+02 - Enable Right  Photon Blast
+04 - Enable Left   Photon Blast
+40 - Present
+
+
+zz = Mag Color
+
+00 - Red
+01 - Blue
+02 - Yellow
+03 - Green
+04 - Purple
+05 - Black
+06 - White
+07 - Cyan
+08 - Brown
+09 - Orange
+0A - Light Blue
+0B - Olive
+0C - Light Cyan
+0D - Dark Purple
+0E - Grey
+0F - Light Grey
+10 - Pink
+11 - Dark Cyan
+
+
+Mag IDs
+
+00 - Mag
+01 - Varuna
+02 - Mitra
+03 - Surya
+04 - Vayu
+05 - Varaha
+06 - Kama
+07 - Ushasu
+08 - Apsaras
+09 - Kumara
+0A - Kaitabha
+0B - Tapas
+0C - Bhirava
+0D - Kalki
+0E - Rudra
+0F - Marutah
+10 - Yaksa
+11 - Sita
+12 - Garuda
+13 - Nandin
+
+14 - Ashvinau
+15 - Ribhava
+16 - Soma
+17 - Ila
+18 - Durga
+19 - Vritra
+1A - Namuci
+1B - Sumba
+1C - Naga
+1D - Pitri
+1E - Kabanda
+1F - Ravana
+20 - Marica
+21 - Soniti
+22 - Preta
+23 - Andhaka
+24 - Bana
+25 - Naraka
+26 - Madhu
+27 - Churel
+
+28 - ROBOCHAO
+29 - OPA-OPA
+2A - PIAN
+2B - CHAO
+2C - CHU CHU
+2D - KAPU KAPU
+2E - ANGEL'S WING
+2F - DEVIL'S WING
+30 - ELENOR
+31 - MARK3
+32 - MASTER SYSTEM
+33 - GENESIS
+34 - SEGA SATURN
+35 - DREAMCAST
+36 - HAMBURGER
+37 - PANZER'S TAIL
+38 - DAVIL'S TAIL
+39 - Deva
+3A - Rati
+3B - Savitri
+
+3C - Rukmin
+3D - Pushan
+3E - Diwari
+3F - Sato
+40 - Bhima
+41 - Nidra
+

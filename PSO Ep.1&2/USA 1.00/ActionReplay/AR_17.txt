@@ -1,0 +1,315 @@
+Item Removal Maxed Stats Bug Fix [Ralf]
+A9BR-CBK4-06MZ7
+BVWZ-1Z77-M485E
+ZF63-MG04-VZW4V
+J608-NTBR-GJMC8
+AB75-K1MT-5RHXT
+EFPG-9PNF-YHN7Z
+93QC-XHAE-CX8Z2
+R68U-Z2MD-ER7TY
+H61B-UBTJ-Y46RX
+A2MB-MJ8B-K8NUY
+38GD-CER3-A5Z3E
+5UGK-7M0A-7RW8B
+NUYY-ET93-ERP2G
+469Q-GC9V-4VK5Q
+ZDTM-DUHW-6GHBJ
+QTUY-PTJY-Y29BV
+GDHD-PUWZ-EZZU1
+KQZE-WJK2-FGK3J
+MB27-0R66-6YQ70
+8UGN-M48T-4K3UX
+N5C7-9AVM-VKM9T
+Q533-43QV-16WG0
+H0U8-81Q3-AHVFM
+YCVD-6JD7-PZJXZ
+XP37-UNMN-B3N2J
+NPPY-DDJY-ZEGHY
+0HK7-4B33-GEK2C
+XTGC-V6GK-GJ1C3
+00X6-9MAM-33WFT
+81V4-WUAD-V62DR
+E216-XZU8-RMBG3
+99F7-ZG8T-20D83
+E9FZ-A3QA-YCERP
+
+Devil's & Demon's Special Damage Display Bug Fix [Ralf]
+93B9-GRZD-2AREA
+5Q1P-EANH-THCJ8
+KFAT-F8EN-4HM12
+
+Restore Pioneer 2 Event Music [Aleron Ives & Ralf]
+K120-B3X7-GKFA7
+9AK9-D2K4-Z6E9N
+QR5J-JHZT-PFCP0
+T0FQ-KNF8-U3DXR
+
+Restore Pioneer 2 Event Music v2 [Aleron Ives & Ralf]
+RKAR-UR4K-RT3FZ
+EDZG-DYMG-CZW9V
+ETX4-3DAN-Z41AC
+3UXX-UZV6-EAHGP
+9V3R-P6CG-9B5KY
+84FZ-PJVJ-8W959
+VNUT-DRU0-G3F78
+7BK0-QDX2-681G9
+7HEH-444Z-PGRJA
+CH08-YAQ3-V54WP
+T0FQ-KNF8-U3DXR
+E9FZ-A3QA-YCERP
+
+Attack Effectiveness Color Indicator [Ralf]
+T3N7-57WU-1UQ4W
+96XP-RX35-JBQK1
+5VXD-UWBT-9N587
+67MU-9XHC-50H3H
+DXBN-EVKX-JP311
+VKFU-7WVH-XKHR2
+PD34-F0VU-DQW36
+HGR3-BB96-KQXRQ
+V9VR-4H31-3K7TZ
+FR28-PGQC-KY4XJ
+XM21-0W0X-YCWUB
+5V0Q-60A5-B7CUU
+VJFD-RECZ-G8UTD
+9X6G-J7A6-ZXTVA
+9E5N-JD30-NXZVK
+F4FY-7DBX-W8Z25
+4VQT-WUBZ-F7CYZ
+UYHY-Z6FH-9T7HM
+E9FZ-A3QA-YCERP
+
+Damage Value Colors
+
+Yellow - Less effective attack
+Orange - Medium effective attack
+Red    - High effective attack
+
+Enable Weapon Auto Targetting [Ralf]
+TDJJ-DNUN-1ZJF3
+WHU1-H3AH-D7N6Q
+9M1C-3GET-0QJK1
+
+Tools Shop: No Tech Level Cap [Ralf]
+D7XK-EY7J-Z26HK
+8KF4-8906-RXV9X
+KHJE-R085-E4T8E
+XP0F-QNJZ-JTVYX
+82HH-QV70-8MTDM
+PGMC-AYXH-0GW8G
+EUXQ-YUPH-ANJZH
+WRXQ-18GF-1YJEF
+VAWX-1DH6-6X9CZ
+3QC2-WUQY-AAYCP
+E9FZ-A3QA-YCERP
+
+Tools Shop: Able To Buy Grants & Megid [Ralf]
+J7H9-5JW8-F5GU1
+1EAP-A9TP-WBWQ6
+1ZQ5-HQF4-PK3PH
+YUAA-AHEM-HDB0X
+1XUG-5WX4-EQBEX
+TEER-NYJ6-80EHR
+6XNZ-BVTC-ZENBC
+8HR9-C40W-HBP8X
+Z4A1-5D4J-0YYRK
+UERF-1D3V-DE4X1
+6PA6-2BP7-V3F45
+R09K-5RF2-4TEUR
+WF8U-QMXQ-J1M4E
+Q7WU-W4GM-1F50B
+2T73-W5Q2-UKJ7A
+3WQP-XXYH-2FTFY
+E9FZ-A3QA-YCERP
+
+Tools Shop: Monomate Item Modifier [Ralf]
+04448620 000000xx
+04448624 000000yy
+
+xxyy = Item ID (Default: 0000 - Monomate)
+
+Tools Shop: Dimate Item Modifier [Ralf]
+04448628 000000xx
+0444862C 000000yy
+
+xxyy = Item ID (Default: 0001 - Dimate)
+
+Tools Shop: Trimate Item Modifier [Ralf]
+04448630 000000xx
+04448634 000000yy
+
+xxyy = Item ID (Default: 0002 - Trimate)
+
+Tools Shop: Monofluid Item Modifier [Ralf]
+04448638 000000xx
+0444863C 000000yy
+
+xxyy = Item ID (Default: 0100 - Monofluid)
+
+Tools Shop: Difluid Item Modifier [Ralf]
+04448640 000000xx
+04448644 000000yy
+
+xxyy = Item ID (Default: 0101 - Difluid)
+
+Tools Shop: Trifluid Item Modifier [Ralf]
+04448648 000000xx
+0444864C 000000yy
+
+xxyy = Item ID (Default: 0102 - Trifluid)
+
+Tools Shop: Antidote Item Modifier [Ralf]
+04448650 000000xx
+04448654 000000yy
+
+xxyy = Item ID (Default: 0600 - Antidote)
+
+Tools Shop: Antiparalysis Item Modifier [Ralf]
+04448658 000000xx
+0444865C 000000yy
+
+xxyy = Item ID (Default: 0601 - Antiparalysis)
+
+Tools Shop: Sol Atomizer Item Modifier [Ralf]
+04448660 000000xx
+04448664 000000yy
+
+xxyy = Item ID (Default: 0300 - Sol Atomizer)
+
+Tools Shop: Moon Atomizer Item Modifier [Ralf]
+04448668 000000xx
+0444866C 000000yy
+
+xxyy = Item ID (Default: 0400 - Moon Atomizer)
+
+Tools Shop: Star Atomizer Item Modifier [Ralf]
+04448670 000000xx
+04448674 000000yy
+
+xxyy = Item ID (Default: 0500 - Star Atomizer)
+
+Tools Shop: Telepipe Item Modifier [Ralf]
+04448678 000000xx
+0444867C 000000yy
+
+xxyy = Item ID (Default: 0700 - Telepipe)
+
+Tools Shop: Trap Vision Item Modifier [Ralf]
+04448680 000000xx
+04448684 000000yy
+
+xxyy = Item ID (Default: 0800 - Trap Vision)
+
+Tools Shop: Scape Doll Item Modifier [Ralf]
+04448688 000000xx
+0444868C 000000yy
+
+xxyy = Item ID (Default: 0900 - Scape Doll)
+
+Tools Shop: Monogrinder Item Modifier [Ralf]
+04448690 000000xx
+04448694 000000yy
+
+xxyy = Item ID (Default: 0A00 - Monogrinder)
+
+Reduced Aura Field TP Drainage [Ralf]
+XPGU-D8GZ-TAW9Z
+FUHM-3E3R-9P8X6
+BZPW-3HAU-XE1NX
+
+Reduced Evil Curst TP Drainage [Ralf]
+5051-T2R4-CNDFH
+EYXJ-TZ2F-EVQMB
+A9DV-4ATG-RVBEF
+
+Reduced Luminous Field HP Drainage [Ralf]
+E09T-93EK-KFTK4
+FUHM-3E3R-9P8X6
+UMT8-0T3N-KK92Q
+
+Reduced Parasite Wear: De Rol HP Drainage [Ralf]
+2QD7-9TM4-A5T6X
+FUHM-3E3R-9P8X6
+5WTD-3N9R-MBQCU
+
+Reduced Parasite Wear: Nelgal HP Drainage [Ralf]
+J1EF-GABC-1CBYR
+FUHM-3E3R-9P8X6
+9WQB-4EZ8-MVHZW
+
+Reduced Parasite Wear: Vajulla HP Drainage [Ralf]
+9CYD-CDZ4-QKHBV
+FUHM-3E3R-9P8X6
+DM7Y-XG05-ZTX32
+
+Reduced Soul Banish HP Drainage [Ralf]
+V5YT-Q19M-U4Q4Z
+V1HM-Z285-34D66
+2XVB-TM1M-JRUR7
+
+Reduced Soul Eater HP Drainage [Ralf]
+A4RT-WK2Y-PMFNP
+V1HM-Z285-34D66
+QE1G-ZXV0-174YT
+
+Reduced Twin Blaze HP Drainage [Ralf]
+WFX5-EKA9-KPE7N
+NXGG-CNDV-1AA3J
+4ZG2-WZ6K-QMREV
+
+Reduced Yamigarasu HP Drainage [Ralf]
+R6TG-B3PJ-2Q1VX
+NBXP-4716-PZ1VG
+RFR4-RDUT-12PT6
+
+Improved Madam's Parasol HP Restoration [Ralf]
+UTY8-XQAQ-XV9YN
+PNFE-C635-N10R4
+1ZUE-22A6-U2DT6
+
+Improved Madam's Umbrella TP Restoration [Ralf]
+7005-T14X-EKN92
+YCT8-PW1M-WC49B
+V54E-AHPA-MYHEY
+
+Improved Marina's Bag HP Restoration [Ralf]
+1EP1-2275-U761A
+DG7Y-ZDFR-DHBBR
+46T3-ZM81-VWBQ8
+
+Improved Red Ring HP/TP Restoration [Ralf]
+4U4T-M2C7-RR30R
+3M2B-2JX2-9VE16
+J280-5AW5-0D5P1
+57X5-5WHG-2BJMB
+
+Improved Revival Garment HP Restoration [Ralf]
+U4KD-8FFK-38R2M
+VKPR-URHD-XKG4Z
+UZ1B-B9C7-62EWG
+
+Improved Spirit Garment TP Restoration [Ralf]
+EFYT-3JPW-HJ4JD
+BCDA-R5W6-W0TUF
+6RE9-Q1ZJ-10TWJ
+
+Improved Rico's Glasses Abilities [Ralf]
+AG9J-P1KJ-2GWY1
+UEV7-WUPE-7G8QY
+PEXU-AYVZ-9A45B
+
+Improved Sacred Cloth Abilities [Ralf]
+F27V-1YV1-N5W22
+UEV7-WUPE-7G8QY
+0Z26-8M3X-W2YXE
+
+Improved Sacred Guard Abilities [Ralf]
+M0YZ-FYNV-7WQVF
+UEV7-WUPE-7G8QY
+82XF-N98E-0DRE4
+
+Improved Sense Plate Abilities [Ralf]
+2DDX-42NV-MP3F2
+UEV7-WUPE-7G8QY
+X77T-EW63-F98MQ
+

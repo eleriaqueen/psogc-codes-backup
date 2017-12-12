@@ -1,0 +1,53 @@
+(m) [Kohle]
+FWCY-QH4H-Y0TDJ
+8XMJ-XP01-2B1Q3
+Q77P-KAG5-Q5CDM
+4MW3-41X2-63GEK
+X2P1-EV0E-4Q0X0
+E9FZ-A3QA-YCERP
+M6YJ-2AMZ-WJ5JN
+1DG3-0Y8C-UNTME
+GH5C-Q78D-61YJT
+QD52-883T-VX2WE
+E9FZ-A3QA-YCERP
+
+
+With the following AR codes, you are able to copy GameCube PSO 1&2 Plus game saves from one memory
+card to another.
+
+Make Game Save Copyable [Ralf]
+8A02-2KP7-K43RA
+VFY1-J75J-GV5RN
+CKUE-XE8U-ENB8F
+DHV8-95Y1-NVVJC
+UZN2-4J43-G32UZ
+DU13-T94P-XZHN3
+B6V9-2GNA-3UVKA
+E9FZ-A3QA-YCERP
+
+Make Game Save Valid [Ralf]
+7J48-H0CZ-N64D2
+T75J-BHB5-R0HQ5
+6R1P-QFG4-X8TDN
+6A7Y-YVBA-WM87Z
+YVD3-7Q1Z-KJH6T
+WDPC-6QNK-0FNWN
+2678-4V3H-ADMVT
+
+How to use these codes:
+
+1. Save your game with the 'Make Game Save Copyable' code turned on and your source memory card
+   in port A:
+
+   To save your System file, go into the options menu from start screen and go back.
+   To save your Character and Guildcard file, go ingame and quit.
+
+2. Copy your System, Character and Guildcard file from your source memory card to your destination
+   memory card (via GameCube system menu).
+
+3. Start PSO with your destination memory card in port A and save your System file with the 'Make
+   Game Save Valid' code turned on. Your game save is valid now and works fine without AR codes.
+
+4. Please note that you cannot mix different game saves, because all Character and Guildcard files
+   are encrypted with a unique timestamp (stored in the System file).
+

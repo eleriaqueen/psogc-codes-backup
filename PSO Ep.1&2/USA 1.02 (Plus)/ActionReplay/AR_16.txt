@@ -1,0 +1,289 @@
+Background Music Modifier Codes
+
+
+RAGOL - EPISODE II
+
+VR Temple Alpha & Beta [Ralf]
+8C140020 2C030000
+04140DC0 60000000
+04140DC4 3C60xxxx
+04140DC8 6063yyyy
+00000000 40000000
+
+Default: 8043F260 (r_b.adx)
+
+VR Temple Final [Ralf]
+4C140020 2C030000
+04299C08 3C60xxxx
+04299C0C 6063yyyy
+
+Default: 804651B0 (delo2.adx)
+
+VR Spaceship Alpha & Beta [Ralf]
+8C140020 2C030000
+04140CE4 60000000
+04140CE8 3C60xxxx
+04140CEC 6063yyyy
+00000000 40000000
+
+Default: 8043F258 (s_b.adx)
+
+VR Spaceship Final [Ralf]
+4C140020 2C030000
+04299B70 3C60xxxx
+04299B74 6063yyyy
+
+Default: 804651A0 (dragon2.adx)
+
+Central Control Area, Jungle Area, Mountain Area & Seaside Area [Ralf]
+8C140020 2C030000
+04299CE4 60000000
+04299CE8 3C60xxxx
+04299CEC 6063yyyy
+00000000 40000000
+
+Default: 804651C0 (j_b.adx)
+
+Cliffs of Gal Da Val [Ralf]
+4C140020 2C030000
+041405CC 3C60xxxx
+041405D0 6063yyyy
+
+Default: 8043F1D8 (gryphon.adx)
+
+Seabed Upper & Lower Levels [Ralf]
+8C140020 2C030000
+04299DCC 60000000
+04299DD0 3C60xxxx
+04299DD4 6063yyyy
+00000000 40000000
+
+Default: 804651C8 (w_b.adx)
+
+Test Subject Disposal Area (Elevator - Olga Flow Battle) [Ralf]
+4C140020 2C030000
+042B0938 3C80xxxx
+042B0948 6083yyyy
+
+Default: 804709B4 (proto1.adx)
+
+Test Subject Disposal Area (Hall - Before Olga Flow Battle) [Ralf]
+4C140020 2C030000
+042B0698 3C60xxxx
+042B069C 6063yyyy
+
+Default: 804705E8 (HALL.adx)
+
+Test Subject Disposal Area (Hall - Olga Flow Battle) [Ralf]
+4C140020 2C030000
+042B054C 3C60xxxx
+042B0550 6063yyyy
+
+Default: 80470990 (proto2.adx)
+
+Test Subject Disposal Area (Hall - After Olga Flow Battle) [Ralf]
+4C140020 2C030000
+042AC968 3C60xxxx
+042AC96C 6063yyyy
+
+Default: 804705E8 (HALL.adx)
+
+xxxxyyyy = Song ID
+
+
+SCREENS
+
+Title Screen [Ralf]
+4C140020 2C030000
+04336610 3C60xxxx
+04336614 6063yyyy
+
+Default: 80477824 (title.adx)
+
+Character/Mode Selection & Options [Ralf]
+4C140020 2C030000
+0423ED64 3C60xxxx
+0423ED68 6063yyyy
+
+Default: 8044DD18 (advr.adx)
+
+Character Creation [Ralf]
+4C140020 2C030000
+0428EB4C 3C60xxxx
+0428EB50 6063yyyy
+
+Default: 80451290 (CHARA.adx)
+
+Prologue (Episode 1) [Ralf]
+4C140020 2C030000
+04143E6C 3C60xxxx
+04143E70 6063yyyy
+
+Default: 8043F330 (OPENING.adx)
+
+Prologue (Episode 2) [Ralf]
+4C140020 2C030000
+04143E5C 3C60xxxx
+04143E60 6063yyyy
+
+Default: 8043F31C (CUBE_OPENING.adx)
+
+Epilogue (Episode 1 - Online) [Ralf]
+4C140020 2C030000
+042E51D8 3C60xxxx
+042E51DC 6063yyyy
+
+Default: 80472BC0 (ENDING_LOOP.adx)
+
+Epilogue (Episode 1 - Offline) [Ralf]
+4C140020 2C030000
+0408C6B0 3C60xxxx
+0408C6B4 6063yyyy
+
+Default: 80439588 (ending.adx)
+
+Epilogue (Episode 2 - Online) [Ralf]
+4C140020 2C030000
+042E51E8 3C60xxxx
+042E51EC 6063yyyy
+
+Default: 80472BD0 (CUBE_ENDING_LOOP.adx)
+
+Epilogue (Episode 2 - Offline) [Ralf]
+4C140020 2C030000
+04143E34 3C60xxxx
+04143E38 6063yyyy
+
+Default: 8043F30C (CUBE_ENDING.adx)
+
+xxxxyyyy = Song ID
+
+
+EVENTS
+
+Christmas [Ralf]
+4C140020 2C030000
+0417E254 3C60xxxx
+0417E258 6063yyyy
+
+Default: 804438A0 (Jinglebell.adx)
+
+New Year [Ralf]
+4C140020 2C030000
+0417E264 3C60xxxx
+0417E268 6063yyyy
+
+Default: 804438B0 (Zarathustra.adx)
+
+Valentine's Day [Ralf]
+4C140020 2C030000
+0417E274 3C60xxxx
+0417E278 6063yyyy
+
+Default: 804438C0 (Valentine.adx)
+
+Easter [Ralf]
+4C140020 2C030000
+0417E284 3C60xxxx
+0417E288 6063yyyy
+
+Default: 804438D0 (Easter.adx)
+
+Halloween [Ralf]
+4C140020 2C030000
+0417E294 3C60xxxx
+0417E298 6063yyyy
+
+Default: 804438DC (HALLOWEEN.adx)
+
+xxxxyyyy = Song ID
+
+
+Song IDs
+
+8044DD18 - advr.adx
+80449910 - carnaval.adx
+8043F1E8 - cave_b.adx
+8047A9DC - cave_n.adx
+80451290 - CHARA.adx
+80449944 - chu_f.adx
+80443678 - city.adx
+8043F30C - CUBE_ENDING.adx
+80472BD0 - CUBE_ENDING_LOOP.adx
+8043F31C - CUBE_OPENING.adx
+817F4750 - CUBE_OPENING_LALA.adx (*)
+804372A4 - dark1.adx
+80437298 - dark2.adx
+8047AA58 - dark_b1.adx
+8047AA64 - dark_b2.adx
+8043F1C8 - delo.adx
+804651B0 - delo2.adx
+8043F1B8 - dragon.adx
+804651A0 - dragon2.adx
+804498F8 - dreams.adx
+80478D14 - DreamS_KIDS.adx
+80475BAC - duel1.adx
+80475BB8 - duel2.adx
+804438D0 - Easter.adx
+80478D24 - ED_PIANO.adx
+80439588 - ending.adx
+817F498E - ENDING_LALA.adx (*)
+80472BC0 - ENDING_LOOP.adx
+8047AABC - epi1.adx
+8047AAC8 - epi2.adx
+80449970 - ESCAPE.adx
+80478CE4 - Event.adx
+8043F218 - forest_b.adx
+8047A9B0 - forest_n.adx
+8043F1D8 - gryphon.adx
+80443654 - GUILD.adx
+804705E8 - HALL.adx
+804438DC - HALLOWEEN.adx
+80478CF0 - hearts.adx
+804438A0 - Jinglebell.adx
+817F6128 - jungle.adx (*)
+804651C0 - j_b.adx
+8047AB38 - J_N.adx
+80443684 - labo.adx
+80478D08 - LIVE.adx
+8044388C - LOBBY.adx
+8043F238 - machin_b.adx
+8047AA00 - machin_n.adx
+80449904 - mambo.adx
+804498E0 - matter.adx
+80443660 - MEDICAL.adx
+80449988 - MILES.adx
+80449938 - nomal.adx
+80478CFC - open.adx
+8043F330 - OPENING.adx
+817F7B11 - OPENING_LALA.adx (*)
+804709B4 - proto1.adx
+80470990 - proto2.adx
+8043F260 - r_b.adx
+8047AB00 - R_N.adx
+8043F188 - ship_b.adx
+8047AA40 - ship_n.adx
+80443648 - SHOP.adx
+8044992C - smile.adx
+8044366C - soutoku.adx
+8043F258 - s_b.adx
+8047AB1C - S_N.adx
+804789DC - T1.adx
+804709E0 - T2.adx
+80477824 - title.adx
+804438C0 - Valentine.adx
+80436328 - vol_opt1.adx
+80436318 - vol_opt2.adx
+817FFEB4 - VR1.adx (*)
+817FFEBC - VR1_B.adx (*)
+817FFEC6 - VR1_N.adx (*)
+817FFED0 - VR2_B.adx (*)
+817FFEDA - VR2_N.adx (*)
+817FFEEF - water.adx (*)
+80478CD8 - WEDDING.adx
+804651C8 - w_b.adx
+8047AB54 - W_N.adx
+804438B0 - Zarathustra.adx
+
+(*) Unused Song
+

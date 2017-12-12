@@ -1,0 +1,288 @@
+Foie: Improved Range [Ralf]
+10C6-TEWE-TMJT7
+BY0C-JX3B-1X2E4
+TN1Q-U4D1-72TBT
+
+Foie: Improved TP Cost [Ralf]
+0H34-EDYH-20F6F
+9N0Y-TFPR-C1N3T
+P6TU-2W3B-KVZWT
+
+Foie: Faster Fireball [Ralf]
+EW87-JGDZ-2KRX7
+EJBG-PUK5-AUMUX
+
+Foie: Disable Auto Targetting [Ralf]
+Y5R8-YY77-AZX3V
+2N7T-A6QP-7PPXJ
+YMF3-KCE3-881PA
+
+Gifoie: Improved Range [Ralf]
+8MAC-CYPA-5DW3X
+BTA7-WDZV-2NTY7
+36TD-1C5Y-U8UT2
+
+Gifoie: Improved TP Cost [Ralf]
+RTY7-78A3-VCXRR
+2FXT-AEBX-DJ24K
+WBH5-UNUT-106RU
+
+Gifoie: Faster Flaming Circle [Ralf]
+BR98-YQB2-X03FM
+6AT9-D9AE-4X97T
+
+Rafoie: Improved Range [Ralf]
+YC3F-FV4C-2AYKB
+1F8Q-YEMP-44V8B
+3VHG-UNUV-E786E
+
+Rafoie: Improved TP Cost [Ralf]
+TZ3K-BFDX-XJ296
+M3QC-C0UC-Y65C2
+7NCH-JN74-JCAT9
+
+Rafoie: Improved Charge Time [Ralf]
+798T-Y0X7-0BXM8
+YKE8-79F5-1Z6GN
+
+Rafoie: Disable Auto Targetting [Ralf]
+T23F-BU0F-PX5XK
+2N7T-A6QP-7PPXJ
+0DJX-Z1XT-X4CZ3
+
+Barta: Improved Range [Ralf]
+5PWP-BBB7-39UQY
+9XZG-CHAY-ZHC3U
+GWTY-Z34M-QE59H
+
+Barta: Improved TP Cost [Ralf]
+EEFH-74D9-T7NUK
+6Z4P-8W31-Y94M8
+VGDT-ZXCC-GQDZ1
+
+Barta: Faster Ice Beam [Ralf]
+ZZND-ZX8N-0WFHY
+4Y50-5FH3-XNFN2
+
+Barta: Disable Auto Targetting [Ralf]
+MH57-VU2V-AAJ4Q
+W6UD-UZ2E-H8374
+C8D6-TF25-1ZJN2
+FD1D-5KY8-7PPU7
+
+Gibarta: Improved Range [Ralf]
+C7V5-HXDY-Q8J4X
+2G2W-P9H0-6YAMT
+N3WQ-K2MP-2KM8A
+
+Gibarta: Improved TP Cost [Ralf]
+3NNE-EYA8-WH1MD
+15QV-T295-8JFYV
+0MV5-JJX7-0AH1F
+
+Gibarta: Disable Auto Targetting [Ralf]
+8BN5-NV9F-HAM21
+2N7T-A6QP-7PPXJ
+HBTK-YB9U-FDXYQ
+
+Rabarta: Improved Range [Ralf]
+DUU8-Z972-5RC5D
+YA0N-K6G1-0UD9C
+6DB3-KW8U-K9FVB
+
+Rabarta: Improved TP Cost [Ralf]
+QK7G-G7BN-5KCGU
+EJYC-98JK-BWAB3
+KXK9-PCN7-2T976
+
+Rabarta: Improved Charge Time [Ralf]
+H15B-MF1F-6MF9E
+DMT4-J7BB-J3RMV
+
+Zonde: Improved Range [Ralf]
+TG2J-4FRH-RZ748
+RDVH-9Z7M-JM9KX
+XA3J-A51K-BDT7H
+
+Zonde: Improved TP Cost [Ralf]
+3UZK-G71H-UG4FW
+P099-26TC-EUX32
+RBFZ-KUZK-FPY1M
+
+Gizonde: Improved Range [Ralf]
+HX9W-F3W4-2JMRC
+X8B0-JYT5-3PUEM
+WFQX-Q7QU-K3AKK
+
+Gizonde: Improved TP Cost [Ralf]
+5FBX-JDRX-WFBFC
+88VU-3FF8-52BJF
+98WU-8FQJ-WXBWB
+
+Razonde: Improved Range [Ralf]
+1BB5-HJ4B-NHBGA
+828Q-WMEM-X1X1G
+C914-8E8M-8PMGH
+
+Razonde: Improved TP Cost [Ralf]
+3UHA-Y8E0-R78F8
+FB86-PWWD-G9Y45
+1RBF-K813-1VYH5
+
+Razonde: Improved Charge Time [Ralf]
+A8RW-DD8P-K1T4F
+X0DQ-9RPP-4YRXX
+
+Grants: Improved Range [Ralf]
+GRDQ-XWEV-VX384
+5MKH-PF6Q-W6ZEE
+W26U-5QYF-9X3WC
+
+Grants: Improved TP Cost [Ralf]
+BJ42-UF12-VC6AX
+DHAR-YX6F-GYUYT
+1UXT-7X41-HWV5W
+
+Grants: Improved Charge Time [Ralf]
+NKEB-D2N4-RHGZJ
+ZE2W-6QV2-Y3WHV
+
+Megid: Improved Range [Ralf]
+CGY2-BR73-MY1TA
+T22U-FDUH-2VDZW
+RPWF-YJBH-W452Q
+
+Megid: Improved TP Cost [Ralf]
+2EWV-UYDQ-VKVMQ
+7338-31WR-VH20T
+FZHU-NH6E-KYYX8
+
+Megid: Faster Shadow Ball [Ralf]
+NEN6-FZ4Z-3U676
+N983-929H-T2FHD
+
+Megid: Improved Charge Time [Ralf]
+2P4D-F1TB-C8FH5
+439T-1PK0-W7C3P
+
+Megid: Disable Auto Targetting [Ralf]
+MBFN-8MP0-NX6XU
+2N7T-A6QP-7PPXJ
+QUAB-TVAB-YKVXN
+
+Shifta: Improved Power [Ralf]
+NY25-06Y1-1ZR9B
+8K2V-N256-P9XKU
+
+Shifta: Improved Range [Ralf]
+AHK6-Q1XZ-18GCJ
+GHMD-XARU-MZ93Q
+
+Shifta: Improved TP Cost [Ralf]
+YVQY-5CVE-7409Z
+U3VB-NMWX-ZQ2NB
+89BU-WCTD-4Z95R
+
+Deband: Improved Power [Ralf]
+DMU7-ZC7Z-R0NJG
+7CHZ-5DX4-WY7VH
+
+Deband: Improved Range [Ralf]
+J6CB-YTBM-26CNG
+8P4F-C3Y4-JT5FE
+
+Deband: Improved TP Cost [Ralf]
+5T1Z-HNW1-XBZUB
+A19M-B3MJ-DJ6YK
+MEJ0-UH23-ERCFQ
+
+Jellen: Improved Power [Ralf]
+0P5J-EWU7-T0FA5
+0R7F-CWF8-Y96WR
+
+Jellen: Improved Range [Ralf]
+M8M1-782N-Z7B9N
+WMRP-JEDG-VUCHF
+22MQ-4EWW-9JMQY
+
+Jellen: Improved TP Cost [Ralf]
+Y6NK-D0U6-3K7H5
+BN9K-WAXE-M7RET
+69ZD-R5QZ-M80HY
+
+Zalure: Improved Power [Ralf]
+04J0-YQMZ-E9BGE
+VVHY-U00Y-J2YRC
+
+Zalure: Improved Range [Ralf]
+XGQR-393F-9Z0DT
+UXJT-X99M-N4RUB
+P26J-MT0Q-VF5GM
+
+Zalure: Improved TP Cost [Ralf]
+0A76-2TR9-0H5ZH
+T9UD-KME2-T1BCT
+Y2TE-U8Z6-TX4CJ
+
+Resta: Improved Power [Ralf]
+UDKG-83EZ-Q3BDU
+65T5-BG2J-ZNQQQ
+GHY2-PU0T-AY8BZ
+
+Resta: Improved Range [Ralf]
+CN81-BBKY-3A5QV
+E7VB-R97F-8235Y
+
+Resta: Improved TP Cost [Ralf]
+P3HW-ZHXH-4A1VN
+GWU9-MYPU-7JGJT
+4JAV-RF3Y-U0YN1
+
+Reverser: Improved Range [Ralf]
+7V07-D2DW-1ZMGU
+F6ZK-WWPT-ERNKD
+
+Reverser: Improved TP Cost [Ralf]
+E9GR-5U85-MEJYU
+2YQ7-UETJ-CD5X6
+
+Reverser: Improved Charge Time [Ralf]
+8CB4-MEVV-AH3FY
+QW8N-TDBC-T6JVK
+
+Ryuker: Improved TP Cost [Ralf]
+5W3E-8PC6-JENB8
+RX9M-86HE-N3NYJ
+
+Ryuker: Improved Charge Time [Ralf]
+4KD7-58WE-4YTQB
+DXHT-AUYG-ZT3GU
+
+Anti: Improved Range [Ralf]
+U93G-8P7V-4KRRE
+T7J6-CN0K-MA77F
+
+Anti: Improved TP Cost [Ralf]
+1NVT-88D4-HUVWB
+1TH8-B6UG-UEXNT
+
+Improved Charge Time (All Techs) [Ralf]
+3BQ8-MPZ3-ZM7V9
+V4NX-EQM1-V2YA2
+ZGF6-4U46-KRQU1
+
+Improved PB Amplifier/Generate/Create [Ralf]
+A5BD-0EE9-NBA42
+JEUV-3RG6-F29XQ
+09P4-E5G3-V66RV
+
+Improved HP Restorate/Generate/Revival [Ralf]
+H3EY-XT5Y-9XGQ7
+2W8R-DECV-NRNDF
+D3XY-X46H-RQ9MQ
+
+Improved TP Restorate/Generate/Revival [Ralf]
+3QBF-Q5F5-3TVRF
+F312-7BWN-MCT57
+R3NW-RBQK-FN0AT
+
