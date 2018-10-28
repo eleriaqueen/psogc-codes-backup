@@ -1,0 +1,333 @@
+
+Minibosses, Rangers & Olga Flow: Weapon Attributes Patch [Aleron Ives & Ralf]
+C88Z-2C3W-88C91
+C4YG-HWRM-MGPG3
+8DWF-9T8A-3PADG
+D5CN-7D83-47BAX
+T4AY-62FP-8NQN8
+F7B6-R3QT-CQTN2
+1MR5-FPCH-NZ54G
+CK9X-14Z7-FCN8U
+E9FZ-A3QA-YCERP
+
+Minibosses: No Confusion Immunity [Aleron Ives & Ralf]
+U63X-UVEB-PRXVK
+H774-RPQF-W01UU
+BFEQ-EN2K-KVUK7
+
+Mothmant: Enable Poison Attack [Ralf]
+7J61-AN9T-637W6
+0PPT-R0BA-YJMJM
+P9Y9-VGJ7-YTZ4X
+
+Mothvert: Disable Poison Attack [Ralf]
+97XK-R6K8-ZTVQJ
+0PPT-R0BA-YJMJM
+WHX3-CBDM-KY50H
+
+Mothvert: Improved Poison Chance [Ralf]
+WJ4Z-XKVG-EMX2Z
+0PPT-R0BA-YJMJM
+E3GG-TEMK-WJGVQ
+
+Mothvert: Replace Poison Attack With Confusion Attack [Ralf]
+KB9F-0XP3-GFMPW
+0PPT-R0BA-YJMJM
+1WJ7-C1PN-0EBH0
+
+Mothvert: Replace Poison Attack With Paralysis Attack [Ralf]
+AT7N-8WGE-UVT62
+0PPT-R0BA-YJMJM
+G2EP-KZC9-F0C14
+
+Mothvert: Replace Poison Attack With Slow Attack [Ralf]
+63CG-DC3Q-0NGKD
+0PPT-R0BA-YJMJM
+6ZKF-U27A-F90ZY
+
+Nano Dragon: Grow/Attack Bug Fix [Ralf]
+MEJ1-XWHR-P03M3
+YXG1-KKRH-EXBQV
+AWQC-BT4D-WP9NH
+G75X-E1ZQ-TR74A
+KNH6-34VD-0JZHK
+CWY5-K05W-TFKZ5
+UHTJ-FAFR-G1AAM
+6G77-KAMU-HR4YA
+RMW0-MABE-9ERR5
+9UHA-8AA9-R9Z4F
+4F7A-7XC2-8JPET
+E9FZ-A3QA-YCERP
+
+Nano Dragon: Never Grow [Ralf]
+DM56-3B7Z-YJHGG
+6DYJ-NT0T-X9HEN
+50N4-CEYH-FGA2D
+
+Nano Dragon: Grow Faster [Ralf]
+3XQN-9AD3-GZ5R0
+6DYJ-NT0T-X9HEN
+TK2R-F617-BUHDC
+
+Nano Dragon: Improved Growing Limit [Ralf]
+6CYF-A51G-WQJWC
+6DYJ-NT0T-X9HEN
+F55A-WVKN-NHGEH
+
+Ob/Mil Lily: Cast Always Poison [Ralf]
+85TC-2BD4-7E93X
+DV8F-TGQ7-P87AV
+6ZAX-B56U-54XNK
+
+Ob/Mil Lily: Cast Always Megid & Poison [Ralf]
+YJR2-4NBQ-H0P0D
+DV8F-TGQ7-P87AV
+003J-VVV8-Z36G2
+
+Ob/Mil Lily: Can Cast Megid Or Poison [Ralf]
+M636-QW2T-N9YK2
+UJ3P-7R59-EHAWT
+3GH3-77YH-CE1VT
+HFTE-VBMK-Z21RN
+V7ZP-8FJQ-RE177
+MB8T-WB9Y-G7NG8
+X9V5-PZ14-48HJH
+GWR4-AQD5-WDEDX
+H2NF-RKG2-Q2QCY
+DJXG-AF0H-TDHX6
+UVAC-CDUR-KGCWA
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Always Split Into Two Slimes [Ralf]
+A8CG-GJU5-K0MWR
+VG1R-AAZR-7XE8J
+5BYP-4365-CHA49
+9JNT-YAZU-J31EQ
+
+Pofuilly/Pouilly Slime: Never Split Into Two Slimes [Ralf]
+HZGM-DXHW-AYGXZ
+VG1R-AAZR-7XE8J
+FAYK-MHF1-6NRK5
+9JNT-YAZU-J31EQ
+
+Pofuilly/Pouilly Slime: 25% Split Chance [Ralf]
+32QJ-DMTC-4F62Z
+TG1J-Z49F-YZNR7
+QDWB-PXP6-JHJ9U
+5T20-1BKY-JKRYM
+TB1Y-GZ4X-8J076
+W8F3-39E1-FUWH3
+MAEW-QT43-ZZD1R
+9JNT-YAZU-J31EQ
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: 50% Split Chance [Ralf]
+7ZAA-66PE-8W9R0
+TG1J-Z49F-YZNR7
+QDWB-PXP6-JHJ9U
+5T20-1BKY-JKRYM
+M8QP-FC0Y-TR51M
+W8F3-39E1-FUWH3
+MAEW-QT43-ZZD1R
+9JNT-YAZU-J31EQ
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Split Combo Bug Fix [Ralf]
+A0Y9-X955-T3NBB
+TG1J-Z49F-YZNR7
+E4V3-F6GB-2U396
+73W1-R45P-QFE8U
+UT6U-Z9EU-YUHY4
+HJ99-QAPA-FYTM9
+JFHD-D71D-TTFJB
+XTMG-MDQZ-B550D
+C12V-1W78-82YYM
+24W3-3CWM-HYG37
+0W01-J861-QXBWX
+WUUP-HHPJ-6R1N8
+4G50-7BTX-QM0ZC
+ZV2C-PP44-UG0FX
+4ECR-3N16-2CRUH
+0ZF3-070X-XKA0B
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Allow Tech Boosts [Ralf]
+9Q8Z-4DRF-ZT35J
+Y8AC-3R1H-K1690
+MRAN-FCAA-C6QG3
+FM94-CNBE-PKJWN
+6BBF-DBUN-RAM56
+9HX3-XT2Y-3CKUH
+7M21-MDU1-CFEVN
+E9FZ-A3QA-YCERP
+
+Poison/Nar Lily: Cast Always Megid [Ralf]
+H1YY-MZ55-M8CZV
+DV8F-TGQ7-P87AV
+WE2Z-2FW4-C3JP0
+
+Poison/Nar Lily: Poison Attack Modifier [Ralf]
+0443AF30 000000xx
+
+xx = Attack ID (Default: 0F = Poison)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Poison/Nar Lily: Replace Poison Attack With Freeze Attack [Ralf]
+APBZ-W4RW-Q55YH
+F7H7-5Q4Y-PXC0F
+
+Poison/Nar/Ob/Mil Lily: Disable Suicide Attack [Ralf]
+PNQD-FAJM-MM7AV
+DV8F-TGQ7-P87AV
+6J0F-YWNP-0K5DT
+
+Poison/Nar/Ob/Mil Lily: Disable Paralysis Attack [Ralf]
+37K3-NAYR-EN8K1
+DV8F-TGQ7-P87AV
+4N79-MWCF-F6U8A
+
+Poison/Nar/Ob/Mil Lily: Improved Paralysis Chance [Ralf]
+RDT5-1ERZ-BTDKD
+DV8F-TGQ7-P87AV
+UCBV-XNDK-N6V9M
+
+Poison/Nar/Ob/Mil Lily: Cast Always Megid & Poison [Ralf]
+77R9-54K6-V5MVA
+041H-FABX-RX5RN
+WE2Z-2FW4-C3JP0
+003J-VVV8-Z36G2
+
+Poison/Nar/Ob/Mil Lily: Can Cast Megid Or Poison [Ralf]
+UJVH-9YJU-DFAN0
+UJ3P-7R59-EHAWT
+3GH3-77YH-CE1VT
+HFTE-VBMK-Z21RN
+V7ZP-8FJQ-RE177
+MB8T-WB9Y-G7NG8
+X9V5-PZ14-48HJH
+GWR4-AQD5-WDEDX
+H2NF-RKG2-Q2QCY
+DJXG-AF0H-TDHX6
+WE2Z-2FW4-C3JP0
+UVAC-CDUR-KGCWA
+E9FZ-A3QA-YCERP
+
+Poison/Nar/Ob/Mil Lily: Paralysis Attack Modifier [Ralf]
+0443AD80 000000xx
+0443AD88 000000yy
+
+xx = Attack 1 ID (Regular Attack, Default: 10 = Paralysis)
+yy = Attack 2 ID (Suicide Attack, Default: 10 = Paralysis)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Poison/Nar/Ob/Mil Lily: Replace Paralysis Attack With Jellen/Zalure [Ralf]
+GFRN-F3UR-FV00P
+5YNQ-NMNB-YKQCN
+8PCX-RTWH-VRHC9
+
+Savage/Barbarous Wolf: Enable Slow/Paralysis Attack [Ralf]
+KEG8-TFK7-6EZ01
+326X-J44Y-VQ90Z
+6KTW-MGA6-YTF92
+
+Savage Wolf/Gulgus: Replace Jellen/Zalure With Shifta/Deband [Ralf]
+FT42-YF1W-27AQU
+3U37-GXZ7-THPEV
+UD6A-3GY6-6M4K4
+P0AP-6U5D-JZQTQ
+WC8C-UW35-2M12E
+7W8Y-B7JM-71142
+E9FZ-A3QA-YCERP
+
+Sinow Beat/Blue/Gold/Red: Disable Confusion Attack [Ralf]
+QTN7-JBX6-UG3BP
+X9N5-4RGM-35EZU
+7YVR-DKCT-ZMQYZ
+
+Sinow Beat/Blue/Gold/Red: Improved Confusion Chance [Ralf]
+J0N0-GA3W-5X3EM
+X9N5-4RGM-35EZU
+3FD6-TX54-PZTQC
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Paralysis Attack [Ralf]
+FWYD-506A-WP6ET
+X9N5-4RGM-35EZU
+K4JZ-CEGT-UZ4ZJ
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Poison Attack [Ralf]
+UD94-EUVW-BT71M
+X9N5-4RGM-35EZU
+KUUF-9AAP-BYTKP
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Slow Attack [Ralf]
+ZDWW-3VEA-A9F54
+X9N5-4RGM-35EZU
+YVWJ-PM69-Y3TPM
+
+Sinow Berill: Enable Disarm Attack [Ralf]
+6Y1G-B9EK-EVQZB
+1X92-ZFBM-4HD71
+TEK6-9MEE-Q4AHR
+
+Sinow Berill: Disable Confusion Attack [Ralf]
+KH0X-RQAY-4YUNA
+1X92-ZFBM-4HD71
+2ATT-WY1H-B35GT
+
+Sinow Berill: Improved Confusion Chance [Ralf]
+Q032-YDCC-M8C67
+1X92-ZFBM-4HD71
+BHZ3-KM06-PCNFE
+
+Sinow Berill: Replace Confusion Attack With Paralysis Attack [Ralf]
+KK3U-BGAR-EBWRA
+1X92-ZFBM-4HD71
+1RR8-MHG3-8HR99
+
+Sinow Berill: Replace Confusion Attack With Poison Attack [Ralf]
+TZFA-X1J0-EWWCH
+1X92-ZFBM-4HD71
+BX2Z-5BKW-C9X6X
+
+Sinow Berill: Replace Confusion Attack With Slow Attack [Ralf]
+YHM3-XXQU-GADHB
+1X92-ZFBM-4HD71
+C13P-NZ3W-Q1FTE
+
+Sinow Berill/Spigell: Allow Tech Boosts [Ralf]
+WCPB-C8J0-ZEKRP
+MEWU-GQKA-70FRX
+MRAN-FCAA-C6QG3
+FM94-CNBE-PKJWN
+6BBF-DBUN-RAM56
+U000-WP8U-PX1K6
+HQYB-9EEW-4J8JX
+E9FZ-A3QA-YCERP
+
+Sinow Blue/Red: Allow Flinching [Aleron Ives & Ralf]
+4J77-9F27-PR8HG
+NPR9-3JFC-CYNEM
+CRBB-JNX7-ZVF64
+0GP9-FPRX-662PE
+5QAR-X9CT-JMCYG
+NZ1H-CPKD-BW84J
+392C-GP71-Y9M8H
+64Y8-5C0Z-3JDR5
+E9FZ-A3QA-YCERP
+

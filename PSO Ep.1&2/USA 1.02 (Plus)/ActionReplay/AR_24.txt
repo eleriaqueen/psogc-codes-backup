@@ -1,0 +1,322 @@
+
+Bulclaw: Disable Poison Attack [Ralf]
+NZ6F-8KGJ-0Z54D
+8Y65-Z2CP-GCGHJ
+34HV-67Y5-BR4A9
+
+Bulclaw: Improved Poison Chance [Ralf]
+YHVD-UYXH-CK5ZX
+8Y65-Z2CP-GCGHJ
+Y78K-Z90A-7GE2M
+
+Bulclaw: Poison Attack Modifier [Ralf]
+04439B54 000000xx
+
+xx = Attack ID (Default: 0F = Poison)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Bulclaw: Replace Poison Attack With Paralysis Attack [Ralf]
+VC4U-PTNF-UCHUT
+FH4T-DXGQ-V73F4
+
+Chaos Bringer: Enable Disarm Attack [Ralf]
+FZPN-CJED-5EV33
+JADJ-J057-GHDTW
+N13U-UPXP-KDA1E
+
+Chaos Bringer: Disable Confusion Attack [Ralf]
+61H8-5TVH-XE6MY
+JADJ-J057-GHDTW
+KBXP-WJDP-PUVD1
+
+Chaos Bringer: Improved Confusion Chance [Ralf]
+K323-GQ5K-E6RF1
+JADJ-J057-GHDTW
+5RHB-4P7H-JU05N
+
+Chaos Bringer: Replace Confusion Attack With Paralysis Attack [Ralf]
+9YJE-069J-U342Q
+JADJ-J057-GHDTW
+RBQ8-FN53-0DF41
+
+Chaos Bringer: Replace Confusion Attack With Poison Attack [Ralf]
+KXR4-HEN3-GBZ76
+JADJ-J057-GHDTW
+8MH2-RG3Y-NRZJW
+
+Chaos Bringer: Replace Confusion Attack With Slow Attack [Ralf]
+GJ26-U9NJ-GP27C
+JADJ-J057-GHDTW
+XAMD-16YQ-UFCHK
+
+Crimson Assassin: Disable Freeze Attack [Ralf]
+F2A3-5PZR-510HH
+MPAP-9RZK-MDEZG
+V56R-QYG2-8R1Y3
+
+Dark Belra: Disable Paralysis Attack [Ralf]
+ZQDU-JH1H-Y7N4B
+CQGM-XYHY-UM93M
+4D48-ZRD3-T4K9G
+
+Dark Belra: Improved Paralysis Chance [Ralf]
+51RF-0W2Z-PM8XY
+CQGM-XYHY-UM93M
+8QEY-VFHC-5700D
+
+Dark Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+69GW-YVC5-BPGF7
+CQGM-XYHY-UM93M
+55QJ-3RVC-1PKRG
+
+Dark Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+KV49-C3MY-E736C
+CQGM-XYHY-UM93M
+596P-XHWV-0ANVW
+
+Dark Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+YD55-88R8-XMF6V
+CQGM-XYHY-UM93M
+56V5-51GB-WNGKN
+
+Dark Bringer: Disable Disarm Attack [Ralf]
+6U7A-CYFZ-F1DXZ
+JADJ-J057-GHDTW
+DMDP-32EX-PUA0P
+
+Dark Bringer: Disarm Bug Fix [Ralf]
+UE6Q-6HRC-VY7PR
+1EFJ-BQE1-ARGJJ
+EF8W-J7G1-X1W9F
+7QKX-6PFR-T1ZR0
+YRBT-346D-295RT
+FRQR-FAPP-0AZU5
+7FK4-K4MB-KKYJX
+YPGM-DMCB-WCZW7
+07W8-30PB-8EEN8
+E9FZ-A3QA-YCERP
+
+Delsaber: Disable Shield [Ralf]
+CQCY-CQ3F-NJDYM
+QNYQ-PKYF-3B1BR
+VNDH-DRRX-BFN79
+
+Delsaber: Improved Shield Power [Ralf]
+76A1-KDBJ-GAUDM
+8N2N-2C48-HENZH
+1JA5-VR11-DZYQW
+8GYZ-3XRH-A0KQY
+HJG2-W46N-PTTCQ
+K6DJ-42BV-76W5E
+R96C-G1KQ-2MX2Z
+0W59-CR1Q-XRP5N
+02W1-QPEU-MEW72
+E9FZ-A3QA-YCERP
+
+Delsaber: Improved Shield Range [Ralf]
+5V0Z-0NW8-JVQWG
+CNQU-Y2D5-JBHTY
+
+Dubwitch: Allow Tech Boosts [Ralf]
+V0G9-R287-1DTQB
+W6BV-AD9B-ENFM5
+DWD1-BHPA-TZG9T
+
+Gee: Disable Slow Attack [Ralf]
+U821-C8DX-DCCCD
+WG23-8N83-R9XNK
+227J-MM74-D5VKT
+
+Gee: Improved Slow Chance [Ralf]
+BFU6-2M17-51WXW
+WG23-8N83-R9XNK
+ADPA-HMJY-UKVYH
+
+Gee: Slow Attack Modifier [Ralf]
+0443BE88 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gee: Replace Slow Attack With Confusion Attack [Ralf]
+16BM-G89W-YW9UU
+85HM-Q47M-3577G
+
+Gi Gue: Allow Tech Boosts [Ralf]
+G3YH-WWAR-5UFTP
+WWBF-U589-M7UTF
+C8A3-UB4U-CVFDX
+
+Gillchic/Gillchich/Dubchic/Dubchich: Disable Slow Attack [Ralf]
+7VKX-9WWK-BV89D
+PCP3-YTU2-UDX46
+52EN-GEP9-8DG46
+
+Gillchic/Gillchich/Dubchic/Dubchich: Improved Slow Chance [Ralf]
+K9MP-KG91-35ATJ
+PCP3-YTU2-UDX46
+UWP6-QUAY-6CT34
+
+Gillchich/Dubchich: Improved Fall Down Chance [Aleron Ives & Ralf]
+86YB-EUDH-KZQEF
+PCP3-YTU2-UDX46
+NEE5-K847-B3RKD
+
+Gillchic/Gillchich/Dubchic/Dubchich: Slow Attack Modifier [Ralf]
+0443AC9C 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gillchic/Gillchich/Dubchic/Dubchich: Replace Slow Attack With Shock Attack [Ralf]
+KT6Y-UWYB-4UAYT
+K99R-XB44-7W8KA
+
+Grass Assassin: Enable Freeze Attack [Ralf]
+UBT5-Y1WQ-8N63Z
+MPAP-9RZK-MDEZG
+6PEF-C4YG-P1QFR
+
+Gulgus: Replace Slow Attack With Confusion Attack [Ralf]
+TN19-Y2KH-XTK8M
+3RCJ-510X-WVHJF
+4YVQ-H7W2-DTFQQ
+
+Gulgus: Replace Slow Attack With Paralysis Attack [Ralf]
+386J-NFAE-H3RHT
+3RCJ-510X-WVHJF
+QH7Q-5EC7-ARH3P
+
+Gulgus: Replace Slow Attack With Poison Attack [Ralf]
+94CZ-4RHV-EXKFG
+3RCJ-510X-WVHJF
+H689-JNXD-RW8B9
+
+Gulgus-gue: Replace Paralysis Attack With Confusion Attack [Ralf]
+MQ0C-7HY6-EEN5Y
+3RCJ-510X-WVHJF
+E84G-QRUF-7F2XZ
+
+Gulgus-gue: Replace Paralysis Attack With Poison Attack [Ralf]
+8DRN-PBTB-94X5H
+3RCJ-510X-WVHJF
+RGHU-A8QZ-WRHXZ
+
+Gulgus-gue: Replace Paralysis Attack With Slow Attack [Ralf]
+K7CT-0UDT-82XHC
+3RCJ-510X-WVHJF
+484F-AERZ-0V45Q
+
+Gulgus/Gulgus-gue: Disable Slow/Paralysis Attack [Ralf]
+MAWH-6T98-V5KM3
+3RCJ-510X-WVHJF
+W0Z5-B589-WAFF8
+
+Gulgus/Gulgus-gue: Improved Slow/Paralysis Chance [Ralf]
+2N6W-6EE4-EQ8BB
+3RCJ-510X-WVHJF
+4923-PPZ5-1WNUN
+
+Hildebear/Hildeblue: Target Lock Range Bug Fix [Ralf]
+D6VJ-V0JT-F26ZY
+ZJQE-6XK9-N2FVP
+PR07-ENH0-40G3F
+YT77-NM36-UVU28
+ABV5-W6H1-09G12
+E9FZ-A3QA-YCERP
+
+Hidelt: Weak Thunder Attack [Ralf]
+F0B5-PUJP-3B2WZ
+GH1A-6GE8-691X0
+GCA5-9RPW-V9J3T
+XN1H-44EQ-GVEAT
+
+Indi Belra: Disable Confusion Attack [Ralf]
+8VBU-V1P5-DCP3T
+CQGM-XYHY-UM93M
+3DVU-0269-HJ71N
+
+Indi Belra: Improved Confusion Chance [Ralf]
+7Z5R-2UJE-XJY83
+CQGM-XYHY-UM93M
+KNC2-ACAU-K765Q
+
+Indi Belra: Disable Paralysis Attack [Ralf]
+WH6Z-MY3R-WPPEX
+CQGM-XYHY-UM93M
+6BCJ-GKKX-Y48YX
+
+Indi Belra: Improved Paralysis Chance [Ralf]
+PFD8-8BDV-JQ2XB
+CQGM-XYHY-UM93M
+C93W-ETY6-2ZV9Z
+
+Indi Belra: Replace Confusion Attack With Paralysis Attack [Ralf]
+TK6F-0KUN-9A8N1
+CQGM-XYHY-UM93M
+9TWX-JC0X-14Z2C
+
+Indi Belra: Replace Confusion Attack With Poison Attack [Ralf]
+UQEG-1QQ8-0Q7FF
+CQGM-XYHY-UM93M
+3AT9-Z450-1D3DJ
+
+Indi Belra: Replace Confusion Attack With Slow Attack [Ralf]
+BAWD-CGME-1Z3XB
+CQGM-XYHY-UM93M
+6YG8-JU83-0F2BQ
+
+Indi Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+BBBA-G97A-MADY0
+CQGM-XYHY-UM93M
+HV8K-741B-RCM3C
+
+Indi Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+AZ5G-XJ33-H0JVF
+CQGM-XYHY-UM93M
+1EMJ-9TRF-V6C1F
+
+Indi Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+8ZXX-1RXY-PWMYB
+CQGM-XYHY-UM93M
+3PY1-4PGJ-BAABU
+
+Meriltas: Replace Poison Attack With Confusion Attack [Ralf]
+P7AH-G95F-2UCPM
+PU6U-3NGB-5C6UD
+M3Y6-046Z-NKF0H
+
+Meriltas: Replace Poison Attack With Paralysis Attack [Ralf]
+6X0K-8X2M-8U2RX
+PU6U-3NGB-5C6UD
+0EEA-NPG4-CJ2XZ
+
+Meriltas: Replace Poison Attack With Slow Attack [Ralf]
+T8Y4-4RK7-ZNUBR
+PU6U-3NGB-5C6UD
+XRQD-D3M8-YJ46M
+

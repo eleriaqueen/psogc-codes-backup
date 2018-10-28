@@ -1,0 +1,337 @@
+
+NPC Model Modifier Codes
+
+
+Episode 1
+
+Female Base [Ralf]
+0449331C 80xxxxxx - Default: 149C20
+
+Female Child [Ralf]
+0449332C 80xxxxxx - Default: 149DF8
+
+Female Dwarf [Ralf]
+0449333C 80xxxxxx - Default: 149FD0
+
+Female Fat [Ralf]
+0449334C 80xxxxxx - Default: 14A1A8
+
+Female Macho [Ralf]
+0449335C 80xxxxxx - Default: 14A380
+
+Female Old [Ralf]
+0449336C 80xxxxxx - Default: 14A558
+
+Female Tall [Ralf]
+0449337C 80xxxxxx - Default: 14A730
+
+Male Base [Ralf]
+0449338C 80xxxxxx - Default: 14B7E4
+
+Male Child [Ralf]
+0449339C 80xxxxxx - Default: 14B9BC
+
+Male Dwarf [Ralf]
+044933AC 80xxxxxx - Default: 14BB94
+
+Male Fat [Ralf]
+044933BC 80xxxxxx - Default: 14BD6C
+
+Male Macho [Ralf]
+044933CC 80xxxxxx - Default: 14BF44
+
+Male Old [Ralf]
+044933DC 80xxxxxx - Default: 14C11C
+
+Male Tall [Ralf]
+044933EC 80xxxxxx - Default: 14C2F4
+
+Tekker [Ralf]
+044933FC 80xxxxxx - Default: 149758
+
+Soldier Base [Ralf]
+0449340C 80xxxxxx - Default: 14D60C
+
+Soldier Macho [Ralf]
+0449341C 80xxxxxx - Default: 14D7E4
+
+Principal Tyrell [Ralf]
+0449342C 80xxxxxx - Default: 14AA04
+
+Guild Base [Ralf]
+0449343C 80xxxxxx - Default: 149578
+
+Scientist [Ralf]
+0449344C 80xxxxxx - Default: 14994C
+
+Nurse [Ralf]
+0449345C 80xxxxxx - Default: 14D25C
+
+Secretary Irene [Ralf]
+0449346C 80xxxxxx - Default: 14D434
+
+HUmar Ash [Ralf]
+0449347C 80xxxxxx - Default: 14AF84
+
+HUneweral Sue [Ralf]
+0449348C 80xxxxxx - Default: 14CEB4
+
+RAmar Bernie [Ralf]
+0449349C 80xxxxxx - Default: 14B158
+
+RAcast Gilliam [Ralf]
+044934AC 80xxxxxx - Default: 147BBC
+
+RAcaseal Elenor [Ralf]
+044934BC 80xxxxxx - Default: 147DC8
+
+FOmarl Alicia [Ralf]
+044934CC 80xxxxxx - Default: 14ABDC
+
+FOnewm Montague [Ralf]
+044934DC 80xxxxxx - Default: 14C764
+
+FOnewearl Rupika [Ralf]
+044934EC 80xxxxxx - Default: 14CB0C
+
+HUneweral Blue [Ralf]
+044934FC 80xxxxxx - Default: 14D088
+
+HUcast Red [Ralf]
+0449350C 80xxxxxx - Default: 1479A8
+
+RAmar Dacci [Ralf]
+0449351C 80xxxxxx - Default: 14B32C
+
+FOmarl Technician [Ralf]
+0449352C 80xxxxxx - Default: 14ADB0
+
+FOnewm Yellow [Ralf]
+0449353C 80xxxxxx - Default: 14C938
+
+FOnewearl White [Ralf]
+0449354C 80xxxxxx - Default: 14CCE0
+
+Research Male Base [Ralf]
+0449355C 80xxxxxx - Default: 287E74
+
+Natasha Milarose [Ralf]
+0449356C 80xxxxxx - Default: 28804C
+
+Global NPC Modifier [Ralf]
+00000000 8449331C
+80xxxxxx 00260004
+
+xxxxxx = Episode 1 NPC Model ID
+
+
+Episode 1 NPC Model IDs
+
+1479A8 - HUcast Red
+147BBC - RAcast Gilliam
+147DC8 - RAcaseal Elenor
+149578 - Guild Base
+149758 - Tekker
+14994C - Scientist
+149C20 - Female Base
+149DF8 - Female Child
+149FD0 - Female Dwarf
+14A1A8 - Female Fat
+
+14A380 - Female Macho
+14A558 - Female Old
+14A730 - Female Tall
+14AA04 - Principal Tyrell
+14ABDC - FOmarl Alicia
+14ADB0 - FOmarl Technician
+14AF84 - HUmar Ash
+14B158 - RAmar Bernie
+14B32C - RAmar Dacci
+14B7E4 - Male Base
+
+14B9BC - Male Child
+14BB94 - Male Dwarf
+14BD6C - Male Fat
+14BF44 - Male Macho
+14C11C - Male Old
+14C2F4 - Male Tall
+14C764 - FOnewm Montague
+14C938 - FOnewm Yellow
+14CB0C - FOnewearl Rupika
+14CCE0 - FOnewearl White
+
+14CEB4 - HUneweral Sue
+14D088 - HUneweral Blue
+14D25C - Nurse
+14D434 - Secretary Irene
+14D60C - Soldier Base
+14D7E4 - Soldier Macho
+287E74 - Research Male Base
+28804C - Natasha Milarose
+
+
+Episode 2
+
+Female Dwarf [Ralf]
+04493D2C 80xxxxxx - Default: 149FD0
+
+Female Old [Ralf]
+04493D3C 80xxxxxx - Default: 14A558
+
+Male Child [Ralf]
+04493D4C 80xxxxxx - Default: 14B9BC
+
+Male Fat [Ralf]
+04493D5C 80xxxxxx - Default: 14BD6C
+
+Male Old [Ralf]
+04493D6C 80xxxxxx - Default: 14C11C
+
+Male Tall [Ralf]
+04493D7C 80xxxxxx - Default: 14C2F4
+
+Tekker [Ralf]
+04493D8C 80xxxxxx - Default: 149758
+
+Soldier Base [Ralf]
+04493D9C 80xxxxxx - Default: 14D60C
+
+Principal Tyrell [Ralf]
+04493DAC 80xxxxxx - Default: 14AA04
+
+Guild Base [Ralf]
+04493DBC 80xxxxxx - Default: 149578
+
+Nurse [Ralf]
+04493DCC 80xxxxxx - Default: 14D25C
+
+Secretary Irene [Ralf]
+04493DDC 80xxxxxx - Default: 14D434
+
+FOmar Calus [Ralf]
+04493DEC 80xxxxxx - Default: 3575A4
+
+RAmarl Karen [Ralf]
+04493DFC 80xxxxxx - Default: 35751C
+
+RAcast Gilliam [Ralf]
+04493E0C 80xxxxxx - Default: 147BBC
+
+RAcaseal Elenor [Ralf]
+04493E1C 80xxxxxx - Default: 147DC8
+
+FOmarl Alicia [Ralf]
+04493E2C 80xxxxxx - Default: 14ABDC
+
+FOnewm Montague [Ralf]
+04493E3C 80xxxxxx - Default: 14C764
+
+Leo Graheart [Ralf]
+04493E4C 80xxxxxx - Default: 357494
+
+Paganini [Ralf]
+04493E5C 80xxxxxx - Default: 35740C
+
+Delta [Ralf]
+04493E6C 80xxxxxx - Default: 357384
+
+FOnewm Yellow [Ralf]
+04493E7C 80xxxxxx - Default: 14C938
+
+Nol Rinale [Ralf]
+04493E8C 80xxxxxx - Default: 3572FC
+
+Research Male Base [Ralf]
+04493E9C 80xxxxxx - Default: 287E74
+
+Natasha Milarose [Ralf]
+04493EAC 80xxxxxx - Default: 28804C
+
+Assistant Base [Ralf]
+04493EBC 80xxxxxx - Default: 2A2438
+
+Research Female Base [Ralf]
+04493ECC 80xxxxxx - Default: 2A2610
+
+Assistant Macho [Ralf]
+04493EEC 80xxxxxx - Default: 2FD1DC
+
+Research Male Macho [Ralf]
+04493EFC 80xxxxxx - Default: 2FD004
+
+Elly Person [Ralf]
+04493F0C 80xxxxxx - Default: 357274
+
+Female Child [Ralf]
+04493F1C 80xxxxxx - Default: 3571EC
+
+Female Base [Ralf]
+04493F2C 80xxxxxx - Default: 357164
+
+Male Base [Ralf]
+04493F3C 80xxxxxx - Default: 3570DC
+
+Officer [Ralf]
+04493F4C 80xxxxxx - Default: 357054
+
+Guild Blue [Ralf]
+04493F5C 80xxxxxx - Default: 356FCC
+
+Guild White [Ralf]
+04493F6C 80xxxxxx - Default: 356F44
+
+Research Female Macho [Ralf]
+04493F7C 80xxxxxx - Default: 356EBC
+
+Global NPC Modifier [Ralf]
+00000000 84493D2C
+80xxxxxx 001B0004
+00000000 84493EEC
+80xxxxxx 000A0004
+
+xxxxxx = Episode 2 NPC Model ID
+
+
+Episode 2 NPC Model IDs
+
+147BBC - RAcast Gilliam
+147DC8 - RAcaseal Elenor
+149578 - Guild Base
+149758 - Tekker
+149FD0 - Female Dwarf
+14A558 - Female Old
+14AA04 - Principal Tyrell
+14ABDC - FOmarl Alicia
+14B9BC - Male Child
+14BD6C - Male Fat
+
+14C11C - Male Old
+14C2F4 - Male Tall
+14C764 - FOnewm Montague
+14C938 - FOnewm Yellow
+14D25C - Nurse
+14D434 - Secretary Irene
+14D60C - Soldier Base
+287E74 - Research Male Base
+28804C - Natasha Milarose
+2A2438 - Assistant Base
+
+2A2610 - Research Female Base
+2FD004 - Research Male Macho
+2FD1DC - Assistant Macho
+356EBC - Research Female Macho
+356F44 - Guild White
+356FCC - Guild Blue
+357054 - Officer
+3570DC - Male Base
+357164 - Female Base
+3571EC - Female Child
+
+357274 - Elly Person
+3572FC - Nol Rinale
+357384 - Delta
+35740C - Paganini
+357494 - Leo Graheart
+35751C - RAmarl Karen
+3575A4 - FOmar Calus
+

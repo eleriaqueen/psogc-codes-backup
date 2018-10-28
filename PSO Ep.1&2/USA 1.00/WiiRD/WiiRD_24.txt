@@ -1,0 +1,311 @@
+
+Bulclaw: Disable Poison Attack [Ralf]
+2008EF58 7FE3FB78
+0408EF6C 48000044
+E2000001 80008000
+
+Bulclaw: Improved Poison Chance [Ralf]
+2008EF58 7FE3FB78
+0408EF60 C002A2D0
+E2000001 80008000
+
+Bulclaw: Poison Attack Modifier [Ralf]
+04435E44 000000xx
+
+xx = Attack ID (Default: 0F = Poison)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Bulclaw: Replace Poison Attack With Paralysis Attack [Ralf]
+04435E44 00000010
+
+Chaos Bringer: Enable Disarm Attack [Ralf]
+20099184 7FA3EB78
+040991A0 60000000
+E2000001 80008000
+
+Chaos Bringer: Disable Confusion Attack [Ralf]
+20099184 7FA3EB78
+040991EC 48000010
+E2000001 80008000
+
+Chaos Bringer: Improved Confusion Chance [Ralf]
+20099184 7FA3EB78
+040991E0 C002E668
+E2000001 80008000
+
+Chaos Bringer: Replace Confusion Attack With Paralysis Attack [Ralf]
+20099184 7FA3EB78
+040991F8 48020FD9
+E2000001 80008000
+
+Chaos Bringer: Replace Confusion Attack With Poison Attack [Ralf]
+20099184 7FA3EB78
+040991F8 48021039
+E2000001 80008000
+
+Chaos Bringer: Replace Confusion Attack With Slow Attack [Ralf]
+20099184 7FA3EB78
+040991F8 48020F79
+E2000001 80008000
+
+Crimson Assassin: Disable Freeze Attack [Ralf]
+200BD1EC 807F02A8
+040BD214 48000020
+E2000001 80008000
+
+Dark Belra: Disable Paralysis Attack [Ralf]
+20093940 7FE4FB78
+040939AC 48000010
+E2000001 80008000
+
+Dark Belra: Improved Paralysis Chance [Ralf]
+20093940 7FE4FB78
+040939A0 C002E668
+E2000001 80008000
+
+Dark Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+20093940 7FE4FB78
+040939B8 480268D9
+E2000001 80008000
+
+Dark Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+20093940 7FE4FB78
+040939B8 48026879
+E2000001 80008000
+
+Dark Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+20093940 7FE4FB78
+040939B8 480267B9
+E2000001 80008000
+
+Dark Bringer: Disable Disarm Attack [Ralf]
+20099184 7FA3EB78
+040991A0 48000038
+E2000001 80008000
+
+Dark Bringer: Disarm Bug Fix [Ralf]
+20099184 7FA3EB78
+0600CB30 00000018
+7FA3EB78 80030030
+5400014B 40820008
+4808C668 4808C6B8
+040991A4 4BF7398C
+E2000001 80008000
+
+Delsaber: Disable Shield [Ralf]
+200A7338 7FC3F378
+040A7368 38000000
+E2000001 80008000
+
+Delsaber: Improved Shield Power [Ralf]
+200A7338 7FC3F378
+0600CB80 00000018
+A81E02B8 7C001670
+B01E0388 B01E038A
+381F00F8 4809A8DC
+040A746C 4BF65714
+E2000001 80008000
+
+Delsaber: Improved Shield Range [Ralf]
+045C91E4 461C4000
+
+Dubwitch: Allow Tech Boosts [Ralf]
+2015D404 A8030326
+0415D414 60000000
+E2000001 80008000
+
+Gee: Disable Slow Attack [Ralf]
+200CA208 7FE3FB78
+040CA21C 48000044
+E2000001 80008000
+
+Gee: Improved Slow Chance [Ralf]
+200CA208 7FE3FB78
+040CA210 C002E668
+E2000001 80008000
+
+Gee: Slow Attack Modifier [Ralf]
+04438178 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gee: Replace Slow Attack With Confusion Attack [Ralf]
+04438178 00000012
+
+Gi Gue: Allow Tech Boosts [Ralf]
+202C94A0 7C7F1B78
+042C94CC 60000000
+E2000001 80008000
+
+Gillchic/Gillchich/Dubchic/Dubchich: Disable Slow Attack [Ralf]
+200A9AD8 7FE3FB78
+040A93D4 4800005C
+E2000001 80008000
+
+Gillchic/Gillchich/Dubchic/Dubchich: Improved Slow Chance [Ralf]
+200A9AD8 7FE3FB78
+040A93E0 C002F370
+E2000001 80008000
+
+Gillchich/Dubchich: Improved Fall Down Chance [Aleron Ives & Ralf]
+200A9AD8 7FE3FB78
+040A9AE0 C0029E00
+E2000001 80008000
+
+Gillchic/Gillchich/Dubchic/Dubchich: Slow Attack Modifier [Ralf]
+04436F8C 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gillchic/Gillchich/Dubchic/Dubchich: Replace Slow Attack With Shock Attack [Ralf]
+04436F8C 00000003
+
+Grass Assassin: Enable Freeze Attack [Ralf]
+200BD1EC 807F02A8
+040BD214 60000000
+E2000001 80008000
+
+Gulgus: Replace Slow Attack With Confusion Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A3C 48004855
+E2000001 80008000
+
+Gulgus: Replace Slow Attack With Paralysis Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A3C 48004795
+E2000001 80008000
+
+Gulgus: Replace Slow Attack With Poison Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A3C 480047F5
+E2000001 80008000
+
+Gulgus-gue: Replace Paralysis Attack With Confusion Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A2C 48004865
+E2000001 80008000
+
+Gulgus-gue: Replace Paralysis Attack With Poison Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A2C 48004805
+E2000001 80008000
+
+Gulgus-gue: Replace Paralysis Attack With Slow Attack [Ralf]
+200B5A00 7FE3FB78
+040B5A2C 48004745
+E2000001 80008000
+
+Gulgus/Gulgus-gue: Disable Slow/Paralysis Attack [Ralf]
+200B5A00 7FE3FB78
+040B59FC 48000044
+E2000001 80008000
+
+Gulgus/Gulgus-gue: Improved Slow/Paralysis Chance [Ralf]
+200B5A00 7FE3FB78
+040B5A08 C002A2D0
+E2000001 80008000
+
+Hildebear/Hildeblue: Target Lock Range Bug Fix [Ralf]
+200AD674 7FE4FB78
+040AEF00 887D0031
+040AEF08 706300FB
+040AEF0C 987D0031
+E2000001 80008000
+
+Hidelt: Weak Thunder Attack [Ralf]
+200AD674 7FE4FB78
+040AD688 C022ED50
+040AD694 C002ED20
+E2000001 80008000
+
+Indi Belra: Disable Confusion Attack [Ralf]
+20093940 7FE4FB78
+04095CD8 48000010
+E2000001 80008000
+
+Indi Belra: Improved Confusion Chance [Ralf]
+20093940 7FE4FB78
+04095CD0 C0029A54
+E2000001 80008000
+
+Indi Belra: Disable Paralysis Attack [Ralf]
+20093940 7FE4FB78
+04093984 48000038
+E2000001 80008000
+
+Indi Belra: Improved Paralysis Chance [Ralf]
+20093940 7FE4FB78
+04093978 C0029A54
+E2000001 80008000
+
+Indi Belra: Replace Confusion Attack With Paralysis Attack [Ralf]
+20093940 7FE4FB78
+04095CE4 480244ED
+E2000001 80008000
+
+Indi Belra: Replace Confusion Attack With Poison Attack [Ralf]
+20093940 7FE4FB78
+04095CE4 4802454D
+E2000001 80008000
+
+Indi Belra: Replace Confusion Attack With Slow Attack [Ralf]
+20093940 7FE4FB78
+04095CE4 4802448D
+E2000001 80008000
+
+Indi Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+20093940 7FE4FB78
+04093990 48026901
+E2000001 80008000
+
+Indi Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+20093940 7FE4FB78
+04093990 480268A1
+E2000001 80008000
+
+Indi Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+20093940 7FE4FB78
+04093990 480267E1
+E2000001 80008000
+
+Meriltas: Replace Poison Attack With Confusion Attack [Ralf]
+200D573C 7C671B78
+040D5758 38A00012
+E2000001 80008000
+
+Meriltas: Replace Poison Attack With Paralysis Attack [Ralf]
+200D573C 7C671B78
+040D5758 38A00010
+E2000001 80008000
+
+Meriltas: Replace Poison Attack With Slow Attack [Ralf]
+200D573C 7C671B78
+040D5758 38A00011
+E2000001 80008000
+

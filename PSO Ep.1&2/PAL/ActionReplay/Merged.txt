@@ -6219,4 +6219,2724 @@ xx = Synchro  61% -  80% Boost (00 .. 64, Default: 19)
 yy = Synchro  81% - 100% Boost (00 .. 64, Default: 1E)
 zz = Synchro 101% - 120% Boost (00 .. 64, Default: 23)
 
-
+
+Animated Reticle [Ralf]
+51JQ-515R-EDDCG
+04JQ-RCRR-KXZFG
+BYE7-P5A4-7FC2B
+64NP-45V3-PPBMZ
+H0QU-ZQ79-9GBAT
+CNCU-6G1E-03E00
+F6HG-GXGW-0DEFH
+4WVA-CYVW-N8QKY
+W4B4-46KA-EHKKZ
+UAX4-JAE8-70R1F
+JJQN-Y5RY-Z7U3J
+YWRG-7F03-37M6A
+FQ94-D9K6-MP6EN
+944P-QGUR-KQ5D2
+3X5C-KEVB-G1UNZ
+E9FZ-A3QA-YCERP
+
+Alt. Reticle Rotaion [Ralf]
+TWBJ-EXD4-87KY1
+04JQ-RCRR-KXZFG
+57FM-8A8M-3R0N3
+B2T9-UHVY-N4HTE
+KHU7-HXNH-AM5XF
+E9FZ-A3QA-YCERP
+
+Alt. Reticle Size [Ralf]
+32J3-EZ4T-PF6FM
+KZ1H-FKQA-A4ZG8
+CY9N-RERQ-JZNC0
+
+Alt. Reticle Colors [Ralf]
+2676-VD93-ZHP0W
+91H6-59UD-ABCTG
+XX11-JG90-22M7X
+U8GN-71BH-9R6FG
+ET41-NX0V-1116F
+BYZ7-7VB9-1JA4E
+7BJ2-4DQ9-BR6K2
+2BAK-6A9R-EFXVX
+DRBC-KQ19-A7C75
+9FBB-JB8C-BV2U8
+DUXW-C7JK-GWZ9J
+
+PSODC Reticle Colors [Aleron Ives & Ralf]
+BRYQ-42MP-QWRNQ
+4HZQ-9N8P-PWVQU
+WQGJ-VDTP-URGE3
+3VT7-N2CF-4KYVR
+2Y19-NH19-ZQQZJ
+E9FZ-A3QA-YCERP
+P2F1-J1B2-72HQ9
+V2P8-JUA7-D4TZE
+U8GN-71BH-9R6FG
+1CC7-FE7G-4Y3BG
+RYQN-V3CT-2VR5P
+0U3V-FCGW-5890F
+E2MZ-UVWD-CWZMC
+EDVE-AC2Q-88KN5
+J0N7-7RYV-MX68V
+71HU-9JVZ-WPZXB
+1RRK-1F3B-JZJKX
+WPH9-CPMC-BDVNQ
+
+PSOBB/XBOX Reticle Colors [Aleron Ives & Ralf]
+0J83-JQ7T-T4UX6
+JBX8-W32M-Q882K
+NRWM-0171-T1GYJ
+QRRQ-GBH5-HHXEZ
+2BAK-6A9R-EFXVX
+
+Alt. Text Cursor Color [Ralf]
+CDWP-G9FZ-W1XHU
+8C7J-JHFY-6QEC7
+XKPK-W3ET-GQVB3
+A5G2-0QNB-NP6E2
+
+Text Cursor Color Modifier [Ralf]
+4C245274 7CBF2B78
+0425D678 3C60rrgg
+0425D684 6060bbaa
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+aa = Alpha (00 .. FF)
+
+Default: 00FF0080 (Light Green)
+
+Disable Sky Box [Ralf]
+BRA5-2UTR-4XC1X
+0R46-KJY4-2UTRR
+
+Disable Terrain [Ralf]
+AFD5-T0YW-K8K8G
+78DV-66R8-Y55DN
+
+Disable UI Background Mask [Ralf]
+Q5DG-VRCJ-E7MZP
+8C7J-JHFY-6QEC7
+M25D-ZZR6-Z5XQ1
+GAXE-WWTQ-JFKCH
+
+Disable Outer HUD Elements [Ralf]
+4GCV-7XXG-5ZEXF
+8C7J-JHFY-6QEC7
+G8KQ-E1Z2-2Q8B6
+0H1B-8A5D-CVKUA
+
+Disable HUD/Window Effect Light [Ralf]
+DQMA-ZJPE-19Z0F
+8C7J-JHFY-6QEC7
+Q65K-27ME-M3M6A
+TEEX-RM31-U7FWB
+
+Enable Black & White Mode [Ralf]
+5UDD-J7WP-QQVCM
+AA2Y-RM0B-06MFH
+7NC4-MVC6-U2U2B
+
+Disable Black & White Mode (Quests) [Ralf]
+GEYG-96B2-BGUDU
+AA2Y-RM0B-06MFH
+Q03T-7JFH-HZM5U
+
+Disable Motion Blur (Boss Movies, Photon Blasts & Quests) [Ralf]
+YBGZ-ZJHJ-XC5MY
+AA2Y-RM0B-06MFH
+0HWK-0D0X-QTER8
+
+Disable Motion Blur (Boss Movies) [Ralf]
+2WC9-XPBG-E4DWB
+AA2Y-RM0B-06MFH
+B60A-4517-6H4KM
+
+Disable Motion Blur (Photon Blasts) [Ralf]
+J98G-5306-X85NV
+AA2Y-RM0B-06MFH
+B6P8-0PNT-44WH4
+
+Disable Motion Blur (Quests) [Ralf]
+9WJP-V73D-R80X8
+AA2Y-RM0B-06MFH
+DQE5-YV2A-2CFT4
+
+Enable Motion Blur On All Areas (Normal) [Ralf]
+KMYA-QJ5J-16AR6
+AA2Y-RM0B-06MFH
+PYVP-MGE5-CUZWP
+
+Enable Motion Blur On All Areas (Heavy) [Ralf]
+TB47-G66K-A0YDP
+AN3K-WWRP-VECN1
+PYVP-MGE5-CUZWP
+9F5Y-7Q5V-33GET
+
+16:9 Aspect Ratio v2 (PC Monitor) [Ralf]
+29YC-R7TN-9QVMA
+T21X-HDPN-D47W5
+95BV-9MJ8-UJV7F
+VU9N-01GW-RU5DG
+5T62-D9ZE-3Y80H
+9KNC-B0J8-M8Z5F
+0G3K-95WT-3XK2Y
+KT7P-RH51-XYJ46
+XZ5B-PZZF-BP6ER
+DCR9-ZZU9-AV0AR
+C7K8-Q0FG-T8RQF
+FV6J-40P2-QFX80
+BCRU-2RP6-41ZQU
+NB60-JNHM-CYNPT
+TXZ8-6P3H-KDGZ9
+WYGN-ZE6P-5CKJB
+G0EC-FCCD-H6TU1
+C8P5-YJ1H-GW6QK
+2KZY-W0WN-Y7XTY
+YQYR-VF5C-QQVFA
+Q3BT-Y766-HYT0R
+2C05-DRCV-YN26R
+T10H-5271-Z30FV
+TUNE-ZQZK-8BUV5
+P1PX-DDZN-X54GG
+CQ3Q-BG10-9KDQP
+G1TC-BNEH-0MFEP
+HT0A-8CA5-VNQR8
+X1FA-9N1Q-Y6X4A
+XGZR-F0MX-ZNZC8
+29KW-ZU5N-FYE1C
+26XY-5W89-NV7N6
+HVMQ-YXPY-G20FT
+YXPT-551E-PN5Q9
+PDK7-DER0-6A99V
+P7RU-QX78-16BB5
+V1Q2-EWM3-CBACW
+056G-C410-AUBM8
+2UZH-MPWX-6PQNB
+HBFU-XREY-DTTRF
+P58E-2F89-RG9MC
+8TZF-ZQ74-RK8XY
+K4DR-7KRC-EA9HF
+EUKX-F3B3-5NW24
+4X7C-UCG4-T8Z56
+5CZ7-RH9T-HKFAR
+X86P-ACNE-NTXJM
+DFDW-0WU0-8VQH9
+FVKB-XEUD-7ZGGP
+X4MW-30DF-GVEMK
+A5F5-G8G3-NYMKU
+UYR2-HGVP-XBE03
+8DEF-BNQV-XE6CF
+VCBA-T98H-VZ33V
+52MY-3F8Q-RN9HN
+DT9G-FWFP-X4WP5
+874C-4UDK-JPV9Q
+B3C1-9B9J-J76WP
+8Y9X-78J7-6REWA
+23B7-RFZ6-5WG8N
+JPVH-Q6CG-ZP1G9
+E9FZ-A3QA-YCERP
+
+Incl. 2D elements.
+
+16:9 Aspect Ratio v2 (Widescreen TV) [Ralf]
+XCY6-GAYY-NEBUZ
+T21X-HDPN-D47W5
+95BV-9MJ8-UJV7F
+KXUD-3VX9-4U1E1
+5T62-D9ZE-3Y80H
+9KNC-B0J8-M8Z5F
+0G3K-95WT-3XK2Y
+KT7P-RH51-XYJ46
+XZ5B-PZZF-BP6ER
+DCR9-ZZU9-AV0AR
+R4VW-RKJJ-AH7GE
+FV6J-40P2-QFX80
+BCRU-2RP6-41ZQU
+NB60-JNHM-CYNPT
+TXZ8-6P3H-KDGZ9
+70WH-MPA0-0VHGX
+G0EC-FCCD-H6TU1
+C8P5-YJ1H-GW6QK
+2KZY-W0WN-Y7XTY
+46ET-JRXV-HEM3C
+Q3BT-Y766-HYT0R
+2C05-DRCV-YN26R
+T10H-5271-Z30FV
+TUNE-ZQZK-8BUV5
+JHUU-W0TW-J30YD
+CQ3Q-BG10-9KDQP
+G1TC-BNEH-0MFEP
+HT0A-8CA5-VNQR8
+X1FA-9N1Q-Y6X4A
+XGZR-F0MX-ZNZC8
+29KW-ZU5N-FYE1C
+26XY-5W89-NV7N6
+HVMQ-YXPY-G20FT
+YXPT-551E-PN5Q9
+PDK7-DER0-6A99V
+P7RU-QX78-16BB5
+V1Q2-EWM3-CBACW
+056G-C410-AUBM8
+2UZH-MPWX-6PQNB
+HBFU-XREY-DTTRF
+P58E-2F89-RG9MC
+YV2Y-48FN-GH256
+9ZRH-1WNU-41U5X
+9UHV-EBWV-D1R81
+N3UR-6EM7-X2TMX
+NJZZ-EM50-67Y9B
+C4NC-RVAY-41YYX
+2CAZ-4QGQ-Q5C1P
+YFU1-A0YT-WXTE5
+1894-0UXZ-2F1Y8
+72WU-HU03-Z4EJR
+KCUK-D0P6-BP1H9
+8DEF-BNQV-XE6CF
+QUTV-UGFT-THH8W
+QB7H-HJRT-2XHF3
+9XCJ-B43F-UF3Y1
+98YG-HRR0-EFNE1
+B3C1-9B9J-J76WP
+F0YM-V0FM-FR0FA
+123K-DHMB-32MJQ
+NVG3-WYH5-1JBA4
+E9FZ-A3QA-YCERP
+
+Incl. 2D elements.
+
+Mylla & Youlla Revive Always With Full HP/TP [Ralf]
+CPUJ-1GMK-X9GN7
+J62H-5UF3-AATB5
+Q6GP-DK05-CP36T
+XTQ8-KYWJ-8MTZB
+
+Resta Restores HP & TP (Incl. Leilla) [Ralf]
+Q8KK-636W-7BAT7
+7RTG-83C4-9KNFD
+5M6Y-MB8T-B6JCJ
+93J3-QJ5H-D3YGR
+YXHA-DC22-JY9X1
+HUB9-YF34-B4CX8
+N590-H6N3-Q2MQB
+CCCG-HF64-922BN
+YCPV-3UP3-5YU3A
+E9FZ-A3QA-YCERP
+
+Mag Will Get Hungry Every Two Minutes [Ralf]
+H20F-W7BG-EZB09
+8VFY-NZ4V-TQWA3
+
+Mag: Feed Up To Five Items At A Time [Ralf]
+QHKE-GEKK-HFR47
+PC0D-E14A-4CBU5
+HNC0-P5XV-EH2B7
+QW0P-AJX9-HK1ED
+
+Hungry Mag: Play SFX [Ralf]
+N1Z6-QDMQ-WAT88
+1CCD-UDP3-CKA1P
+DVQ0-DNA3-WFNAN
+PGZT-NQ6W-MH0XV
+70EA-UWP0-Q5MGM
+Y2VG-T64H-JCYB7
+TKNH-919K-EFFT8
+M736-P0QZ-2RRU4
+VDWJ-NZ52-MU327
+7E9E-5E5Q-EYV1V
+10ET-Q2YB-W6TZQ
+GZY5-GVPF-FMGTH
+C8MA-NP84-UE51V
+UJ54-G5F5-PM8ZJ
+E9FZ-A3QA-YCERP
+
+PSOBB Mag Color Pattern For Costumes 8 & 9 [Aleron Ives & Ralf]
+BFEG-DZCY-YU8FT
+1CCD-UDP3-CKA1P
+C6Q8-TJBR-UDHEC
+R17G-13MK-0VKCF
+JD00-EZNB-1JQPK
+EN4Q-952Y-84TGX
+BWNT-HNXB-D458N
+N474-06JX-TC7Q5
+EU1G-BM59-94C7B
+Z5VN-69EU-RU56K
+UEAB-PYN0-ZW5RU
+6HYG-X33B-PP9XQ
+BE71-UNP4-V36W2
+1W9A-ZD0J-0JAWK
+QUZY-38E6-5J8ZM
+P1DP-QZMV-61KFN
+GPV2-KTEH-0D6AW
+3HVP-5T09-KDE3W
+8YYW-K08Y-DCGUP
+Q408-3WF1-0BGDP
+HJ94-MWR7-B634T
+VCBJ-C9H2-YEC67
+TYGX-68CQ-MFQX1
+TF5R-EVKJ-NY5DK
+R15W-BPDQ-MP71Y
+F358-VVA7-UX8K1
+E9FZ-A3QA-YCERP
+
+Dropped Mag Color Modifier [Ralf]
+0C113C00 7FE3FB78
+0411470C 380000xx
+
+xx = Mag Color ID (00 .. 12, Default: 12)
+
+00 - Red
+01 - Blue
+02 - Yellow
+03 - Green
+04 - Purple
+05 - Black
+06 - White
+07 - Cyan
+08 - Brown
+09 - Orange
+0A - Light Blue
+0B - Olive
+0C - Light Cyan
+0D - Dark Purple
+0E - Grey
+0F - Light Grey
+10 - Pink
+11 - Dark Cyan
+12 - Costume Color
+
+
+Meseta Drop System Bug Fix [Ralf]
+Y7TT-WWTP-C9M4X
+5XKC-ZR1A-TMMPW
+MP15-KP65-DU93J
+HC3J-63TZ-U821M
+
+Foie SFX Pitch Bug Fix [Aleron Ives & Ralf]
+D0BV-X3W2-230Y7
+8FZA-F0P6-1EWXA
+RCMT-40UC-AF64F
+3AEZ-NP6Z-A5K55
+Q599-971H-NZCHY
+E9FZ-A3QA-YCERP
+
+Gifoie SFX Pitch Bug Fix [Aleron Ives & Ralf]
+9DCZ-3GAE-GENFZ
+8FZA-F0P6-1EWXA
+M1AK-MP2W-52BVZ
+RF99-Z9YY-RBF9Y
+R66K-M7AV-R9TRU
+E9FZ-A3QA-YCERP
+
+Rafoie SFX Pitch Bug Fix [Aleron Ives & Ralf]
+4MVK-EY4C-KYRGH
+8FZA-F0P6-1EWXA
+N815-3KZZ-JYFHY
+7FT7-YW1F-G4YW0
+W397-RUY7-VQHEP
+3U2A-TKFT-NNVVK
+08UE-3HM0-DAPTA
+A1TH-3DU6-X08RZ
+E9FZ-A3QA-YCERP
+
+Barta SFX Pitch Bug Fix [Aleron Ives & Ralf]
+PBK7-M8NG-0CVVK
+8FZA-F0P6-1EWXA
+EW6B-543W-9TVKK
+3NT3-CGGF-72EWM
+ZB3V-PEW2-CZHHE
+E9FZ-A3QA-YCERP
+
+Gibarta SFX Pitch Bug Fix [Aleron Ives & Ralf]
+T01N-T0J2-UDF6D
+8FZA-F0P6-1EWXA
+T1T0-4FE4-C51EY
+D2TE-FQFY-MG4PP
+N59A-V30M-6THK4
+E9FZ-A3QA-YCERP
+
+Rabarta SFX Pitch Bug Fix [Aleron Ives & Ralf]
+2BK3-0J5M-TJJQY
+8FZA-F0P6-1EWXA
+ANDG-DPD8-HBNP6
+V183-A5GY-8HQ8U
+RNUK-Y8F7-CQYYG
+E9FZ-A3QA-YCERP
+
+Zonde SFX Pitch Bug Fix [Aleron Ives & Ralf]
+KGB1-GU60-YKZEN
+8FZA-F0P6-1EWXA
+QU9D-3YCP-AKCPZ
+XTZT-D4M8-CH50H
+0K15-1QMQ-56GJY
+E9FZ-A3QA-YCERP
+
+Gizonde SFX Pitch Bug Fix [Aleron Ives & Ralf]
+R94J-3JGK-3HCAD
+8FZA-F0P6-1EWXA
+XVB6-1WWE-QT8UQ
+2DDT-0VW7-8YE5Q
+4U3V-8MGV-ZTYAF
+E9FZ-A3QA-YCERP
+
+Razonde SFX Pitch Bug Fix [Aleron Ives & Ralf]
+F01M-C9MH-5PM4D
+8FZA-F0P6-1EWXA
+PQ3D-G0MM-APNVK
+Q9WD-42XZ-RCV4F
+4EEQ-3YVC-93GMQ
+E9FZ-A3QA-YCERP
+
+Grants SFX Pitch Bug Fix [Aleron Ives & Ralf]
+H5U1-HT3A-48M3D
+8FZA-F0P6-1EWXA
+XKNX-UHRR-UPHWR
+2WB7-UWJJ-ZXZ6V
+77K5-GT22-QJF7C
+E9FZ-A3QA-YCERP
+
+Megid SFX Pitch Bug Fix [Aleron Ives & Ralf]
+7W9J-5DB9-HAXCF
+8FZA-F0P6-1EWXA
+RYG4-4EJN-2R3W1
+5DAE-3MKY-ACBW1
+4DKE-UHM3-YTAU2
+E9FZ-A3QA-YCERP
+
+Anti SFX Pitch Patch [Aleron Ives & Ralf]
+RZBZ-8M57-F2QUB
+C6XT-GT3M-HRH7C
+EW87-U2T1-AHT37
+
+S-Rank Knuckle: HP/TP Restoration Bug Fix [Ralf]
+WB4Y-J78K-CUF7J
+NJH1-Z07T-FCCHG
+
+S-Rank Psychogun: Weapon Specials Bug Fix [Ralf]
+4AXJ-0JUW-UT6FK
+B0HT-EEMN-YHH04
+0VB7-PZPR-RJ1K4
+
+S-Rank Windmill: Weapon Specials Bug Fix [Ralf]
+T74X-K03M-2BW6B
+B0HT-EEMN-YHH04
+TF6C-CKGU-GTGHP
+
+Improved Jellen S-Rank Weapon Special [Ralf]
+Y3HC-WTP8-XUR62
+VGW4-F1XE-A5XM7
+6KRQ-46U7-3432M
+
+Replace Jellen S-Rank Weapon Special With Jellen & Zalure [Ralf]
+4F37-R1KD-J52W1
+5CYT-YT1B-UPV4N
+F0MW-2EGJ-EDXQA
+9JCY-0M2P-TTVND
+CNR6-J1K3-33QJ1
+V6T5-3GH0-EUMHJ
+BCGB-8N40-9TEBK
+FQHF-86AU-17V11
+X1JF-AW8Z-AGYZM
+72MY-KWJ2-7N07M
+F1WT-693T-43QA7
+D5HY-CT9D-WNYQ8
+9R5W-KE4W-9U73G
+E9FZ-A3QA-YCERP
+
+No Dark Rooms [Ralf]
+U6TH-Z7W6-DWD9H
+B96N-2MF9-UU34M
+BYWV-9VAY-983FN
+
+Improved Dark Room Lighting [Ralf]
+PUTW-63UM-E5WWQ
+K107-AAN0-R9U70
+TATJ-M96E-6N4XG
+54V4-43DE-QYZZE
+9YEY-VAMF-H5YE3
+QD2P-VG9K-2W2D4
+D5PJ-K7C3-ZA3CE
+AKP4-5XD5-2KAR9
+ZC1N-QNAY-UZBRZ
+8XEX-QF09-492YX
+E9FZ-A3QA-YCERP
+
+Improved Freeze Resistance [Ralf]
+F9UT-7YYN-TJCVN
+BXE2-WC0N-UK50Z
+7VPP-RMH0-WE41U
+
+Improved Shock Resistance [Ralf]
+FHZB-WFJ1-M4YK9
+ZM4P-TCZJ-4HD5W
+CRJZ-BA26-BMMQC
+
+Confusion Status: Alt. Movement Pattern [Ralf]
+BYHM-RCJK-7GFHA
+CKAC-NWMK-0C49G
+HFMV-2F7M-RH372
+
+Confusion Status: Long Duration [Ralf]
+3KGQ-VJ8G-D9007
+CKAC-NWMK-0C49G
+49GM-WKZX-2GEAM
+
+Confusion Status: Short Duration [Ralf]
+RJWH-1FQN-QFGGT
+CKAC-NWMK-0C49G
+06QN-13QV-NJXH4
+
+Freeze Status: Long Duration [Ralf]
+HYY6-GZDA-1TTUN
+19HF-JP4Y-CVX8J
+9T0J-U578-EVD0F
+
+Freeze Status: Short Duration [Ralf]
+9N3C-MJA4-HU90B
+19HF-JP4Y-CVX8J
+XMNY-PVUE-XFX93
+
+Poison Status: Heavy Damage [Ralf]
+6N92-NN8W-CGXMW
+AUJ9-ZTUQ-7ZF21
+DM43-JAN6-RBAP1
+5840-UFAR-U43GR
+
+Poison Status: Light Damage [Ralf]
+KC7V-3KFH-GXF9M
+EV7B-NHGG-4AKMF
+BP82-N4H5-0DUEE
+PQAT-D3AP-QXKEM
+
+Poison Status: Long Damage Time Cycle [Ralf]
+W6RM-0WN0-6MQAU
+8XE2-4ED9-R5RG7
+ZUUB-52D0-C69UB
+
+Poison Status: Short Damage Time Cycle [Ralf]
+UGDG-5K05-NPB77
+8XE2-4ED9-R5RG7
+8B1X-F369-HTEEF
+
+Shock Status: Long Duration [Ralf]
+2267-VCXJ-31CFV
+NNTN-U0K9-9PWRV
+XW2K-1GUC-VC96X
+
+Shock Status: Short Duration [Ralf]
+QWXM-UWBP-AKD1M
+NNTN-U0K9-9PWRV
+GZNB-G7U8-X9GAZ
+
+Slow Status: Long Duration [Ralf]
+FY1W-AXC9-BZ0A9
+N2GB-A2ZJ-713V9
+6TGK-PHBG-P3DKN
+
+Slow Status: Short Duration [Ralf]
+284J-HTHB-AEMZT
+N2GB-A2ZJ-713V9
+V3QC-EA4H-P6EF9
+
+Confusion/Freeze/Slow/Shock Status: Difficulty Depending Duration [Ralf]
+KYH9-C4ZQ-JH72U
+XFQH-ZTVD-E8X4A
+ZVDM-BP52-QYD69
+0UKF-N4M3-5FJ0X
+C90X-2V59-X2617
+1PBZ-9EGQ-N8DJW
+4TR2-R619-92YAK
+MDGV-W5EH-91KY0
+9VY5-DHV7-YRRVX
+CCFD-9V6Q-KU71K
+TNZK-PWEJ-Y7JNN
+HWWD-MTU6-4Z2VC
+YM3U-BYCE-K2T8B
+7D5F-U04X-KCFMN
+E9FZ-A3QA-YCERP
+
+Flame Garment: Enable Freeze Immunity [Aleron Ives & Ralf]
+D4T6-13YX-KFTC6
+AU4U-92E9-X10NB
+5EWV-90K0-JAX7Q
+QFQY-44AQ-X2615
+QK3A-TWK9-1EHMX
+VXRX-0TVF-VEKCU
+X2WM-HQNT-4EM36
+F736-4QWX-M5K22
+CZMR-7W49-KG6J5
+BZJP-MQU7-FYY7A
+5204-7KVD-1AGMT
+AUX9-CRCB-JX8E5
+E9FZ-A3QA-YCERP
+
+Kasami Bracer: Enable Movement Boost [Ralf]
+MY5T-E11V-0VR82
+C9H7-B7DD-U0TCU
+60XW-23VE-NNZGB
+2TCX-QQU1-TT813
+HA3A-PZQG-ZAA47
+55UP-9A1M-7KV89
+4JRW-6NN9-T6P9J
+0MAH-FQ83-6TEF7
+20WX-C703-TKR83
+2FJ8-BN41-H76F1
+WF6J-4VG9-K05MF
+TJ2V-92HG-V23YB
+5WXE-Y14K-PGYB9
+E9FZ-A3QA-YCERP
+
+Barta: Show Debug Info [Ralf]
+4GTM-WD5Q-XMHC4
+GY8K-FZKA-V5GTU
+WGDX-JM1R-0W9X7
+W5EM-T6CC-PCAP1
+1869-H108-F5PZ3
+GET1-0YTC-HK9UD
+QEE0-ZP77-HA9D7
+E9FZ-A3QA-YCERP
+
+Foie: Show Debug Info [Ralf]
+6NTY-ZE1T-XEQ6B
+0JB5-K046-RNU6P
+NBE6-YF9D-NNBG3
+R918-XE81-17753
+9N6N-MFVM-U8XNU
+ZTT4-EFFR-3GBVU
+F8FX-3Q66-QH3RG
+E9FZ-A3QA-YCERP
+
+Gibarta: Show Debug Info [Ralf]
+D2F5-DMX1-PZ4ZX
+JMKP-4BCG-WXBFK
+VJ2D-1AMT-2A4HH
+0XWU-HY22-0X0Z7
+EVYH-ZBPE-XBZ0K
+5UGP-EF2P-V8CTH
+PB0H-MRHH-Z1WTC
+E9FZ-A3QA-YCERP
+
+Megid: Show Debug Info [Ralf]
+K4M0-G222-GH9P0
+FRCV-J3JU-7688M
+9D3U-TD07-H74HP
+FCEB-6GDY-YU25V
+CTFE-7M50-RQ3WC
+RKGM-YVNJ-Z8CUH
+KUHP-CB8M-KEZ2W
+E9FZ-A3QA-YCERP
+
+Shifta: Enable Tech Boosts [Aleron Ives & Ralf]
+7AZB-F4PH-N9YGE
+8HRZ-D3AJ-TNPT7
+294D-ZGQ9-YDP80
+Y8WM-C2ZY-3Y2TA
+AWJF-TGC4-D13WU
+C3X0-NQ3B-NAY8X
+YRRZ-KCUR-D5PQW
+KBHC-029R-KFPP6
+DV8E-H4XN-P1Y73
+D5W5-F6YG-HWHT1
+E9FZ-A3QA-YCERP
+
+Units: Disable Boost Cap [Ralf]
+XMHU-4RFA-35A9M
+DPT9-UA4R-3QVHW
+NVV3-EKK5-P8DU9
+
+Weapons: Improved Attack Speed [Ralf]
+Z31K-M79E-QFWZ4
+DYB3-KW7D-6C4F7
+FAK2-UQBN-4QPGA
+
+Photon Blasts: Enable 400 PB Overdrive Mode [Ralf]
+ZHJG-H7FW-FKGGK
+ZRH9-EC6R-9KFFW
+XUX1-6YAE-0V698
+U4YY-X56Q-AJ8JU
+F0MH-K47Q-059C4
+M4B0-AQHX-EPUY4
+C3ZV-HGYF-32DCJ
+49B3-W573-UN754
+E9FZ-A3QA-YCERP
+
+
+Bulclaw: Disable Poison Attack [Ralf]
+1V5A-YY0C-YJEV6
+UM7K-CWGR-1FB85
+16ZC-U0GT-3K4EM
+
+Bulclaw: Improved Poison Chance [Ralf]
+48ZH-UAFM-U7HPT
+UM7K-CWGR-1FB85
+01PR-JAP5-JUWCD
+
+Bulclaw: Poison Attack Modifier [Ralf]
+04438E74 000000xx
+
+xx = Attack ID (Default: 0F = Poison)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Bulclaw: Replace Poison Attack With Paralysis Attack [Ralf]
+VE0X-5Q8C-KEKVT
+Q8TW-Y5F8-KC3HT
+
+Chaos Bringer: Enable Disarm Attack [Ralf]
+6H2W-XX1D-X63B2
+HYE0-CFMQ-1Y2HE
+62P9-KD5Z-W6Y3A
+
+Chaos Bringer: Disable Confusion Attack [Ralf]
+1M4H-9AFZ-YTYRY
+HYE0-CFMQ-1Y2HE
+EZWT-C4WF-4DMD2
+
+Chaos Bringer: Improved Confusion Chance [Ralf]
+MNHU-ARZ4-K5ZR0
+HYE0-CFMQ-1Y2HE
+P4VA-C7Z1-2Y06J
+
+Chaos Bringer: Replace Confusion Attack With Paralysis Attack [Ralf]
+FEDE-N3NA-0NHQ5
+HYE0-CFMQ-1Y2HE
+G4CC-X44G-H1AF6
+
+Chaos Bringer: Replace Confusion Attack With Poison Attack [Ralf]
+3J94-W0KV-NFXBD
+HYE0-CFMQ-1Y2HE
+RZGV-0F76-9Q0A4
+
+Chaos Bringer: Replace Confusion Attack With Slow Attack [Ralf]
+4C9T-MFZP-XMXAC
+HYE0-CFMQ-1Y2HE
+6316-4HYQ-3309V
+
+Crimson Assassin: Disable Freeze Attack [Ralf]
+N4V5-AVX2-0WTR8
+0CWP-954E-NT4MZ
+NGK0-NAKV-GB2NP
+
+Dark Belra: Disable Paralysis Attack [Ralf]
+ZQYM-BKX7-QQRGK
+ZCZU-KBYF-ACB5J
+TG2Q-PNBV-R4HXD
+
+Dark Belra: Improved Paralysis Chance [Ralf]
+2MV0-5T71-AAT9W
+ZCZU-KBYF-ACB5J
+N0DB-QM0K-TRMNM
+
+Dark Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+9N1J-9UDG-HNK5T
+ZCZU-KBYF-ACB5J
+AAAU-EDYJ-25E37
+
+Dark Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+A2X7-N15J-ATTR0
+ZCZU-KBYF-ACB5J
+CYZ5-V2M7-KCZ3T
+
+Dark Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+WFRA-GRT1-HY9VM
+ZCZU-KBYF-ACB5J
+5B80-JNQN-42YPG
+
+Dark Bringer: Disable Disarm Attack [Ralf]
+0B5Z-FRT8-929AW
+HYE0-CFMQ-1Y2HE
+K93A-WG8K-75QMQ
+
+Dark Bringer: Disarm Bug Fix [Ralf]
+XCVY-R026-AX02C
+ZRJ8-5Q39-X7M8F
+EF8W-J7G1-X1W9F
+7QKX-6PFR-T1ZR0
+YRBT-346D-295RT
+FRQR-FAPP-0AZU5
+YBRK-JH9G-Z7P66
+T3HM-12J4-9JG40
+WPJF-1AAA-QAY79
+E9FZ-A3QA-YCERP
+
+Delsaber: Disable Shield [Ralf]
+ZHA9-GTZZ-76ZY2
+G0C4-2D35-548U7
+B099-VU19-26UDV
+
+Delsaber: Improved Shield Power [Ralf]
+RUXV-2TA8-7HFDH
+FY22-REYG-Y2AB0
+1JA5-VR11-DZYQW
+8GYZ-3XRH-A0KQY
+HJG2-W46N-PTTCQ
+K6DJ-42BV-76W5E
+R96C-G1KQ-2MX2Z
+8PEY-45W0-456Q5
+DTYC-3TQV-AJ32J
+E9FZ-A3QA-YCERP
+
+Delsaber: Improved Shield Range [Ralf]
+6BMW-TKXC-9KDVY
+490E-4XNJ-EHBPB
+
+Dubwitch: Allow Tech Boosts [Ralf]
+TY0V-8HHN-Z7YGX
+20HZ-H5MN-ZTB63
+NGPW-149X-U695G
+
+Gee: Disable Slow Attack [Ralf]
+98FF-BPD0-HEA6E
+M8AC-AJAM-N52FK
+A9FR-2BFE-X1DT6
+
+Gee: Improved Slow Chance [Ralf]
+NVEC-YNMA-AY01H
+M8AC-AJAM-N52FK
+Q67K-QX11-2F221
+
+Gee: Slow Attack Modifier [Ralf]
+0443B1A8 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gee: Replace Slow Attack With Confusion Attack [Ralf]
+ZV1Z-Q9UH-RDVTA
+GFBF-BRAH-JNADP
+
+Gi Gue: Allow Tech Boosts [Ralf]
+NRP8-N6XG-V9DYR
+G05H-TM6W-NDZHQ
+BHBV-MX26-K50FH
+
+Gillchic/Gillchich/Dubchic/Dubchich: Disable Slow Attack [Ralf]
+MUNF-NM94-TM3HK
+Y4EP-U4GQ-9BUJH
+V6C7-T7QY-QKDNX
+
+Gillchic/Gillchich/Dubchic/Dubchich: Improved Slow Chance [Ralf]
+82EH-C0D6-KACKA
+Y4EP-U4GQ-9BUJH
+8GKK-28UY-9AGDT
+
+Gillchich/Dubchich: Improved Fall Down Chance [Aleron Ives & Ralf]
+9EN9-47GC-M9PWG
+Y4EP-U4GQ-9BUJH
+CTBR-W3KY-N32GG
+
+Gillchic/Gillchich/Dubchic/Dubchich: Slow Attack Modifier [Ralf]
+04439FBC 000000xx
+
+xx = Attack ID (Default: 11 = Slow)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Gillchic/Gillchich/Dubchic/Dubchich: Replace Slow Attack With Shock Attack [Ralf]
+A2T3-9TWH-5CZF4
+0GJD-90RK-H3358
+
+Grass Assassin: Enable Freeze Attack [Ralf]
+X0YY-ZRYU-ENZP0
+0CWP-954E-NT4MZ
+ATZ7-NUMU-AECPH
+
+Gulgus: Replace Slow Attack With Confusion Attack [Ralf]
+14HD-C5JQ-RW5N1
+326X-J44Y-VQ90Z
+PJK8-V0KQ-WHQ1Y
+
+Gulgus: Replace Slow Attack With Paralysis Attack [Ralf]
+7V62-YRZ4-6NKWN
+326X-J44Y-VQ90Z
+62J6-7GTW-1AGFW
+
+Gulgus: Replace Slow Attack With Poison Attack [Ralf]
+MP1U-QVKJ-0QCKE
+326X-J44Y-VQ90Z
+XK22-07BA-Y2Y55
+
+Gulgus-gue: Replace Paralysis Attack With Confusion Attack [Ralf]
+BJ6Q-BFR1-1HHX9
+326X-J44Y-VQ90Z
+5N8Y-4DMA-CUQ0P
+
+Gulgus-gue: Replace Paralysis Attack With Poison Attack [Ralf]
+DGYR-9DJ8-PN0MC
+326X-J44Y-VQ90Z
+GZVP-BM8W-AADPJ
+
+Gulgus-gue: Replace Paralysis Attack With Slow Attack [Ralf]
+0V5V-VT4X-PEEV7
+326X-J44Y-VQ90Z
+46R6-YUJB-R4FA6
+
+Gulgus/Gulgus-gue: Disable Slow/Paralysis Attack [Ralf]
+M9MD-JD9G-N92Y7
+326X-J44Y-VQ90Z
+KU8M-T8BQ-UD19D
+
+Gulgus/Gulgus-gue: Improved Slow/Paralysis Chance [Ralf]
+MJ73-HTPQ-JYQ8F
+326X-J44Y-VQ90Z
+FCDJ-UN2H-NJPU7
+
+Hildebear/Hildeblue: Target Lock Range Bug Fix [Ralf]
+2F58-EA2D-3KA81
+4BKD-K69D-7B4H1
+KRRR-8CU9-3K6CQ
+W8BH-1YE7-NJUWN
+W4U1-8TKR-32C5X
+E9FZ-A3QA-YCERP
+
+Hidelt: Weak Thunder Attack [Ralf]
+29C1-UJVY-2JD0G
+1BU6-M1XQ-GEMQV
+0P43-UPRT-0MVMG
+QVPW-TV0Q-6YPK4
+
+Indi Belra: Disable Confusion Attack [Ralf]
+YU15-HJ39-MY9WT
+ZCZU-KBYF-ACB5J
+R0P1-N8HB-55G17
+
+Indi Belra: Improved Confusion Chance [Ralf]
+VC4D-YA7V-5CCT9
+ZCZU-KBYF-ACB5J
+0G5U-EUAE-6X82Z
+
+Indi Belra: Disable Paralysis Attack [Ralf]
+TRUH-3DE0-5FRB7
+ZCZU-KBYF-ACB5J
+EBDR-V3PE-RUDF4
+
+Indi Belra: Improved Paralysis Chance [Ralf]
+GWEP-4GY5-5DHH8
+ZCZU-KBYF-ACB5J
+UMNG-1KRG-9D9CZ
+
+Indi Belra: Replace Confusion Attack With Paralysis Attack [Ralf]
+0ZKF-ZADD-RGGKA
+ZCZU-KBYF-ACB5J
+MXY5-TBMN-JE3JJ
+
+Indi Belra: Replace Confusion Attack With Poison Attack [Ralf]
+4W49-KNW4-FWZJ2
+ZCZU-KBYF-ACB5J
+XATV-CG7T-Q026N
+
+Indi Belra: Replace Confusion Attack With Slow Attack [Ralf]
+BV7Q-0KNY-MVG1C
+ZCZU-KBYF-ACB5J
+K9XZ-M6UR-QTT0D
+
+Indi Belra: Replace Paralysis Attack With Confusion Attack [Ralf]
+2G89-TWTM-B9D60
+ZCZU-KBYF-ACB5J
+Y8RJ-PN4N-0P7ZQ
+
+Indi Belra: Replace Paralysis Attack With Poison Attack [Ralf]
+TEEM-YM9C-FFXVU
+ZCZU-KBYF-ACB5J
+Y7GT-Y1XJ-4UQTE
+
+Indi Belra: Replace Paralysis Attack With Slow Attack [Ralf]
+EUDF-95GG-3WTZC
+ZCZU-KBYF-ACB5J
+JRWM-DVCN-W2DHH
+
+Meriltas: Replace Poison Attack With Confusion Attack [Ralf]
+QPJE-DEAA-7B67Z
+884Z-E95F-7Q4KQ
+2X5Q-VXVW-DXGKP
+
+Meriltas: Replace Poison Attack With Paralysis Attack [Ralf]
+H88N-M2DU-4T2YU
+884Z-E95F-7Q4KQ
+441A-WA1N-2429W
+
+Meriltas: Replace Poison Attack With Slow Attack [Ralf]
+D7MF-T9QF-MZEXZ
+884Z-E95F-7Q4KQ
+CEYN-1PEJ-XXGFM
+
+
+Minibosses, Rangers & Olga Flow: Weapon Attributes Patch [Aleron Ives & Ralf]
+C88Z-2C3W-88C91
+C4YG-HWRM-MGPG3
+8DWF-9T8A-3PADG
+D5CN-7D83-47BAX
+T4AY-62FP-8NQN8
+F7B6-R3QT-CQTN2
+1MR5-FPCH-NZ54G
+CK9X-14Z7-FCN8U
+E9FZ-A3QA-YCERP
+
+Minibosses: No Confusion Immunity [Aleron Ives & Ralf]
+U63X-UVEB-PRXVK
+H774-RPQF-W01UU
+BFEQ-EN2K-KVUK7
+
+Mothmant: Enable Poison Attack [Ralf]
+7J61-AN9T-637W6
+0PPT-R0BA-YJMJM
+P9Y9-VGJ7-YTZ4X
+
+Mothvert: Disable Poison Attack [Ralf]
+97XK-R6K8-ZTVQJ
+0PPT-R0BA-YJMJM
+WHX3-CBDM-KY50H
+
+Mothvert: Improved Poison Chance [Ralf]
+WJ4Z-XKVG-EMX2Z
+0PPT-R0BA-YJMJM
+E3GG-TEMK-WJGVQ
+
+Mothvert: Replace Poison Attack With Confusion Attack [Ralf]
+KB9F-0XP3-GFMPW
+0PPT-R0BA-YJMJM
+1WJ7-C1PN-0EBH0
+
+Mothvert: Replace Poison Attack With Paralysis Attack [Ralf]
+AT7N-8WGE-UVT62
+0PPT-R0BA-YJMJM
+G2EP-KZC9-F0C14
+
+Mothvert: Replace Poison Attack With Slow Attack [Ralf]
+63CG-DC3Q-0NGKD
+0PPT-R0BA-YJMJM
+6ZKF-U27A-F90ZY
+
+Nano Dragon: Grow/Attack Bug Fix [Ralf]
+MEJ1-XWHR-P03M3
+YXG1-KKRH-EXBQV
+AWQC-BT4D-WP9NH
+G75X-E1ZQ-TR74A
+KNH6-34VD-0JZHK
+CWY5-K05W-TFKZ5
+UHTJ-FAFR-G1AAM
+6G77-KAMU-HR4YA
+RMW0-MABE-9ERR5
+9UHA-8AA9-R9Z4F
+4F7A-7XC2-8JPET
+E9FZ-A3QA-YCERP
+
+Nano Dragon: Never Grow [Ralf]
+DM56-3B7Z-YJHGG
+6DYJ-NT0T-X9HEN
+50N4-CEYH-FGA2D
+
+Nano Dragon: Grow Faster [Ralf]
+3XQN-9AD3-GZ5R0
+6DYJ-NT0T-X9HEN
+TK2R-F617-BUHDC
+
+Nano Dragon: Improved Growing Limit [Ralf]
+6CYF-A51G-WQJWC
+6DYJ-NT0T-X9HEN
+F55A-WVKN-NHGEH
+
+Ob/Mil Lily: Cast Always Poison [Ralf]
+85TC-2BD4-7E93X
+DV8F-TGQ7-P87AV
+6ZAX-B56U-54XNK
+
+Ob/Mil Lily: Cast Always Megid & Poison [Ralf]
+YJR2-4NBQ-H0P0D
+DV8F-TGQ7-P87AV
+003J-VVV8-Z36G2
+
+Ob/Mil Lily: Can Cast Megid Or Poison [Ralf]
+M636-QW2T-N9YK2
+UJ3P-7R59-EHAWT
+3GH3-77YH-CE1VT
+HFTE-VBMK-Z21RN
+V7ZP-8FJQ-RE177
+MB8T-WB9Y-G7NG8
+X9V5-PZ14-48HJH
+GWR4-AQD5-WDEDX
+H2NF-RKG2-Q2QCY
+DJXG-AF0H-TDHX6
+UVAC-CDUR-KGCWA
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Always Split Into Two Slimes [Ralf]
+A8CG-GJU5-K0MWR
+VG1R-AAZR-7XE8J
+5BYP-4365-CHA49
+9JNT-YAZU-J31EQ
+
+Pofuilly/Pouilly Slime: Never Split Into Two Slimes [Ralf]
+HZGM-DXHW-AYGXZ
+VG1R-AAZR-7XE8J
+FAYK-MHF1-6NRK5
+9JNT-YAZU-J31EQ
+
+Pofuilly/Pouilly Slime: 25% Split Chance [Ralf]
+32QJ-DMTC-4F62Z
+TG1J-Z49F-YZNR7
+QDWB-PXP6-JHJ9U
+5T20-1BKY-JKRYM
+TB1Y-GZ4X-8J076
+W8F3-39E1-FUWH3
+MAEW-QT43-ZZD1R
+9JNT-YAZU-J31EQ
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: 50% Split Chance [Ralf]
+7ZAA-66PE-8W9R0
+TG1J-Z49F-YZNR7
+QDWB-PXP6-JHJ9U
+5T20-1BKY-JKRYM
+M8QP-FC0Y-TR51M
+W8F3-39E1-FUWH3
+MAEW-QT43-ZZD1R
+9JNT-YAZU-J31EQ
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Split Combo Bug Fix [Ralf]
+A0Y9-X955-T3NBB
+TG1J-Z49F-YZNR7
+E4V3-F6GB-2U396
+73W1-R45P-QFE8U
+UT6U-Z9EU-YUHY4
+HJ99-QAPA-FYTM9
+JFHD-D71D-TTFJB
+XTMG-MDQZ-B550D
+C12V-1W78-82YYM
+24W3-3CWM-HYG37
+0W01-J861-QXBWX
+WUUP-HHPJ-6R1N8
+4G50-7BTX-QM0ZC
+ZV2C-PP44-UG0FX
+4ECR-3N16-2CRUH
+0ZF3-070X-XKA0B
+E9FZ-A3QA-YCERP
+
+Pofuilly/Pouilly Slime: Allow Tech Boosts [Ralf]
+9Q8Z-4DRF-ZT35J
+Y8AC-3R1H-K1690
+MRAN-FCAA-C6QG3
+FM94-CNBE-PKJWN
+6BBF-DBUN-RAM56
+9HX3-XT2Y-3CKUH
+7M21-MDU1-CFEVN
+E9FZ-A3QA-YCERP
+
+Poison/Nar Lily: Cast Always Megid [Ralf]
+H1YY-MZ55-M8CZV
+DV8F-TGQ7-P87AV
+WE2Z-2FW4-C3JP0
+
+Poison/Nar Lily: Poison Attack Modifier [Ralf]
+0443AF30 000000xx
+
+xx = Attack ID (Default: 0F = Poison)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Poison/Nar Lily: Replace Poison Attack With Freeze Attack [Ralf]
+APBZ-W4RW-Q55YH
+F7H7-5Q4Y-PXC0F
+
+Poison/Nar/Ob/Mil Lily: Disable Suicide Attack [Ralf]
+PNQD-FAJM-MM7AV
+DV8F-TGQ7-P87AV
+6J0F-YWNP-0K5DT
+
+Poison/Nar/Ob/Mil Lily: Disable Paralysis Attack [Ralf]
+37K3-NAYR-EN8K1
+DV8F-TGQ7-P87AV
+4N79-MWCF-F6U8A
+
+Poison/Nar/Ob/Mil Lily: Improved Paralysis Chance [Ralf]
+RDT5-1ERZ-BTDKD
+DV8F-TGQ7-P87AV
+UCBV-XNDK-N6V9M
+
+Poison/Nar/Ob/Mil Lily: Cast Always Megid & Poison [Ralf]
+77R9-54K6-V5MVA
+041H-FABX-RX5RN
+WE2Z-2FW4-C3JP0
+003J-VVV8-Z36G2
+
+Poison/Nar/Ob/Mil Lily: Can Cast Megid Or Poison [Ralf]
+UJVH-9YJU-DFAN0
+UJ3P-7R59-EHAWT
+3GH3-77YH-CE1VT
+HFTE-VBMK-Z21RN
+V7ZP-8FJQ-RE177
+MB8T-WB9Y-G7NG8
+X9V5-PZ14-48HJH
+GWR4-AQD5-WDEDX
+H2NF-RKG2-Q2QCY
+DJXG-AF0H-TDHX6
+WE2Z-2FW4-C3JP0
+UVAC-CDUR-KGCWA
+E9FZ-A3QA-YCERP
+
+Poison/Nar/Ob/Mil Lily: Paralysis Attack Modifier [Ralf]
+0443AD80 000000xx
+0443AD88 000000yy
+
+xx = Attack 1 ID (Regular Attack, Default: 10 = Paralysis)
+yy = Attack 2 ID (Suicide Attack, Default: 10 = Paralysis)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Poison/Nar/Ob/Mil Lily: Replace Paralysis Attack With Jellen/Zalure [Ralf]
+GFRN-F3UR-FV00P
+5YNQ-NMNB-YKQCN
+8PCX-RTWH-VRHC9
+
+Savage/Barbarous Wolf: Enable Slow/Paralysis Attack [Ralf]
+KEG8-TFK7-6EZ01
+326X-J44Y-VQ90Z
+6KTW-MGA6-YTF92
+
+Savage Wolf/Gulgus: Replace Jellen/Zalure With Shifta/Deband [Ralf]
+FT42-YF1W-27AQU
+3U37-GXZ7-THPEV
+UD6A-3GY6-6M4K4
+P0AP-6U5D-JZQTQ
+WC8C-UW35-2M12E
+7W8Y-B7JM-71142
+E9FZ-A3QA-YCERP
+
+Sinow Beat/Blue/Gold/Red: Disable Confusion Attack [Ralf]
+QTN7-JBX6-UG3BP
+X9N5-4RGM-35EZU
+7YVR-DKCT-ZMQYZ
+
+Sinow Beat/Blue/Gold/Red: Improved Confusion Chance [Ralf]
+J0N0-GA3W-5X3EM
+X9N5-4RGM-35EZU
+3FD6-TX54-PZTQC
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Paralysis Attack [Ralf]
+FWYD-506A-WP6ET
+X9N5-4RGM-35EZU
+K4JZ-CEGT-UZ4ZJ
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Poison Attack [Ralf]
+UD94-EUVW-BT71M
+X9N5-4RGM-35EZU
+KUUF-9AAP-BYTKP
+
+Sinow Beat/Blue/Gold/Red: Replace Confusion Attack With Slow Attack [Ralf]
+ZDWW-3VEA-A9F54
+X9N5-4RGM-35EZU
+YVWJ-PM69-Y3TPM
+
+Sinow Berill: Enable Disarm Attack [Ralf]
+6Y1G-B9EK-EVQZB
+1X92-ZFBM-4HD71
+TEK6-9MEE-Q4AHR
+
+Sinow Berill: Disable Confusion Attack [Ralf]
+KH0X-RQAY-4YUNA
+1X92-ZFBM-4HD71
+2ATT-WY1H-B35GT
+
+Sinow Berill: Improved Confusion Chance [Ralf]
+Q032-YDCC-M8C67
+1X92-ZFBM-4HD71
+BHZ3-KM06-PCNFE
+
+Sinow Berill: Replace Confusion Attack With Paralysis Attack [Ralf]
+KK3U-BGAR-EBWRA
+1X92-ZFBM-4HD71
+1RR8-MHG3-8HR99
+
+Sinow Berill: Replace Confusion Attack With Poison Attack [Ralf]
+TZFA-X1J0-EWWCH
+1X92-ZFBM-4HD71
+BX2Z-5BKW-C9X6X
+
+Sinow Berill: Replace Confusion Attack With Slow Attack [Ralf]
+YHM3-XXQU-GADHB
+1X92-ZFBM-4HD71
+C13P-NZ3W-Q1FTE
+
+Sinow Berill/Spigell: Allow Tech Boosts [Ralf]
+WCPB-C8J0-ZEKRP
+MEWU-GQKA-70FRX
+MRAN-FCAA-C6QG3
+FM94-CNBE-PKJWN
+6BBF-DBUN-RAM56
+U000-WP8U-PX1K6
+HQYB-9EEW-4J8JX
+E9FZ-A3QA-YCERP
+
+Sinow Blue/Red: Allow Flinching [Aleron Ives & Ralf]
+4J77-9F27-PR8HG
+NPR9-3JFC-CYNEM
+CRBB-JNX7-ZVF64
+0GP9-FPRX-662PE
+5QAR-X9CT-JMCYG
+NZ1H-CPKD-BW84J
+392C-GP71-Y9M8H
+64Y8-5C0Z-3JDR5
+E9FZ-A3QA-YCERP
+
+
+Sinow Spigell: Disable Disarm Attack [Ralf]
+2U1F-VVBN-CZVFV
+1X92-ZFBM-4HD71
+605M-9NN8-W3VVJ
+
+Sinow Zele: Disable Disarm Attack [Ralf]
+0E05-PUD8-J1905
+YGGG-5DPF-8TKHY
+3AKM-FRU4-823PH
+
+Sinow Zoa: Enable Resta Tech [Ralf]
+B82K-HGQE-C6G0B
+3M19-FUGQ-7T9FE
+093D-03RR-V6T0M
+Z7UY-28P1-9P0JQ
+BCUX-4YUD-0ZCXF
+VGYD-AJZJ-5W2A7
+X36Q-PQYW-360ZD
+E9FZ-A3QA-YCERP
+
+Sinow Zoa: Enable Disarm Attack [Ralf]
+5078-2FCV-ZJCMH
+YGGG-5DPF-8TKHY
+UZMK-W4Q4-U45RF
+
+Sinow Zoa: Disable Confusion Attack [Ralf]
+1CP0-ZDH5-6MF41
+YGGG-5DPF-8TKHY
+C75Q-315M-4FABH
+
+Sinow Zoa: Improved Confusion Chance [Ralf]
+7MMR-H1H0-EJEMM
+YGGG-5DPF-8TKHY
+VGWK-F4WQ-T2P2Z
+
+Sinow Zoa: Replace Confusion Attack With Paralysis Attack [Ralf]
+WR81-WVD3-PTY54
+YGGG-5DPF-8TKHY
+VJE1-NMEE-H28RE
+
+Sinow Zoa: Replace Confusion Attack With Poison Attack [Ralf]
+KU6C-5J2E-CAY6A
+YGGG-5DPF-8TKHY
+NA7K-T1VY-K3M4T
+
+Sinow Zoa: Replace Confusion Attack With Slow Attack [Ralf]
+WWAN-R5Y7-Y5252
+YGGG-5DPF-8TKHY
+7NFE-EKU5-XQ918
+
+Sinow Zoa/Zele: Allow Tech Boosts [Ralf]
+BEEH-WVBD-7V26A
+3M19-FUGQ-7T9FE
+5BGY-0GE1-CK5A6
+EURQ-9H3M-5BFC8
+Y34Z-71TN-WZA6A
+E9FZ-A3QA-YCERP
+
+Ul Gibbon: Replace Slow Attack With Confusion Attack [Ralf]
+0CRY-G2NN-GQVCP
+2J81-JZUC-0T2BC
+0YYD-XRBW-VQNQY
+
+Ul Gibbon: Replace Slow Attack With Paralysis Attack [Ralf]
+0X0Q-12VU-9MC7F
+2J81-JZUC-0T2BC
+PUNA-FRDE-Q4A6J
+
+Ul Gibbon: Replace Slow Attack With Poison Attack [Ralf]
+JEYC-P68F-725UF
+2J81-JZUC-0T2BC
+YTW3-5K37-KTN58
+
+Ul Ray: Confusion/Paralysis Attack Modifier [Ralf]
+8C308694 7FA3EB78
+04307DE8 380000xx
+04307DF4 380000yy
+04307E00 380000zz
+00000000 40000000
+
+xx = Attack 1 ID (Ultimate Difficulty, Default: 10 = Paralysis)
+yy = Attack 2 ID (Ultimate Difficulty, Default: 10 = Paralysis)
+zz = Attack 3 ID (N/H/VH   Difficulty, Default: 12 = Confusion)
+
+02 - Freeze
+03 - Shock
+0B - Jellen
+0C - Zalure
+0F - Poison
+10 - Paralysis
+11 - Slow
+12 - Confusion
+
+Ul Ray: Replace Paralysis Attack 2 With Slow Attack [Ralf]
+5GK6-APGN-2DN9F
+RJXA-Y5G4-J8FZ0
+WZ59-FXZ8-4KWPF
+
+Ul/Zol Gibbon: Disable Slow/Paralysis Attack [Ralf]
+88XT-PDXU-N5KUU
+2J81-JZUC-0T2BC
+QFPQ-XAC2-FCFZB
+
+Ul/Zol Gibbon: Improved Slow/Paralysis Chance [Ralf]
+0QUZ-HF3R-FG9F8
+2J81-JZUC-0T2BC
+0ZZ4-99A1-YU10X
+
+Ul/Zol Gibbon: Improved Shifta/Deband Level [Ralf]
+MZQU-BN3Y-Z729B
+4KF3-JQQC-1J3XG
+U0HH-Y6K3-0M1PQ
+0UVB-86BN-XUG3D
+
+Vol Opt (Form 2): Allow Tech Boosts [Ralf]
+V5JC-9C5N-TRZJB
+GEX7-4J2M-E4MJE
+2YKY-Y9CM-WJGMC
+ETNU-3ZK2-G4EMA
+26FB-97F6-NC0H6
+3M23-CU6C-Q1MPH
+262H-MK2A-CG769
+8UMY-3GN0-1HGXC
+E9FZ-A3QA-YCERP
+
+Vol Opt (Form 2) Missles: Disable Slow Attack [Ralf]
+RFXT-AH97-3XKJP
+HMXP-TRZY-P732M
+CR7V-BBKH-1CFDQ
+
+Vol Opt (Form 2) Missles: Improved Slow Chance [Ralf]
+XE7A-4R77-A59NF
+HMXP-TRZY-P732M
+9QBA-BTBR-KC10A
+
+Vol Opt (Form 2) Missles: Replace Slow Attack With Confusion Attack [Ralf]
+V4YR-TB49-MVNJ4
+HMXP-TRZY-P732M
+QZX3-3GXY-Q1A3D
+
+Vol Opt (Form 2) Missles: Replace Slow Attack With Paralysis Attack [Ralf]
+XEMW-MRT2-AXAAV
+HMXP-TRZY-P732M
+JJXX-B149-U9BC7
+
+Vol Opt (Form 2) Missles: Replace Slow Attack With Poison Attack [Ralf]
+2M9Z-K3C4-Q99P8
+HMXP-TRZY-P732M
+Z9CX-HCVJ-XFFHD
+
+Zol Gibbon: Replace Paralysis Attack With Confusion Attack [Ralf]
+FXVV-JCVB-T48MC
+2J81-JZUC-0T2BC
+UHC3-N2ZD-T4HK0
+
+Zol Gibbon: Replace Paralysis Attack With Poison Attack [Ralf]
+GN8X-JD4X-12Y4J
+2J81-JZUC-0T2BC
+C94Y-KZZY-YYHHM
+
+Zol Gibbon: Replace Paralysis Attack With Slow Attack [Ralf]
+R5BN-3DC0-A0QGA
+2J81-JZUC-0T2BC
+RWZH-5U6V-HNX6M
+
+Replace Pig Rays With Ul Rays [Ralf]
+F8V2-FU0K-HBHG9
+RJXA-Y5G4-J8FZ0
+HEM7-F78J-KKA8D
+
+Replace Ob/Mil Lilies With Ice Lilies [Ralf]
+Y0R0-YXNB-29WJR
+041H-FABX-RX5RN
+3GKT-FXKY-6JCDW
+DFYD-TBEN-9DR2A
+
+Replace Ob/Mil Lilies With Fire Lilies [Ralf]
+Z028-5TCF-GGPZ5
+041H-FABX-RX5RN
+3GKT-FXKY-6JCDW
+0A16-9W2T-0836G
+
+Replace Poison/Nar/Ob/Mil Lilies With Ice Lilies [Ralf]
+GE3V-C2RJ-N7NU4
+UJ3P-7R59-EHAWT
+WE2Z-2FW4-C3JP0
+56W1-XU5G-UN8N0
+CADQ-7R22-JBVM2
+39BM-G8U7-8T24B
+DFYD-TBEN-9DR2A
+E9FZ-A3QA-YCERP
+
+Replace Poison/Nar/Ob/Mil Lilies With Fire Lilies [Ralf]
+QVEW-Q3J7-5CGR9
+UJ3P-7R59-EHAWT
+WE2Z-2FW4-C3JP0
+56W1-XU5G-UN8N0
+CADQ-7R22-JBVM2
+39BM-G8U7-8T24B
+0A16-9W2T-0836G
+E9FZ-A3QA-YCERP
+
+Replace Poison/Nar/Ob/Mil Lilies With Fire & Ice Lilies [Ralf]
+CC9N-AQD6-HUH4M
+UJ3P-7R59-EHAWT
+JBC9-3NWU-CRUXE
+AEXA-JTU9-3UZGF
+6F7U-7EBH-WPQD0
+HJCQ-38P3-6BBP2
+T691-9PTV-GJ19Q
+0CUM-DD3C-T6CEU
+1ZT5-5CD4-2W52X
+QWGE-MGNX-QT7FG
+0AD1-J86N-UB5DK
+5BXY-EEG9-8W9BD
+RXXN-RE1E-VTE11
+9DPW-VC4A-KV79A
+K89U-RKNJ-7NGXC
+480Q-09JW-PQHMQ
+PJQ4-6EC3-GUR31
+E9FZ-A3QA-YCERP
+
+Enemies: Max Aggression [Ralf]
+JUVK-PBKX-TDG0H
+EG0W-EFDM-QK210
+EJP1-NW8N-K1UQC
+VYCU-ZVG2-HQBHW
+
+Most Enemies Don't Attack On/Off (Press X + DPad Left/Right) [Ralf]
+76RE-N07C-K8FBT
+JPTA-2CEW-AMHT3
+YYYR-9AWA-7FBDH
+ZGXA-ZKU8-PEC7K
+4XCF-EBYC-FBPEC
+MNU4-B8JR-MWXA3
+CDHN-HFX0-PVEJM
+
+Tekker: All Free [Ralf]
+A8DK-WW8M-53ZVU
+JHF5-YR2D-KWZ3E
+Y0HZ-CRXG-Z5W84
+NZ67-3C7W-1DRTH
+T71Z-GFFN-FYVGB
+E9FZ-A3QA-YCERP
+
+Tekker Can Examine Any Weapon [Ralf]
+VHJG-8NRT-RHCA0
+JHF5-YR2D-KWZ3E
+0KK6-2BKN-CNZFV
+C1JX-4TF6-K3N9T
+QNHY-6J7W-2KVJ2
+TU7D-3P0G-D0J7F
+9U50-E9RE-ZJQQF
+3NCD-NW7F-NR6PE
+32C9-J6A9-WUXVD
+ZTHU-J7XR-06PXU
+E9FZ-A3QA-YCERP
+
+Tekker: Purely Random Tekking [Ralf]
+QGBZ-XB62-6KZYT
+JHF5-YR2D-KWZ3E
+U2QQ-HN6K-E5Y0W
+TDZ1-HXUU-MX6H3
+W5TF-RH7F-82QA8
+U7QZ-BQ6M-Z3BGB
+J8UT-VENB-JWT8T
+TE0X-370J-9PKBC
+2YJC-WPJ4-QTFPY
+C768-RA84-41X4E
+BGA5-YAH6-B55R2
+239C-QBNM-78QFP
+TGKQ-HZKF-U18DT
+KYGH-57GN-YAD6V
+JYXC-GZ7F-4J4X1
+2J85-BN2C-G4AGH
+FRJW-6B2R-444DK
+KFYB-GE5X-F378Q
+WG7V-BKDA-H19A2
+4B6Q-7FYA-PU673
+U7NR-KUYH-X73FM
+E9FZ-A3QA-YCERP
+
+Arms Shop: Max Grinded Weapons [Ralf]
+C4E1-Q0F5-NFHQY
+XDDV-TZ1X-JVPBD
+8V5G-JE7F-GX1GB
+
+Newmans: Improved TP Regeneration [Ralf]
+RJCR-BWHB-D4QZ5
+XRM5-YNJC-VEXU1
+M9ZN-J15X-W62TV
+
+Androids: Improved HP Regeneration [Ralf]
+5ZGT-84FA-TJPE3
+XRM5-YNJC-VEXU1
+Y9YD-FFD6-0YDNX
+
+Androids: Improved Leilla Healing [Ralf]
+TGNC-96CX-PAK9K
+7RTG-83C4-9KNFD
+6ZD9-88Z4-T5J34
+VVCA-RVCF-EDW7A
+437K-MYV7-WHKC5
+ZZGD-KD1F-GJX69
+D5MA-AVMG-4CDUK
+07VR-EGKJ-DAWBE
+E3QB-A5HF-60QDW
+H009-HXK7-FFENQ
+CXTZ-BTMK-B873C
+7CMY-J80V-PW6GN
+E9FZ-A3QA-YCERP
+
+
+NPC Model Modifier Codes
+
+
+Episode 1
+
+Female Base [Ralf]
+044980DC 80xxxxxx - Default: 14A204
+
+Female Child [Ralf]
+044980EC 80xxxxxx - Default: 14A3DC
+
+Female Dwarf [Ralf]
+044980FC 80xxxxxx - Default: 14A5B4
+
+Female Fat [Ralf]
+0449810C 80xxxxxx - Default: 14A78C
+
+Female Macho [Ralf]
+0449811C 80xxxxxx - Default: 14A964
+
+Female Old [Ralf]
+0449812C 80xxxxxx - Default: 14AB3C
+
+Female Tall [Ralf]
+0449813C 80xxxxxx - Default: 14AD14
+
+Male Base [Ralf]
+0449814C 80xxxxxx - Default: 14BDC8
+
+Male Child [Ralf]
+0449815C 80xxxxxx - Default: 14BFA0
+
+Male Dwarf [Ralf]
+0449816C 80xxxxxx - Default: 14C178
+
+Male Fat [Ralf]
+0449817C 80xxxxxx - Default: 14C350
+
+Male Macho [Ralf]
+0449818C 80xxxxxx - Default: 14C528
+
+Male Old [Ralf]
+0449819C 80xxxxxx - Default: 14C700
+
+Male Tall [Ralf]
+044981AC 80xxxxxx - Default: 14C8D8
+
+Tekker [Ralf]
+044981BC 80xxxxxx - Default: 149D3C
+
+Soldier Base [Ralf]
+044981CC 80xxxxxx - Default: 14DBF0
+
+Soldier Macho [Ralf]
+044981DC 80xxxxxx - Default: 14DDC8
+
+Principal Tyrell [Ralf]
+044981EC 80xxxxxx - Default: 14AFE8
+
+Guild Base [Ralf]
+044981FC 80xxxxxx - Default: 149B5C
+
+Scientist [Ralf]
+0449820C 80xxxxxx - Default: 149F30
+
+Nurse [Ralf]
+0449821C 80xxxxxx - Default: 14D840
+
+Secretary Irene [Ralf]
+0449822C 80xxxxxx - Default: 14DA18
+
+HUmar Ash [Ralf]
+0449823C 80xxxxxx - Default: 14B568
+
+HUneweral Sue [Ralf]
+0449824C 80xxxxxx - Default: 14D498
+
+RAmar Bernie [Ralf]
+0449825C 80xxxxxx - Default: 14B73C
+
+RAcast Gilliam [Ralf]
+0449826C 80xxxxxx - Default: 1481A0
+
+RAcaseal Elenor [Ralf]
+0449827C 80xxxxxx - Default: 1483AC
+
+FOmarl Alicia [Ralf]
+0449828C 80xxxxxx - Default: 14B1C0
+
+FOnewm Montague [Ralf]
+0449829C 80xxxxxx - Default: 14CD48
+
+FOnewearl Rupika [Ralf]
+044982AC 80xxxxxx - Default: 14D0F0
+
+HUneweral Blue [Ralf]
+044982BC 80xxxxxx - Default: 14D66C
+
+HUcast Red [Ralf]
+044982CC 80xxxxxx - Default: 147F8C
+
+RAmar Dacci [Ralf]
+044982DC 80xxxxxx - Default: 14B910
+
+FOmarl Technician [Ralf]
+044982EC 80xxxxxx - Default: 14B394
+
+FOnewm Yellow [Ralf]
+044982FC 80xxxxxx - Default: 14CF1C
+
+FOnewearl White [Ralf]
+0449830C 80xxxxxx - Default: 14D2C4
+
+Research Male Base [Ralf]
+0449831C 80xxxxxx - Default: 288B38
+
+Natasha Milarose [Ralf]
+0449832C 80xxxxxx - Default: 288D10
+
+Global NPC Modifier [Ralf]
+00000000 844980DC
+80xxxxxx 00260004
+
+xxxxxx = Episode 1 NPC Model ID
+
+
+Episode 1 NPC Model IDs
+
+147F8C - HUcast Red
+1481A0 - RAcast Gilliam
+1483AC - RAcaseal Elenor
+149B5C - Guild Base
+149D3C - Tekker
+149F30 - Scientist
+14A204 - Female Base
+14A3DC - Female Child
+14A5B4 - Female Dwarf
+14A78C - Female Fat
+
+14A964 - Female Macho
+14AB3C - Female Old
+14AD14 - Female Tall
+14AFE8 - Principal Tyrell
+14B1C0 - FOmarl Alicia
+14B394 - FOmarl Technician
+14B568 - HUmar Ash
+14B73C - RAmar Bernie
+14B910 - RAmar Dacci
+14BDC8 - Male Base
+
+14BFA0 - Male Child
+14C178 - Male Dwarf
+14C350 - Male Fat
+14C528 - Male Macho
+14C700 - Male Old
+14C8D8 - Male Tall
+14CD48 - FOnewm Montague
+14CF1C - FOnewm Yellow
+14D0F0 - FOnewearl Rupika
+14D2C4 - FOnewearl White
+
+14D498 - HUneweral Sue
+14D66C - HUneweral Blue
+14D840 - Nurse
+14DA18 - Secretary Irene
+14DBF0 - Soldier Base
+14DDC8 - Soldier Macho
+288B38 - Research Male Base
+288D10 - Natasha Milarose
+
+
+Episode 2
+
+Female Dwarf [Ralf]
+04498AEC 80xxxxxx - Default: 14A5B4
+
+Female Old [Ralf]
+04498AFC 80xxxxxx - Default: 14AB3C
+
+Male Child [Ralf]
+04498B0C 80xxxxxx - Default: 14BFA0
+
+Male Fat [Ralf]
+04498B1C 80xxxxxx - Default: 14C350
+
+Male Old [Ralf]
+04498B2C 80xxxxxx - Default: 14C700
+
+Male Tall [Ralf]
+04498B3C 80xxxxxx - Default: 14C8D8
+
+Tekker [Ralf]
+04498B4C 80xxxxxx - Default: 149D3C
+
+Soldier Base [Ralf]
+04498B5C 80xxxxxx - Default: 14DBF0
+
+Principal Tyrell [Ralf]
+04498B6C 80xxxxxx - Default: 14AFE8
+
+Guild Base [Ralf]
+04498B7C 80xxxxxx - Default: 149B5C
+
+Nurse [Ralf]
+04498B8C 80xxxxxx - Default: 14D840
+
+Secretary Irene [Ralf]
+04498B9C 80xxxxxx - Default: 14DA18
+
+FOmar Calus [Ralf]
+04498BAC 80xxxxxx - Default: 3585C4
+
+RAmarl Karen [Ralf]
+04498BBC 80xxxxxx - Default: 35853C
+
+RAcast Gilliam [Ralf]
+04498BCC 80xxxxxx - Default: 1481A0
+
+RAcaseal Elenor [Ralf]
+04498BDC 80xxxxxx - Default: 1483AC
+
+FOmarl Alicia [Ralf]
+04498BEC 80xxxxxx - Default: 14B1C0
+
+FOnewm Montague [Ralf]
+04498BFC 80xxxxxx - Default: 14CD48
+
+Leo Graheart [Ralf]
+04498C0C 80xxxxxx - Default: 3584B4
+
+Paganini [Ralf]
+04498C1C 80xxxxxx - Default: 35842C
+
+Delta [Ralf]
+04498C2C 80xxxxxx - Default: 3583A4
+
+FOnewm Yellow [Ralf]
+04498C3C 80xxxxxx - Default: 14CF1C
+
+Nol Rinale [Ralf]
+04498C4C 80xxxxxx - Default: 35831C
+
+Research Male Base [Ralf]
+04498C5C 80xxxxxx - Default: 288B38
+
+Natasha Milarose [Ralf]
+04498C6C 80xxxxxx - Default: 288D10
+
+Assistant Base [Ralf]
+04498C7C 80xxxxxx - Default: 2A314C
+
+Research Female Base [Ralf]
+04498C8C 80xxxxxx - Default: 2A3324
+
+Assistant Macho [Ralf]
+04498CAC 80xxxxxx - Default: 2FDFE8
+
+Research Male Macho [Ralf]
+04498CBC 80xxxxxx - Default: 2FDE10
+
+Elly Person [Ralf]
+04498CCC 80xxxxxx - Default: 358294
+
+Female Child [Ralf]
+04498CDC 80xxxxxx - Default: 35820C
+
+Female Base [Ralf]
+04498CEC 80xxxxxx - Default: 358184
+
+Male Base [Ralf]
+04498CFC 80xxxxxx - Default: 3580FC
+
+Officer [Ralf]
+04498D0C 80xxxxxx - Default: 358074
+
+Guild Blue [Ralf]
+04498D1C 80xxxxxx - Default: 357FEC
+
+Guild White [Ralf]
+04498D2C 80xxxxxx - Default: 357F64
+
+Research Female Macho [Ralf]
+04498D3C 80xxxxxx - Default: 357EDC
+
+Global NPC Modifier [Ralf]
+00000000 84498AEC
+80xxxxxx 001B0004
+00000000 84498CAC
+80xxxxxx 000A0004
+
+xxxxxx = Episode 2 NPC Model ID
+
+
+Episode 2 NPC Model IDs
+
+1481A0 - RAcast Gilliam
+1483AC - RAcaseal Elenor
+149B5C - Guild Base
+149D3C - Tekker
+14A5B4 - Female Dwarf
+14AB3C - Female Old
+14AFE8 - Principal Tyrell
+14B1C0 - FOmarl Alicia
+14BFA0 - Male Child
+14C350 - Male Fat
+
+14C700 - Male Old
+14C8D8 - Male Tall
+14CD48 - FOnewm Montague
+14CF1C - FOnewm Yellow
+14D840 - Nurse
+14DA18 - Secretary Irene
+14DBF0 - Soldier Base
+288B38 - Research Male Base
+288D10 - Natasha Milarose
+2A314C - Assistant Base
+
+2A3324 - Research Female Base
+2FDE10 - Research Male Macho
+2FDFE8 - Assistant Macho
+357EDC - Research Female Macho
+357F64 - Guild White
+357FEC - Guild Blue
+358074 - Officer
+3580FC - Male Base
+358184 - Female Base
+35820C - Female Child
+
+358294 - Elly Person
+35831C - Nol Rinale
+3583A4 - Delta
+35842C - Paganini
+3584B4 - Leo Graheart
+35853C - RAmarl Karen
+3585C4 - FOmar Calus
+
+
+Quest NPCs: Max Aggression [Ralf]
+T831-WEN5-QBMN9
+HY5E-CTDC-88B0H
+PFBY-1YWR-9PPE8
+834R-4TK0-N8R0T
+BBF2-EZBD-GPKXC
+QQ43-PTC3-5TFVA
+6NYA-2Z1J-9F1C7
+E9FZ-A3QA-YCERP
+
+Quest NPCs: Max Level & Best Equipment [Ralf]
+3WQK-TWR7-G9FEN
+HY5E-CTDC-88B0H
+ZRQH-JZAA-TEDWY
+TPDV-BCQN-4B940
+EZB9-QMRM-P2TNN
+AF0V-0Z9J-26VFH
+HRKW-RFGH-4GWNT
+JEEC-QXPU-KU8TJ
+E9FZ-A3QA-YCERP
+
+Quest NPCs: Max Tech Levels [Ralf]
+NAY0-DKHT-CFH6H
+HY5E-CTDC-88B0H
+7XJ8-86PX-U4HNP
+WXAA-KZUM-RUT2U
+WB6N-THBJ-C7KDA
+U0R0-8DBE-VDRPT
+4VUA-M1TF-DNHG7
+E9FZ-A3QA-YCERP
+
+Quest NPCs Can Use More Techs [Ralf]
+GPK6-AUNJ-E26WC
+HY5E-CTDC-88B0H
+HRH4-7007-G9VJQ
+RGP7-3T3C-BCH0B
+ENC8-ZAQG-QUCXV
+PZ7U-WV0T-MRV8U
+DPBF-1D7B-B7X0D
+ZBF4-8MDR-JT0CR
+DP2Z-KM56-1MRXA
+MXRK-AJZM-UTQKE
+K4HJ-6AZF-26776
+E9FZ-A3QA-YCERP
+
+Quest NPCs Unlimited Weapon Range Bug Fix [Ralf]
+VEW5-M469-TBJ07
+HY5E-CTDC-88B0H
+P7N5-9XPJ-CK325
+XYRE-5XVN-C6K16
+ND43-GBTV-43NXC
+RXG6-17QF-FRPMF
+H0C8-9K40-F7MQ9
+2V8N-6CHV-CNNT6
+E9FZ-A3QA-YCERP
+
+
+Quest NPC Modifier v1 [Ralf]
+8C15106C 7C7E1B78
+0400CCB8 281C0001
+0400CCBC 40820008
+0400CCC0 3BA000xx
+0400CCC4 7FA5EB78
+0400CCC8 481E4748
+041F140C 4BE1B8AC
+041F14F4 3BA000xx
+00000000 40000000
+
+xx = Quest NPC ID Slot 1
+
+Quest NPC Modifier v2 [Ralf]
+8C15106C 7C7E1B78
+0400CCB8 281C0001
+0400CCBC 40820008
+0400CCC0 3BA000xx
+0400CCC4 281C0002
+0400CCC8 40820008
+0400CCCC 3BA000yy
+0400CCD0 7FA5EB78
+0400CCD4 481E473C
+041F140C 4BE1B8AC
+041F14F4 3BA000xx
+00000000 40000000
+
+xx = Quest NPC ID Slot 1
+yy = Quest NPC ID Slot 2
+
+Replace Quest NPC xx With Quest NPC yy [Ralf]
+8C15106C 7C7E1B78
+0400CCD8 C8010030
+0400CCDC 281D00xx
+0400CCE0 40820008
+0400CCE4 3BA000yy
+0400CCE8 4E800020
+041F13F0 4BE1B8E9
+041F14FC 4BE1B7DD
+00000000 40000000
+
+xx/yy = Quest NPC IDs
+
+Replace Quest NPC vv/xx With Quest NPC ww/yy [Ralf]
+8C15106C 7C7E1B78
+0400CCD8 C8010030
+0400CCDC 281D00vv
+0400CCE0 4082000C
+0400CCE4 3BA000ww
+0400CCE8 4E800020
+0400CCEC 281D00xx
+0400CCF0 40820008
+0400CCF4 3BA000yy
+0400CCF8 4E800020
+041F13F0 4BE1B8E9
+041F14FC 4BE1B7DD
+00000000 40000000
+
+vv/ww = Quest NPC1 IDs
+xx/yy = Quest NPC2 IDs
+
+Replace Quest NPC With Special NPC v1 [Ralf]
+8C15106C 7C7E1B78
+0400CC30 387F005C
+0400CC34 281D00xx
+0400CC38 40820014
+0400CC3C 38A000yy
+0400CC40 98BF03E8
+0400CC44 38A00A01
+0400CC48 B0BF03FE
+0400CC4C 48145ED8
+04152B20 4BEBA110
+00000000 40000000
+
+xx = Quest   NPC ID
+yy = Special NPC ID
+
+Replace Quest NPC With Special NPC v2 [Ralf]
+8C15106C 7C7E1B78
+0400CC30 387F005C
+0400CC34 281D00vv
+0400CC38 40820018
+0400CC3C 38A000ww
+0400CC40 98BF03E8
+0400CC44 38A00A01
+0400CC48 B0BF03FE
+0400CC4C 48000014
+0400CC50 281D00xx
+0400CC54 4082000C
+0400CC58 38A000yy
+0400CC5C 4BFFFFE4
+0400CC60 48145EC4
+04152B20 4BEBA110
+00000000 40000000
+
+vv = Quest   NPC1 ID
+ww = Special NPC1 ID
+
+xx = Quest   NPC2 ID
+yy = Special NPC2 ID
+
+Replace Quest NPC With Special NPC (Name Replacer Version) v1 [Ralf]
+8C15106C 7C7E1B78
+0400CC30 387F005C
+0400CC34 281D00xx
+0400CC38 40820034
+0400CC3C 38A000yy
+0400CC40 98BF03E8
+0400CC44 38A00A01
+0400CC48 B0BF03FE
+0400CC4C 3CA0iiii
+0400CC50 60A5jjjj
+0400CC54 90BF03CC
+0400CC58 3CA0kkkk
+0400CC5C 60A5llll
+0400CC60 90BF03D0
+0400CC64 38A00000
+0400CC68 90BF03D4
+0400CC6C 48145EB8
+04152B20 4BEBA110
+00000000 40000000
+
+xx = Quest   NPC ID
+yy = Special NPC ID
+
+iiii jjjj kkkk llll = Special NPC Name
+
+Replace Quest NPC With Special NPC (Name Replacer Version) v2 [Ralf]
+8C15106C 7C7E1B78
+0400CC30 387F005C
+0400CC34 281D00vv
+0400CC38 40820038
+0400CC3C 38A000ww
+0400CC40 3C80iiii
+0400CC44 6084jjjj
+0400CC48 3CC0kkkk
+0400CC4C 60C6llll
+0400CC50 98BF03E8
+0400CC54 38A00A01
+0400CC58 B0BF03FE
+0400CC5C 909F03CC
+0400CC60 90DF03D0
+0400CC64 38A00000
+0400CC68 90BF03D4
+0400CC6C 48000024
+0400CC70 281D00xx
+0400CC74 4082001C
+0400CC78 38A000yy
+0400CC7C 3C80mmmm
+0400CC80 6084nnnn
+0400CC84 3CC0oooo
+0400CC88 60C6pppp
+0400CC8C 4BFFFFC4
+0400CC90 48145E94
+04152B20 4BEBA110
+00000000 40000000
+
+vv = Quest   NPC1 ID
+ww = Special NPC1 ID
+
+iiii jjjj kkkk llll = Special NPC1 Name
+
+xx = Quest   NPC2 ID
+yy = Special NPC2 ID
+
+mmmm nnnn oooo pppp = Special NPC2 Name
+
+
+Quest NPC IDs
+
+00 - Nol Rinale
+01 - Cicil  (Fat)
+02 - Cicil  (Slim)
+03 - Maraca
+04 - Elly Person
+05 - Shino
+06 - Donoph
+07 - Mome
+08 - Alicia (Alt. Equipment)
+09 - Ash    (Alt. Equipment)
+0A - Ash
+0B - Sue
+0C - Kireek
+0D - Bernie
+0E - Gilliam
+0F - Elenor
+
+10 - Alicia
+11 - Montague
+12 - Rupika
+13 - Matha
+14 - Anna
+15 - Tonzlar
+16 - Tobokke
+17 - Gekigasky
+18 - Type:O
+19 - Type:W
+1A - Gizel
+1B - Dacci
+1C - Hopkins
+1D - Doronbo
+1E - Kroe
+1F - Mujo
+
+20 - Racton
+21 - Lionel
+22 - Zoke
+23 - Sue    (Alt. Equipment)
+24 - Nadja
+25 - Elenor (Alt. Equipment)
+26 - Kireek (Alt. Equipment)
+27 - Bernie (Alt. Equipment)
+28 - Chris
+29 - Renee
+2A - Karen
+2B - Beiron
+2C - Naka
+2D - Leo Graheart
+2E - Hound
+2F - Madeleine
+
+30 - Valletta
+31 - Bogarde
+32 - Ult
+33 - Type:I
+34 - Type:V
+35 - Tachibana
+36 - Osman
+37 - Vivienne
+38 - BP
+39 - Shintaro
+3A - Ken
+3B - Takuya
+3C - Sokon
+3D - Ukon
+3E - Cantona
+3F - Hase
+
+
+Special NPC IDs
+
+00 - Ninja
+01 - Rico
+02 - Sonic
+03 - Knuckles
+04 - Tails
+05 - Flowen
+06 - Elly
+
+
+Special NPC Names
+
+4E49 4E4A 4100 0000 - NINJA
+5249 434F 0000 0000 - RICO
+534F 4E49 4300 0000 - SONIC
+4B4E 5543 4B4C 4553 - KNUCKLES
+5441 494C 5300 0000 - TAILS
+464C 4F57 454E 0000 - FLOWEN
+454C 4C59 0000 0000 - ELLY
+
+
+Water & Light Effects Aspect Ratio Fix [Ralf]
+K4MQ-WZPC-J6Q0Z
+D013-UUM5-N0C6B
+3CVY-M7A0-HQTY0
+CZNV-8ABR-HP8TG
+QAFD-RCPW-41WBD
+BDT6-3TMW-BA3Q3
+YRGZ-76B7-72QQN
+E9FZ-A3QA-YCERP
+
+Use this code only with the 16:9 Aspect Ratio codes.
+
+Improved Rare Items Drop Rate [Ralf]
+07J3-UF3U-JQ6V8
+0NWX-Q3CJ-4DR3J
+VT1F-T12J-4Y9EE
+RZZX-CQ70-96JYE
+AU9H-WE05-TZ5TA
+7NQR-FDNU-41VTV
+32D1-9DKU-KQK1G
+RN77-43GE-4V28K
+4KRX-BV6H-5ZTQZ
+9832-N831-DCCW8
+Y2MZ-M9JR-ZKYBG
+E9FZ-A3QA-YCERP
+
+Rare Items Drop Rate Modifier [Ralf]
+8C106878 7C04E0AE
+0400BE00 7C0501D6
+0400BE04 38A0xxxx
+0400BE08 7C850016
+0400BE0C 7C0501D6
+0400BE10 2C040000
+0400BE14 41820008
+0400BE18 3800FFFF
+0400BE1C 480FB898
+041076B0 4BF04750
+00000000 40000000
+
+xxxx = Drop Rate Multiplier (0002 .. 2710)
+
+Leilla Restores HP & TP [Ralf]
+RJ6P-180A-GF5U4
+7RTG-83C4-9KNFD
+FZ17-MGM7-J92NK
+UUE5-XC5E-BRJKX
+D2PD-99G5-2P07Y
+7HTF-9P4X-RF8P6
+0CDJ-NEB5-K18V8
+WY90-RZPQ-JX8QQ
+JW51-91AQ-1ZZBD
+C8DX-3AME-1VQ3A
+YCPV-3UP3-5YU3A
+WD62-GAPU-ACVYA
+7RDF-RJ2V-WYTGV
+E9FZ-A3QA-YCERP
+
+Leilla Restores Full HP & TP [Ralf]
+X2XC-7DXP-4TX5R
+7RTG-83C4-9KNFD
+CAEJ-5F19-GNMBG
+6ATJ-QHBU-V0U4B
+H3Q8-A2BP-CAPKC
+0Q4E-B4G9-1VC0Q
+0FQF-TD2N-76QPX
+9KWR-NM3H-Q340J
+KKZ6-JXN1-FC6XG
+M3Q9-6TBP-P1CRK
+WD62-GAPU-ACVYA
+7RDF-RJ2V-WYTGV
+E9FZ-A3QA-YCERP
+
+Disable Photon Blast Target Lock [Aleron Ives & Ralf]
+BGC9-14ZF-882MC
+XB4Q-HNX8-B6R7Y
+U4CG-QCW1-V1VWT
+
+Photon Blast Target Lock Patch [Ralf]
+DM5U-9FKV-G6N2C
+NF5J-M7WW-ABAD9
+8FVF-P032-E1UU7
+2MF5-UNZ5-26DGK
+JUMT-CJ7K-DE56R
+FWAA-NE0N-PXNP4
+81UP-7Y6M-5CMY4
+BC94-DQ03-JYFEY
+MJ7R-9Y6N-HM7NX
+QZ92-MZZZ-NCQV3
+V61J-WK62-CHPQ4
+8QBR-FG2F-7PQPT
+PAVB-86B3-X1323
+67XG-WQBK-D0QR5
+E9FZ-A3QA-YCERP
+
+Use this code with the Full Action List code.
+
+Can Use All Photon Blasts Anytime (No Mag Needed) [Ralf]
+JAG3-6N1H-UHKQW
+XB4Q-HNX8-B6R7Y
+Y5J7-8J26-2A9F6
+
+Use this code with the Action Button Palette codes, the Full Action List code and
+the Disable Photon Blast Palette Switching code.
+
+
+Have Two Action Button Palettes (Z Button Version) - Part 1 [Ralf]
+5REN-BAJK-M0JTB
+RVAC-4FFT-AUKEN
+331N-9GDD-KTCYN
+ZHB6-22D0-WEJ4J
+695P-5MD6-PZGQZ
+FQEJ-1YDW-10QP5
+6C7F-3JJ5-BY8J8
+RNYY-90DK-VHT2N
+RW0Q-WETU-CCK95
+1B75-T7N5-XQ4ZA
+3YDQ-DPY7-2U3D1
+B96G-Q1Z5-W29Y5
+MU3X-9A4U-GGZT2
+5BBB-XCE2-TY29E
+8Y6C-MEAR-F734M
+1MF8-4DRE-P4TR3
+TJX8-N178-QJM95
+4E64-R2J6-DNYR5
+ZU4E-6GG4-2W47E
+X339-8WBN-Q45CP
+D0P7-5CW9-R5Q8D
+1NGE-XJEX-J4GXP
+B52X-TX89-76CGV
+PH8W-D66Y-XD5M8
+KRW3-DW5Q-136VZ
+G82J-7TV1-8A532
+QC82-07UB-39FA2
+HE5W-U6YK-ZY3WC
+U9QX-YFF3-8B0DF
+J1U3-NVFH-0T1J1
+N2AX-8A0P-AJRMC
+QYKB-YUAP-VF9HQ
+58G2-10B1-3131R
+T3MV-DB44-WU8W7
+MPD9-PQBA-KMQE6
+D17G-R10H-PZQA7
+8V5N-XWFF-A1ZGY
+MPGF-CUJ2-METBE
+E9FZ-A3QA-YCERP
+
+Have Two Action Button Palettes (Z Button Version) - Part 2 [Ralf]
+YNG3-4D7Z-8H376
+RVAC-4FFT-AUKEN
+BETV-MMU5-TYXAD
+D7EA-HBH6-9JNG3
+VFGA-TRDB-T6VGC
+K8R8-ZWT5-TWAT4
+01PC-1T47-GKGKY
+E4R6-MNMC-ZCVDN
+1K17-4G1T-AJUPV
+VFQD-F545-E5NH6
+UAMB-B5DZ-ZM77Y
+384V-4RV4-7RW05
+V3QT-T6BJ-51B1V
+1G84-2U97-JMVMN
+5Z9U-X8ZZ-KQWR1
+5TUB-E1WK-D39ZE
+KJW0-1Z2F-6682W
+MJTC-QBDY-1F0PT
+HE9B-3QJA-0GRNC
+3A9C-ZRJN-X66ZD
+KD0H-H064-JTUV4
+4N8U-B4TX-YC7JY
+NVTZ-PMRE-MWA14
+JA53-MDR9-YEWN3
+HGNW-E0TX-G2T63
+3HKC-J2NU-DGC1U
+8EDN-BWVD-QC9PY
+1ZZT-HC66-2PCFV
+VQHP-AA3G-G77MN
+MRP0-PUXY-Q7EJK
+8MXH-HH9F-0H9Y7
+E9FZ-A3QA-YCERP
+
+This code will let you have two different palettes of action buttons.
+
+Control Keys
+
+Z         = Cycle Through Palettes (Battle Screen & Customize Menu)
+L + R + Z = Save Active Button Selection As Palette (Customize Menu)
+
+
+Have Three Action Button Palettes (Z Button Version) - Part 1 [Ralf]
+U2UN-59YU-J5XEH
+RVAC-4FFT-AUKEN
+331N-9GDD-KTCYN
+ZHB6-22D0-WEJ4J
+695P-5MD6-PZGQZ
+FQEJ-1YDW-10QP5
+6C7F-3JJ5-BY8J8
+RNYY-90DK-VHT2N
+RW0Q-WETU-CCK95
+1B75-T7N5-XQ4ZA
+3YDQ-DPY7-2U3D1
+B96G-Q1Z5-W29Y5
+MU3X-9A4U-GGZT2
+5BBB-XCE2-TY29E
+8Y6C-MEAR-F734M
+1MF8-4DRE-P4TR3
+TJX8-N178-QJM95
+4E64-R2J6-DNYR5
+ZU4E-6GG4-2W47E
+GCAW-YG4R-B0Y91
+D0P7-5CW9-R5Q8D
+1NGE-XJEX-J4GXP
+B52X-TX89-76CGV
+PH8W-D66Y-XD5M8
+KRW3-DW5Q-136VZ
+G82J-7TV1-8A532
+QC82-07UB-39FA2
+HE5W-U6YK-ZY3WC
+U9QX-YFF3-8B0DF
+J1U3-NVFH-0T1J1
+N2AX-8A0P-AJRMC
+QYKB-YUAP-VF9HQ
+58G2-10B1-3131R
+T3MV-DB44-WU8W7
+MPD9-PQBA-KMQE6
+D17G-R10H-PZQA7
+8V5N-XWFF-A1ZGY
+MPGF-CUJ2-METBE
+E9FZ-A3QA-YCERP
+
+Have Three Action Button Palettes (Z Button Version) - Part 2 [Ralf]
+6C9U-2KFK-GDZDY
+RVAC-4FFT-AUKEN
+BETV-MMU5-TYXAD
+D7EA-HBH6-9JNG3
+VFGA-TRDB-T6VGC
+K8R8-ZWT5-TWAT4
+01PC-1T47-GKGKY
+E4R6-MNMC-ZCVDN
+1K17-4G1T-AJUPV
+VFQD-F545-E5NH6
+UAMB-B5DZ-ZM77Y
+384V-4RV4-7RW05
+V3QT-T6BJ-51B1V
+1G84-2U97-JMVMN
+5Z9U-X8ZZ-KQWR1
+5TUB-E1WK-D39ZE
+KJW0-1Z2F-6682W
+MJTC-QBDY-1F0PT
+HE9B-3QJA-0GRNC
+3A9C-ZRJN-X66ZD
+KD0H-H064-JTUV4
+4N8U-B4TX-YC7JY
+NVTZ-PMRE-MWA14
+JA53-MDR9-YEWN3
+HGNW-E0TX-G2T63
+3HKC-J2NU-DGC1U
+8EDN-BWVD-QC9PY
+1ZZT-HC66-2PCFV
+VQHP-AA3G-G77MN
+MRP0-PUXY-Q7EJK
+8MXH-HH9F-0H9Y7
+E9FZ-A3QA-YCERP
+
+This code will let you have three different palettes of action buttons.
+
+Control Keys
+
+Z         = Cycle Through Palettes (Battle Screen & Customize Menu)
+L + R + Z = Save Active Button Selection As Palette (Customize Menu)
+
+
+Have Four Action Button Palettes (Z Button Version) - Part 1 [Ralf]
+XXVB-UQ5K-PX0KP
+RVAC-4FFT-AUKEN
+331N-9GDD-KTCYN
+ZHB6-22D0-WEJ4J
+695P-5MD6-PZGQZ
+FQEJ-1YDW-10QP5
+6C7F-3JJ5-BY8J8
+RNYY-90DK-VHT2N
+RW0Q-WETU-CCK95
+1B75-T7N5-XQ4ZA
+3YDQ-DPY7-2U3D1
+B96G-Q1Z5-W29Y5
+MU3X-9A4U-GGZT2
+5BBB-XCE2-TY29E
+8Y6C-MEAR-F734M
+1MF8-4DRE-P4TR3
+TJX8-N178-QJM95
+4E64-R2J6-DNYR5
+ZU4E-6GG4-2W47E
+8B2P-5FD4-FRDF1
+D0P7-5CW9-R5Q8D
+1NGE-XJEX-J4GXP
+B52X-TX89-76CGV
+PH8W-D66Y-XD5M8
+KRW3-DW5Q-136VZ
+G82J-7TV1-8A532
+QC82-07UB-39FA2
+HE5W-U6YK-ZY3WC
+U9QX-YFF3-8B0DF
+J1U3-NVFH-0T1J1
+N2AX-8A0P-AJRMC
+QYKB-YUAP-VF9HQ
+58G2-10B1-3131R
+T3MV-DB44-WU8W7
+MPD9-PQBA-KMQE6
+D17G-R10H-PZQA7
+8V5N-XWFF-A1ZGY
+MPGF-CUJ2-METBE
+E9FZ-A3QA-YCERP
+
+Have Four Action Button Palettes (Z Button Version) - Part 2 [Ralf]
+URHH-VE0R-C31P5
+RVAC-4FFT-AUKEN
+BETV-MMU5-TYXAD
+D7EA-HBH6-9JNG3
+VFGA-TRDB-T6VGC
+K8R8-ZWT5-TWAT4
+01PC-1T47-GKGKY
+E4R6-MNMC-ZCVDN
+1K17-4G1T-AJUPV
+VFQD-F545-E5NH6
+UAMB-B5DZ-ZM77Y
+384V-4RV4-7RW05
+V3QT-T6BJ-51B1V
+1G84-2U97-JMVMN
+5Z9U-X8ZZ-KQWR1
+5TUB-E1WK-D39ZE
+KJW0-1Z2F-6682W
+MJTC-QBDY-1F0PT
+HE9B-3QJA-0GRNC
+3A9C-ZRJN-X66ZD
+KD0H-H064-JTUV4
+4N8U-B4TX-YC7JY
+NVTZ-PMRE-MWA14
+JA53-MDR9-YEWN3
+HGNW-E0TX-G2T63
+3HKC-J2NU-DGC1U
+8EDN-BWVD-QC9PY
+1ZZT-HC66-2PCFV
+VQHP-AA3G-G77MN
+MRP0-PUXY-Q7EJK
+8MXH-HH9F-0H9Y7
+E9FZ-A3QA-YCERP
+
+This code will let you have four different palettes of action buttons.
+
+Control Keys
+
+Z         = Cycle Through Palettes (Battle Screen & Customize Menu)
+L + R + Z = Save Active Button Selection As Palette (Customize Menu)
+
