@@ -1,4 +1,3 @@
-
 Animated Reticle [Ralf]
 2013B800 7C7F1B78
 0600CE20 00000024

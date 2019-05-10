@@ -1,4 +1,3 @@
-
 TP Bar Color Bug Fix [Aleron Ives & Ralf]
 2026EF3C 3C80FF01
 0426EF44 3884AAFA
