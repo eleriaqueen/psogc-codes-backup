@@ -1,3 +1,3 @@
 # PSOGC-Codes-Backup
-## All Credit Goes to Ralph@GC-Forever
+## All Credit Goes to Ralf@gc-forever
 ## This is just a backup...
