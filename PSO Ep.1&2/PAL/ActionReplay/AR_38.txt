@@ -1,0 +1,329 @@
+Enemies & Traps: No Player Speed Reduction [Ralf]
+58EY-B8FK-JB3XJ
+NTEK-JDNC-DVN42
+7DBA-QNY3-ECVW9
+841G-YF8E-DPAXA
+KT21-YMCZ-JE4CG
+E9FZ-A3QA-YCERP
+
+
+Able To Use Any Tech Disk [Ralf]
+00G9-H8W1-9AQ66
+2P1C-W6AU-VUGD6
+07RG-XMYM-UCH54
+7GG2-034R-TDA1Q
+
+Morning Glory: Improved Power [Ralf]
+2GCJ-72DN-MFHE8
+39DC-U1C6-ZZQV8
+APTA-K07N-Y6TZ4
+
+Idle Player/NPC Anim Speed Reduction [Ralf]
+R3QH-XFQQ-N7YBW
+0FR4-AAWB-02MMV
+ZWQW-CP0R-3YR2P
+E3GV-DYPZ-C1HRR
+QV7T-51EQ-ZX1ED
+KC9Z-3H7A-A9DWP
+CKAA-JAPE-C9K24
+W94Y-88CE-Z01VG
+N0Q7-JZH4-WUJAX
+GVDA-987J-GW6G8
+FHZ8-1EHQ-B7BD9
+F2DN-QGY0-8FZ4P
+HJC2-YZ74-BJ6M7
+027Q-RFBZ-ZDVJX
+E9FZ-A3QA-YCERP
+
+Show Traps On Area & Radar Map [Ralf]
+GJWE-UECK-6R8UH
+PWXB-YP0K-KGZ7T
+AG29-DC5G-TMN8N
+6NY6-651D-UUAPV
+QNUQ-WC03-Q7B1V
+5KNB-ZZVY-A4X93
+B4FU-XGCC-7H0GF
+PDT4-G7BB-DWV1K
+RX0R-5YT6-2FJ5X
+VBG8-7G1Y-5V0NK
+0G4Q-W9WD-Z057E
+E9FZ-A3QA-YCERP
+
+Show Traps On Area & Radar Map (Androids/Trap Vision) [Ralf]
+EFQJ-3RPG-FXR3N
+PWXB-YP0K-KGZ7T
+AG29-DC5G-TMN8N
+6NY6-651D-UUAPV
+QNUQ-WC03-Q7B1V
+5KNB-ZZVY-A4X93
+B4FU-XGCC-7H0GF
+PDT4-G7BB-DWV1K
+W6WR-7MUH-N7CM9
+JGXB-1PKJ-BB662
+TDE2-NAYR-Z9GWF
+E9FZ-A3QA-YCERP
+
+Status Window #3: Show Power/Mind/Evade/Defense/Luck Material Info [Ralf]
+VANE-16ZN-EW3PA
+B10C-VVZR-B3D46
+VV0E-09NY-TB1YK
+YP1T-M1DB-HH2NQ
+NX7T-DDQ0-5YD9M
+Q28K-64B9-VEG3Z
+5XDV-E5T8-Z5V9W
+GZA5-F4FR-TX53J
+KPUC-T8B0-34QT6
+FA3G-WRJB-RV09G
+9J9D-4YTK-WD9JY
+GFFP-K40F-25JH7
+EVVE-UF40-DEN75
+V2AH-9YTJ-UBF9X
+MY9J-2456-B53JZ
+JT06-43YM-38Y16
+JHHH-RNKM-CARN1
+83Q7-4H0N-EVUDU
+DEG4-5FGH-MRH0N
+25VM-K25X-XPGER
+E9FZ-A3QA-YCERP
+
+Never Fall Down When Taking Damage [Ralf]
+NRR0-UBY2-03HHA
+P6HP-NYG4-1YG3N
+C2PP-PMYA-WG3TN
+
+Always Fall Down When Taking Damage [Ralf]
+E3N6-NT6T-VR5U0
+P6HP-NYG4-1YG3N
+DVHU-FVTX-R1C9H
+
+Reduced Falling Down Chance When Taking Damage [Ralf]
+54YP-UW1Y-XNXV5
+P6HP-NYG4-1YG3N
+GK5X-EUDD-8M75V
+
+Lobby Ground Elevation Fix (Dreamcast Players) [Ralf]
+YK4R-1FBE-XMWWN
+8VPC-0UQ7-6KT48
+C68J-FDHC-EW55C
+WVMK-D3BP-DPU60
+304M-WAYG-HF778
+VXG7-FJE2-PQ0E5
+CX10-N16U-QKW4B
+5DUU-BVAD-3EFY3
+VB0X-2CWJ-4KR46
+E9FZ-A3QA-YCERP
+
+Dropped Item Boxes Elevation Fix [Ralf]
+4F2E-8XQN-00GHC
+G1W8-QNNA-NGMD7
+59WN-RJ80-MENK5
+
+Jesus Mode (Walk On Walter) [Ralf]
+GW6Z-4YR0-8D5J6
+A8C3-0TRR-7DMGU
+Z0G9-5T9Z-0HH1E
+
+Faster HP/TP Bar Fill Anim Speed [Ralf]
+X4PZ-35CM-A60YW
+QD2H-6GYR-1A41Q
+
+HP/TP Bar: Low HP/TP Color Bug Fix [Ralf]
+HJN5-YBN6-RCDGK
+W4R3-9UAR-KU367
+BG3B-BDWD-0WUH8
+NACR-GEUX-PCKT1
+BF69-M0VV-R27MU
+E9FZ-A3QA-YCERP
+
+Don't use with Low HP/TP Color Modifier codes.
+
+Androids: TP Bar Text Color Bug Fix [Ralf]
+5KHJ-1Z3Q-49VEW
+W4R3-9UAR-KU367
+UCYB-RQDU-NQH79
+7XZT-Z614-GTQP7
+YHD0-9YKD-TPXGX
+F4UP-N71E-BJNU9
+E9FZ-A3QA-YCERP
+
+
+HP Bar Foreground Color Modifier (Normal) [Ralf]
+8C26F038 7C7E1B78
+0426F140 3C60FFrr
+0426F144 6063ggbb
+0426F1FC 3C60FFrr
+0426F204 6064ggbb
+00000000 40000000
+
+Default: 00FF15 (Green)
+
+HP Bar Foreground Color Modifier (Low HP) [Ralf]
+4C26F038 7C7E1B78
+0426F20C 3C60FFrr
+0426F210 6064ggbb
+
+Default: F2FF19 (Yellow)
+
+HP Bar Background Color Modifier (HP Gain) [Ralf]
+044D121C FFrrggbb
+044E86EC FFrrggbb
+
+Default: 00CA9E (Cyan)
+
+HP Bar Background Color Modifier (HP Drain) [Ralf]
+044D1220 FFrrggbb
+044E86F0 FFrrggbb
+
+Default: FF2924 (Red)
+
+HP Bar Text Color Modifier (Normal) [Ralf]
+8C26F038 7C7E1B78
+0400B31C 3FC0FFrr
+0400B320 63DEggbb
+0400B324 48263EE0
+0426F200 4BD9C11C
+00000000 40000000
+
+Default: FFFFFF (White)
+
+HP Bar Text Color Modifier (Low HP) [Ralf]
+8C26F038 7C7E1B78
+0400B310 3FC0FFrr
+0400B314 63DEggbb
+0400B318 48263F00
+0426F214 4BD9C0FC
+00000000 40000000
+
+Default: F2FF19 (Yellow)
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+TP Bar Foreground Color Modifier (Normal) [Ralf]
+8C26F038 7C7E1B78
+0426F054 3C60FFrr
+0426F058 6063ggbb
+0426F0D8 3C60FFrr
+0426F0E0 6064ggbb
+00000000 40000000
+
+Default: 008CFC (Light Blue)
+
+TP Bar Foreground Color Modifier (Low TP) [Ralf]
+8C26F038 7C7E1B78
+0400B334 3C80FFrr
+0400B338 6084ggbb
+0400B33C 48263DB0
+0426F0E8 4BD9C24C
+00000000 40000000
+
+Default: FFC114 (Yellow)
+
+TP Bar Background Color Modifier (TP Gain) [Ralf]
+044D1248 FFrrggbb
+
+Default: 008DEE (Light Blue)
+
+TP Bar Background Color Modifier (TP Drain) [Ralf]
+044D124C FFrrggbb
+
+Default: FF2924 (Red)
+
+TP Bar Text Color Modifier (Normal) [Ralf]
+8C26F038 7C7E1B78
+0400B340 3FE0FFrr
+0400B344 63FFggbb
+0400B348 48263D98
+0426F0DC 4BD9C264
+00000000 40000000
+
+Default: FFFFFF (White)
+
+TP Bar Text Color Modifier (Low TP) [Ralf]
+8C26F038 7C7E1B78
+0400B328 3FE0FFrr
+0400B32C 63FFggbb
+0400B330 48263DC0
+0426F0EC 4BD9C23C
+00000000 40000000
+
+Default: FFC114 (Yellow)
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+PB Gauge Foreground Color Modifier (001%-100%) [Ralf]
+0444F3F0 FFrrggbb
+
+Default: D8CF00 (Yellow)
+
+PB Gauge Foreground Color Modifier (101%-200%) [Ralf]
+0444F3F4 FFrrggbb
+
+Default: D88A00 (Orange)
+
+PB Gauge Foreground Color Modifier (201%-300%) [Ralf]
+0444F3F8 FFrrggbb
+
+Default: D84500 (Dark Orange)
+
+PB Gauge Foreground Color Modifier (301%-400%) [Ralf]
+0444F3FC FFrrggbb
+
+Default: D80000 (Red)
+
+PB Gauge Background Color Modifier [Ralf]
+0444F3EC FFrrggbb
+
+Default: 3C3C3C (Dark Gray)
+
+PB Gauge Text Color Modifier [Ralf]
+044D135C FFrrggbb
+
+Default: FFFFFF (White)
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Internet Clock Bar Color Modifier [Ralf]
+8C26F038 7C7E1B78
+0401EC90 67E700rr
+0401ECA0 60E7ggbb
+0401ECA4 C8620838
+0401ED7C 60000000
+00000000 40000000
+
+Default: 00FF00 (Green)
+
+Internet Clock Text Color Modifier [Ralf]
+4C26F038 7C7E1B78
+0401EC24 67FC00rr
+0401EC2C 639Cggbb
+
+Default: FFFFFF (White)
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Window Scroll Bar Color Modifier [Ralf]
+8C26F038 7C7E1B78
+04141D50 4800000C
+0426D0F4 386000rr
+0426D0F8 388000gg
+0426D0FC 38A000bb
+00000000 40000000
+
+Default: 86FF41 (Light Green)
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
