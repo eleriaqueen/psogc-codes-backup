@@ -1,4 +1,3 @@
-
 Invalid Weapons Base Model Patch [Ralf]
 201102AC 7C7D1B79
 0600C840 0000003C

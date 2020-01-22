@@ -1,4 +1,3 @@
-
 Water & Light Effects Aspect Ratio Fix [Ralf]
 20376B98 7C7F1B78
 0600BDF0 00000010

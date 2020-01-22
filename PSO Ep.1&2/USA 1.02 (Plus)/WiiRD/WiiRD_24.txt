@@ -1,4 +1,3 @@
-
 Bulclaw: Disable Poison Attack [Ralf]
 2008F0F0 7FE3FB78
 0408F104 48000044
