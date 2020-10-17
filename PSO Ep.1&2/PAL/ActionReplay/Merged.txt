@@ -11424,7 +11424,6 @@ NTEK-JDNC-DVN42
 KT21-YMCZ-JE4CG
 E9FZ-A3QA-YCERP
 
-
 Able To Use Any Tech Disk [Ralf]
 00G9-H8W1-9AQ66
 2P1C-W6AU-VUGD6
@@ -12876,7 +12875,6 @@ E9FZ-A3QA-YCERP
 
 Use this code to play Download Quests with embedded decryption key.
 
-
 Del Lily: Cast Always Poison [Ralf]
 PVBP-NTW1-N7B03
 DV8F-TGQ7-P87AV
@@ -13193,4 +13191,20 @@ This code generates Download Quests with embedded decryption key when
 you download the quest files from a server. Note that such downloaded
 quest files contain your actual PSO serial number and may compromise
 your PSO server credentials.
+
+Able To Equip Any Mag [Ralf]
+3WQE-KKRX-8QKJH
+1QG9-PMZE-616N1
+U06W-3DE7-B8HP9
+
+Able To Equip Any Gear [Ralf]
+ME0J-A3RF-GY9J5
+2P1C-W6AU-VUGD6
+D91H-W267-XM1A6
+B761-MH94-U8EFZ
+
+Able To Equip Any Weapon [Ralf]
+6TH5-UD8E-D8AVN
+1QG9-PMZE-616N1
+H940-J76A-JV6H9
 
