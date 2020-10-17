@@ -1,4 +1,3 @@
-
 Del Lily: Cast Always Poison [Ralf]
 PVBP-NTW1-N7B03
 DV8F-TGQ7-P87AV
@@ -315,3 +314,4 @@ This code generates Download Quests with embedded decryption key when
 you download the quest files from a server. Note that such downloaded
 quest files contain your actual PSO serial number and may compromise
 your PSO server credentials.
+
