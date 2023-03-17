@@ -1,0 +1,4 @@
+Disable Specific Vert/Hori Teal Lines in Start Menu (Ralf + Fuzziqer)
+0424CA50 60000000
+0424CA8C 60000000
+
