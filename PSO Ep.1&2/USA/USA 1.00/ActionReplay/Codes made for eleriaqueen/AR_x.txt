@@ -1,4 +1,0 @@
-Disable those pesky light-blue lines in the start menu (Ralph)(may also work for v1.01)
-0424C090 60000000
-0424C0C8 60000000
-

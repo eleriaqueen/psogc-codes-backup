@@ -1,0 +1,4 @@
+Disable Specific Vert/Hori Teal Lines in Start Menu (Ralf)
+0424D20C 60000000
+0424D244 60000000
+
