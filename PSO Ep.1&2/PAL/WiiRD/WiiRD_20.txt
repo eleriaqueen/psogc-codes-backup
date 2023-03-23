@@ -135,6 +135,9 @@ Extended Dressing Room v1 [Ralf]
 042983DC 60000000
 E2000001 80008000
 
+This code will let you change your character's face, hair, costume,
+skin color, proportion and name (not their section ID)
+
 Extended Dressing Room v2 [Ralf]
 2028E378 7C641B78
 0428E380 4BFFFFCC

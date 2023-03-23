@@ -5830,6 +5830,9 @@ ZHBJ-TBRW-DU501
 T2QW-7YK4-VGUZ1
 K5YY-TVMY-KW4NJ
 
+This code will let you change your character's face, hair, costume,
+skin color, proportion and name (not their section ID)
+
 Extended Dressing Room v2 [Ralf]
 VX06-HEW9-DPGEM
 KW0D-FQFU-R3DM2

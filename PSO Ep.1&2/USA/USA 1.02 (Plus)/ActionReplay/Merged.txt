@@ -4353,6 +4353,9 @@ Extended Dressing Room v1 [Ralf]
 MA8R-PWX5-TY6E2
 5XT4-G057-V5N5B
 
+This code will let you change your character's face, hair, costume,
+skin color, proportion and name (not their section ID)
+
 Extended Dressing Room v2 [Ralf]
 PE5A-XGGE-HW6H9
 DZ1R-DPP6-1G2PQ
