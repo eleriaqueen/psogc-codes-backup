@@ -1,3 +1,3 @@
-# PSOGC-Codes-Backup
-## All Credit Goes to Ralf@gc-forever
-## This is just a backup...
+## All credit goes to:
+- Ralf@gc-forever
+- Aleron Ives
