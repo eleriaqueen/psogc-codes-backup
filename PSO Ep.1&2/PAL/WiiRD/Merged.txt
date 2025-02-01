@@ -22347,3 +22347,24 @@ Keep Shifta Buffs When Healing In Medi Centre [Ralf]
 04014B44 4BFF7EA5
 E2000001 80008000
 
+Disable Deflicker Screen Filter [Ralf]
+20389D38 5463066C
+04389C84 48000068
+E2000001 80008000
+
+Screen Gamma Correction: 1.7 [Ralf]
+20389D38 5463066C
+04387590 38600001
+E2000001 80008000
+
+Screen Gamma Correction Modifier [Ralf]
+20389D38 5463066C
+04387590 386000xx
+E2000001 80008000
+
+xx = Gamma Correction Value ID
+
+00 - Gamma 1.0 (Default)
+01 - Gamma 1.7
+02 - Gamma 2.2
+
