@@ -1,0 +1,20 @@
+Disable Deflicker Screen Filter [Ralf]
+9DNR-Z6YW-GE60H
+7FBJ-PBGJ-NTGEG
+QFZ5-2KH1-7UH4N
+
+Screen Gamma Correction: 1.7 [Ralf]
+874E-64ZA-X6DY2
+7FBJ-PBGJ-NTGEG
+T6EF-NH86-X70D6
+
+Screen Gamma Correction Modifier [Ralf]
+0C38B24C 5463066C
+04388AA4 386000xx
+
+xx = Gamma Correction Value ID
+
+00 - Gamma 1.0 (Default)
+01 - Gamma 1.7
+02 - Gamma 2.2
+
