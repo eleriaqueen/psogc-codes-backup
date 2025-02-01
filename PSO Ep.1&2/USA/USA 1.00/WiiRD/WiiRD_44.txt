@@ -1,0 +1,21 @@
+Disable Deflicker Screen Filter [Ralf]
+20387B08 5463066C
+04387A54 48000068
+E2000001 80008000
+
+Screen Gamma Correction: 1.7 [Ralf]
+20387B08 5463066C
+04385360 38600001
+E2000001 80008000
+
+Screen Gamma Correction Modifier [Ralf]
+20387B08 5463066C
+04385360 386000xx
+E2000001 80008000
+
+xx = Gamma Correction Value ID
+
+00 - Gamma 1.0 (Default)
+01 - Gamma 1.7
+02 - Gamma 2.2
+
