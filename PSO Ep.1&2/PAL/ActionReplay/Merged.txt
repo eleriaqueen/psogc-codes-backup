@@ -13290,3 +13290,7 @@ xx = Gamma Correction Value ID
 01 - Gamma 1.7
 02 - Gamma 2.2
 
+Dropped Item Boxes Elevation Fix v2 (Seabed Deep Water Item Drops) [Ralf]
+6W0A-R9C3-19U52
+G1W8-QNNA-NGMD7
+16ME-D4UX-AKXT8
